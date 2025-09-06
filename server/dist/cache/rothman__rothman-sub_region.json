@@ -208,7 +208,6 @@
                 },
                 "leads_w_appts_set": {
                   "color": "green",
-                  "goal_value": 13,
                   "percent_value": 26.87
                 },
                 "sales_cohort_rank": 15,
@@ -300,6 +299,7 @@
                 "appt_set_cohort_rank": 9,
                 "appt_set_division_rank": 4,
                 "appt_set_national_rank": 67,
+                "appts_kept": {
                   "color": "green",
                   "goal_value": 75,
                   "percent_value": 82.35
