@@ -146,6 +146,7 @@
                   "percent_value": 83.33
                 },
                 "follow_up": {
+                  "color": "green",
                   "goal_value": 80,
                   "percent_value": 100
                 },
@@ -394,3 +395,181 @@
                   "color": "green",
                   "goal_value": 90,
                   "percent_value": 95
+                }
+              },
+              "summary": "38 appointments kept"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Monice Ottiano",
+              "national_rank": 54,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 9,
+                "appt_kept_division_rank": 5,
+                "appt_kept_national_rank": 60,
+                "appt_set_cohort_rank": 9,
+                "appt_set_division_rank": 5,
+                "appt_set_national_rank": 63,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 82.61
+                },
+                "appts_missed": 4,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 87.5
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 6.41
+                },
+                "sales_cohort_rank": 9,
+                "sales_division_rank": 4,
+                "sales_national_rank": 96,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.22
+                }
+              },
+              "summary": "36 appointments kept"
+            },
+            {
+              "cohort_rank": 9,
+              "division_name": "Tucson",
+              "image_url": "",
+              "name": "Michelle Campbell",
+              "national_rank": 66,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 6,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 33,
+                "appt_set_cohort_rank": 6,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 34,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 77.5
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 41.67
+                },
+                "sales_cohort_rank": 16,
+                "sales_division_rank": 3,
+                "sales_national_rank": 178,
+                "total_calls": 3,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "32 appointments kept"
+            },
+            {
+              "cohort_rank": 10,
+              "division_name": "Phoenix",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_debbie_webb_lr_jpg",
+              "name": "Debbie Webb",
+              "national_rank": 67,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 5,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 27,
+                "appt_set_cohort_rank": 7,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 50,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 103.33
+                },
+                "appts_missed": 2,
+                "appts_set": 2,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 88.89
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10.53
+                },
+                "sales_cohort_rank": 8,
+                "sales_division_rank": 3,
+                "sales_national_rank": 54,
+                "total_calls": 15,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "32 appointments kept"
+            }
+          ],
+          "QTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Colorado",
+              "image_url": "",

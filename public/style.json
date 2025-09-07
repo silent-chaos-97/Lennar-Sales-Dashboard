@@ -1,5 +1,6 @@
 {
     "version": 8,
+    "name": "Monochrome LEN",
     "metadata": {
         "mapbox:type": "default",
         "mapbox:origin": "monochrome-dark-v1",
@@ -10,3 +11,9 @@
         },
         "mapbox:autocomposite": true,
         "mapbox:groups": {
+            "Transit, transit-labels": {
+                "name": "Transit, transit-labels",
+                "collapsed": true
+            },
+            "Administrative boundaries, admin": {
+                "name": "Administrative boundaries, admin",
