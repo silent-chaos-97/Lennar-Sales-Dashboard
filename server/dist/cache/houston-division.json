@@ -1269,3 +1269,160 @@
                 },
                 "follow_up": {
                   "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10.77
+                },
+                "sales_cohort_rank": 8,
+                "sales_division_rank": 8,
+                "sales_national_rank": 67,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "104 appointments kept"
+            },
+            {
+              "cohort_rank": 10,
+              "division_name": "Houston",
+              "image_url": "",
+              "name": "Shelby Taylor",
+              "national_rank": 117,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 10,
+                "appt_kept_division_rank": 10,
+                "appt_kept_national_rank": 117,
+                "appt_set_cohort_rank": 11,
+                "appt_set_division_rank": 11,
+                "appt_set_national_rank": 118,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 136.36
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10.34
+                },
+                "sales_cohort_rank": 11,
+                "sales_division_rank": 11,
+                "sales_national_rank": 97,
+                "total_calls": 10,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 91.3
+                }
+              },
+              "summary": "89 appointments kept"
+            },
+            {
+              "cohort_rank": 11,
+              "division_name": "Houston",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_erica_barronlr_jpg",
+              "name": "Erica Barron",
+              "national_rank": 121,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 11,
+                "appt_kept_division_rank": 11,
+                "appt_kept_national_rank": 121,
+                "appt_set_cohort_rank": 10,
+                "appt_set_division_rank": 10,
+                "appt_set_national_rank": 80,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 42.31
+                },
+                "appts_missed": 5,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 90
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "yellow",
+                  "goal_value": 13,
+                  "percent_value": 11.76
+                },
+                "sales_cohort_rank": 10,
+                "sales_division_rank": 10,
+                "sales_national_rank": 81,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 96.15
+                }
+              },
+              "summary": "87 appointments kept"
+            },
+            {
+              "cohort_rank": 12,
+              "division_name": "Houston",
+              "image_url": "",
+              "name": "Lisa Ervine",
+              "national_rank": 152,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 12,
+                "appt_kept_division_rank": 12,
+                "appt_kept_national_rank": 152,
+                "appt_set_cohort_rank": 12,
+                "appt_set_division_rank": 12,
+                "appt_set_national_rank": 130,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 115.79

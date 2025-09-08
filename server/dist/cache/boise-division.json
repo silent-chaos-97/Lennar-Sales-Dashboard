@@ -27,7 +27,6 @@
                 },
                 "appts_missed": 10,
                 "appts_set": 1,
-                "appts_set_percent_change": 0,
                 "beback_with_follow_up": {
                   "color": "green",
                   "goal_value": 90,
@@ -113,3 +112,17 @@
                 "total_texts_percent_change": 0,
                 "trifecta": {
                   "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 66.67
+                }
+              },
+              "summary": "8 appointments kept"
+            }
+          ],
+          "QTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Boise",
+              "image_url": "",
+              "name": "Rebecca Haynes",
+              "national_rank": 144,
