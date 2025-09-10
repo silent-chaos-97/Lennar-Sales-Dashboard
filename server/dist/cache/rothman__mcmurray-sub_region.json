@@ -163,6 +163,7 @@
                 "total_chats": 0,
                 "total_chats_percent_change": 0,
                 "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
                 "total_sales": 0,
                 "total_texts": 0,
                 "total_texts_percent_change": 0,
@@ -1012,7 +1013,6 @@
                   "color": "green",
                   "goal_value": 90,
                   "percent_value": 97.92
-                }
               },
               "summary": "132 appointments kept"
             },
