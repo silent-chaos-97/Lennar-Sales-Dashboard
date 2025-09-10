@@ -38,6 +38,7 @@ class SnowflakeService {
                     console.error('Error connecting to Snowflake:', err);
                     return reject(err);
                 }
+// Temp comment
                 connection.execute({
                     sqlText: sql,
                     complete: (err, stmt, rows) => {
@@ -101,6 +102,7 @@ class SnowflakeService {
         });
     }
     getCohortData(cohort, cohort_type) {
+        const result = {};
         let statIdx = 0;
         const statsKeys = [
             'leaderboards',

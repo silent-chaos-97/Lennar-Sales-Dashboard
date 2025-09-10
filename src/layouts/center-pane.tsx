@@ -1,3 +1,7 @@
 import { useState, useRef, useMemo } from 'react'
 import { Marker, MapRef } from 'react-map-gl'
 import Box from '@mui/material/Box'
+import Sales from '@/components/wrappers/sales'
+import SalesDetails from '@/components/wrappers/sales/detail'
+import Fade from '@mui/material/Fade'
+import { useAppState } from '@/contexts/StateContext'
