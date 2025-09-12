@@ -368,7 +368,6 @@
                   "color": "green",
                   "goal_value": 90,
                   "percent_value": 100
-                },
                 "follow_up": {
                   "color": "green",
                   "goal_value": 80,
@@ -1177,3 +1176,86 @@
                 "total_chats_texts": 0,
                 "total_chats_texts_percent_change": 0,
                 "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "14 appointments kept"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Palm Atlantic",
+              "image_url": "",
+              "name": "Alicia Simmons",
+              "national_rank": 40,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 30,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 42,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 74.42
+                },
+                "appts_missed": 3,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 88.24
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 16.3
+                },
+                "sales_cohort_rank": 9,
+                "sales_division_rank": 3,
+                "sales_national_rank": 138,
+                "total_calls": 29,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 98.08
+                }
+              },
+              "summary": "10 appointments kept"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Palm Atlantic",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_laura_spencelr_jpg",
+              "name": "Laura Spence",
+              "national_rank": 41,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 67,
+                "appt_set_cohort_rank": 4,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 79,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 103.45

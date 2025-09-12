@@ -2040,7 +2040,6 @@
               "pop_out_details": {
                 "appt_kept_cohort_rank": 27,
                 "appt_kept_division_rank": 2,
-                "appt_kept_national_rank": 80,
                 "appt_set_cohort_rank": 26,
                 "appt_set_division_rank": 2,
                 "appt_set_national_rank": 85,
@@ -3517,3 +3516,251 @@
                 "appts_set": 2,
                 "appts_set_percent_change": 0,
                 "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 27.27
+                },
+                "sales_cohort_rank": 18,
+                "sales_division_rank": 4,
+                "sales_national_rank": 51,
+                "total_calls": 3,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% bebacks with followup"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Philly Metro",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_barbara_jardellr_jpg",
+              "name": "Barbara Jardel",
+              "national_rank": 9,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 40,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 114,
+                "appt_set_cohort_rank": 32,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 96,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 77.14
+                },
+                "appts_missed": 5,
+                "appts_set": 3,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 16.28
+                },
+                "sales_cohort_rank": 46,
+                "sales_division_rank": 4,
+                "sales_national_rank": 172,
+                "total_calls": 21,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% bebacks with followup"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Coastal Carolinas",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_erica_arner_lr_jpg",
+              "name": "Erica Arner",
+              "national_rank": 10,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 14,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 47,
+                "appt_set_cohort_rank": 18,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 60,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 92.86
+                },
+                "appts_missed": 3,
+                "appts_set": 2,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "yellow",
+                  "goal_value": 13,
+                  "percent_value": 12.33
+                },
+                "sales_cohort_rank": 13,
+                "sales_division_rank": 3,
+                "sales_national_rank": 36,
+                "total_calls": 19,
+                "total_calls_percent_change": 0,
+                "total_chats": 2,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 2,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% bebacks with followup"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "NJ / NY",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_katy_gregorlr_jpg",
+              "name": "Katy Gregor",
+              "national_rank": 12,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 21,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 64,
+                "appt_set_cohort_rank": 24,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 82,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 75.68
+                },
+                "appts_missed": 2,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 16.48
+                },
+                "sales_cohort_rank": 14,
+                "sales_division_rank": 2,
+                "sales_national_rank": 122,
+                "total_calls": 34,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% bebacks with followup"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Orlando",
+              "image_url": "",
+              "name": "Kenia Muniz",
+              "national_rank": 14,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 22,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 65,
+                "appt_set_cohort_rank": 14,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 46,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 83.33
+                },
+                "appts_missed": 4,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 17.33
+                },
+                "sales_cohort_rank": 43,
+                "sales_division_rank": 3,
+                "sales_national_rank": 120,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,

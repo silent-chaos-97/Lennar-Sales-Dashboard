@@ -1013,6 +1013,7 @@
                   "color": "green",
                   "goal_value": 90,
                   "percent_value": 97.92
+                }
               },
               "summary": "132 appointments kept"
             },
@@ -1424,3 +1425,103 @@
                 "appt_set_division_rank": 7,
                 "appt_set_national_rank": 75,
                 "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 82.61
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 66.67
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 20.37
+                },
+                "sales_cohort_rank": 12,
+                "sales_division_rank": 5,
+                "sales_national_rank": 68,
+                "total_calls": 1,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.92
+                }
+              },
+              "summary": "11 appointments kept"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Tampa",
+              "image_url": "",
+              "name": "Angie Aleman",
+              "national_rank": 43,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 14,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 22,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 71.43
+                },
+                "appts_missed": 5,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.83
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 13.92
+                },
+                "sales_cohort_rank": 2,
+                "sales_division_rank": 1,
+                "sales_national_rank": 22,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 96.88
+                }
+              },
+              "summary": "10 appointments kept"
+            },
+            {
+              "cohort_rank": 8,

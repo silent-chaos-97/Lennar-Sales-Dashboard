@@ -23,6 +23,7 @@ import { Alert, Typography } from '@mui/material'
 import WarningRoundIcon from '@mui/icons-material/WarningRounded'
 import { HTTP_STATUS_CODES } from '@/utils/constant'
 
+const Wrapper = styled('header')(({ theme }) => ({
   height: 104,
   display: 'flex',
   background: theme.palette.background.secondary,

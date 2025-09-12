@@ -27,7 +27,6 @@
                 },
                 "appts_missed": 3,
                 "appts_set": 0,
-                "appts_set_percent_change": 0,
                 "beback_with_follow_up": {
                   "color": "red",
                   "goal_value": 90,
@@ -501,3 +500,39 @@
                 "total_calls": 0,
                 "total_calls_percent_change": 0,
                 "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 0
+                }
+              },
+              "summary": "0 appointments kept"
+            }
+          ]
+        },
+        "appointments_set": {
+          "MTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Mid Florida",
+              "image_url": "",
+              "name": "Jen Pavlas",
+              "national_rank": 177,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 194,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 177,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 80
+                },

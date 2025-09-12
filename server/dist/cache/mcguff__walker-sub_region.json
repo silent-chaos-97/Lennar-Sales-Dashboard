@@ -1550,6 +1550,7 @@
                   "percent_value": 100
                 },
                 "follow_up": {
+                  "color": "red",
                   "goal_value": 80,
                   "percent_value": 0
                 },
@@ -1613,3 +1614,117 @@
                   "color": "red",
                   "goal_value": 13,
                   "percent_value": 10.53
+                },
+                "sales_cohort_rank": 8,
+                "sales_division_rank": 3,
+                "sales_national_rank": 54,
+                "total_calls": 15,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "5 appointments kept"
+            },
+            {
+              "cohort_rank": 10,
+              "division_name": "Utah",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_andra_killianlr_jpg",
+              "name": "Andra Killian",
+              "national_rank": 114,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 14,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 190,
+                "appt_set_cohort_rank": 15,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 187,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 66.67
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 92.86
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "yellow",
+                  "goal_value": 13,
+                  "percent_value": 12.77
+                },
+                "sales_cohort_rank": 15,
+                "sales_division_rank": 3,
+                "sales_national_rank": 190,
+                "total_calls": 7,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.06
+                }
+              },
+              "summary": "5 appointments kept"
+            }
+          ]
+        },
+        "appointments_set": {
+          "MTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Colorado",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ryan_goldhammerlr_jpg",
+              "name": "Ryan Goldhammer",
+              "national_rank": 4,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 5,
+                "appt_set_cohort_rank": 2,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 8,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 90.57
+                },
+                "appts_missed": 5,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",

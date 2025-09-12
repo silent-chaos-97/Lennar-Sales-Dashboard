@@ -545,7 +545,6 @@
                 "leads_w_appts_set": {
                   "color": "yellow",
                   "goal_value": 13,
-                  "percent_value": 12.07
                 },
                 "sales_cohort_rank": 7,
                 "sales_division_rank": 2,
@@ -2002,3 +2001,144 @@
                   "percent_value": 80
                 },
                 "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 21.21
+                },
+                "sales_cohort_rank": 2,
+                "sales_division_rank": 2,
+                "sales_national_rank": 26,
+                "total_calls": 32,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 57.14
+                }
+              },
+              "summary": "49 appointments"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Central Valley",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jason_mcnally_lr_jpg",
+              "name": "Jason McNally",
+              "national_rank": 60,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 14,
+                "appt_kept_division_rank": 5,
+                "appt_kept_national_rank": 105,
+                "appt_set_cohort_rank": 14,
+                "appt_set_division_rank": 5,
+                "appt_set_national_rank": 126,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 78.13
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 94.44
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 14.29
+                },
+                "sales_cohort_rank": 13,
+                "sales_division_rank": 2,
+                "sales_national_rank": 109,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 73.08
+                }
+              },
+              "summary": "44 appointments"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Central Valley",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_chris_trigg_lr_jpg",
+              "name": "Christopher Trigg",
+              "national_rank": 65,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 10,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 37,
+                "appt_set_cohort_rank": 11,
+                "appt_set_division_rank": 4,
+                "appt_set_national_rank": 79,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 100
+                },
+                "appts_missed": 0,
+                "appts_set": 2,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 82.76
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 9.4
+                },
+                "sales_cohort_rank": 12,
+                "sales_division_rank": 1,
+                "sales_national_rank": 92,
+                "total_calls": 25,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 92.5
+                }
+              },
+              "summary": "43 appointments"
+            },
