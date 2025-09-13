@@ -1,3 +1,6 @@
 import { createContext, PropsWithChildren, useContext, useEffect, useMemo, useState } from 'react'
 import { fetchRegions, fetchChartData, fetchMetrics } from './Api'
 import { LeaderboardsState } from '@/types/leaderboards'
+import { IscPerformanceState } from '@/types/performance'
+import { CurrentActivityState } from '@/types/current_activity'
+import { PacingState } from '@/types/pacing'

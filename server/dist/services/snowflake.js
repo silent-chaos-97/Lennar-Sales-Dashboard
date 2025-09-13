@@ -34,6 +34,7 @@ class SnowflakeService {
         const connection = this.createConnection();
         return new Promise((resolve, reject) => {
             connection.connect((err) => {
+                if (err) {
                     console.error('Error connecting to Snowflake:', err);
                     return reject(err);
                 }

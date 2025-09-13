@@ -1598,7 +1598,6 @@
                 "appt_set_cohort_rank": 5,
                 "appt_set_division_rank": 5,
                 "appt_set_national_rank": 176,
-                "appts_kept": {
                   "color": "yellow",
                   "goal_value": 75,
                   "percent_value": 70.59
@@ -1911,3 +1910,604 @@
                 "total_chats": 0,
                 "total_chats_percent_change": 0,
                 "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "3 appointments"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Sacramento",
+              "image_url": "",
+              "name": "Joshua Weatherspoon",
+              "national_rank": 201,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 5,
+                "appt_kept_division_rank": 5,
+                "appt_kept_national_rank": 169,
+                "appt_set_cohort_rank": 5,
+                "appt_set_division_rank": 5,
+                "appt_set_national_rank": 176,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 70.59
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 7.21
+                },
+                "sales_cohort_rank": 5,
+                "sales_division_rank": 5,
+                "sales_national_rank": 75,
+                "total_calls": 1,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "2 appointments"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Sacramento",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_elline_filcher_lr_jpg",
+              "name": "Elline Filcher",
+              "national_rank": 202,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 112,
+                "appt_set_cohort_rank": 2,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 121,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 70
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10
+                },
+                "sales_cohort_rank": 3,
+                "sales_division_rank": 3,
+                "sales_national_rank": 49,
+                "total_calls": 7,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "1 appointment"
+            }
+          ]
+        },
+        "bebacks_with_followup": {
+          "MTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Sacramento",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_brandon_hall_2_lr_jpg",
+              "name": "Brandon Hall",
+              "national_rank": 35,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 4,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 161,
+                "appt_set_cohort_rank": 4,
+                "appt_set_division_rank": 4,
+                "appt_set_national_rank": 159,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 100
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 4.35
+                },
+                "sales_cohort_rank": 2,
+                "sales_division_rank": 2,
+                "sales_national_rank": 40,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% bebacks with followup"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Sacramento",
+              "image_url": "",
+              "name": "Joshua Weatherspoon",
+              "national_rank": 51,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 5,
+                "appt_kept_division_rank": 5,
+                "appt_kept_national_rank": 169,
+                "appt_set_cohort_rank": 5,
+                "appt_set_division_rank": 5,
+                "appt_set_national_rank": 176,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 70.59
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 7.21
+                },
+                "sales_cohort_rank": 5,
+                "sales_division_rank": 5,
+                "sales_national_rank": 75,
+                "total_calls": 1,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% bebacks with followup"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Sacramento",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/1532_lennar_jake_plaskonlr_jpg",
+              "name": "Jake Plaskon",
+              "national_rank": 62,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 6,
+                "appt_kept_division_rank": 6,
+                "appt_kept_national_rank": 184,
+                "appt_set_cohort_rank": 6,
+                "appt_set_division_rank": 6,
+                "appt_set_national_rank": 181,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 112.5
+                },
+                "appts_missed": 0,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 6.67
+                },
+                "sales_cohort_rank": 6,
+                "sales_division_rank": 6,
+                "sales_national_rank": 143,
+                "total_calls": 6,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% bebacks with followup"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Sacramento",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_elline_filcher_lr_jpg",
+              "name": "Elline Filcher",
+              "national_rank": 76,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 112,
+                "appt_set_cohort_rank": 2,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 121,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 70
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10
+                },
+                "sales_cohort_rank": 3,
+                "sales_division_rank": 3,
+                "sales_national_rank": 49,
+                "total_calls": 7,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "98.31% bebacks with followup"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Sacramento",
+              "image_url": "",
+              "name": "Breanna Evans",
+              "national_rank": 85,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 53,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 60,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 84.85
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10.64
+                },
+                "sales_cohort_rank": 1,
+                "sales_division_rank": 1,
+                "sales_national_rank": 2,
+                "total_calls": 9,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "97.33% bebacks with followup"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Sacramento",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_danielle_koski_lr_jpg",
+              "name": "Danielle Koski",
+              "national_rank": 103,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 131,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 145,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 78.95
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 4.26
+                },
+                "sales_cohort_rank": 4,
+                "sales_division_rank": 4,
+                "sales_national_rank": 45,
+                "total_calls": 8,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "96.15% bebacks with followup"
+            }
+          ],
+          "QTD": [
+            {
+              "cohort_rank": 5,
+              "division_name": "Sacramento",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/1532_lennar_jake_plaskonlr_jpg",
+              "name": "Jake Plaskon",
+              "national_rank": 94,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 6,
+                "appt_kept_division_rank": 6,
+                "appt_kept_national_rank": 184,
+                "appt_set_cohort_rank": 6,
+                "appt_set_division_rank": 6,
+                "appt_set_national_rank": 181,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 112.5
+                },
+                "appts_missed": 0,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 6.67
+                },
+                "sales_cohort_rank": 6,
+                "sales_division_rank": 6,
+                "sales_national_rank": 143,
+                "total_calls": 6,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Sacramento",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_danielle_koski_lr_jpg",
+              "name": "Danielle Koski",
+              "national_rank": 72,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 131,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 145,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 78.95
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 4.26
+                },
+                "sales_cohort_rank": 4,
+                "sales_division_rank": 4,
+                "sales_national_rank": 45,
+                "total_calls": 8,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Sacramento",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_brandon_hall_2_lr_jpg",
+              "name": "Brandon Hall",
+              "national_rank": 81,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 4,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 161,
+                "appt_set_cohort_rank": 4,
+                "appt_set_division_rank": 4,
+                "appt_set_national_rank": 159,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 100
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",

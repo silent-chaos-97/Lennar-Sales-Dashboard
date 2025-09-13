@@ -923,7 +923,6 @@
                   "goal_value": 75,
                   "percent_value": 94.74
                 },
-                "appts_missed": 0,
                 "appts_set": 0,
                 "appts_set_percent_change": 0,
                 "beback_with_follow_up": {
@@ -1728,3 +1727,546 @@
                 },
                 "leads_w_appts_set": {
                   "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 20.29
+                },
+                "sales_cohort_rank": 4,
+                "sales_division_rank": 4,
+                "sales_national_rank": 21,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 98
+                }
+              },
+              "summary": "93 appointments"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Rhonda Lostumo",
+              "national_rank": 5,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 12,
+                "appt_set_cohort_rank": 4,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 19,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 89.47
+                },
+                "appts_missed": 5,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 16.84
+                },
+                "sales_cohort_rank": 6,
+                "sales_division_rank": 1,
+                "sales_national_rank": 35,
+                "total_calls": 19,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "84 appointments"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Elyse Snitzer",
+              "national_rank": 10,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 4,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 13,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 17,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 69.39
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95.65
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 19.35
+                },
+                "sales_cohort_rank": 7,
+                "sales_division_rank": 2,
+                "sales_national_rank": 42,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.5
+                }
+              },
+              "summary": "74 appointments"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Colorado",
+              "image_url": "",
+              "name": "Sam Litzau",
+              "national_rank": 28,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 10,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 71,
+                "appt_set_cohort_rank": 10,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 66,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 93.1
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 84.62
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 25
+                },
+                "sales_cohort_rank": 3,
+                "sales_division_rank": 3,
+                "sales_national_rank": 17,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 96.88
+                }
+              },
+              "summary": "56 appointments"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Colorado",
+              "image_url": "",
+              "name": "Nicole Kois",
+              "national_rank": 44,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 4,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 7,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 79.17
+                },
+                "appts_missed": 1,
+                "appts_set": 3,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 83.33
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 24.07
+                },
+                "sales_cohort_rank": 1,
+                "sales_division_rank": 1,
+                "sales_national_rank": 6,
+                "total_calls": 25,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 94.44
+                }
+              },
+              "summary": "51 appointments"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Tucson",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_victoria_joverlr_jpg",
+              "name": "Victoria Jover",
+              "national_rank": 52,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 7,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 38,
+                "appt_set_cohort_rank": 5,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 33,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 94.74
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 87.5
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 22.86
+                },
+                "sales_cohort_rank": 13,
+                "sales_division_rank": 1,
+                "sales_national_rank": 137,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95
+                }
+              },
+              "summary": "48 appointments"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Tucson",
+              "image_url": "",
+              "name": "Michelle Campbell",
+              "national_rank": 62,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 6,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 33,
+                "appt_set_cohort_rank": 6,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 34,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 77.5
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 41.67
+                },
+                "sales_cohort_rank": 16,
+                "sales_division_rank": 3,
+                "sales_national_rank": 178,
+                "total_calls": 3,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "44 appointments"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Monice Ottiano",
+              "national_rank": 74,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 9,
+                "appt_kept_division_rank": 5,
+                "appt_kept_national_rank": 60,
+                "appt_set_cohort_rank": 9,
+                "appt_set_division_rank": 5,
+                "appt_set_national_rank": 63,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 82.61
+                },
+                "appts_missed": 4,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 87.5
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 6.41
+                },
+                "sales_cohort_rank": 9,
+                "sales_division_rank": 4,
+                "sales_national_rank": 96,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.22
+                }
+              },
+              "summary": "40 appointments"
+            },
+            {
+              "cohort_rank": 9,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Peggy Wagner",
+              "national_rank": 75,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 8,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 55,
+                "appt_set_cohort_rank": 7,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 51,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 64.71
+                },
+                "appts_missed": 6,
+                "appts_set": 3,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "yellow",
+                  "goal_value": 13,
+                  "percent_value": 12
+                },
+                "sales_cohort_rank": 11,
+                "sales_division_rank": 5,
+                "sales_national_rank": 121,
+                "total_calls": 13,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "40 appointments"
+            },
+            {
+              "cohort_rank": 10,
+              "division_name": "Phoenix",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_debbie_webb_lr_jpg",
+              "name": "Debbie Webb",
+              "national_rank": 78,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 5,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 27,
+                "appt_set_cohort_rank": 7,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 50,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 103.33
+                },
+                "appts_missed": 2,
+                "appts_set": 2,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 88.89
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10.53
+                },
+                "sales_cohort_rank": 8,
+                "sales_division_rank": 3,
+                "sales_national_rank": 54,
+                "total_calls": 15,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "39 appointments"
+            }
+          ],
+          "QTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Colorado",
+              "image_url": "",
+              "name": "Nicole Kois",
+              "national_rank": 7,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 4,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 7,
+                "appts_kept": {

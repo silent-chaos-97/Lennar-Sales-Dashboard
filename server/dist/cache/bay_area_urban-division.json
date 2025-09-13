@@ -11,6 +11,7 @@
           "color": "red",
           "goal_value": 90,
           "percent_value": 0
+        },
         "INBOUND_CHATS_ANSWERED": {
           "color": "red",
           "goal_value": 90,
@@ -24,3 +25,14 @@
         "APPOINTMENTS_KEPT": {
           "color": "red",
           "goal_value": 75,
+          "missed": 0,
+          "percent_value": 0
+        },
+        "SALES_WITH_ISC_ATTACHED": {
+          "color": "red",
+          "goal_value": 75,
+          "percent_value": 0
+        },
+        "LEADS_WITH_TRIFECTA": {
+          "color": "red",
+          "goal_value": 90,

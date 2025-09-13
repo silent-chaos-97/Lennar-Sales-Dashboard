@@ -2,3 +2,5 @@
 // @ts-nocheck
 import snowflake, { ConnectionOptions } from 'snowflake-sdk'
 import { Cohort } from '../types/cohort'
+
+if (
