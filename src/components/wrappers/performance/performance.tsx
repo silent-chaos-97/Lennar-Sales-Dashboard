@@ -1,5 +1,6 @@
 import { useState } from 'react'
-import Section from '@/components/common/Section/Section'
 import Grid from '@mui/material/Grid'
 import Box from '@mui/material/Box'
+import Typography from '@mui/material/Typography'
 import Stack from '@mui/material/Stack'
+import { ResponsiveRadialBar } from '@nivo/radial-bar'

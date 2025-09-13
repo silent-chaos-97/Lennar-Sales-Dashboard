@@ -49,7 +49,6 @@
             "Road network, surface": {
                 "name": "Road network, surface",
                 "collapsed": true
-            },
             "Walking, cycling, etc., barriers-bridges": {
                 "name": "Walking, cycling, etc., barriers-bridges",
                 "collapsed": true
@@ -73,3 +72,15 @@
             "Transit, built": {"name": "Transit, built", "collapsed": true},
             "Land & water, water": {
                 "name": "Land & water, water",
+                "collapsed": true
+            }
+        },
+        "mapbox:uiParadigm": "components",
+        "mapbox:decompiler": {
+            "id": "clgwbjm2600hf01pf3d53a1hf",
+            "componentVersion": "16.0.0",
+            "strata": [
+                {
+                    "id": "monochrome-dark-v1",
+                    "order": [
+                        ["land-and-water", "land"],

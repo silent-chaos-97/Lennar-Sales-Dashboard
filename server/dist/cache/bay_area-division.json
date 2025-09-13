@@ -1653,3 +1653,281 @@
                 "appt_set_division_rank": 2,
                 "appt_set_national_rank": 38,
                 "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 21.43
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 57.14
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 42.86
+                },
+                "sales_cohort_rank": 4,
+                "sales_division_rank": 4,
+                "sales_national_rank": 194,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "34 appointments"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Bay Area",
+              "image_url": "",
+              "name": "Waheeda Fazel",
+              "national_rank": 116,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 91,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 54,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 55.56
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 87.1
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 20.59
+                },
+                "sales_cohort_rank": 1,
+                "sales_division_rank": 1,
+                "sales_national_rank": 90,
+                "total_calls": 1,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "32 appointments"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Bay Area",
+              "image_url": "",
+              "name": "Sheena Luu",
+              "national_rank": 151,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 7,
+                "appt_kept_division_rank": 7,
+                "appt_kept_national_rank": 188,
+                "appt_set_cohort_rank": 7,
+                "appt_set_division_rank": 7,
+                "appt_set_national_rank": 158,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 86.67
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 33.33
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 28.57
+                },
+                "sales_cohort_rank": 6,
+                "sales_division_rank": 6,
+                "sales_national_rank": 208,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "26 appointments"
+            }
+          ],
+          "QTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Bay Area",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_athena_abbottlr_jpg",
+              "name": "Athena Abbott",
+              "national_rank": 4,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 62,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 4,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 50
+                },
+                "appts_missed": 3,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 42.86
+                },
+                "sales_cohort_rank": 5,
+                "sales_division_rank": 5,
+                "sales_national_rank": 182,
+                "total_calls": 3,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 91.67
+                }
+              },
+              "summary": "282 appointments"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Bay Area",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_karla_salazarlr_jpg",
+              "name": "Karla Salazar",
+              "national_rank": 38,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 103,
+                "appt_set_cohort_rank": 2,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 38,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 21.43
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 57.14
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 42.86
+                },
+                "sales_cohort_rank": 4,
+                "sales_division_rank": 4,
+                "sales_national_rank": 194,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "188 appointments"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Bay Area",
+              "image_url": "",
+              "name": "Waheeda Fazel",
+              "national_rank": 54,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 91,

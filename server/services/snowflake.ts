@@ -4,3 +4,4 @@ import snowflake, { ConnectionOptions } from 'snowflake-sdk'
 import { Cohort } from '../types/cohort'
 
 if (
+  !process.env.SNOWFLAKE_ACCOUNT ||
