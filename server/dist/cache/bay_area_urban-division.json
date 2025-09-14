@@ -11,6 +11,7 @@
           "color": "red",
           "goal_value": 90,
           "percent_value": 0
+        },
         "INBOUND_CHATS_ANSWERED": {
           "color": "red",
           "goal_value": 90,
@@ -43,3 +44,6 @@
           "percent_value": 0
         },
         "BEBACKS_WITH_FOLLOWUP": {
+          "color": "red",
+          "goal_value": 90,
+          "percent_value": 0
