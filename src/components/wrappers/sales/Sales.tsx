@@ -1,4 +1,5 @@
 import Box from '@mui/material/Box'
 import Stack from '@mui/material/Stack'
 import { styled } from '@mui/material/styles'
-import Section from '@/components/common/Section/Section'
+import DailyAnalyticsBox from '@/components/daily-analytics-box'
+import { Typography } from '@mui/material'

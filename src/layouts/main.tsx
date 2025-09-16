@@ -1,6 +1,6 @@
 import { styled } from '@mui/material/styles'
 import LeftPane from './left-pane'
 import CenterPane from './center-pane'
-import RightPane from './right-pane'
 import Header from '@/components/common/Header'
 import { useResizeDetector } from 'react-resize-detector'
+import { useCallback, useEffect, useRef, useState } from 'react'

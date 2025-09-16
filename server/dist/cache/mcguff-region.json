@@ -782,7 +782,6 @@
                 "total_chats_percent_change": 0,
                 "total_chats_texts": 0,
                 "total_chats_texts_percent_change": 0,
-                "total_sales": 0,
                 "total_texts": 0,
                 "total_texts_percent_change": 0,
                 "trifecta": {
@@ -1645,6 +1644,7 @@
                 "appt_kept_cohort_rank": 12,
                 "appt_kept_division_rank": 2,
                 "appt_kept_national_rank": 20,
+                "appt_set_cohort_rank": 14,
                 "appt_set_division_rank": 1,
                 "appt_set_national_rank": 35,
                 "appts_kept": {
@@ -7301,3 +7301,1511 @@
                 "sales_cohort_rank": 39,
                 "sales_division_rank": 1,
                 "sales_national_rank": 92,
+                "total_calls": 8,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 89.19
+                }
+              },
+              "summary": "3 chats & texts"
+            }
+          ],
+          "QTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "San Diego",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_corissa_troupin_lr_jpg",
+              "name": "Corissa Troupin",
+              "national_rank": 1,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 9,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 17,
+                "appt_set_cohort_rank": 11,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 27,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 109.09
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 4.76
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 25
+                },
+                "leads_w_appts_set": {
+                  "color": "yellow",
+                  "goal_value": 13,
+                  "percent_value": 12.07
+                },
+                "sales_cohort_rank": 18,
+                "sales_division_rank": 2,
+                "sales_national_rank": 100,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.73
+                }
+              },
+              "summary": "58 chats & texts"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Inland",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_melissa_arredondolr_jpg",
+              "name": "Melissa Arredondo",
+              "national_rank": 4,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 36,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 108,
+                "appt_set_cohort_rank": 33,
+                "appt_set_division_rank": 4,
+                "appt_set_national_rank": 88,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 69.57
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10.81
+                },
+                "sales_cohort_rank": 49,
+                "sales_division_rank": 4,
+                "sales_national_rank": 179,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "45 chats & texts"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "San Diego",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_diana_leizart_lr_jpg",
+              "name": "Diana Lieziert",
+              "national_rank": 6,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 1,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 1,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 85.37
+                },
+                "appts_missed": 8,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 2.94
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 25.81
+                },
+                "sales_cohort_rank": 13,
+                "sales_division_rank": 1,
+                "sales_national_rank": 113,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 20.51
+                }
+              },
+              "summary": "41 chats & texts"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "San Diego",
+              "image_url": "",
+              "name": "Breana Cole",
+              "national_rank": 11,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 5,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 7,
+                "appt_set_cohort_rank": 6,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 13,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 83.67
+                },
+                "appts_missed": 4,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 15.38
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 21.05
+                },
+                "sales_cohort_rank": 20,
+                "sales_division_rank": 3,
+                "sales_national_rank": 136,
+                "total_calls": 2,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 75.47
+                }
+              },
+              "summary": "35 chats & texts"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Cal Coastal",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_briana_irelandlr_jpg",
+              "name": "Briana Ireland",
+              "national_rank": 13,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 10,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 18,
+                "appt_set_cohort_rank": 10,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 23,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 80
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 80
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 21.21
+                },
+                "sales_cohort_rank": 3,
+                "sales_division_rank": 2,
+                "sales_national_rank": 26,
+                "total_calls": 20,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 57.14
+                }
+              },
+              "summary": "31 chats & texts"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Las Vegas",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_amber_collinslr_jpg",
+              "name": "Amber Collins",
+              "national_rank": 14,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 35,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 106,
+                "appt_set_cohort_rank": 43,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 140,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 100
+                },
+                "appts_missed": 6,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 88.46
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 4.12
+                },
+                "sales_cohort_rank": 10,
+                "sales_division_rank": 1,
+                "sales_national_rank": 20,
+                "total_calls": 3,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 92.31
+                }
+              },
+              "summary": "31 chats & texts"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Cal Coastal",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_megan_parham_lr_jpg",
+              "name": "Megan Parham",
+              "national_rank": 16,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 32,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 100,
+                "appt_set_cohort_rank": 35,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 105,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 95.45
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 78.57
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 5.29
+                },
+                "sales_cohort_rank": 4,
+                "sales_division_rank": 3,
+                "sales_national_rank": 56,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 71.92
+                }
+              },
+              "summary": "27 chats & texts"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Colorado",
+              "image_url": "",
+              "name": "Nicole Kois",
+              "national_rank": 18,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 4,
+                "appt_set_cohort_rank": 4,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 7,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 79.17
+                },
+                "appts_missed": 1,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 83.33
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 24.07
+                },
+                "sales_cohort_rank": 5,
+                "sales_division_rank": 1,
+                "sales_national_rank": 6,
+                "total_calls": 20,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 91.67
+                }
+              },
+              "summary": "22 chats & texts"
+            },
+            {
+              "cohort_rank": 9,
+              "division_name": "Cal Coastal",
+              "image_url": "",
+              "name": "Diana Maldonado",
+              "national_rank": 19,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 20,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 41,
+                "appt_set_cohort_rank": 17,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 39,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 0
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 80
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 0
+                },
+                "sales_cohort_rank": 2,
+                "sales_division_rank": 1,
+                "sales_national_rank": 14,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 0
+                }
+              },
+              "summary": "22 chats & texts"
+            },
+            {
+              "cohort_rank": 10,
+              "division_name": "Cal Coastal",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_brandon_desmyterlr_jpg",
+              "name": "Brandon DeSmyter",
+              "national_rank": 20,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 51,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 175,
+                "appt_set_cohort_rank": 50,
+                "appt_set_division_rank": 4,
+                "appt_set_national_rank": 165,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 72.73
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 55.56
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 4.17
+                },
+                "sales_cohort_rank": 44,
+                "sales_division_rank": 5,
+                "sales_national_rank": 189,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 69.57
+                }
+              },
+              "summary": "21 chats & texts"
+            }
+          ],
+          "WTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "San Diego",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_diana_leizart_lr_jpg",
+              "name": "Diana Lieziert",
+              "national_rank": 4,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 1,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 1,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 85.37
+                },
+                "appts_missed": 8,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 2.94
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 25.81
+                },
+                "sales_cohort_rank": 13,
+                "sales_division_rank": 1,
+                "sales_national_rank": 113,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 20.51
+                }
+              },
+              "summary": "2 chats & texts"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Central Valley",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_chris_trigg_lr_jpg",
+              "name": "Christopher Trigg",
+              "national_rank": 7,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 18,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 37,
+                "appt_set_cohort_rank": 31,
+                "appt_set_division_rank": 4,
+                "appt_set_national_rank": 81,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 100
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 82.76
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 9.01
+                },
+                "sales_cohort_rank": 39,
+                "sales_division_rank": 1,
+                "sales_national_rank": 92,
+                "total_calls": 8,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 89.19
+                }
+              },
+              "summary": "2 chats & texts"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Las Vegas",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_amber_collinslr_jpg",
+              "name": "Amber Collins",
+              "national_rank": 8,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 35,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 106,
+                "appt_set_cohort_rank": 43,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 140,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 100
+                },
+                "appts_missed": 6,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 88.46
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 4.12
+                },
+                "sales_cohort_rank": 10,
+                "sales_division_rank": 1,
+                "sales_national_rank": 20,
+                "total_calls": 3,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 92.31
+                }
+              },
+              "summary": "2 chats & texts"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Inland",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/jaycee_headshot_jpg",
+              "name": "Jaycee Chavez",
+              "national_rank": 10,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 23,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 51,
+                "appt_set_cohort_rank": 23,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 59,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 96
+                },
+                "appts_missed": 6,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 86.67
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 11.24
+                },
+                "sales_cohort_rank": 25,
+                "sales_division_rank": 1,
+                "sales_national_rank": 60,
+                "total_calls": 15,
+                "total_calls_percent_change": 0,
+                "total_chats": 1,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 1,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "2 chats & texts"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Cal Coastal",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_megan_parham_lr_jpg",
+              "name": "Megan Parham",
+              "national_rank": 13,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 32,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 100,
+                "appt_set_cohort_rank": 35,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 105,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 95.45
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 78.57
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 5.29
+                },
+                "sales_cohort_rank": 4,
+                "sales_division_rank": 3,
+                "sales_national_rank": 56,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 71.92
+                }
+              },
+              "summary": "2 chats & texts"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Colorado",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ryan_goldhammerlr_jpg",
+              "name": "Ryan Goldhammer",
+              "national_rank": 14,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 4,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 5,
+                "appt_set_cohort_rank": 5,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 8,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 90.57
+                },
+                "appts_missed": 5,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 19.44
+                },
+                "sales_cohort_rank": 12,
+                "sales_division_rank": 4,
+                "sales_national_rank": 21,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 96.15
+                }
+              },
+              "summary": "1 chat/text"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Elyse Snitzer",
+              "national_rank": 16,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 8,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 13,
+                "appt_set_cohort_rank": 8,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 17,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 69.39
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95.65
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 20.43
+                },
+                "sales_cohort_rank": 26,
+                "sales_division_rank": 2,
+                "sales_national_rank": 40,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "1 chat/text"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Seattle",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_callie_gauderault_lr_jpg",
+              "name": "Callie Gaudreault",
+              "national_rank": 18,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 2,
+                "appt_set_cohort_rank": 2,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 2,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 71.74
+                },
+                "appts_missed": 10,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 58.33
+                },
+                "sales_cohort_rank": 6,
+                "sales_division_rank": 1,
+                "sales_national_rank": 8,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "1 chat/text"
+            },
+            {
+              "cohort_rank": 9,
+              "division_name": "Colorado",
+              "image_url": "",
+              "name": "Sam Litzau",
+              "national_rank": 20,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 29,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 71,
+                "appt_set_cohort_rank": 27,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 66,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 93.1
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 84.62
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 25
+                },
+                "sales_cohort_rank": 9,
+                "sales_division_rank": 3,
+                "sales_national_rank": 17,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 96.88
+                }
+              },
+              "summary": "1 chat/text"
+            },
+            {
+              "cohort_rank": 10,
+              "division_name": "San Diego",
+              "image_url": "",
+              "name": "Erin Chokshi",
+              "national_rank": 24,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 55,
+                "appt_kept_division_rank": 5,
+                "appt_kept_national_rank": 188,
+                "appt_set_cohort_rank": 51,
+                "appt_set_division_rank": 5,
+                "appt_set_national_rank": 170,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 70.37
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 0
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 33.33
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 13.83
+                },
+                "sales_cohort_rank": 58,
+                "sales_division_rank": 5,
+                "sales_national_rank": 209,
+                "total_calls": 4,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 33.33
+                }
+              },
+              "summary": "1 chat/text"
+            }
+          ]
+        },
+        "leads_with_appointment_set": {
+          "MTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Seattle",
+              "image_url": "",
+              "name": "Shardei Granberry",
+              "national_rank": 3,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 61,
+                "appt_kept_division_rank": 5,
+                "appt_kept_national_rank": 197,
+                "appt_set_cohort_rank": 63,
+                "appt_set_division_rank": 5,
+                "appt_set_national_rank": 199,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 100
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 57.14
+                },
+                "sales_cohort_rank": 70,
+                "sales_division_rank": 6,
+                "sales_national_rank": 224,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 0
+                }
+              },
+              "summary": "55.56% leads with appointment set"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Seattle",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_callie_gauderault_lr_jpg",
+              "name": "Callie Gaudreault",
+              "national_rank": 5,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 2,
+                "appt_set_cohort_rank": 2,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 2,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 71.74
+                },
+                "appts_missed": 10,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 58.33
+                },
+                "sales_cohort_rank": 6,
+                "sales_division_rank": 1,
+                "sales_national_rank": 8,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "53.06% leads with appointment set"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Tucson",
+              "image_url": "",
+              "name": "Michelle Campbell",
+              "national_rank": 10,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 17,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 33,
+                "appt_set_cohort_rank": 13,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 34,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 77.5
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 42.37
+                },
+                "sales_cohort_rank": 55,
+                "sales_division_rank": 3,
+                "sales_national_rank": 178,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "41.18% leads with appointment set"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Bay Area",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_karla_salazarlr_jpg",
+              "name": "Karla Salazar",
+              "national_rank": 12,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 33,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 103,
+                "appt_set_cohort_rank": 16,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 37,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 21.43
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 57.14
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 41.38
+                },
+                "sales_cohort_rank": 38,
+                "sales_division_rank": 4,
+                "sales_national_rank": 194,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "37.50% leads with appointment set"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Bay Area",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_athena_abbottlr_jpg",
+              "name": "Athena Abbott",
+              "national_rank": 15,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 27,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 62,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 5,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 50
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 40.91
+                },
+                "sales_cohort_rank": 40,
+                "sales_division_rank": 5,
+                "sales_national_rank": 182,
+                "total_calls": 1,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 91.67
+                }
+              },
+              "summary": "34.48% leads with appointment set"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Central Valley",
+              "image_url": "",
+              "name": "Jessica Gomez",
+              "national_rank": 16,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 10,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 19,
+                "appt_set_cohort_rank": 14,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 36,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 91.67
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 33.33
+                },
+                "sales_cohort_rank": 59,
+                "sales_division_rank": 4,
+                "sales_national_rank": 193,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "33.82% leads with appointment set"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Bay Area",
+              "image_url": "",
+              "name": "Sheena Luu",
+              "national_rank": 21,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 55,
+                "appt_kept_division_rank": 7,
+                "appt_kept_national_rank": 187,
+                "appt_set_cohort_rank": 48,
+                "appt_set_division_rank": 7,
+                "appt_set_national_rank": 157,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 86.67
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 33.33
+                },
+                "follow_up": {
