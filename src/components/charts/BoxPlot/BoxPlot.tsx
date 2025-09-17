@@ -5,3 +5,5 @@ import Box from '@mui/material/Box'
 
 interface BoxPlotProps {
   id: string
+  width: number
+  height: number

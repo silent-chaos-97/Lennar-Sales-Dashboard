@@ -12,3 +12,4 @@ interface IndicatorBarChartProps {
   height: number
   data: WeeklyPacingItem[]
   id: string
+  currentWeekPrediction: number

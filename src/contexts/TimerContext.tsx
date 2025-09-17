@@ -4,3 +4,4 @@ import { useAppState } from './StateContext'
 import { TIMEZONE } from '@/utils/constant'
 
 interface TimerContextValues {
+  cycleTimerProgress: number

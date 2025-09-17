@@ -13,3 +13,6 @@ import RecklessLight_WOFF2 from '@/assets/fonts/reckless/reckless-light.woff2'
 import RecklessRegular_WOFF from '@/assets/fonts/reckless/reckless-regular.woff'
 import RecklessRegular_WOFF2 from '@/assets/fonts/reckless/reckless-regular.woff2'
 import RecklessMedium_WOFF from '@/assets/fonts/reckless/reckless-medium.woff'
+import RecklessMedium_WOFF2 from '@/assets/fonts/reckless/reckless-medium.woff2'
+
+declare module '@mui/material/styles' {

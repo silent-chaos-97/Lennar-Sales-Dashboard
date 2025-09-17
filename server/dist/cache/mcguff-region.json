@@ -782,6 +782,7 @@
                 "total_chats_percent_change": 0,
                 "total_chats_texts": 0,
                 "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
                 "total_texts": 0,
                 "total_texts_percent_change": 0,
                 "trifecta": {
@@ -8809,3 +8810,1758 @@
                   "percent_value": 33.33
                 },
                 "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 28.57
+                },
+                "sales_cohort_rank": 60,
+                "sales_division_rank": 6,
+                "sales_national_rank": 208,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "31.43% leads with appointment set"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Colorado",
+              "image_url": "",
+              "name": "Sam Litzau",
+              "national_rank": 23,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 29,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 71,
+                "appt_set_cohort_rank": 27,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 66,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 93.1
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 84.62
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 25
+                },
+                "sales_cohort_rank": 9,
+                "sales_division_rank": 3,
+                "sales_national_rank": 17,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 96.88
+                }
+              },
+              "summary": "31.19% leads with appointment set"
+            },
+            {
+              "cohort_rank": 9,
+              "division_name": "Colorado",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ryan_comerlr_jpg",
+              "name": "Ryan Comer",
+              "national_rank": 25,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 37,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 111,
+                "appt_set_cohort_rank": 42,
+                "appt_set_division_rank": 4,
+                "appt_set_national_rank": 136,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 109.09
+                },
+                "appts_missed": 0,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 30.3
+                },
+                "sales_cohort_rank": 8,
+                "sales_division_rank": 2,
+                "sales_national_rank": 23,
+                "total_calls": 10,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "30.56% leads with appointment set"
+            },
+            {
+              "cohort_rank": 10,
+              "division_name": "Bay Area",
+              "image_url": "",
+              "name": "Waheeda Fazel",
+              "national_rank": 27,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 31,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 90,
+                "appt_set_cohort_rank": 22,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 54,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 55.56
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 87.1
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 21.21
+                },
+                "sales_cohort_rank": 14,
+                "sales_division_rank": 1,
+                "sales_national_rank": 90,
+                "total_calls": 1,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "29.69% leads with appointment set"
+            }
+          ],
+          "QTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Seattle",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_callie_gauderault_lr_jpg",
+              "name": "Callie Gaudreault",
+              "national_rank": 3,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 2,
+                "appt_set_cohort_rank": 2,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 2,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 71.74
+                },
+                "appts_missed": 10,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 58.33
+                },
+                "sales_cohort_rank": 6,
+                "sales_division_rank": 1,
+                "sales_national_rank": 8,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "47.51% leads with appointment set"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Bay Area",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_karla_salazarlr_jpg",
+              "name": "Karla Salazar",
+              "national_rank": 7,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 33,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 103,
+                "appt_set_cohort_rank": 16,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 37,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 21.43
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 57.14
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 41.38
+                },
+                "sales_cohort_rank": 38,
+                "sales_division_rank": 4,
+                "sales_national_rank": 194,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "42.61% leads with appointment set"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Bay Area",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_athena_abbottlr_jpg",
+              "name": "Athena Abbott",
+              "national_rank": 8,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 27,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 62,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 5,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 50
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 40.91
+                },
+                "sales_cohort_rank": 40,
+                "sales_division_rank": 5,
+                "sales_national_rank": 182,
+                "total_calls": 1,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 91.67
+                }
+              },
+              "summary": "42.33% leads with appointment set"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Tucson",
+              "image_url": "",
+              "name": "Michelle Campbell",
+              "national_rank": 10,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 17,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 33,
+                "appt_set_cohort_rank": 13,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 34,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 77.5
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 42.37
+                },
+                "sales_cohort_rank": 55,
+                "sales_division_rank": 3,
+                "sales_national_rank": 178,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "41.52% leads with appointment set"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Tucson",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_victoria_joverlr_jpg",
+              "name": "Victoria Jover",
+              "national_rank": 14,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 19,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 38,
+                "appt_set_cohort_rank": 12,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 33,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 94.74
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 87.5
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 22.86
+                },
+                "sales_cohort_rank": 48,
+                "sales_division_rank": 1,
+                "sales_national_rank": 137,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95
+                }
+              },
+              "summary": "37.94% leads with appointment set"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Bay Area",
+              "image_url": "",
+              "name": "Albert Gonzalez",
+              "national_rank": 17,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 43,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 142,
+                "appt_set_cohort_rank": 34,
+                "appt_set_division_rank": 5,
+                "appt_set_national_rank": 99,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 38.89
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 54.55
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 21.05
+                },
+                "sales_cohort_rank": 31,
+                "sales_division_rank": 2,
+                "sales_national_rank": 152,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "36.18% leads with appointment set"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Bay Area",
+              "image_url": "",
+              "name": "Sheena Luu",
+              "national_rank": 23,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 55,
+                "appt_kept_division_rank": 7,
+                "appt_kept_national_rank": 187,
+                "appt_set_cohort_rank": 48,
+                "appt_set_division_rank": 7,
+                "appt_set_national_rank": 157,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 86.67
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 33.33
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 28.57
+                },
+                "sales_cohort_rank": 60,
+                "sales_division_rank": 6,
+                "sales_national_rank": 208,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "33.33% leads with appointment set"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Bay Area",
+              "image_url": "",
+              "name": "Waheeda Fazel",
+              "national_rank": 31,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 31,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 90,
+                "appt_set_cohort_rank": 22,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 54,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 55.56
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 87.1
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 21.21
+                },
+                "sales_cohort_rank": 14,
+                "sales_division_rank": 1,
+                "sales_national_rank": 90,
+                "total_calls": 1,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "28.57% leads with appointment set"
+            },
+            {
+              "cohort_rank": 9,
+              "division_name": "Colorado",
+              "image_url": "",
+              "name": "Nicole Kois",
+              "national_rank": 35,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 4,
+                "appt_set_cohort_rank": 4,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 7,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 79.17
+                },
+                "appts_missed": 1,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 83.33
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 24.07
+                },
+                "sales_cohort_rank": 5,
+                "sales_division_rank": 1,
+                "sales_national_rank": 6,
+                "total_calls": 20,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 91.67
+                }
+              },
+              "summary": "27.41% leads with appointment set"
+            },
+            {
+              "cohort_rank": 10,
+              "division_name": "Colorado",
+              "image_url": "",
+              "name": "Sam Litzau",
+              "national_rank": 38,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 29,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 71,
+                "appt_set_cohort_rank": 27,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 66,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 93.1
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 84.62
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 25
+                },
+                "sales_cohort_rank": 9,
+                "sales_division_rank": 3,
+                "sales_national_rank": 17,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 96.88
+                }
+              },
+              "summary": "25.71% leads with appointment set"
+            }
+          ],
+          "WTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Seattle",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_callie_gauderault_lr_jpg",
+              "name": "Callie Gaudreault",
+              "national_rank": 4,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 2,
+                "appt_set_cohort_rank": 2,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 2,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 71.74
+                },
+                "appts_missed": 10,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 58.33
+                },
+                "sales_cohort_rank": 6,
+                "sales_division_rank": 1,
+                "sales_national_rank": 8,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "50.00% leads with appointment set"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Bay Area",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_karla_salazarlr_jpg",
+              "name": "Karla Salazar",
+              "national_rank": 7,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 33,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 103,
+                "appt_set_cohort_rank": 16,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 37,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 21.43
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 57.14
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 41.38
+                },
+                "sales_cohort_rank": 38,
+                "sales_division_rank": 4,
+                "sales_national_rank": 194,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "50.00% leads with appointment set"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Central Valley",
+              "image_url": "",
+              "name": "Jessica Gomez",
+              "national_rank": 13,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 10,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 19,
+                "appt_set_cohort_rank": 14,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 36,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 91.67
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 33.33
+                },
+                "sales_cohort_rank": 59,
+                "sales_division_rank": 4,
+                "sales_national_rank": 193,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "40.00% leads with appointment set"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Central Valley",
+              "image_url": "",
+              "name": "Joanna Verdugo",
+              "national_rank": 14,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 12,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 20,
+                "appt_set_cohort_rank": 14,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 35,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 89.19
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 85.71
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "yellow",
+                  "goal_value": 13,
+                  "percent_value": 12.5
+                },
+                "sales_cohort_rank": 50,
+                "sales_division_rank": 3,
+                "sales_national_rank": 147,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "40.00% leads with appointment set"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Seattle",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/1533_lennar_sean_mimslr_jpg",
+              "name": "Sean Mims",
+              "national_rank": 22,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 40,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 129,
+                "appt_set_cohort_rank": 43,
+                "appt_set_division_rank": 4,
+                "appt_set_national_rank": 141,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 78.95
+                },
+                "appts_missed": 0,
+                "appts_set": 4,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 35.71
+                },
+                "sales_cohort_rank": 46,
+                "sales_division_rank": 4,
+                "sales_national_rank": 180,
+                "total_calls": 9,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "33.33% leads with appointment set"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "San Diego",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_diana_leizart_lr_jpg",
+              "name": "Diana Lieziert",
+              "national_rank": 32,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 1,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 1,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 85.37
+                },
+                "appts_missed": 8,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 2.94
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 25.81
+                },
+                "sales_cohort_rank": 13,
+                "sales_division_rank": 1,
+                "sales_national_rank": 113,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 20.51
+                }
+              },
+              "summary": "29.27% leads with appointment set"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Elyse Snitzer",
+              "national_rank": 33,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 8,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 13,
+                "appt_set_cohort_rank": 8,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 17,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 69.39
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95.65
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 20.43
+                },
+                "sales_cohort_rank": 26,
+                "sales_division_rank": 2,
+                "sales_national_rank": 40,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "29.27% leads with appointment set"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Colorado",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ryan_comerlr_jpg",
+              "name": "Ryan Comer",
+              "national_rank": 36,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 37,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 111,
+                "appt_set_cohort_rank": 42,
+                "appt_set_division_rank": 4,
+                "appt_set_national_rank": 136,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 109.09
+                },
+                "appts_missed": 0,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 30.3
+                },
+                "sales_cohort_rank": 8,
+                "sales_division_rank": 2,
+                "sales_national_rank": 23,
+                "total_calls": 10,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "28.57% leads with appointment set"
+            },
+            {
+              "cohort_rank": 9,
+              "division_name": "Colorado",
+              "image_url": "",
+              "name": "Sam Litzau",
+              "national_rank": 38,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 29,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 71,
+                "appt_set_cohort_rank": 27,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 66,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 93.1
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 84.62
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 25
+                },
+                "sales_cohort_rank": 9,
+                "sales_division_rank": 3,
+                "sales_national_rank": 17,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 96.88
+                }
+              },
+              "summary": "27.50% leads with appointment set"
+            },
+            {
+              "cohort_rank": 10,
+              "division_name": "Tucson",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_victoria_joverlr_jpg",
+              "name": "Victoria Jover",
+              "national_rank": 42,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 19,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 38,
+                "appt_set_cohort_rank": 12,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 33,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 94.74
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 87.5
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 22.86
+                },
+                "sales_cohort_rank": 48,
+                "sales_division_rank": 1,
+                "sales_national_rank": 137,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95
+                }
+              },
+              "summary": "25.81% leads with appointment set"
+            }
+          ]
+        },
+        "leads_with_followup": {
+          "MTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Colorado",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ryan_goldhammerlr_jpg",
+              "name": "Ryan Goldhammer",
+              "national_rank": 2,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 4,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 5,
+                "appt_set_cohort_rank": 5,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 8,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 90.57
+                },
+                "appts_missed": 5,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 19.44
+                },
+                "sales_cohort_rank": 12,
+                "sales_division_rank": 4,
+                "sales_national_rank": 21,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 96.15
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Rhonda Lostumo",
+              "national_rank": 3,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 7,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 12,
+                "appt_set_cohort_rank": 9,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 18,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 89.47
+                },
+                "appts_missed": 5,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 17.02
+                },
+                "sales_cohort_rank": 22,
+                "sales_division_rank": 1,
+                "sales_national_rank": 41,
+                "total_calls": 12,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Elyse Snitzer",
+              "national_rank": 6,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 8,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 13,
+                "appt_set_cohort_rank": 8,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 17,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 69.39
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95.65
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 20.43
+                },
+                "sales_cohort_rank": 26,
+                "sales_division_rank": 2,
+                "sales_national_rank": 40,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Central Valley",
+              "image_url": "",
+              "name": "Jessica Gomez",
+              "national_rank": 10,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 10,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 19,
+                "appt_set_cohort_rank": 14,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 36,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 91.67
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 33.33
+                },
+                "sales_cohort_rank": 59,
+                "sales_division_rank": 4,
+                "sales_national_rank": 193,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Inland",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_pritee_deo_lr_jpg",
+              "name": "Pritee Deo",
+              "national_rank": 12,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 6,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 9,
+                "appt_set_cohort_rank": 7,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 14,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 59.18
+                },
+                "appts_missed": 9,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 13.4
+                },
+                "sales_cohort_rank": 28,
+                "sales_division_rank": 2,
+                "sales_national_rank": 88,
+                "total_calls": 5,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 94.12
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Central Valley",
+              "image_url": "",
+              "name": "Joanna Verdugo",
+              "national_rank": 16,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 12,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 20,
+                "appt_set_cohort_rank": 14,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 35,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 89.19
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 85.71
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "yellow",
+                  "goal_value": 13,
+                  "percent_value": 12.5
+                },
+                "sales_cohort_rank": 50,
+                "sales_division_rank": 3,
+                "sales_national_rank": 147,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Inland",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/jaycee_headshot_jpg",
+              "name": "Jaycee Chavez",
+              "national_rank": 18,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 23,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 51,
+                "appt_set_cohort_rank": 23,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 59,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 96
+                },
+                "appts_missed": 6,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 86.67
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 11.24
+                },
+                "sales_cohort_rank": 25,
+                "sales_division_rank": 1,
+                "sales_national_rank": 60,
+                "total_calls": 15,
+                "total_calls_percent_change": 0,
+                "total_chats": 1,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 1,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Colorado",
+              "image_url": "",
+              "name": "Sam Litzau",
+              "national_rank": 21,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 29,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 71,
+                "appt_set_cohort_rank": 27,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 66,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 93.1
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 84.62
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 25
+                },
+                "sales_cohort_rank": 9,
+                "sales_division_rank": 3,

@@ -3,3 +3,4 @@ import * as d3 from 'd3'
 
 interface FrameData {
   date: string | undefined
+  total: number | undefined

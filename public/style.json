@@ -104,3 +104,24 @@
                         ["transit", "elevated"],
                         ["admin-boundaries", "admin"],
                         ["buildings", "building-labels"],
+                        ["road-network", "road-labels"],
+                        ["walking-cycling", "walking-cycling-labels"],
+                        ["transit", "ferry-aerialway-labels"],
+                        ["natural-features", "natural-labels"],
+                        ["point-of-interest-labels", "poi-labels"],
+                        ["transit", "transit-labels"],
+                        ["place-labels", "place-labels"]
+                    ]
+                }
+            ],
+            "overrides": {
+                "buildings": {
+                    "building": {"layout": {"visibility": "none"}},
+                    "building-extrusion": {"layout": {"visibility": "none"}},
+                    "building-entrance": {"layout": {"visibility": "none"}},
+                    "building-number-label": {"layout": {"visibility": "none"}},
+                    "building-underground": {"layout": {"visibility": "none"}},
+                    "block-number-label": {"layout": {"visibility": "none"}}
+                }
+            },
+            "components": {
