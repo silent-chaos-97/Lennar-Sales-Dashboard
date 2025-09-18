@@ -125,3 +125,37 @@
                 }
             },
             "components": {
+                "road-network": "16.0.0",
+                "natural-features": "16.0.0",
+                "place-labels": "16.0.0",
+                "admin-boundaries": "16.0.0",
+                "point-of-interest-labels": "16.0.0",
+                "walking-cycling": "16.0.0",
+                "transit": "16.0.0",
+                "land-and-water": "16.0.0",
+                "buildings": "16.0.0"
+            },
+            "propConfig": {
+                "road-network": {
+                    "colorBase": "#334057",
+                    "roadNetwork": "Simple",
+                    "roadWidth": 0.6
+                },
+                "natural-features": {
+                    "colorBase": "#334057",
+                    "labelStyle": "Text only",
+                    "density": 1,
+                    "colorWater": "#191d26"
+                },
+                "place-labels": {
+                    "colorBase": "#334057",
+                    "settlementLabelStyle": "Text only",
+                    "settlementsDensity": 2,
+                    "settlementSubdivisionsDensity": 4,
+                    "settlements": true,
+                    "settlementsMinorSize": 1.3,
+                    "settlementsMajorSize": 1.4
+                },
+                "admin-boundaries": {
+                    "colorBase": "#334057",
+                    "admin0Width": 1.3

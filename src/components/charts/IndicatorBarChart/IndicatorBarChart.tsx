@@ -13,3 +13,4 @@ interface IndicatorBarChartProps {
   data: WeeklyPacingItem[]
   id: string
   currentWeekPrediction: number
+  hidePredictionBar?: boolean

@@ -7,6 +7,7 @@ import StackedBarChart from './StackedBarChart'
 import CustomTooltip from '@/components/common/CustomTooltip'
 import { TickerItem } from '@/types/current_activity'
 
+interface AppointmentSetProps {
   currentWeekData: TickerItem[]
   prevWeekData: TickerItem[]
   activityTimeframe: string
@@ -17,3 +18,4 @@ interface DayType {
   date: string
   total: number
   byFrame: number[]
+}

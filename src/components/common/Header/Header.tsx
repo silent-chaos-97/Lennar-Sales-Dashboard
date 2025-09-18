@@ -34,10 +34,11 @@ const Wrapper = styled('header')(({ theme }) => ({
   margin: '0 auto',
   width: '100%',
   zIndex: 9
-}))
 
 const Screen = styled('div')({
   position: 'relative',
   paddingTop: 104
 })
 
+const InnerScreen = styled('div')({
+  position: 'absolute',

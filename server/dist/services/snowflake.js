@@ -46,6 +46,7 @@ class SnowflakeService {
                             return reject(err);
                         }
                         const regions = rows
+// Temp comment
                             .filter((rRow) => rRow.COHORT_TYPE === 'region')
                             .map((rRow) => {
                             const divisions = rows

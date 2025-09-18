@@ -5,3 +5,5 @@ import { TIMEZONE } from '@/utils/constant'
 
 interface TimerContextValues {
   cycleTimerProgress: number
+  idleTimerProgress: number
+  currentTime?: string

@@ -5,7 +5,6 @@ import Sales from '@/components/wrappers/sales'
 import SalesDetails from '@/components/wrappers/sales/detail'
 import Fade from '@mui/material/Fade'
 import { useAppState } from '@/contexts/StateContext'
-import { DetailSalesItems, SalesItem } from '@/types/sales'
 import { useEffect } from 'react'
 import { useAppTimerSetters } from '@/contexts/TimerContext'
 import mapboxgl from 'mapbox-gl'
@@ -16,3 +15,8 @@ import { styled } from '@mui/material/styles'
 import LMap from '@/components/common/LMap'
 import { DateTime } from 'luxon'
 import { TIMEZONE } from '@/utils/constant'
+
+const popupRight = 871
+const arrowTopThreshold = 124
+const arrowBottomThreshold = 300
+

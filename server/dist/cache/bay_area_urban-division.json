@@ -70,3 +70,23 @@
           "percent_value": 0
         },
         "APPOINTMENTS_KEPT": {
+          "color": "red",
+          "goal_value": 75,
+          "missed": 0,
+          "percent_value": 0
+        },
+        "SALES_WITH_ISC_ATTACHED": {
+          "color": "red",
+          "goal_value": 75,
+          "percent_value": 0
+        },
+        "LEADS_WITH_TRIFECTA": {
+          "color": "red",
+          "goal_value": 90,
+          "percent_value": 0
+        },
+        "LEADS_WITH_FOLLOWUP": {
+          "color": "red",
+          "goal_value": 80,
+          "percent_value": 0
+        },

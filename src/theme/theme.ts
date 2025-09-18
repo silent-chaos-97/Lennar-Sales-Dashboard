@@ -16,3 +16,7 @@ import RecklessMedium_WOFF from '@/assets/fonts/reckless/reckless-medium.woff'
 import RecklessMedium_WOFF2 from '@/assets/fonts/reckless/reckless-medium.woff2'
 
 declare module '@mui/material/styles' {
+    title: React.CSSProperties
+  }
+
+  // allow configuration using `createTheme`

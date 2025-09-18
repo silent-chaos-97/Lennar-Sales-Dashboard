@@ -7,3 +7,5 @@ interface BoxPlotProps {
   id: string
   width: number
   height: number
+  data: PricingData
+}

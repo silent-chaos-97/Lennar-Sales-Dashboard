@@ -6,3 +6,5 @@ import Box from '@mui/material/Box'
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown'
 
 interface SectionProps {
+  title: string
+  timestamp?: string

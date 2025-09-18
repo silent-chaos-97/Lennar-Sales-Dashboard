@@ -1,2 +1,7 @@
 import Grid from '@mui/material/Grid'
 import Box from '@mui/material/Box'
+import Leaderboard from '@/components/wrappers/leaderboard'
+import PacingStatus from '@/components/wrappers/pacing-status'
+import PacingAnalysis from '@/components/wrappers/pacing-analysis'
+import PricingAnalysis from '@/components/wrappers/pricing-analysis'
+import { useMemo, useRef } from 'react'

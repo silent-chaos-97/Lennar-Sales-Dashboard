@@ -2,3 +2,5 @@
 // @ts-nocheck
 import { useMemo } from 'react'
 import * as d3 from 'd3'
+import { TickerItem } from '@/types/current_activity'
+
