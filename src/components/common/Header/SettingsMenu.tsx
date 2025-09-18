@@ -11,3 +11,7 @@ import Radio from '@mui/material/Radio'
 import FormControlLabel from '@mui/material/FormControlLabel'
 import { useAppTimerVariables, useAppTimerSetters, Rotate } from '@/contexts/TimerContext'
 import { ScreenMode, useScreen } from '@/contexts/ScreenContext'
+import { useAppState } from '@/contexts/StateContext'
+import { Checkbox } from '@mui/material'
+
+interface SettingsMenuProps {

@@ -14,3 +14,5 @@ interface IndicatorBarChartProps {
   id: string
   currentWeekPrediction: number
   hidePredictionBar?: boolean
+}
+

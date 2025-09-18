@@ -11,3 +11,7 @@ if (
   !process.env.SNOWFLAKE_WAREHOUSE ||
   !process.env.SNOWFLAKE_DATABASE ||
   !process.env.SNOWFLAKE_DMT
+) {
+  console.error('Please set the env vars properly!')
+  process.exit(1)
+}

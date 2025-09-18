@@ -5,3 +5,5 @@ import * as d3 from 'd3'
 import { SalesDetailObject } from '@/types/sales'
 
 interface LineChartProps {
+  id: string
+  width?: number

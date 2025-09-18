@@ -59,7 +59,6 @@
                 "collapsed": true
             },
             "Point of interest labels, poi-labels": {
-                "name": "Point of interest labels, poi-labels",
                 "collapsed": true
             },
             "Walking, cycling, etc., tunnels": {
@@ -159,3 +158,49 @@
                 "admin-boundaries": {
                     "colorBase": "#334057",
                     "admin0Width": 1.3
+                },
+                "point-of-interest-labels": {
+                    "colorBase": "#334057",
+                    "labelStyle": "Text only",
+                    "density": 0,
+                    "poiEtcFont": ["DIN Pro Italic", "Arial Unicode MS Regular"]
+                },
+                "walking-cycling": {
+                    "walkingPathDashPattern": "Solid",
+                    "controlDashStyle": true,
+                    "golfHoleLabelLine": false,
+                    "walkingCyclingPisteBackground": false,
+                    "colorBase": "#334057",
+                    "trailDashPattern": "Solid",
+                    "pedestrianPolygonFeatures": false,
+                    "cyclewayPisteDashPattern": "Solid",
+                    "labels": false
+                },
+                "transit": {
+                    "aeroways": false,
+                    "airportLabels": false,
+                    "aerialways": false,
+                    "iconColorScheme": "Monochrome",
+                    "transitLabels": false,
+                    "colorBase": "#334057",
+                    "railwayStyle": false,
+                    "colorWater": "#191d26",
+                    "ferries": false,
+                    "labelStyle": "Text only"
+                },
+                "land-and-water": {
+                    "colorBase": "#334057",
+                    "landType": "Landuse only",
+                    "transitionLandOnZoom": true,
+                    "waterStyle": "Simple",
+                    "landuseDensity": 8,
+                    "land": "Simple",
+                    "colorWater": "#191d26"
+                },
+                "buildings": {"colorBase": "#334057", "houseNumbers": false}
+            }
+        }
+    },
+    "center": [-80.052, 26.6808],
+    "zoom": 10.27,
+    "bearing": 0,

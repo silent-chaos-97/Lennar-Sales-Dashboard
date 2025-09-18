@@ -21,3 +21,9 @@ import { PERFORMANCE_COLORS } from '@/utils/constant'
 import { LeaderboardDetailProps } from './leaderboard-detail'
 import KPIWidget from './kpi-widget'
 import { useClickAway } from 'react-use'
+import { useRef } from 'react'
+import CustomTooltip from '@/components/common/CustomTooltip'
+
+const AxisXStartTickComponent = (props: RadialAxisTickProps & { value: number }) => {
+  const labels = {
+    beback_with_follow_up: 'Be-backs with follow-up',

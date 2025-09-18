@@ -2565,7 +2565,6 @@
                 },
                 "appts_missed": 3,
                 "appts_set": 0,
-                "appts_set_percent_change": 0,
                 "beback_with_follow_up": {
                   "color": "green",
                   "goal_value": 90,
@@ -6333,3 +6332,1814 @@
               "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_debbie_webb_lr_jpg",
               "name": "Debbie Webb",
               "national_rank": 63,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 27,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 50,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 103.33
+                },
+                "appts_missed": 2,
+                "appts_set": 2,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 88.89
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10.53
+                },
+                "sales_cohort_rank": 3,
+                "sales_division_rank": 3,
+                "sales_national_rank": 54,
+                "total_calls": 15,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Misty Lucas",
+              "national_rank": 216,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 6,
+                "appt_kept_division_rank": 6,
+                "appt_kept_national_rank": 191,
+                "appt_set_cohort_rank": 6,
+                "appt_set_division_rank": 6,
+                "appt_set_national_rank": 183,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 81.82
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 0
+                },
+                "sales_cohort_rank": 6,
+                "sales_division_rank": 6,
+                "sales_national_rank": 205,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "0.00% leads with followup"
+            }
+          ],
+          "QTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Elyse Snitzer",
+              "national_rank": 6,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 13,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 17,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 69.39
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95.65
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 19.35
+                },
+                "sales_cohort_rank": 2,
+                "sales_division_rank": 2,
+                "sales_national_rank": 42,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.5
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Rhonda Lostumo",
+              "national_rank": 7,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 12,
+                "appt_set_cohort_rank": 2,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 19,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 89.47
+                },
+                "appts_missed": 5,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 16.84
+                },
+                "sales_cohort_rank": 1,
+                "sales_division_rank": 1,
+                "sales_national_rank": 35,
+                "total_calls": 19,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Peggy Wagner",
+              "national_rank": 23,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 4,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 55,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 51,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 64.71
+                },
+                "appts_missed": 6,
+                "appts_set": 3,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "yellow",
+                  "goal_value": 13,
+                  "percent_value": 12
+                },
+                "sales_cohort_rank": 5,
+                "sales_division_rank": 5,
+                "sales_national_rank": 121,
+                "total_calls": 13,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Phoenix",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_debbie_webb_lr_jpg",
+              "name": "Debbie Webb",
+              "national_rank": 158,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 27,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 50,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 103.33
+                },
+                "appts_missed": 2,
+                "appts_set": 2,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 88.89
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10.53
+                },
+                "sales_cohort_rank": 3,
+                "sales_division_rank": 3,
+                "sales_national_rank": 54,
+                "total_calls": 15,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "97.47% leads with followup"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Misty Lucas",
+              "national_rank": 171,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 6,
+                "appt_kept_division_rank": 6,
+                "appt_kept_national_rank": 191,
+                "appt_set_cohort_rank": 6,
+                "appt_set_division_rank": 6,
+                "appt_set_national_rank": 183,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 81.82
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 0
+                },
+                "sales_cohort_rank": 6,
+                "sales_division_rank": 6,
+                "sales_national_rank": 205,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "96.30% leads with followup"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Monice Ottiano",
+              "national_rank": 172,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 5,
+                "appt_kept_division_rank": 5,
+                "appt_kept_national_rank": 60,
+                "appt_set_cohort_rank": 5,
+                "appt_set_division_rank": 5,
+                "appt_set_national_rank": 63,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 82.61
+                },
+                "appts_missed": 4,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 87.5
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 6.41
+                },
+                "sales_cohort_rank": 4,
+                "sales_division_rank": 4,
+                "sales_national_rank": 96,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.22
+                }
+              },
+              "summary": "96.25% leads with followup"
+            }
+          ],
+          "WTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Rhonda Lostumo",
+              "national_rank": 10,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 12,
+                "appt_set_cohort_rank": 2,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 19,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 89.47
+                },
+                "appts_missed": 5,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 16.84
+                },
+                "sales_cohort_rank": 1,
+                "sales_division_rank": 1,
+                "sales_national_rank": 35,
+                "total_calls": 19,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "0.00% leads with followup"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Elyse Snitzer",
+              "national_rank": 12,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 13,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 17,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 69.39
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95.65
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 19.35
+                },
+                "sales_cohort_rank": 2,
+                "sales_division_rank": 2,
+                "sales_national_rank": 42,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.5
+                }
+              },
+              "summary": "0.00% leads with followup"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Peggy Wagner",
+              "national_rank": 81,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 4,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 55,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 51,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 64.71
+                },
+                "appts_missed": 6,
+                "appts_set": 3,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "yellow",
+                  "goal_value": 13,
+                  "percent_value": 12
+                },
+                "sales_cohort_rank": 5,
+                "sales_division_rank": 5,
+                "sales_national_rank": 121,
+                "total_calls": 13,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "0.00% leads with followup"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Phoenix",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_debbie_webb_lr_jpg",
+              "name": "Debbie Webb",
+              "national_rank": 118,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 27,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 50,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 103.33
+                },
+                "appts_missed": 2,
+                "appts_set": 2,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 88.89
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10.53
+                },
+                "sales_cohort_rank": 3,
+                "sales_division_rank": 3,
+                "sales_national_rank": 54,
+                "total_calls": 15,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "0.00% leads with followup"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Monice Ottiano",
+              "national_rank": 193,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 5,
+                "appt_kept_division_rank": 5,
+                "appt_kept_national_rank": 60,
+                "appt_set_cohort_rank": 5,
+                "appt_set_division_rank": 5,
+                "appt_set_national_rank": 63,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 82.61
+                },
+                "appts_missed": 4,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 87.5
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 6.41
+                },
+                "sales_cohort_rank": 4,
+                "sales_division_rank": 4,
+                "sales_national_rank": 96,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.22
+                }
+              },
+              "summary": "0.00% leads with followup"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Misty Lucas",
+              "national_rank": 215,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 6,
+                "appt_kept_division_rank": 6,
+                "appt_kept_national_rank": 191,
+                "appt_set_cohort_rank": 6,
+                "appt_set_division_rank": 6,
+                "appt_set_national_rank": 183,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 81.82
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 0
+                },
+                "sales_cohort_rank": 6,
+                "sales_division_rank": 6,
+                "sales_national_rank": 205,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "0.00% leads with followup"
+            }
+          ]
+        },
+        "leads_with_trifecta": {
+          "MTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Peggy Wagner",
+              "national_rank": 29,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 4,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 55,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 51,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 64.71
+                },
+                "appts_missed": 6,
+                "appts_set": 3,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "yellow",
+                  "goal_value": 13,
+                  "percent_value": 12
+                },
+                "sales_cohort_rank": 5,
+                "sales_division_rank": 5,
+                "sales_national_rank": 121,
+                "total_calls": 13,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with trifecta"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Misty Lucas",
+              "national_rank": 81,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 6,
+                "appt_kept_division_rank": 6,
+                "appt_kept_national_rank": 191,
+                "appt_set_cohort_rank": 6,
+                "appt_set_division_rank": 6,
+                "appt_set_national_rank": 183,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 81.82
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 0
+                },
+                "sales_cohort_rank": 6,
+                "sales_division_rank": 6,
+                "sales_national_rank": 205,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with trifecta"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Elyse Snitzer",
+              "national_rank": 114,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 13,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 17,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 69.39
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95.65
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 19.35
+                },
+                "sales_cohort_rank": 2,
+                "sales_division_rank": 2,
+                "sales_national_rank": 42,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.5
+                }
+              },
+              "summary": "98.51% leads with trifecta"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Rhonda Lostumo",
+              "national_rank": 116,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 12,
+                "appt_set_cohort_rank": 2,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 19,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 89.47
+                },
+                "appts_missed": 5,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 16.84
+                },
+                "sales_cohort_rank": 1,
+                "sales_division_rank": 1,
+                "sales_national_rank": 35,
+                "total_calls": 19,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "98.39% leads with trifecta"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Monice Ottiano",
+              "national_rank": 123,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 5,
+                "appt_kept_division_rank": 5,
+                "appt_kept_national_rank": 60,
+                "appt_set_cohort_rank": 5,
+                "appt_set_division_rank": 5,
+                "appt_set_national_rank": 63,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 82.61
+                },
+                "appts_missed": 4,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 87.5
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 6.41
+                },
+                "sales_cohort_rank": 4,
+                "sales_division_rank": 4,
+                "sales_national_rank": 96,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.22
+                }
+              },
+              "summary": "98.11% leads with trifecta"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Phoenix",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_debbie_webb_lr_jpg",
+              "name": "Debbie Webb",
+              "national_rank": 124,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 27,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 50,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 103.33
+                },
+                "appts_missed": 2,
+                "appts_set": 2,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 88.89
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10.53
+                },
+                "sales_cohort_rank": 3,
+                "sales_division_rank": 3,
+                "sales_national_rank": 54,
+                "total_calls": 15,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "98.08% leads with trifecta"
+            }
+          ],
+          "QTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Elyse Snitzer",
+              "national_rank": 48,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 13,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 17,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 69.39
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95.65
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 19.35
+                },
+                "sales_cohort_rank": 2,
+                "sales_division_rank": 2,
+                "sales_national_rank": 42,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.5
+                }
+              },
+              "summary": "99.52% leads with trifecta"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Peggy Wagner",
+              "national_rank": 84,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 4,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 55,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 51,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 64.71
+                },
+                "appts_missed": 6,
+                "appts_set": 3,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "yellow",
+                  "goal_value": 13,
+                  "percent_value": 12
+                },
+                "sales_cohort_rank": 5,
+                "sales_division_rank": 5,
+                "sales_national_rank": 121,
+                "total_calls": 13,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "98.69% leads with trifecta"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Phoenix",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_debbie_webb_lr_jpg",
+              "name": "Debbie Webb",
+              "national_rank": 95,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 27,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 50,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 103.33
+                },
+                "appts_missed": 2,
+                "appts_set": 2,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 88.89
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10.53
+                },
+                "sales_cohort_rank": 3,
+                "sales_division_rank": 3,
+                "sales_national_rank": 54,
+                "total_calls": 15,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "98.48% leads with trifecta"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Monice Ottiano",
+              "national_rank": 143,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 5,
+                "appt_kept_division_rank": 5,
+                "appt_kept_national_rank": 60,
+                "appt_set_cohort_rank": 5,
+                "appt_set_division_rank": 5,
+                "appt_set_national_rank": 63,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 82.61
+                },
+                "appts_missed": 4,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 87.5
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 6.41
+                },
+                "sales_cohort_rank": 4,
+                "sales_division_rank": 4,
+                "sales_national_rank": 96,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.22
+                }
+              },
+              "summary": "97.14% leads with trifecta"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Rhonda Lostumo",
+              "national_rank": 150,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 12,
+                "appt_set_cohort_rank": 2,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 19,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 89.47
+                },
+                "appts_missed": 5,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 16.84
+                },
+                "sales_cohort_rank": 1,
+                "sales_division_rank": 1,
+                "sales_national_rank": 35,
+                "total_calls": 19,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "96.67% leads with trifecta"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Misty Lucas",
+              "national_rank": 164,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 6,
+                "appt_kept_division_rank": 6,
+                "appt_kept_national_rank": 191,
+                "appt_set_cohort_rank": 6,
+                "appt_set_division_rank": 6,
+                "appt_set_national_rank": 183,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 81.82
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 0
+                },
+                "sales_cohort_rank": 6,
+                "sales_division_rank": 6,
+                "sales_national_rank": 205,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "96.03% leads with trifecta"
+            }
+          ],
+          "WTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Rhonda Lostumo",
+              "national_rank": 5,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 12,
+                "appt_set_cohort_rank": 2,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 19,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 89.47
+                },
+                "appts_missed": 5,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 16.84
+                },
+                "sales_cohort_rank": 1,
+                "sales_division_rank": 1,
+                "sales_national_rank": 35,
+                "total_calls": 19,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with trifecta"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Peggy Wagner",
+              "national_rank": 42,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 4,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 55,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 51,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 64.71
+                },
+                "appts_missed": 6,
+                "appts_set": 3,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "yellow",
+                  "goal_value": 13,
+                  "percent_value": 12
+                },
+                "sales_cohort_rank": 5,
+                "sales_division_rank": 5,
+                "sales_national_rank": 121,
+                "total_calls": 13,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with trifecta"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Misty Lucas",
+              "national_rank": 128,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 6,
+                "appt_kept_division_rank": 6,
+                "appt_kept_national_rank": 191,
+                "appt_set_cohort_rank": 6,
+                "appt_set_division_rank": 6,
+                "appt_set_national_rank": 183,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 81.82
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 0
+                },
+                "sales_cohort_rank": 6,
+                "sales_division_rank": 6,
+                "sales_national_rank": 205,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with trifecta"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Elyse Snitzer",
+              "national_rank": 145,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 13,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 17,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 69.39
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95.65
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 19.35
+                },
+                "sales_cohort_rank": 2,
+                "sales_division_rank": 2,
+                "sales_national_rank": 42,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.5
+                }
+              },
+              "summary": "94.74% leads with trifecta"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Phoenix",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_debbie_webb_lr_jpg",
+              "name": "Debbie Webb",
+              "national_rank": 147,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 27,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 50,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 103.33
+                },
+                "appts_missed": 2,
+                "appts_set": 2,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 88.89
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10.53
+                },
+                "sales_cohort_rank": 3,
+                "sales_division_rank": 3,
+                "sales_national_rank": 54,
+                "total_calls": 15,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "94.74% leads with trifecta"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Monice Ottiano",
+              "national_rank": 162,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 5,
+                "appt_kept_division_rank": 5,
+                "appt_kept_national_rank": 60,
+                "appt_set_cohort_rank": 5,
+                "appt_set_division_rank": 5,
+                "appt_set_national_rank": 63,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 82.61
+                },
+                "appts_missed": 4,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 87.5
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 6.41
+                },
+                "sales_cohort_rank": 4,
+                "sales_division_rank": 4,
+                "sales_national_rank": 96,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.22
+                }
+              },
+              "summary": "90.91% leads with trifecta"
+            }
+          ]
+        },
+        "sales": {
+          "MTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Phoenix",
+              "image_url": "",
+              "name": "Rhonda Lostumo",
+              "national_rank": 28,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,

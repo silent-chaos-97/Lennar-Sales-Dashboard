@@ -34,6 +34,7 @@ const Wrapper = styled('header')(({ theme }) => ({
   margin: '0 auto',
   width: '100%',
   zIndex: 9
+}))
 
 const Screen = styled('div')({
   position: 'relative',
@@ -42,3 +43,37 @@ const Screen = styled('div')({
 
 const InnerScreen = styled('div')({
   position: 'absolute',
+  width: '100%',
+  height: '100%',
+  top: 0,
+  left: 0,
+  padding: '0 46px',
+  display: 'flex'
+})
+
+const ScreenWrapper = ({ children, padding = 0, justifyContent = 'flex-start' }) => {
+  const { mode } = useScreen()
+  return (
+    <Screen
+      sx={{
+        width:
+          mode === ScreenMode.desktop ? 'auto' : mode === ScreenMode.triple_monitor ? '100%' : 2400
+      }}
+    >
+      <InnerScreen style={{ padding, justifyContent }}>{children}</InnerScreen>
+    </Screen>
+  )
+}
+
+const Header = () => {
+  const { setPlaying, setCycleTimerProgress } = useAppTimerSetters()
+  const { mode, currentScreen, setCurrentScreen } = useScreen()
+  const menuRef = useRef<HTMLDivElement>(null)
+  const { cohorts, setCurrentCohort, currentCohort, setPrevSelectedDivisionType, dataStatus } =
+    useAppState()
+  const [openSettings, setOpenSettings] = useState(false)
+  const [openRegionSelectMenu, setOpenRegionSelectMenu] = useState(false)
+  const [alert, setAlert] = useState<boolean>(false)
+
+  useClickAway(menuRef, () => {
+    setOpenRegionSelectMenu(false)

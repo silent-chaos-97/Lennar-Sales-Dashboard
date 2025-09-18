@@ -46,7 +46,6 @@ class SnowflakeService {
                             return reject(err);
                         }
                         const regions = rows
-// Temp comment
                             .filter((rRow) => rRow.COHORT_TYPE === 'region')
                             .map((rRow) => {
                             const divisions = rows
@@ -67,7 +66,6 @@ class SnowflakeService {
                                     .filter((sub_division) => sub_division.COHORT_TYPE === 'division' &&
                                     sub_division.REGION === rRow.REGION &&
                                     sub_division.SUB_REGION === dRow.SUB_REGION)
-                                    .map((sub_division) => ({
                                     type: sub_division.COHORT_TYPE,
                                     name: sub_division.COHORT,
                                     latitude: sub_division.LATITUDE,

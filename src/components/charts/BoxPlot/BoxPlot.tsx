@@ -9,3 +9,6 @@ interface BoxPlotProps {
   height: number
   data: PricingData
 }
+
+const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => {
+  useEffect(() => {

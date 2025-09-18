@@ -7,3 +7,5 @@ import { Typography } from '@mui/material'
 import { useAppState } from '@/contexts/StateContext'
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward'
 import CustomDailyAnalyticsBox from '@/components/custom-daily-analytics-box'
+import { SALES_TIMEFRAMES, SalesState } from '@/types/sales'
+

@@ -14,8 +14,9 @@ interface AppointmentSetProps {
 }
 
 interface DayType {
-  weekday: string | null
   date: string
   total: number
   byFrame: number[]
 }
+
+const AppointmentSet = ({

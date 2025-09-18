@@ -13,3 +13,8 @@ import { useResizeDetector } from 'react-resize-detector'
 import PieChart from '@/components/charts/PieChart'
 import { PACING_ZOOM_LEVEL, PACING_MAP_OFFSETS, STATUS_COLORS } from '@/utils/constant'
 import { SubCohortItem } from '@/types/pacing'
+import { useAppTimerSetters } from '@/contexts/TimerContext'
+import CustomTooltip from '@/components/common/CustomTooltip'
+import DataAlert from '@/components/common/CustomTooltip/DataAlert'
+
+const MarkerIcon = styled('div', {

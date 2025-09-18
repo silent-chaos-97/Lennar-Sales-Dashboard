@@ -11,3 +11,7 @@ import { InsightState } from '@/types/insights'
 import { MetricsState } from '@/types/metrics'
 import { HTTP_STATUS_CODES } from '@/utils/constant'
 
+interface StateContextValues {
+  leaderboards?: LeaderboardsState
+  performanceTimeframeState: Record<string, IscPerformanceState>
+  activityTimeframeState: Record<string, CurrentActivityState>

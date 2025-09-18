@@ -5,6 +5,7 @@ import Sales from '@/components/wrappers/sales'
 import SalesDetails from '@/components/wrappers/sales/detail'
 import Fade from '@mui/material/Fade'
 import { useAppState } from '@/contexts/StateContext'
+import { DetailSalesItems, SalesItem } from '@/types/sales'
 import { useEffect } from 'react'
 import { useAppTimerSetters } from '@/contexts/TimerContext'
 import mapboxgl from 'mapbox-gl'
@@ -20,3 +21,9 @@ const popupRight = 871
 const arrowTopThreshold = 124
 const arrowBottomThreshold = 300
 
+const MarkerIcon = styled('div', {
+  shouldForwardProp: (prop) => !['color', 'radius'].includes(prop as string)
+})((props: { color: string; radius: number }) => ({
+  backgroundColor: props.color,
+  borderRadius: '50%',
+  boxSizing: 'border-box',
