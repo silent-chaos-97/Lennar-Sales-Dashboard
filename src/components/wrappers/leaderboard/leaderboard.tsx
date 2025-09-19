@@ -8,3 +8,5 @@ import { Scrollbar } from 'react-scrollbars-custom'
 import { LEADERBOARD_TIMEFRAMES } from '@/types/leaderboards'
 
 interface IscLeaderBoardProps {
+  leaderboardData: LeaderboardObj
+  categoryList: Record<string, string>

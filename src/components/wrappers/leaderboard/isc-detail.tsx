@@ -27,3 +27,9 @@ import CustomTooltip from '@/components/common/CustomTooltip'
 const AxisXStartTickComponent = (props: RadialAxisTickProps & { value: number }) => {
   const labels = {
     beback_with_follow_up: 'Be-backs with follow-up',
+    follow_up: 'Leads with follow-up',
+    trifecta: 'Leads with trifecta'
+  }
+  return (
+    <CustomTooltip elementName={`label-isc-${props.label.toString().toLowerCase()}`}>
+      <g transform={`translate(${props.y}, 0) rotate(${props.rotation})`}>

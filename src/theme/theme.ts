@@ -28,3 +28,9 @@ declare module '@mui/material/styles' {
   interface TypeBackground {
     secondary: string
     tertiary: string
+  }
+
+  interface TypeText {
+    tertiary: string
+    quaternary: string
+  }

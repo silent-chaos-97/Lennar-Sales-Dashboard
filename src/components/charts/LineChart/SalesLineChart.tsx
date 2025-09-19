@@ -7,3 +7,5 @@ import { SalesDetailObject } from '@/types/sales'
 interface LineChartProps {
   id: string
   width?: number
+  height?: number
+  data: SalesDetailObject['graph']

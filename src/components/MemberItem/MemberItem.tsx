@@ -5,3 +5,4 @@ import { getRandomColor } from '@/utils/helper'
 import { useAppState } from '@/contexts/StateContext'
 
 interface MemberItemProps {
+  cohort_rank: number

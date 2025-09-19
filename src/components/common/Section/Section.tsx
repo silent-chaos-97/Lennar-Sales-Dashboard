@@ -11,3 +11,5 @@ interface SectionProps {
   category?: string
   more?: React.ReactNode
   timestampList?: Record<string, string>
+  categoryList?: Record<string, string>
+  onSelectTimestamp?: (timestamp: string) => void

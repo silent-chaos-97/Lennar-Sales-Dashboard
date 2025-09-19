@@ -13,3 +13,33 @@ import SubPacingAnalysis from './sub-pacing-analysis'
 import PricingAnalysis from '../pricing-analysis/pricing-analysis'
 import Fade from '@mui/material/Fade'
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown'
+import Scrollbar from 'react-scrollbars-custom'
+
+interface SalesDetailsProps {
+  subPacingData: SubCohortItem
+  pacingCohortsList: { idx: number; name: string; status: string }[]
+  onClose: () => void
+  onSelect: (id: number) => void
+}
+interface SalesDetailsListProps {
+  idx: number
+  name: string
+  status: string
+}
+interface ListProps {
+  list: SalesDetailsListProps[]
+  choose: (idx: number) => void
+  showList: (show: boolean) => void
+}
+
+const List = ({ list, choose, showList }: ListProps) => {
+  const handleChoose = (idx: number) => {
+    choose(idx)
+    showList(false)
+  }
+  return (
+    <Box
+      sx={{
+        position: 'absolute',
+        px: 2,
+        py: 2,

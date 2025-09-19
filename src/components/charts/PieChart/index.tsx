@@ -8,3 +8,5 @@ interface PieChartProps {
   width?: number
   height?: number
   data: Record<string, number>
+  activeName: string
+  onClickSlice: (value: Array<string | number>) => void

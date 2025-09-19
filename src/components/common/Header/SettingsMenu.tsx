@@ -15,3 +15,6 @@ import { useAppState } from '@/contexts/StateContext'
 import { Checkbox } from '@mui/material'
 
 interface SettingsMenuProps {
+  onClose: () => void
+}
+

@@ -9,7 +9,6 @@ import { styled } from '@mui/material/styles'
 import { useState, useMemo, useEffect, useRef } from 'react'
 import PacingDetails from '../pacing-details/pacing-details'
 import { useAppState } from '@/contexts/StateContext'
-import { useResizeDetector } from 'react-resize-detector'
 import PieChart from '@/components/charts/PieChart'
 import { PACING_ZOOM_LEVEL, PACING_MAP_OFFSETS, STATUS_COLORS } from '@/utils/constant'
 import { SubCohortItem } from '@/types/pacing'
@@ -18,3 +17,7 @@ import CustomTooltip from '@/components/common/CustomTooltip'
 import DataAlert from '@/components/common/CustomTooltip/DataAlert'
 
 const MarkerIcon = styled('div', {
+  shouldForwardProp: (prop) => !['color', 'active'].includes(prop as string)
+})((props: { active: boolean; color: string }) => ({
+  backgroundColor: props.color || 'rgba(28,209,161,0.85)',
+  borderRadius: '50%',

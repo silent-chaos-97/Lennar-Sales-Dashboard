@@ -15,3 +15,7 @@ interface StateContextValues {
   leaderboards?: LeaderboardsState
   performanceTimeframeState: Record<string, IscPerformanceState>
   activityTimeframeState: Record<string, CurrentActivityState>
+  pacingState?: PacingState
+  salesTimeframeState: Record<string, SalesState>
+  pricingState?: PricingState
+  insightState?: InsightState

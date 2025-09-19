@@ -27,3 +27,9 @@ const MarkerIcon = styled('div', {
   backgroundColor: props.color,
   borderRadius: '50%',
   boxSizing: 'border-box',
+  height: props.radius,
+  width: props.radius,
+  display: 'flex',
+  justifyContent: 'center',
+  alignItems: 'center',
+  cursor: 'pointer'

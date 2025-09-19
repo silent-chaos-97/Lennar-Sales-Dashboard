@@ -18,3 +18,6 @@ import KPIWidget from './kpi-widget'
 import { useClickAway } from 'react-use'
 import { useRef } from 'react'
 import { pluralize } from '@/utils/helper'
+import CustomTooltip from '@/components/common/CustomTooltip'
+
+const NHSDetail = ({

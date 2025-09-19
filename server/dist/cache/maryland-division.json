@@ -2905,6 +2905,7 @@
                 "appts_kept": {
                   "color": "red",
                   "goal_value": 75,
+                  "percent_value": 65.52
                 },
                 "appts_missed": 1,
                 "appts_set": 0,
@@ -4078,7 +4079,6 @@
               "cohort_rank": 3,
               "division_name": "Maryland",
               "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_francine_miser_lr_jpg",
-              "name": "Francine Miser",
               "national_rank": 96,
               "pop_out_details": {
                 "appt_kept_cohort_rank": 5,
@@ -4688,3 +4688,878 @@
                 "total_sales": 0,
                 "total_texts": 0,
                 "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.26
+                }
+              },
+              "summary": "11.45% leads with appointment set"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Maryland",
+              "image_url": "",
+              "name": "Darian Robinson",
+              "national_rank": 186,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 4,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 132,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 112,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 65.52
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95.83
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 13.75
+                },
+                "sales_cohort_rank": 5,
+                "sales_division_rank": 5,
+                "sales_national_rank": 174,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 98.41
+                }
+              },
+              "summary": "9.94% leads with appointment set"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Maryland",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_francine_miser_lr_jpg",
+              "name": "Francine Miser",
+              "national_rank": 191,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 5,
+                "appt_kept_division_rank": 5,
+                "appt_kept_national_rank": 154,
+                "appt_set_cohort_rank": 5,
+                "appt_set_division_rank": 5,
+                "appt_set_national_rank": 159,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 57.89
+                },
+                "appts_missed": 7,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 85.71
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 7.84
+                },
+                "sales_cohort_rank": 4,
+                "sales_division_rank": 4,
+                "sales_national_rank": 168,
+                "total_calls": 27,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "9.70% leads with appointment set"
+            }
+          ],
+          "WTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Maryland",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lisa_jennings_lr_jpg",
+              "name": "Lisa Jennings",
+              "national_rank": 75,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 116,
+                "appt_set_cohort_rank": 4,
+                "appt_set_division_rank": 4,
+                "appt_set_national_rank": 138,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 116.67
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 93.33
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10.71
+                },
+                "sales_cohort_rank": 1,
+                "sales_division_rank": 1,
+                "sales_national_rank": 59,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95.45
+                }
+              },
+              "summary": "17.86% leads with appointment set"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Maryland",
+              "image_url": "",
+              "name": "Darian Robinson",
+              "national_rank": 129,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 4,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 132,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 112,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 65.52
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95.83
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 13.75
+                },
+                "sales_cohort_rank": 5,
+                "sales_division_rank": 5,
+                "sales_national_rank": 174,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 98.41
+                }
+              },
+              "summary": "10.00% leads with appointment set"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Maryland",
+              "image_url": "",
+              "name": "Avia Burnett",
+              "national_rank": 141,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 86,
+                "appt_set_cohort_rank": 2,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 107,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 79.41
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 92.31
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 14.1
+                },
+                "sales_cohort_rank": 2,
+                "sales_division_rank": 2,
+                "sales_national_rank": 64,
+                "total_calls": 15,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 90.74
+                }
+              },
+              "summary": "8.70% leads with appointment set"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Maryland",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_francine_miser_lr_jpg",
+              "name": "Francine Miser",
+              "national_rank": 164,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 5,
+                "appt_kept_division_rank": 5,
+                "appt_kept_national_rank": 154,
+                "appt_set_cohort_rank": 5,
+                "appt_set_division_rank": 5,
+                "appt_set_national_rank": 159,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 57.89
+                },
+                "appts_missed": 7,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 85.71
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 7.84
+                },
+                "sales_cohort_rank": 4,
+                "sales_division_rank": 4,
+                "sales_national_rank": 168,
+                "total_calls": 27,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "4.76% leads with appointment set"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Maryland",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_tammy_brown_lr_jpg",
+              "name": "Tammy Brown",
+              "national_rank": 171,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 61,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 93,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 115.38
+                },
+                "appts_missed": 3,
+                "appts_set": 3,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 87.5
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10.53
+                },
+                "sales_cohort_rank": 3,
+                "sales_division_rank": 3,
+                "sales_national_rank": 93,
+                "total_calls": 31,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.26
+                }
+              },
+              "summary": "3.57% leads with appointment set"
+            }
+          ]
+        },
+        "leads_with_followup": {
+          "MTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Maryland",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_tammy_brown_lr_jpg",
+              "name": "Tammy Brown",
+              "national_rank": 49,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 61,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 93,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 115.38
+                },
+                "appts_missed": 3,
+                "appts_set": 3,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 87.5
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10.53
+                },
+                "sales_cohort_rank": 3,
+                "sales_division_rank": 3,
+                "sales_national_rank": 93,
+                "total_calls": 31,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.26
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Maryland",
+              "image_url": "",
+              "name": "Avia Burnett",
+              "national_rank": 171,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 86,
+                "appt_set_cohort_rank": 2,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 107,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 79.41
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 92.31
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 14.1
+                },
+                "sales_cohort_rank": 2,
+                "sales_division_rank": 2,
+                "sales_national_rank": 64,
+                "total_calls": 15,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 90.74
+                }
+              },
+              "summary": "94.12% leads with followup"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Maryland",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lisa_jennings_lr_jpg",
+              "name": "Lisa Jennings",
+              "national_rank": 176,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 116,
+                "appt_set_cohort_rank": 4,
+                "appt_set_division_rank": 4,
+                "appt_set_national_rank": 138,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 116.67
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 93.33
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10.71
+                },
+                "sales_cohort_rank": 1,
+                "sales_division_rank": 1,
+                "sales_national_rank": 59,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95.45
+                }
+              },
+              "summary": "87.50% leads with followup"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Maryland",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_francine_miser_lr_jpg",
+              "name": "Francine Miser",
+              "national_rank": 179,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 5,
+                "appt_kept_division_rank": 5,
+                "appt_kept_national_rank": 154,
+                "appt_set_cohort_rank": 5,
+                "appt_set_division_rank": 5,
+                "appt_set_national_rank": 159,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 57.89
+                },
+                "appts_missed": 7,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 85.71
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 7.84
+                },
+                "sales_cohort_rank": 4,
+                "sales_division_rank": 4,
+                "sales_national_rank": 168,
+                "total_calls": 27,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "83.33% leads with followup"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Maryland",
+              "image_url": "",
+              "name": "Darian Robinson",
+              "national_rank": 181,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 4,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 132,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 112,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 65.52
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95.83
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 13.75
+                },
+                "sales_cohort_rank": 5,
+                "sales_division_rank": 5,
+                "sales_national_rank": 174,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 98.41
+                }
+              },
+              "summary": "80.00% leads with followup"
+            }
+          ],
+          "QTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Maryland",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_tammy_brown_lr_jpg",
+              "name": "Tammy Brown",
+              "national_rank": 40,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 61,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 93,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 115.38
+                },
+                "appts_missed": 3,
+                "appts_set": 3,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 87.5
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10.53
+                },
+                "sales_cohort_rank": 3,
+                "sales_division_rank": 3,
+                "sales_national_rank": 93,
+                "total_calls": 31,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 97.26
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Maryland",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lisa_jennings_lr_jpg",
+              "name": "Lisa Jennings",
+              "national_rank": 170,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 116,
+                "appt_set_cohort_rank": 4,
+                "appt_set_division_rank": 4,
+                "appt_set_national_rank": 138,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 116.67
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 93.33
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10.71
+                },
+                "sales_cohort_rank": 1,
+                "sales_division_rank": 1,
+                "sales_national_rank": 59,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95.45
+                }
+              },
+              "summary": "96.47% leads with followup"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Maryland",
+              "image_url": "",
+              "name": "Avia Burnett",
+              "national_rank": 177,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 86,
+                "appt_set_cohort_rank": 2,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 107,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 79.41
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 92.31
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 14.1
+                },
+                "sales_cohort_rank": 2,
+                "sales_division_rank": 2,
+                "sales_national_rank": 64,
+                "total_calls": 15,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 90.74
+                }
+              },
+              "summary": "95.33% leads with followup"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Maryland",
+              "image_url": "",
+              "name": "Darian Robinson",
+              "national_rank": 204,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 4,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 132,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 112,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 65.52
+                },
+                "appts_missed": 1,

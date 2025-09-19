@@ -15,3 +15,7 @@ import DataAlert from '@/components/common/CustomTooltip/DataAlert'
 import { PerformanceProvider, usePerformanceContext } from './context'
 import { PERFORMANCE_TIMEFRAMES } from '@/types/performance'
 
+const AxisXStartTickComponent = (props: RadialAxisTickProps) => {
+  const { performanceState } = usePerformanceContext()
+  const value = performanceState?.[props.label].percent_value || 0
+  const labels = {

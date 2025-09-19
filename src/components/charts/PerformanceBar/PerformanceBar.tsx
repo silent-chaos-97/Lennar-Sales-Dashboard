@@ -7,3 +7,5 @@ import { styled } from '@mui/material/styles'
 
 interface TrackProps {
   color?: string
+  percent: number
+}

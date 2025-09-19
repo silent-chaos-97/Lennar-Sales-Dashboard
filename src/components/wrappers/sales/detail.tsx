@@ -14,3 +14,7 @@ import ChevronLeftIcon from '@mui/icons-material/ChevronLeft'
 import ChevronRightIcon from '@mui/icons-material/ChevronRight'
 import { Scrollbar } from 'react-scrollbars-custom'
 import { truncateText } from '@/utils/helper'
+
+interface SalesDetailsProps {
+  svgSize: {
+    width: number

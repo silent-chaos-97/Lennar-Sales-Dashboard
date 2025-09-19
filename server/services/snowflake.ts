@@ -15,3 +15,6 @@ if (
   console.error('Please set the env vars properly!')
   process.exit(1)
 }
+
+const snowflakeOptions: ConnectionOptions = {
+  account: process.env.SNOWFLAKE_ACCOUNT,

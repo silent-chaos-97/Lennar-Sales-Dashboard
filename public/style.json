@@ -59,6 +59,7 @@
                 "collapsed": true
             },
             "Point of interest labels, poi-labels": {
+                "name": "Point of interest labels, poi-labels",
                 "collapsed": true
             },
             "Walking, cycling, etc., tunnels": {
@@ -204,3 +205,41 @@
     "center": [-80.052, 26.6808],
     "zoom": 10.27,
     "bearing": 0,
+    "pitch": 0,
+    "fog": {
+        "range": [-1, 10],
+        "color": "hsl(0, 0%, 0%)",
+        "high-color": "hsl(0, 0%, 0%)",
+        "space-color": "hsl(0, 0%, 0%)",
+        "horizon-blend": 0.1,
+        "star-intensity": 0
+    },
+    "sources": {
+        "composite": {
+            "url": "mapbox://mapbox.mapbox-streets-v8",
+            "type": "vector"
+        }
+    },
+    "sprite": "mapbox://sprites/chrispeterson/clgwbjm2600hf01pf3d53a1hf/b4vavr6d61jtl5m32pg94m7gy",
+    "glyphs": "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
+    "projection": {"name": "globe"},
+    "layers": [
+        {
+            "id": "land",
+            "type": "background",
+            "metadata": {
+                "mapbox:featureComponent": "land-and-water",
+                "mapbox:group": "Land & water, land"
+            },
+            "layout": {},
+            "paint": {
+                "background-color": [
+                    "interpolate",
+                    ["linear"],
+                    ["zoom"],
+                    9,
+                    "#334057",
+                    11,
+                    "rgb(39, 48, 64)"
+                ]
+            }

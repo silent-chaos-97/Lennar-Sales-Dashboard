@@ -6,3 +6,4 @@ import List from '@mui/material/List'
 import { useAppState } from '@/contexts/StateContext'
 import { Division } from '@/types/cohort'
 import SelectMenuItem from './SelectMenuItem'
+

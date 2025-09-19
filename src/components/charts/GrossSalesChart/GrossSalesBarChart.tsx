@@ -5,3 +5,5 @@ import * as d3 from 'd3'
 import { DateTime } from 'luxon'
 import { Typography } from '@mui/material'
 
+interface GrossSalesBarChartProps {
+  id: string

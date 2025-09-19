@@ -12,3 +12,6 @@ interface BoxPlotProps {
 
 const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => {
   useEffect(() => {
+    // Calculate the domain for the x and y scales
+    const boxPlotData = Object.keys(data).map((key: string) => {
+      return [
