@@ -19,3 +19,7 @@ interface StateContextValues {
   salesTimeframeState: Record<string, SalesState>
   pricingState?: PricingState
   insightState?: InsightState
+  cohorts: Division[]
+  locations: CohortListItem[]
+  refreshData: (reset: boolean) => void
+  currentCohort: Division

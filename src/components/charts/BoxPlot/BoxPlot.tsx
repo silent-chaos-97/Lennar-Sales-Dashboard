@@ -15,3 +15,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
     // Calculate the domain for the x and y scales
     const boxPlotData = Object.keys(data).map((key: string) => {
       return [
+        data?.[key]?.percentile_5 || 0,
+        data?.[key]?.percentile_25 || 0,
+        data?.[key]?.percentile_50 || 0,

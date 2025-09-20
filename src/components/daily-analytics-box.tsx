@@ -7,3 +7,6 @@ import { useMemo } from 'react'
 import { SalesDetailObject } from '@/types/sales'
 import CustomTooltip from './common/CustomTooltip'
 import DataAlert from './common/CustomTooltip/DataAlert'
+import SalesLineChart from './charts/LineChart/SalesLineChart'
+
+export interface DailyAnalyticsBoxProps {

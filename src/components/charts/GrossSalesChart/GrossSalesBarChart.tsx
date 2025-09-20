@@ -7,3 +7,5 @@ import { Typography } from '@mui/material'
 
 interface GrossSalesBarChartProps {
   id: string
+  width: number
+  height: number

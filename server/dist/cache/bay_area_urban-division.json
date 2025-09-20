@@ -49,12 +49,12 @@
           "percent_value": 0
         },
         "DBT_UPDATED_AT": "2023-10-12 19:16:33.196"
+      },
       "t7d": {
         "COHORT": "Bay Area Urban",
         "COHORT_TYPE": "division",
         "TIMEFRAME": "t7d",
         "INBOUND_CALLS_ANSWERED": {
-          "color": "red",
           "goal_value": 90,
           "percent_value": 0
         },
@@ -137,3 +137,31 @@
           "percent_value": 0
         },
         "BEBACKS_WITH_FOLLOWUP": {
+          "color": "red",
+          "goal_value": 90,
+          "percent_value": 0
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:33.196"
+      }
+    },
+    "current_activity_timeframe": {
+      "yesterday": {
+        "COHORT": "Bay Area Urban",
+        "COHORT_TYPE": "division",
+        "CALLS_TICKER_ARRAY": [],
+        "CHATS_TEXTS_TICKER_ARRAY": [],
+        "APPOINTMENT_SET_TICKER_ARRAY": [
+          {
+            "activity_status": "Active",
+            "activity_time": "2023-10-14 12:00:00.000",
+            "sort": 9
+          },
+          {
+            "activity_status": "Active",
+            "activity_time": "2023-10-14 13:00:00.000",
+            "sort": 4
+          },
+          {
+            "activity_status": "Active",
+            "activity_time": "2023-10-15 12:00:00.000",
+            "sort": 4

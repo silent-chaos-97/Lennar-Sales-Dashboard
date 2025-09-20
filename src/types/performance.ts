@@ -1,1 +1,1 @@
-  color: string
+export interface PerformanceItem {

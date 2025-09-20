@@ -35,3 +35,4 @@ interface TimerContextSetters {
   setIdleTimeout: (val: number) => void
   setPlaying: (val: boolean) => void
   setDisableRotation: (val: number) => void
+}

@@ -12,9 +12,12 @@ import FormControlLabel from '@mui/material/FormControlLabel'
 import { useAppTimerVariables, useAppTimerSetters, Rotate } from '@/contexts/TimerContext'
 import { ScreenMode, useScreen } from '@/contexts/ScreenContext'
 import { useAppState } from '@/contexts/StateContext'
-import { Checkbox } from '@mui/material'
 
 interface SettingsMenuProps {
   onClose: () => void
 }
 
+const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
+  const { mode, setScreenMode, showTooltips, setShowTooltips } = useScreen()
+  const { cycleTimeout, idleTimeout, disableRotation } = useAppTimerVariables()
+  const { setCycleTimeout, setIdleTimeout, setDisableRotation } = useAppTimerSetters()

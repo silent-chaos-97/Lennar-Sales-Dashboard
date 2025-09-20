@@ -11,3 +11,6 @@ import { SALES_TIMEFRAMES, SalesState } from '@/types/sales'
 
 const Wrapper = styled(Box)({
   position: 'absolute',
+  top: 0,
+  left: 0,
+  bottom: 0,

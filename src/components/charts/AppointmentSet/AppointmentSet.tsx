@@ -22,3 +22,6 @@ interface DayType {
 
 const AppointmentSet = ({
   currentWeekData,
+  prevWeekData,
+  activityTimeframe
+}: AppointmentSetProps) => {

@@ -1,4 +1,3 @@
-import { createTheme } from '@mui/material/styles'
 import LinkBehavior from './MuiLink'
 
 import MabryLight_WOFF from '@/assets/fonts/mabry/light/mabry-light-pro.woff'
@@ -33,4 +32,11 @@ declare module '@mui/material/styles' {
   interface TypeText {
     tertiary: string
     quaternary: string
+  }
+}
+
+// Update the Typography's variant prop options
+declare module '@mui/material/Typography' {
+  interface TypographyPropsVariantOverrides {
+    title: true
   }

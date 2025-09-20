@@ -33,3 +33,10 @@ const MarkerIcon = styled('div', {
   justifyContent: 'center',
   alignItems: 'center',
   cursor: 'pointer'
+}))
+
+const CenterPane = () => {
+  const mapWrapperRef = useRef<HTMLDivElement>(null)
+  const mapRef = useRef<MapRef>(null)
+  const { currentCohort, salesTimeframeState } = useAppState()
+  const { setPlaying, setIdleTimerProgress } = useAppTimerSetters()

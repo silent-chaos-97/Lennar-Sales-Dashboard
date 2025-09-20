@@ -10,3 +10,6 @@ import { LEADERBOARD_TIMEFRAMES } from '@/types/leaderboards'
 interface IscLeaderBoardProps {
   leaderboardData: LeaderboardObj
   categoryList: Record<string, string>
+}
+
+const LeaderboardItems = ({

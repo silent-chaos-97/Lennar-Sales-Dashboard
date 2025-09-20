@@ -77,3 +77,5 @@ const Header = () => {
 
   useClickAway(menuRef, () => {
     setOpenRegionSelectMenu(false)
+  })
+

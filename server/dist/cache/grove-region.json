@@ -567,7 +567,6 @@
               },
               "summary": "40 appointments kept"
             }
-          ],
           "QTD": [
             {
               "cohort_rank": 1,
@@ -10374,3 +10373,2059 @@
                 "appt_set_national_rank": 24,
                 "appts_kept": {
                   "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 63.64
+                },
+                "appts_missed": 5,
+                "appts_set": 3,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 14.29
+                },
+                "sales_cohort_rank": 15,
+                "sales_division_rank": 4,
+                "sales_national_rank": 32,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 92.73
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Dallas/Ft Worth",
+              "image_url": "",
+              "name": "Tessa Bianchini",
+              "national_rank": 24,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 5,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 23,
+                "appt_set_cohort_rank": 7,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 12,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 81.82
+                },
+                "appts_missed": 6,
+                "appts_set": 2,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 86.36
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 8.45
+                },
+                "sales_cohort_rank": 8,
+                "sales_division_rank": 6,
+                "sales_national_rank": 19,
+                "total_calls": 18,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95.52
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Dallas/Ft Worth",
+              "image_url": "",
+              "name": "Sarah Cassara",
+              "national_rank": 25,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 9,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 36,
+                "appt_set_cohort_rank": 8,
+                "appt_set_division_rank": 4,
+                "appt_set_national_rank": 16,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 60.98
+                },
+                "appts_missed": 9,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 14.81
+                },
+                "sales_cohort_rank": 2,
+                "sales_division_rank": 2,
+                "sales_national_rank": 3,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 91.98
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Houston",
+              "image_url": "",
+              "name": "Brenda Valle",
+              "national_rank": 28,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 34,
+                "appt_kept_division_rank": 13,
+                "appt_kept_national_rank": 163,
+                "appt_set_cohort_rank": 34,
+                "appt_set_division_rank": 13,
+                "appt_set_national_rank": 148,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 77.42
+                },
+                "appts_missed": 5,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 66.67
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 24.29
+                },
+                "sales_cohort_rank": 33,
+                "sales_division_rank": 13,
+                "sales_national_rank": 154,
+                "total_calls": 13,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 86
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 9,
+              "division_name": "Houston",
+              "image_url": "",
+              "name": "Endy Matori",
+              "national_rank": 32,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 15,
+                "appt_kept_division_rank": 5,
+                "appt_kept_national_rank": 68,
+                "appt_set_cohort_rank": 14,
+                "appt_set_division_rank": 6,
+                "appt_set_national_rank": 32,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 86.67
+                },
+                "appts_missed": 5,
+                "appts_set": 3,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 91.67
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 20.34
+                },
+                "sales_cohort_rank": 16,
+                "sales_division_rank": 5,
+                "sales_national_rank": 35,
+                "total_calls": 9,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 10,
+              "division_name": "Houston",
+              "image_url": "",
+              "name": "Meagan Forsyth",
+              "national_rank": 38,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 19,
+                "appt_kept_division_rank": 7,
+                "appt_kept_national_rank": 78,
+                "appt_set_cohort_rank": 16,
+                "appt_set_division_rank": 7,
+                "appt_set_national_rank": 56,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 50
+                },
+                "appts_missed": 5,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 9.68
+                },
+                "sales_cohort_rank": 31,
+                "sales_division_rank": 12,
+                "sales_national_rank": 107,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with followup"
+            }
+          ],
+          "QTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Dallas/Ft Worth",
+              "image_url": "",
+              "name": "Tessa Bianchini",
+              "national_rank": 3,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 5,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 23,
+                "appt_set_cohort_rank": 7,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 12,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 81.82
+                },
+                "appts_missed": 6,
+                "appts_set": 2,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 86.36
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 8.45
+                },
+                "sales_cohort_rank": 8,
+                "sales_division_rank": 6,
+                "sales_national_rank": 19,
+                "total_calls": 18,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95.52
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Dallas/Ft Worth",
+              "image_url": "",
+              "name": "Leslie Grimes",
+              "national_rank": 21,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 14,
+                "appt_kept_division_rank": 5,
+                "appt_kept_national_rank": 63,
+                "appt_set_cohort_rank": 15,
+                "appt_set_division_rank": 5,
+                "appt_set_national_rank": 49,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 76.74
+                },
+                "appts_missed": 7,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 50
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 19.57
+                },
+                "sales_cohort_rank": 5,
+                "sales_division_rank": 5,
+                "sales_national_rank": 12,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95.24
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Austin/Central Texas",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jimma_hicks_lr_jpg",
+              "name": "Jimma Hicks",
+              "national_rank": 33,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 17,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 74,
+                "appt_set_cohort_rank": 22,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 73,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 52.63
+                },
+                "appts_missed": 6,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 6.67
+                },
+                "sales_cohort_rank": 19,
+                "sales_division_rank": 4,
+                "sales_national_rank": 43,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Austin/Central Texas",
+              "image_url": "",
+              "name": "Kristal Milholland",
+              "national_rank": 67,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 30,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 133,
+                "appt_set_cohort_rank": 32,
+                "appt_set_division_rank": 5,
+                "appt_set_national_rank": 137,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 0
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 0
+                },
+                "sales_cohort_rank": 7,
+                "sales_division_rank": 2,
+                "sales_national_rank": 13,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Austin/Central Texas",
+              "image_url": "",
+              "name": "Shaelyn Serhus",
+              "national_rank": 86,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 35,
+                "appt_kept_division_rank": 7,
+                "appt_kept_national_rank": 183,
+                "appt_set_cohort_rank": 35,
+                "appt_set_division_rank": 7,
+                "appt_set_national_rank": 172,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 54.17
+                },
+                "appts_missed": 5,
+                "appts_set": 5,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 8.33
+                },
+                "sales_cohort_rank": 30,
+                "sales_division_rank": 6,
+                "sales_national_rank": 112,
+                "total_calls": 29,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with followup"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Dallas/Ft Worth",
+              "image_url": "",
+              "name": "Austin Eberle",
+              "national_rank": 126,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 6,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 26,
+                "appt_set_cohort_rank": 6,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 11,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 44.19
+                },
+                "appts_missed": 5,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 87.5
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 16.19
+                },
+                "sales_cohort_rank": 4,
+                "sales_division_rank": 4,
+                "sales_national_rank": 7,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 86.96
+                }
+              },
+              "summary": "99.67% leads with followup"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Dallas/Ft Worth",
+              "image_url": "",
+              "name": "Sarah Cassara",
+              "national_rank": 127,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 9,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 36,
+                "appt_set_cohort_rank": 8,
+                "appt_set_division_rank": 4,
+                "appt_set_national_rank": 16,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 60.98
+                },
+                "appts_missed": 9,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 14.81
+                },
+                "sales_cohort_rank": 2,
+                "sales_division_rank": 2,
+                "sales_national_rank": 3,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 91.98
+                }
+              },
+              "summary": "99.61% leads with followup"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Dallas/Ft Worth",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_shanna_powell_lr_jpg",
+              "name": "Shanna Powell",
+              "national_rank": 130,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 11,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 40,
+                "appt_set_cohort_rank": 5,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 10,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 45.65
+                },
+                "appts_missed": 10,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 86.67
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 11.11
+                },
+                "sales_cohort_rank": 3,
+                "sales_division_rank": 3,
+                "sales_national_rank": 9,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "99.53% leads with followup"
+            },
+            {
+              "cohort_rank": 9,
+              "division_name": "Houston",
+              "image_url": "",
+              "name": "Allison King",
+              "national_rank": 133,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 17,
+                "appt_kept_division_rank": 6,
+                "appt_kept_national_rank": 73,
+                "appt_set_cohort_rank": 10,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 24,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 63.64
+                },
+                "appts_missed": 5,
+                "appts_set": 3,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 14.29
+                },
+                "sales_cohort_rank": 15,
+                "sales_division_rank": 4,
+                "sales_national_rank": 32,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 92.73
+                }
+              },
+              "summary": "99.03% leads with followup"
+            },
+            {
+              "cohort_rank": 10,
+              "division_name": "Austin/Central Texas",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_paige_mckellar_2_lr_jpg",
+              "name": "Paige McKeller",
+              "national_rank": 135,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 29,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 128,
+                "appt_set_cohort_rank": 28,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 111,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 58.33
+                },
+                "appts_missed": 9,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 17.07
+                },
+                "sales_cohort_rank": 6,
+                "sales_division_rank": 1,
+                "sales_national_rank": 15,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "98.90% leads with followup"
+            }
+          ],
+          "WTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "San Antonio",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_joe_o_malleylr_jpg",
+              "name": "Joe O'Malley",
+              "national_rank": 2,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 3,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 3,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 90
+                },
+                "appts_missed": 3,
+                "appts_set": 5,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 90.48
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 29.23
+                },
+                "sales_cohort_rank": 10,
+                "sales_division_rank": 1,
+                "sales_national_rank": 11,
+                "total_calls": 20,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 75.47
+                }
+              },
+              "summary": "0.00% leads with followup"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Houston",
+              "image_url": "",
+              "name": "Belinda Wallace",
+              "national_rank": 4,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 6,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 25,
+                "appt_set_cohort_rank": 4,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 9,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 50.96
+                },
+                "appts_missed": 7,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 91.67
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 16.1
+                },
+                "sales_cohort_rank": 11,
+                "sales_division_rank": 1,
+                "sales_national_rank": 25,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "0.00% leads with followup"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "San Antonio",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_matthew_pipperlr_jpg",
+              "name": "Matthew Pipper",
+              "national_rank": 6,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 8,
+                "appt_set_cohort_rank": 2,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 4,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 66.28
+                },
+                "appts_missed": 4,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 69.23
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 44.55
+                },
+                "sales_cohort_rank": 14,
+                "sales_division_rank": 2,
+                "sales_national_rank": 16,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 81.72
+                }
+              },
+              "summary": "0.00% leads with followup"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Houston",
+              "image_url": "",
+              "name": "Meagan Forsyth",
+              "national_rank": 7,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 19,
+                "appt_kept_division_rank": 7,
+                "appt_kept_national_rank": 78,
+                "appt_set_cohort_rank": 16,
+                "appt_set_division_rank": 7,
+                "appt_set_national_rank": 56,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 50
+                },
+                "appts_missed": 5,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 9.68
+                },
+                "sales_cohort_rank": 31,
+                "sales_division_rank": 12,
+                "sales_national_rank": 107,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "0.00% leads with followup"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Houston",
+              "image_url": "",
+              "name": "Allison King",
+              "national_rank": 11,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 17,
+                "appt_kept_division_rank": 6,
+                "appt_kept_national_rank": 73,
+                "appt_set_cohort_rank": 10,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 24,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 63.64
+                },
+                "appts_missed": 5,
+                "appts_set": 3,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 14.29
+                },
+                "sales_cohort_rank": 15,
+                "sales_division_rank": 4,
+                "sales_national_rank": 32,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 92.73
+                }
+              },
+              "summary": "0.00% leads with followup"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Austin/Central Texas",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jimma_hicks_lr_jpg",
+              "name": "Jimma Hicks",
+              "national_rank": 15,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 17,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 74,
+                "appt_set_cohort_rank": 22,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 73,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 52.63
+                },
+                "appts_missed": 6,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 6.67
+                },
+                "sales_cohort_rank": 19,
+                "sales_division_rank": 4,
+                "sales_national_rank": 43,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "0.00% leads with followup"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Houston",
+              "image_url": "",
+              "name": "Sarah Crum",
+              "national_rank": 16,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 23,
+                "appt_kept_division_rank": 9,
+                "appt_kept_national_rank": 93,
+                "appt_set_cohort_rank": 19,
+                "appt_set_division_rank": 8,
+                "appt_set_national_rank": 65,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 60
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10.77
+                },
+                "sales_cohort_rank": 23,
+                "sales_division_rank": 8,
+                "sales_national_rank": 67,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "0.00% leads with followup"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Dallas/Ft Worth",
+              "image_url": "",
+              "name": "Austin Eberle",
+              "national_rank": 17,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 6,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 26,
+                "appt_set_cohort_rank": 6,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 11,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 44.19
+                },
+                "appts_missed": 5,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 87.5
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 16.19
+                },
+                "sales_cohort_rank": 4,
+                "sales_division_rank": 4,
+                "sales_national_rank": 7,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 86.96
+                }
+              },
+              "summary": "0.00% leads with followup"
+            },
+            {
+              "cohort_rank": 9,
+              "division_name": "San Antonio",
+              "image_url": "",
+              "name": "Nivia O'Malley",
+              "national_rank": 18,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 6,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 6,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 107.69
+                },
+                "appts_missed": 3,
+                "appts_set": 2,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 60.87
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 32.65
+                },
+                "sales_cohort_rank": 18,
+                "sales_division_rank": 3,
+                "sales_national_rank": 24,
+                "total_calls": 19,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 92.68
+                }
+              },
+              "summary": "0.00% leads with followup"
+            },
+            {
+              "cohort_rank": 10,
+              "division_name": "Houston",
+              "image_url": "",
+              "name": "Richard Sellar",
+              "national_rank": 21,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 10,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 39,
+                "appt_set_cohort_rank": 11,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 25,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 65.96
+                },
+                "appts_missed": 4,
+                "appts_set": 1,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 94.12
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 25
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 16.88
+                },
+                "sales_cohort_rank": 21,
+                "sales_division_rank": 6,
+                "sales_national_rank": 53,
+                "total_calls": 1,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 98.46
+                }
+              },
+              "summary": "0.00% leads with followup"
+            }
+          ]
+        },
+        "leads_with_trifecta": {
+          "MTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Dallas/Ft Worth",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_shanna_powell_lr_jpg",
+              "name": "Shanna Powell",
+              "national_rank": 5,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 11,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 40,
+                "appt_set_cohort_rank": 5,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 10,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 45.65
+                },
+                "appts_missed": 10,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 86.67
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 11.11
+                },
+                "sales_cohort_rank": 3,
+                "sales_division_rank": 3,
+                "sales_national_rank": 9,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with trifecta"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "San Antonio",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_stephon_patronlr_jpg",
+              "name": "Stephon Patron",
+              "national_rank": 7,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 4,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 15,
+                "appt_set_cohort_rank": 9,
+                "appt_set_division_rank": 4,
+                "appt_set_national_rank": 19,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 85.11
+                },
+                "appts_missed": 2,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 25
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 33.33
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 27.78
+                },
+                "sales_cohort_rank": 32,
+                "sales_division_rank": 7,
+                "sales_national_rank": 103,
+                "total_calls": 19,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with trifecta"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Houston",
+              "image_url": "",
+              "name": "Lindsey Monroe",
+              "national_rank": 10,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 22,
+                "appt_kept_division_rank": 8,
+                "appt_kept_national_rank": 91,
+                "appt_set_cohort_rank": 24,
+                "appt_set_division_rank": 9,
+                "appt_set_national_rank": 76,
+                "appts_kept": {
+                  "color": "yellow",
+                  "goal_value": 75,
+                  "percent_value": 72.73
+                },
+                "appts_missed": 6,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "yellow",
+                  "goal_value": 13,
+                  "percent_value": 12.31
+                },
+                "sales_cohort_rank": 24,
+                "sales_division_rank": 9,
+                "sales_national_rank": 73,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with trifecta"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Houston",
+              "image_url": "",
+              "name": "Endy Matori",
+              "national_rank": 13,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 15,
+                "appt_kept_division_rank": 5,
+                "appt_kept_national_rank": 68,
+                "appt_set_cohort_rank": 14,
+                "appt_set_division_rank": 6,
+                "appt_set_national_rank": 32,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 86.67
+                },
+                "appts_missed": 5,
+                "appts_set": 3,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 91.67
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 20.34
+                },
+                "sales_cohort_rank": 16,
+                "sales_division_rank": 5,
+                "sales_national_rank": 35,
+                "total_calls": 9,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with trifecta"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Houston",
+              "image_url": "",
+              "name": "Meagan Forsyth",
+              "national_rank": 16,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 19,
+                "appt_kept_division_rank": 7,
+                "appt_kept_national_rank": 78,
+                "appt_set_cohort_rank": 16,
+                "appt_set_division_rank": 7,
+                "appt_set_national_rank": 56,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 50
+                },
+                "appts_missed": 5,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 9.68
+                },
+                "sales_cohort_rank": 31,
+                "sales_division_rank": 12,
+                "sales_national_rank": 107,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with trifecta"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Austin/Central Texas",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jimma_hicks_lr_jpg",
+              "name": "Jimma Hicks",
+              "national_rank": 19,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 17,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 74,
+                "appt_set_cohort_rank": 22,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 73,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 52.63
+                },
+                "appts_missed": 6,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 6.67
+                },
+                "sales_cohort_rank": 19,
+                "sales_division_rank": 4,
+                "sales_national_rank": 43,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with trifecta"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Houston",
+              "image_url": "",
+              "name": "Sarah Crum",
+              "national_rank": 20,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 23,
+                "appt_kept_division_rank": 9,
+                "appt_kept_national_rank": 93,
+                "appt_set_cohort_rank": 19,
+                "appt_set_division_rank": 8,
+                "appt_set_national_rank": 65,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 60
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 10.77
+                },
+                "sales_cohort_rank": 23,
+                "sales_division_rank": 8,
+                "sales_national_rank": 67,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with trifecta"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Austin/Central Texas",
+              "image_url": "",
+              "name": "Mikki Ludecke",
+              "national_rank": 28,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 25,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 101,
+                "appt_set_cohort_rank": 29,
+                "appt_set_division_rank": 4,
+                "appt_set_national_rank": 117,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 92
+                },
+                "appts_missed": 1,
+                "appts_set": 2,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 8.51
+                },
+                "sales_cohort_rank": 20,
+                "sales_division_rank": 5,
+                "sales_national_rank": 69,
+                "total_calls": 8,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with trifecta"
+            },
+            {
+              "cohort_rank": 9,
+              "division_name": "Austin/Central Texas",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_mari_freeman_lr_jpg",
+              "name": "Mari Freeman",
+              "national_rank": 32,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 31,
+                "appt_kept_division_rank": 5,
+                "appt_kept_national_rank": 138,
+                "appt_set_cohort_rank": 27,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 108,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 51.61
+                },
+                "appts_missed": 2,
+                "appts_set": 3,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 8
+                },
+                "sales_cohort_rank": 17,
+                "sales_division_rank": 3,
+                "sales_national_rank": 44,
+                "total_calls": 11,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with trifecta"
+            },
+            {
+              "cohort_rank": 10,
+              "division_name": "Austin/Central Texas",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_paige_mckellar_2_lr_jpg",
+              "name": "Paige McKeller",
+              "national_rank": 34,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 29,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 128,
+                "appt_set_cohort_rank": 28,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 111,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 58.33
+                },
+                "appts_missed": 9,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 17.07
+                },
+                "sales_cohort_rank": 6,
+                "sales_division_rank": 1,
+                "sales_national_rank": 15,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "100.00% leads with trifecta"
+            }
+          ],
+          "QTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Austin/Central Texas",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jimma_hicks_lr_jpg",
+              "name": "Jimma Hicks",
+              "national_rank": 11,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 17,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 74,
+                "appt_set_cohort_rank": 22,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 73,
+                "appts_kept": {
+                  "color": "red",
+                  "goal_value": 75,
+                  "percent_value": 52.63
+                },
+                "appts_missed": 6,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 6.67
+                },
+                "sales_cohort_rank": 19,
+                "sales_division_rank": 4,
+                "sales_national_rank": 43,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,

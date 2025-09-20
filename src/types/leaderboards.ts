@@ -8,3 +8,5 @@ export interface LeaderboardISCMemberDetail {
   appt_kept_division_rank: number
   appt_kept_national_rank: number
   appt_set_division_rank: number
+  appt_set_national_rank: number
+  appts_missed: number

@@ -18,3 +18,7 @@ if (
 
 const snowflakeOptions: ConnectionOptions = {
   account: process.env.SNOWFLAKE_ACCOUNT,
+  username: process.env.SNOWFLAKE_USERNAME,
+  password: process.env.SNOWFLAKE_PASSWORD,
+  role: process.env.SNOWFLAKE_ROLE,
+  warehouse: process.env.SNOWFLAKE_WAREHOUSE,

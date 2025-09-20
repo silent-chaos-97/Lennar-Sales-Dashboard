@@ -4,3 +4,5 @@ export interface SalesDetailObject {
   percent_change: number
   value: number
   graph: { x_axis: string; y_axis: number; sort: number }[]
+}
+

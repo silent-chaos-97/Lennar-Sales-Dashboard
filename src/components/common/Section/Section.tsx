@@ -13,3 +13,6 @@ interface SectionProps {
   timestampList?: Record<string, string>
   categoryList?: Record<string, string>
   onSelectTimestamp?: (timestamp: string) => void
+  onSelectCategory?: (category: string) => void
+  dropdownAlignment?: 'left' | 'right' | 'center'
+}

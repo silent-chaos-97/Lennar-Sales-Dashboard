@@ -21,3 +21,50 @@ import { pluralize } from '@/utils/helper'
 import CustomTooltip from '@/components/common/CustomTooltip'
 
 const NHSDetail = ({
+  open,
+  name,
+  onPrev,
+  onNext,
+  onClose,
+  data,
+  imageUrl,
+  cohortRank,
+  nationalRank,
+  disablePrevNext,
+  activeTimestamp
+}: LeaderboardDetailProps) => {
+  const wrapperRef = useRef<HTMLDivElement>(null)
+  useClickAway(wrapperRef, () => onClose())
+
+  return (
+    <Fade in={open}>
+      <Box
+        sx={{
+          position: 'absolute',
+          left: 0,
+          top: 60,
+          bottom: 0,
+          right: 0,
+          bgcolor: 'rgba(33,41,54,0.67)',
+          zIndex: 3
+        }}
+      >
+        <Box
+          sx={{
+            position: 'absolute',
+            top: 16,
+            left: '50%',
+            transform: 'translateX(-50%)',
+            width: 1420,
+            boxShadow: 24,
+            px: 3,
+            py: 2.5,
+            borderRadius: 2
+          }}
+          ref={wrapperRef}
+        >
+          <Stack direction="row" justifyContent="space-between">
+            <Typography variant="h3" fontWeight={700}>
+              {name}
+            </Typography>
+            <Stack direction="row">

@@ -9,3 +9,5 @@ interface LineChartProps {
   width?: number
   height?: number
   data: SalesDetailObject['graph']
+}
+

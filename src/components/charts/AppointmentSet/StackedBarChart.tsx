@@ -10,3 +10,6 @@ interface FrameData {
   f3: number | undefined
   [key: string]: number | string | undefined
 }
+
+interface DataEntry {
+  weekday: string

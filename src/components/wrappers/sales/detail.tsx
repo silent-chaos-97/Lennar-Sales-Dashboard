@@ -18,3 +18,7 @@ import { truncateText } from '@/utils/helper'
 interface SalesDetailsProps {
   svgSize: {
     width: number
+    height: number
+    x: number
+    y: number
+  }

@@ -43,3 +43,4 @@ const List = ({ list, choose, showList }: ListProps) => {
         position: 'absolute',
         px: 2,
         py: 2,
+        top: 80,

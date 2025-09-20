@@ -4,3 +4,4 @@ export const STATUS_COLORS = {
   on_pace: '#00904f',
   behind_pace: '#e76161',
   very_behind_pace: '#dc3030'
+}

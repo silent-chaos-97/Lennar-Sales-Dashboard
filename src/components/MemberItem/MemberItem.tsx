@@ -6,3 +6,5 @@ import { useAppState } from '@/contexts/StateContext'
 
 interface MemberItemProps {
   cohort_rank: number
+  national_rank: number
+  divisionName?: string

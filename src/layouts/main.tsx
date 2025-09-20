@@ -3,6 +3,7 @@ import LeftPane from './left-pane'
 import CenterPane from './center-pane'
 import RightPane from './right-pane'
 import Header from '@/components/common/Header'
+import { useResizeDetector } from 'react-resize-detector'
 import { useCallback, useEffect, useRef, useState } from 'react'
 import Box from '@mui/material/Box'
 import { ScreenMode, ScreenPanes, useScreen } from '@/contexts/ScreenContext'
@@ -14,3 +15,6 @@ const Main = styled('main')({
   width: '100%'
 })
 
+const DashboardLayout = styled('div')({
+  display: 'grid',
+  gridTemplateColumns:

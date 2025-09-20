@@ -3520,6 +3520,7 @@
                 "total_chats_percent_change": 0,
                 "total_chats_texts": 0,
                 "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
                 "total_texts": 0,
                 "total_texts_percent_change": 0,
                 "trifecta": {
@@ -4636,3 +4637,923 @@
               "appts_set": 3,
               "appts_set_percent_change": 0,
               "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              },
+              "follow_up": {
+                "color": "green",
+                "goal_value": 80,
+                "percent_value": 100
+              },
+              "leads_w_appts_set": {
+                "color": "green",
+                "goal_value": 13,
+                "percent_value": 18.35
+              },
+              "sales_cohort_rank": 2,
+              "sales_division_rank": 2,
+              "sales_national_rank": 89,
+              "total_calls": 38,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              }
+            },
+            "summary": "178 appointments"
+          },
+          {
+            "cohort_rank": 2,
+            "division_name": "Virginia",
+            "image_url": "",
+            "name": "Stacy Nicholson",
+            "national_rank": 151,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 2,
+              "appt_kept_division_rank": 2,
+              "appt_kept_national_rank": 134,
+              "appt_set_cohort_rank": 2,
+              "appt_set_division_rank": 2,
+              "appt_set_national_rank": 151,
+              "appts_kept": {
+                "color": "green",
+                "goal_value": 75,
+                "percent_value": 100
+              },
+              "appts_missed": 5,
+              "appts_set": 0,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "yellow",
+                "goal_value": 90,
+                "percent_value": 83.33
+              },
+              "follow_up": {
+                "color": "green",
+                "goal_value": 80,
+                "percent_value": 100
+              },
+              "leads_w_appts_set": {
+                "color": "red",
+                "goal_value": 13,
+                "percent_value": 8.89
+              },
+              "sales_cohort_rank": 1,
+              "sales_division_rank": 1,
+              "sales_national_rank": 84,
+              "total_calls": 0,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              }
+            },
+            "summary": "96 appointments"
+          },
+          {
+            "cohort_rank": 3,
+            "division_name": "Virginia",
+            "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ellen_dianalr_jpg",
+            "name": "Ellen Diana",
+            "national_rank": 164,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 3,
+              "appt_kept_division_rank": 3,
+              "appt_kept_national_rank": 165,
+              "appt_set_cohort_rank": 3,
+              "appt_set_division_rank": 3,
+              "appt_set_national_rank": 164,
+              "appts_kept": {
+                "color": "green",
+                "goal_value": 75,
+                "percent_value": 92.31
+              },
+              "appts_missed": 1,
+              "appts_set": 1,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              },
+              "follow_up": {
+                "color": "green",
+                "goal_value": 80,
+                "percent_value": 100
+              },
+              "leads_w_appts_set": {
+                "color": "green",
+                "goal_value": 13,
+                "percent_value": 18.18
+              },
+              "sales_cohort_rank": 3,
+              "sales_division_rank": 3,
+              "sales_national_rank": 110,
+              "total_calls": 13,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 94.59
+              }
+            },
+            "summary": "86 appointments"
+          }
+        ]
+      },
+      "NHC_LEADERBOARDS": {
+        "appointment_kept_rate": {
+          "MTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Virginia",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_juan_rodriguez_lr_jpg",
+              "name": "Juan Rodriguez",
+              "national_rank": 36,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 2,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 3,
+                "gross_sales_division_rank": 2,
+                "gross_sales_national_rank": 242,
+                "incentive_rate": 6,
+                "net_revenue": 1256970,
+                "net_revenue_division_rank": 2,
+                "net_revenue_national_rank": 308,
+                "net_revenue_percent_change": 0,
+                "net_sales": 3,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 1,
+                "realtor_attachment_rate_national_rank": 16,
+                "realtor_commission_rate": 0
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Virginia",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_elena_holland_lr_jpg",
+              "name": "Elena Holland",
+              "national_rank": 121,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 7,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 8,
+                "gross_sales_national_rank": 738,
+                "incentive_rate": 4.1,
+                "net_revenue": 800900,
+                "net_revenue_division_rank": 7,
+                "net_revenue_national_rank": 506,
+                "net_revenue_percent_change": 0,
+                "net_sales": 1,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 10,
+                "realtor_attachment_rate_national_rank": 738,
+                "realtor_commission_rate": 2.6
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Virginia",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_carl_gould_lr_jpg",
+              "name": "Carl Gould",
+              "national_rank": 149,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 12,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 20,
+                "gross_sales_national_rank": 932,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 20,
+                "net_revenue_national_rank": 932,
+                "net_revenue_percent_change": -100,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 2,
+                "realtor_attachment_rate_national_rank": 932,
+                "realtor_commission_rate": 0
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Virginia",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_asara_shenk_lr_jpg",
+              "name": "Sara Shenk",
+              "national_rank": 216,
+              "pop_out_details": {
+                "appointments_kept_rate": 71,
+                "days_since_last_sale": 7,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 3,
+                "gross_sales_division_rank": 3,
+                "gross_sales_national_rank": 261,
+                "incentive_rate": 2,
+                "net_revenue": 1487820,
+                "net_revenue_division_rank": 1,
+                "net_revenue_national_rank": 227,
+                "net_revenue_percent_change": 0,
+                "net_sales": 3,
+                "realtor_attachment_rate": 33,
+                "realtor_attachment_rate_division_rank": 4,
+                "realtor_attachment_rate_national_rank": 171,
+                "realtor_commission_rate": 0.9
+              },
+              "summary": "71% appointments kept"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Virginia",
+              "image_url": "",
+              "name": "Chris Stewart",
+              "national_rank": 300,
+              "pop_out_details": {
+                "appointments_kept_rate": 50,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 2,
+                "gross_sales_division_rank": 6,
+                "gross_sales_national_rank": 530,
+                "incentive_rate": 0,
+                "net_revenue": 1090180,
+                "net_revenue_division_rank": 5,
+                "net_revenue_national_rank": 378,
+                "net_revenue_percent_change": -59,
+                "net_sales": 2,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 8,
+                "realtor_attachment_rate_national_rank": 615,
+                "realtor_commission_rate": 2.8
+              },
+              "summary": "50% appointments kept"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Virginia",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_brad_broseker_lr_jpg",
+              "name": "Brad Broseker",
+              "national_rank": 485,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 8,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 6
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 4,
+                "gross_sales_division_rank": 1,
+                "gross_sales_national_rank": 144,
+                "incentive_rate": 5.2,
+                "net_revenue": 1137260,
+                "net_revenue_division_rank": 4,
+                "net_revenue_national_rank": 355,
+                "net_revenue_percent_change": -22,
+                "net_sales": 3,
+                "realtor_attachment_rate": 50,
+                "realtor_attachment_rate_division_rank": 5,
+                "realtor_attachment_rate_national_rank": 222,
+                "realtor_commission_rate": 2
+              },
+              "summary": "0% appointments kept"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Virginia",
+              "image_url": "",
+              "name": "Holly Brown",
+              "national_rank": 670,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 2,
+                "gross_sales_division_rank": 4,
+                "gross_sales_national_rank": 439,
+                "incentive_rate": 7.4,
+                "net_revenue": 988995,
+                "net_revenue_division_rank": 6,
+                "net_revenue_national_rank": 430,
+                "net_revenue_percent_change": 0,
+                "net_sales": 2,
+                "realtor_attachment_rate": 50,
+                "realtor_attachment_rate_division_rank": 6,
+                "realtor_attachment_rate_national_rank": 245,
+                "realtor_commission_rate": 1
+              },
+              "summary": "0% appointments kept"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Virginia",
+              "image_url": "",
+              "name": "Vickie Skutans",
+              "national_rank": 670,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 1,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 2,
+                "gross_sales_division_rank": 4,
+                "gross_sales_national_rank": 439,
+                "incentive_rate": 11.9,
+                "net_revenue": 699165,
+                "net_revenue_division_rank": 9,
+                "net_revenue_national_rank": 568,
+                "net_revenue_percent_change": -29,
+                "net_sales": 1,
+                "realtor_attachment_rate": 50,
+                "realtor_attachment_rate_division_rank": 6,
+                "realtor_attachment_rate_national_rank": 245,
+                "realtor_commission_rate": 1.4
+              },
+              "summary": "0% appointments kept"
+            },
+            {
+              "cohort_rank": 9,
+              "division_name": "Virginia",
+              "image_url": "",
+              "name": "Jana Mills",
+              "national_rank": 728,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 2,
+                "gross_sales_division_rank": 6,
+                "gross_sales_national_rank": 530,
+                "incentive_rate": 3.8,
+                "net_revenue": 1238990,
+                "net_revenue_division_rank": 3,
+                "net_revenue_national_rank": 315,
+                "net_revenue_percent_change": 95,
+                "net_sales": 2,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 8,
+                "realtor_attachment_rate_national_rank": 615,
+                "realtor_commission_rate": 2.4
+              },
+              "summary": "0% appointments kept"
+            },
+            {
+              "cohort_rank": 10,
+              "division_name": "Virginia",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lucas_clark_lr_jpg",
+              "name": "Lucas Clark",
+              "national_rank": 853,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 11,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
