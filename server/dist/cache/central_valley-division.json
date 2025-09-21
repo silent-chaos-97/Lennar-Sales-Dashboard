@@ -1178,6 +1178,7 @@
                 "sales_national_rank": 147,
                 "total_calls": 0,
                 "total_calls_percent_change": 0,
+                "total_chats": 0,
                 "total_chats_percent_change": 0,
                 "total_chats_texts": 0,
                 "total_chats_texts_percent_change": 0,
@@ -7142,3 +7143,1072 @@
                 "appt_set_division_rank": 5,
                 "appt_set_national_rank": 126,
                 "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 78.13
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 94.44
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 14.29
+                },
+                "sales_cohort_rank": 2,
+                "sales_division_rank": 2,
+                "sales_national_rank": 109,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 73.08
+                }
+              },
+              "summary": "20 gross sales"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Central Valley",
+              "image_url": "",
+              "name": "Joanna Verdugo",
+              "national_rank": 147,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 20,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 35,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 89.19
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 85.71
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "yellow",
+                  "goal_value": 13,
+                  "percent_value": 12.5
+                },
+                "sales_cohort_rank": 3,
+                "sales_division_rank": 3,
+                "sales_national_rank": 147,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95.45
+                }
+              },
+              "summary": "15 gross sales"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Central Valley",
+              "image_url": "",
+              "name": "Jessica Gomez",
+              "national_rank": 193,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 19,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 36,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 91.67
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 33.33
+                },
+                "sales_cohort_rank": 4,
+                "sales_division_rank": 4,
+                "sales_national_rank": 193,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "9 gross sales"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Central Valley",
+              "image_url": "",
+              "name": "Seth Moranda",
+              "national_rank": 202,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 32,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 70,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 111.76
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 14.55
+                },
+                "sales_cohort_rank": 5,
+                "sales_division_rank": 5,
+                "sales_national_rank": 202,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "7 gross sales"
+            }
+          ],
+          "WTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Central Valley",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jason_mcnally_lr_jpg",
+              "name": "Jason McNally",
+              "national_rank": 16,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 5,
+                "appt_kept_division_rank": 5,
+                "appt_kept_national_rank": 105,
+                "appt_set_cohort_rank": 5,
+                "appt_set_division_rank": 5,
+                "appt_set_national_rank": 126,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 78.13
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 94.44
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 14.29
+                },
+                "sales_cohort_rank": 2,
+                "sales_division_rank": 2,
+                "sales_national_rank": 109,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "red",
+                  "goal_value": 90,
+                  "percent_value": 73.08
+                }
+              },
+              "summary": "3 gross sales"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Central Valley",
+              "image_url": "",
+              "name": "Jessica Gomez",
+              "national_rank": 61,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 19,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 36,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 91.67
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 33.33
+                },
+                "sales_cohort_rank": 4,
+                "sales_division_rank": 4,
+                "sales_national_rank": 193,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "1 gross sale"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Central Valley",
+              "image_url": "",
+              "name": "Joanna Verdugo",
+              "national_rank": 84,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 20,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 35,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 89.19
+                },
+                "appts_missed": 3,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 85.71
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "yellow",
+                  "goal_value": 13,
+                  "percent_value": 12.5
+                },
+                "sales_cohort_rank": 3,
+                "sales_division_rank": 3,
+                "sales_national_rank": 147,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 95.45
+                }
+              },
+              "summary": "1 gross sale"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Central Valley",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_chris_trigg_lr_jpg",
+              "name": "Christopher Trigg",
+              "national_rank": 146,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 4,
+                "appt_kept_division_rank": 4,
+                "appt_kept_national_rank": 37,
+                "appt_set_cohort_rank": 4,
+                "appt_set_division_rank": 4,
+                "appt_set_national_rank": 79,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 100
+                },
+                "appts_missed": 0,
+                "appts_set": 2,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "yellow",
+                  "goal_value": 90,
+                  "percent_value": 82.76
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 9.4
+                },
+                "sales_cohort_rank": 1,
+                "sales_division_rank": 1,
+                "sales_national_rank": 92,
+                "total_calls": 25,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 92.5
+                }
+              },
+              "summary": "0 gross sales"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Central Valley",
+              "image_url": "",
+              "name": "Seth Moranda",
+              "national_rank": 149,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 3,
+                "appt_kept_national_rank": 32,
+                "appt_set_cohort_rank": 3,
+                "appt_set_division_rank": 3,
+                "appt_set_national_rank": 70,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 111.76
+                },
+                "appts_missed": 0,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 14.55
+                },
+                "sales_cohort_rank": 5,
+                "sales_division_rank": 5,
+                "sales_national_rank": 202,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "0 gross sales"
+            }
+          ]
+        },
+        "type": "ISC Leaderboard",
+        "values": [
+          {
+            "cohort_rank": 1,
+            "division_name": "Central Valley",
+            "image_url": "",
+            "name": "Joanna Verdugo",
+            "national_rank": 35,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 2,
+              "appt_kept_division_rank": 2,
+              "appt_kept_national_rank": 20,
+              "appt_set_cohort_rank": 1,
+              "appt_set_division_rank": 1,
+              "appt_set_national_rank": 35,
+              "appts_kept": {
+                "color": "green",
+                "goal_value": 75,
+                "percent_value": 89.19
+              },
+              "appts_missed": 3,
+              "appts_set": 0,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "yellow",
+                "goal_value": 90,
+                "percent_value": 85.71
+              },
+              "follow_up": {
+                "color": "red",
+                "goal_value": 80,
+                "percent_value": 0
+              },
+              "leads_w_appts_set": {
+                "color": "yellow",
+                "goal_value": 13,
+                "percent_value": 12.5
+              },
+              "sales_cohort_rank": 3,
+              "sales_division_rank": 3,
+              "sales_national_rank": 147,
+              "total_calls": 0,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 95.45
+              }
+            },
+            "summary": "192 appointments"
+          },
+          {
+            "cohort_rank": 2,
+            "division_name": "Central Valley",
+            "image_url": "",
+            "name": "Jessica Gomez",
+            "national_rank": 36,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 1,
+              "appt_kept_division_rank": 1,
+              "appt_kept_national_rank": 19,
+              "appt_set_cohort_rank": 1,
+              "appt_set_division_rank": 1,
+              "appt_set_national_rank": 36,
+              "appts_kept": {
+                "color": "green",
+                "goal_value": 75,
+                "percent_value": 91.67
+              },
+              "appts_missed": 0,
+              "appts_set": 0,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              },
+              "follow_up": {
+                "color": "red",
+                "goal_value": 80,
+                "percent_value": 0
+              },
+              "leads_w_appts_set": {
+                "color": "green",
+                "goal_value": 13,
+                "percent_value": 33.33
+              },
+              "sales_cohort_rank": 4,
+              "sales_division_rank": 4,
+              "sales_national_rank": 193,
+              "total_calls": 0,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              }
+            },
+            "summary": "192 appointments"
+          },
+          {
+            "cohort_rank": 3,
+            "division_name": "Central Valley",
+            "image_url": "",
+            "name": "Seth Moranda",
+            "national_rank": 70,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 3,
+              "appt_kept_division_rank": 3,
+              "appt_kept_national_rank": 32,
+              "appt_set_cohort_rank": 3,
+              "appt_set_division_rank": 3,
+              "appt_set_national_rank": 70,
+              "appts_kept": {
+                "color": "green",
+                "goal_value": 75,
+                "percent_value": 111.76
+              },
+              "appts_missed": 0,
+              "appts_set": 0,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              },
+              "follow_up": {
+                "color": "red",
+                "goal_value": 80,
+                "percent_value": 0
+              },
+              "leads_w_appts_set": {
+                "color": "green",
+                "goal_value": 13,
+                "percent_value": 14.55
+              },
+              "sales_cohort_rank": 5,
+              "sales_division_rank": 5,
+              "sales_national_rank": 202,
+              "total_calls": 0,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              }
+            },
+            "summary": "163 appointments"
+          },
+          {
+            "cohort_rank": 4,
+            "division_name": "Central Valley",
+            "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_chris_trigg_lr_jpg",
+            "name": "Christopher Trigg",
+            "national_rank": 79,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 4,
+              "appt_kept_division_rank": 4,
+              "appt_kept_national_rank": 37,
+              "appt_set_cohort_rank": 4,
+              "appt_set_division_rank": 4,
+              "appt_set_national_rank": 79,
+              "appts_kept": {
+                "color": "green",
+                "goal_value": 75,
+                "percent_value": 100
+              },
+              "appts_missed": 0,
+              "appts_set": 2,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "yellow",
+                "goal_value": 90,
+                "percent_value": 82.76
+              },
+              "follow_up": {
+                "color": "green",
+                "goal_value": 80,
+                "percent_value": 100
+              },
+              "leads_w_appts_set": {
+                "color": "red",
+                "goal_value": 13,
+                "percent_value": 9.4
+              },
+              "sales_cohort_rank": 1,
+              "sales_division_rank": 1,
+              "sales_national_rank": 92,
+              "total_calls": 25,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 92.5
+              }
+            },
+            "summary": "157 appointments"
+          },
+          {
+            "cohort_rank": 5,
+            "division_name": "Central Valley",
+            "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jason_mcnally_lr_jpg",
+            "name": "Jason McNally",
+            "national_rank": 126,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 5,
+              "appt_kept_division_rank": 5,
+              "appt_kept_national_rank": 105,
+              "appt_set_cohort_rank": 5,
+              "appt_set_division_rank": 5,
+              "appt_set_national_rank": 126,
+              "appts_kept": {
+                "color": "green",
+                "goal_value": 75,
+                "percent_value": 78.13
+              },
+              "appts_missed": 0,
+              "appts_set": 0,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 94.44
+              },
+              "follow_up": {
+                "color": "red",
+                "goal_value": 80,
+                "percent_value": 0
+              },
+              "leads_w_appts_set": {
+                "color": "green",
+                "goal_value": 13,
+                "percent_value": 14.29
+              },
+              "sales_cohort_rank": 2,
+              "sales_division_rank": 2,
+              "sales_national_rank": 109,
+              "total_calls": 0,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "red",
+                "goal_value": 90,
+                "percent_value": 73.08
+              }
+            },
+            "summary": "112 appointments"
+          }
+        ]
+      },
+      "NHC_LEADERBOARDS": {
+        "appointment_kept_rate": {
+          "MTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Central Valley",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_sarah_morin_lr_jpg",
+              "name": "Sarah Morin",
+              "national_rank": 393,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 6
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 16
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 16,
+                "gross_sales_division_rank": 1,
+                "gross_sales_national_rank": 1,
+                "incentive_rate": 15,
+                "net_revenue": 5177572,
+                "net_revenue_division_rank": 1,
+                "net_revenue_national_rank": 7,
+                "net_revenue_percent_change": 1384,
+                "net_sales": 16,
+                "realtor_attachment_rate": 25,
+                "realtor_attachment_rate_division_rank": 8,
+                "realtor_attachment_rate_national_rank": 156,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0% appointments kept"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Central Valley",
+              "image_url": "",
+              "name": "Denise Hunt",
+              "national_rank": 450,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 5,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 7
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 7
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 5,
+                "gross_sales_division_rank": 2,
+                "gross_sales_national_rank": 86,
+                "incentive_rate": 3.6,
+                "net_revenue": 2166450,
+                "net_revenue_division_rank": 2,
+                "net_revenue_national_rank": 88,
+                "net_revenue_percent_change": 1,
+                "net_sales": 4,
+                "realtor_attachment_rate": 60,
+                "realtor_attachment_rate_division_rank": 17,
+                "realtor_attachment_rate_national_rank": 339,
+                "realtor_commission_rate": 0.9
+              },
+              "summary": "0% appointments kept"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Central Valley",
+              "image_url": "",
+              "name": "Bryan Pokorny",
+              "national_rank": 480,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 2,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 2
+                  }
+                ],
+                "gross_sales": 4,
+                "gross_sales_division_rank": 3,
+                "gross_sales_national_rank": 139,
+                "incentive_rate": 2.4,
+                "net_revenue": 1685350,
+                "net_revenue_division_rank": 4,
+                "net_revenue_national_rank": 173,
+                "net_revenue_percent_change": 77,
+                "net_sales": 4,
+                "realtor_attachment_rate": 25,
+                "realtor_attachment_rate_division_rank": 9,
+                "realtor_attachment_rate_national_rank": 158,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0% appointments kept"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Central Valley",
+              "image_url": "",
+              "name": "Matt Walker",
+              "national_rank": 486,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 0,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 8
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 4
+                  },
+                  {

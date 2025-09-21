@@ -13,3 +13,5 @@ interface IscLeaderBoardProps {
 }
 
 const LeaderboardItems = ({
+  leaderboardItems,
+  leaderboardData,

@@ -23,3 +23,40 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps) => {
     LEADS_WITH_FOLLOWUP: 'Leads with follow-up',
     LEADS_WITH_TRIFECTA: 'Leads with trifecta'
   }
+
+  return (
+    <g transform={`translate(${props.y}, 0) rotate(${props.rotation})`}>
+      <CustomTooltip elementName={`label-${props.label.toString().toLowerCase()}`}>
+        <text
+          dx={props.textX}
+          dy={-24}
+          textAnchor={props.textAnchor}
+          fill="#fff"
+          fillOpacity="0.67"
+          fontSize={16}
+          fontFamily="mabry-pro"
+        >
+          <DataAlert
+            elementName={`label-${props.label.toString().toLowerCase()}`}
+            truncateSize={0}
+            isSvg
+          >
+            {labels[props.label]}
+          </DataAlert>
+        </text>
+      </CustomTooltip>
+      <text
+        dx={props.textX}
+        textAnchor={props.textAnchor}
+        dy={22}
+        fontSize={56}
+        fontWeight={500}
+        fill="#A5CFEF"
+        fontFamily="mabry-pro"
+      >
+        {value}%
+      </text>
+    </g>
+  )
+}
+

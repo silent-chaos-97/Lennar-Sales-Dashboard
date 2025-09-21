@@ -1,3 +1,4 @@
+import { createTheme } from '@mui/material/styles'
 import LinkBehavior from './MuiLink'
 
 import MabryLight_WOFF from '@/assets/fonts/mabry/light/mabry-light-pro.woff'
@@ -40,3 +41,10 @@ declare module '@mui/material/Typography' {
   interface TypographyPropsVariantOverrides {
     title: true
   }
+}
+
+export const theme = createTheme({
+  typography: {
+    fontFamily: 'mabry-pro',
+    title: {
+      fontSize: 42,

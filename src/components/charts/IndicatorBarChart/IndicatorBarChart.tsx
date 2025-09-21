@@ -19,3 +19,5 @@ interface IndicatorBarChartProps {
 const IndicatorBarChart = ({
   width,
   height,
+  data,
+  id,

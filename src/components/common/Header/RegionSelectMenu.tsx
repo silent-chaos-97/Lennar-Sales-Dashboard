@@ -9,3 +9,5 @@ import SelectMenuItem from './SelectMenuItem'
 
 const NATIONAL_DIVISION = {
   name: 'National',
+  type: 'all',
+  latitude: 35.86,

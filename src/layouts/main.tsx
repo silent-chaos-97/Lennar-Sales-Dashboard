@@ -18,3 +18,33 @@ const Main = styled('main')({
 const DashboardLayout = styled('div')({
   display: 'grid',
   gridTemplateColumns:
+    '[left-start] 65fr [left-end center-start] 84fr [center-end right-start] 65fr [right-end]',
+  width: 6420,
+  columnGap: 0,
+  margin: '0 auto'
+})
+
+const Screen = styled('div')({
+  width: 2400,
+  height: 0,
+  paddingTop: 1350,
+  position: 'relative'
+})
+
+const InnerScreen = styled('div')({
+  position: 'absolute',
+  width: '100%',
+  height: '100%',
+  top: 0,
+  left: 0,
+  padding: '0 46px',
+  display: 'flex'
+})
+
+const ScreenWrapper = ({ children, padding, justifyContent = 'flex-start', width }) => {
+  const { mode } = useScreen()
+  const renderContent = () => {
+    return (
+      <Screen>
+        <InnerScreen style={{ padding, justifyContent }}>{children}</InnerScreen>
+      </Screen>

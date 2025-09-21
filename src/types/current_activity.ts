@@ -3,3 +3,4 @@ export interface TickerItem {
   activity_status: string
   sort: number
 }
+

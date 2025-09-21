@@ -8,8 +8,9 @@ interface FrameData {
   f1: number | undefined
   f2: number | undefined
   f3: number | undefined
-  [key: string]: number | string | undefined
 }
 
 interface DataEntry {
   weekday: string
+  cur: FrameData
+  prv: FrameData

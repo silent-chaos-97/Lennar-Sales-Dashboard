@@ -14,3 +14,5 @@ import { useAppState } from '@/contexts/StateContext'
 import { truncateText } from '@/utils/helper'
 
 interface PricingAnalysisProps {
+  chartId: string
+  data: PricingData

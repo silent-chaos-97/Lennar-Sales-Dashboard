@@ -9,3 +9,4 @@ interface GrossSalesBarChartProps {
   id: string
   width: number
   height: number
+  data: []

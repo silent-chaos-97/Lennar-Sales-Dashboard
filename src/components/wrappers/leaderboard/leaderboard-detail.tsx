@@ -5,3 +5,4 @@ import NHSDetail from './nhs-detail'
 export interface LeaderboardDetailProps {
   open: boolean
   name: string
+  imageUrl: string

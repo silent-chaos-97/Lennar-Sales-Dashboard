@@ -36,3 +36,4 @@ interface TimerContextSetters {
   setPlaying: (val: boolean) => void
   setDisableRotation: (val: number) => void
 }
+

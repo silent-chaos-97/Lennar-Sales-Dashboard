@@ -16,3 +16,6 @@ interface SectionProps {
   onSelectCategory?: (category: string) => void
   dropdownAlignment?: 'left' | 'right' | 'center'
 }
+
+export const Section = ({
+  title,

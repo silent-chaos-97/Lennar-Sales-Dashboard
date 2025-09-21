@@ -9,3 +9,5 @@ import { useAppState } from '@/contexts/StateContext'
 interface AssociateMemberCard {
   member: AssociateArrayItem
 }
+
+const AssociateMemberCard = ({ member }: AssociateMemberCard) => {

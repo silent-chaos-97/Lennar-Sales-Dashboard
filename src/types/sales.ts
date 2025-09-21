@@ -6,3 +6,4 @@ export interface SalesDetailObject {
   graph: { x_axis: string; y_axis: number; sort: number }[]
 }
 
+export interface AssociateArrayItem {

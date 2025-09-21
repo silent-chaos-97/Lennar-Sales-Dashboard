@@ -1,8 +1,11 @@
 {
   "name": "corp-hub",
   "version": "0.1.0",
+  "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
     "@mui/icons-material": "^5.11.16",
     "@mui/material": "^5.12.0",
+    "@nivo/bar": "^0.83.0",
+    "@nivo/boxplot": "^0.83.0",

@@ -14,3 +14,6 @@ const Wrapper = styled(Box)({
   top: 0,
   left: 0,
   bottom: 0,
+  width: 648,
+  zIndex: 2,
+  background: 'linear-gradient(to right, #191D26, rgba(33, 42, 54, 0))',

@@ -18,3 +18,7 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
         data?.[key]?.percentile_5 || 0,
         data?.[key]?.percentile_25 || 0,
         data?.[key]?.percentile_50 || 0,
+        data?.[key]?.percentile_75 || 0,
+        data?.[key]?.percentile_95 || 0
+      ]
+    })

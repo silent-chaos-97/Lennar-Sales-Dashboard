@@ -12,3 +12,5 @@ interface LineChartProps {
   width?: number
   height?: number
   data: Ticker[]
+  showCurrentFully: boolean
+}

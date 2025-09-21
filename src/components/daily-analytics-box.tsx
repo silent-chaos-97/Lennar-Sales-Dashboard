@@ -10,3 +10,5 @@ import DataAlert from './common/CustomTooltip/DataAlert'
 import SalesLineChart from './charts/LineChart/SalesLineChart'
 
 export interface DailyAnalyticsBoxProps {
+  isLargeSize?: boolean
+  title: string

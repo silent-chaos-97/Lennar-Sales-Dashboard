@@ -33,9 +33,16 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps & { value: number })
   return (
     <CustomTooltip elementName={`label-isc-${props.label.toString().toLowerCase()}`}>
       <g transform={`translate(${props.y}, 0) rotate(${props.rotation})`}>
+        <text
           dx={props.textX}
           dy={-24}
           textAnchor={props.textAnchor}
           fill="#fff"
           fillOpacity="0.67"
           fontSize={16}
+          fontFamily="mabry-pro"
+        >
+          {labels[props.label]}
+        </text>
+        <text
+          dx={props.textX}

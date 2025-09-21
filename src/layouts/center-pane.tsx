@@ -40,3 +40,9 @@ const CenterPane = () => {
   const mapRef = useRef<MapRef>(null)
   const { currentCohort, salesTimeframeState } = useAppState()
   const { setPlaying, setIdleTimerProgress } = useAppTimerSetters()
+  const firstMarkerRef = useRef<HTMLDivElement>(null)
+  const [svgSize, setSvgSize] = useState<{
+    width: number
+    height: number
+    x: number
+    y: number

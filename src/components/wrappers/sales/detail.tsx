@@ -22,3 +22,6 @@ interface SalesDetailsProps {
     x: number
     y: number
   }
+  onClose: () => void
+  salesDetail: SalesItem
+  mapWrapperRef: RefObject<HTMLDivElement>

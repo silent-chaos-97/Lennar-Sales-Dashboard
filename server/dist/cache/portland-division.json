@@ -4704,3 +4704,707 @@
               },
               "leads_w_appts_set": {
                 "color": "red",
+                "goal_value": 13,
+                "percent_value": 6.77
+              },
+              "sales_cohort_rank": 2,
+              "sales_division_rank": 2,
+              "sales_national_rank": 200,
+              "total_calls": 0,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              }
+            },
+            "summary": "97 appointments"
+          },
+          {
+            "cohort_rank": 3,
+            "division_name": "Portland",
+            "image_url": "",
+            "name": "Jodi Christie",
+            "national_rank": 227,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 3,
+              "appt_kept_division_rank": 3,
+              "appt_kept_national_rank": 227,
+              "appt_set_cohort_rank": 3,
+              "appt_set_division_rank": 3,
+              "appt_set_national_rank": 227,
+              "appts_kept": {
+                "color": "green",
+                "goal_value": 75,
+                "percent_value": 80
+              },
+              "appts_missed": 0,
+              "appts_set": 0,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              },
+              "follow_up": {
+                "color": "red",
+                "goal_value": 80,
+                "percent_value": 0
+              },
+              "leads_w_appts_set": {
+                "color": "red",
+                "goal_value": 13,
+                "percent_value": 4.76
+              },
+              "sales_cohort_rank": 3,
+              "sales_division_rank": 3,
+              "sales_national_rank": 227,
+              "total_calls": 6,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 95.24
+              }
+            },
+            "summary": "6 appointments"
+          }
+        ]
+      },
+      "NHC_LEADERBOARDS": {
+        "appointment_kept_rate": {
+          "MTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Portland",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_melinda_shoote_lr_jpg",
+              "name": "Melinda Shoote",
+              "national_rank": 67,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 2,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 2,
+                "gross_sales_division_rank": 8,
+                "gross_sales_national_rank": 409,
+                "incentive_rate": 4.1,
+                "net_revenue": 850746,
+                "net_revenue_division_rank": 11,
+                "net_revenue_national_rank": 487,
+                "net_revenue_percent_change": -30,
+                "net_sales": 2,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 1,
+                "realtor_attachment_rate_national_rank": 35,
+                "realtor_commission_rate": 0
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Portland",
+              "image_url": "",
+              "name": "Michelle Gregg-Anderson",
+              "national_rank": 191,
+              "pop_out_details": {
+                "appointments_kept_rate": 80,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 4,
+                "gross_sales_division_rank": 3,
+                "gross_sales_national_rank": 208,
+                "incentive_rate": 2.8,
+                "net_revenue": 2156600,
+                "net_revenue_division_rank": 3,
+                "net_revenue_national_rank": 89,
+                "net_revenue_percent_change": 287,
+                "net_sales": 4,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 8,
+                "realtor_attachment_rate_national_rank": 518,
+                "realtor_commission_rate": 2
+              },
+              "summary": "80% appointments kept"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Portland",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lanette_vosberg_lr_jpg",
+              "name": "Lanette Vosberg",
+              "national_rank": 193,
+              "pop_out_details": {
+                "appointments_kept_rate": 80,
+                "days_since_last_sale": 8,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 3,
+                "gross_sales_division_rank": 5,
+                "gross_sales_national_rank": 346,
+                "incentive_rate": 0,
+                "net_revenue": 1268279,
+                "net_revenue_division_rank": 7,
+                "net_revenue_national_rank": 307,
+                "net_revenue_percent_change": 191,
+                "net_sales": 3,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 10,
+                "realtor_attachment_rate_national_rank": 553,
+                "realtor_commission_rate": 1.1
+              },
+              "summary": "80% appointments kept"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Portland",
+              "image_url": "",
+              "name": "Jason Leiner",
+              "national_rank": 217,
+              "pop_out_details": {
+                "appointments_kept_rate": 67,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 5,
+                "gross_sales_division_rank": 1,
+                "gross_sales_national_rank": 97,
+                "incentive_rate": 1.6,
+                "net_revenue": 2425782,
+                "net_revenue_division_rank": 1,
+                "net_revenue_national_rank": 65,
+                "net_revenue_percent_change": 316,
+                "net_sales": 5,
+                "realtor_attachment_rate": 80,
+                "realtor_attachment_rate_division_rank": 6,
+                "realtor_attachment_rate_national_rank": 449,
+                "realtor_commission_rate": 0.7
+              },
+              "summary": "67% appointments kept"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Portland",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_alina_pop_lr_jpg",
+              "name": "Alina Pop",
+              "national_rank": 250,
+              "pop_out_details": {
+                "appointments_kept_rate": 60,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 4,
+                "gross_sales_division_rank": 3,
+                "gross_sales_national_rank": 208,
+                "incentive_rate": 0,
+                "net_revenue": 2058681,
+                "net_revenue_division_rank": 4,
+                "net_revenue_national_rank": 105,
+                "net_revenue_percent_change": 62,
+                "net_sales": 4,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 8,
+                "realtor_attachment_rate_national_rank": 518,
+                "realtor_commission_rate": 1.1
+              },
+              "summary": "60% appointments kept"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Portland",
+              "image_url": "",
+              "name": "Debbie Gale",
+              "national_rank": 299,
+              "pop_out_details": {
+                "appointments_kept_rate": 50,
+                "days_since_last_sale": 1,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 2,
+                "gross_sales_division_rank": 10,
+                "gross_sales_national_rank": 531,
+                "incentive_rate": 0.8,
+                "net_revenue": 1115400,
+                "net_revenue_division_rank": 8,
+                "net_revenue_national_rank": 367,
+                "net_revenue_percent_change": 109,
+                "net_sales": 2,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 13,
+                "realtor_attachment_rate_national_rank": 616,
+                "realtor_commission_rate": 0.5
+              },
+              "summary": "50% appointments kept"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Portland",
+              "image_url": "",
+              "name": "Mechelle Clough",
+              "national_rank": 390,
+              "pop_out_details": {
+                "appointments_kept_rate": 20,
+                "days_since_last_sale": 7,
+                "graph_data": [
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 2,
+                "gross_sales_division_rank": 10,
+                "gross_sales_national_rank": 531,
+                "incentive_rate": 0,
+                "net_revenue": 956794,
+                "net_revenue_division_rank": 9,
+                "net_revenue_national_rank": 444,
+                "net_revenue_percent_change": 71,
+                "net_sales": 2,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 13,
+                "realtor_attachment_rate_national_rank": 616,
+                "realtor_commission_rate": 2.1
+              },
+              "summary": "20% appointments kept"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Portland",
+              "image_url": "",
+              "name": "Amanda Whiterock Smith",
+              "national_rank": 455,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {

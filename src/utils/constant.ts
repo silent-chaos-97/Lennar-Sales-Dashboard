@@ -5,3 +5,4 @@ export const STATUS_COLORS = {
   behind_pace: '#e76161',
   very_behind_pace: '#dc3030'
 }
+

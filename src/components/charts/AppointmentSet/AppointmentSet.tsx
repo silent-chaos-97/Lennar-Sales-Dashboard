@@ -25,3 +25,5 @@ const AppointmentSet = ({
   prevWeekData,
   activityTimeframe
 }: AppointmentSetProps) => {
+  const aggregateWeekData = useCallback(
+    (data: TickerItem[], isPrevWeek = false): DayType[] => {

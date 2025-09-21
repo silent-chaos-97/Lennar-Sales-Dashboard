@@ -9,7 +9,6 @@ import Section from '@/components/common/Section/Section'
 import PercentValueText from '@/components/common/PercentValueText'
 import ChevronLeftIcon from '@mui/icons-material/ChevronLeft'
 import ChevronRightIcon from '@mui/icons-material/ChevronRight'
-import CloseIcon from '@mui/icons-material/Close'
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward'
 import { getRandomColor } from '@/utils/helper'
 import GrossSalesBarChart from '@/components/charts/GrossSalesChart/GrossSalesBarChart'
@@ -56,6 +55,7 @@ const NHSDetail = ({
             left: '50%',
             transform: 'translateX(-50%)',
             width: 1420,
+            bgcolor: 'background.paper',
             boxShadow: 24,
             px: 3,
             py: 2.5,
