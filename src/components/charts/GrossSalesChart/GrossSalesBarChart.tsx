@@ -10,3 +10,5 @@ interface GrossSalesBarChartProps {
   width: number
   height: number
   data: []
+}
+

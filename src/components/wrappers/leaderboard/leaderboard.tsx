@@ -15,3 +15,5 @@ interface IscLeaderBoardProps {
 const LeaderboardItems = ({
   leaderboardItems,
   leaderboardData,
+  currentCohort,
+  activeIdx,

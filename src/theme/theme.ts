@@ -48,3 +48,7 @@ export const theme = createTheme({
     fontFamily: 'mabry-pro',
     title: {
       fontSize: 42,
+      lineHeight: '50px',
+      fontWeight: 400
+    },
+    h1: {

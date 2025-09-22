@@ -22,3 +22,5 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
         data?.[key]?.percentile_95 || 0
       ]
     })
+
+    const margin = { top: 10, right: 30, bottom: 50, left: 50 },

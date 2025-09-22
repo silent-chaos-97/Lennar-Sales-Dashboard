@@ -21,3 +21,4 @@ const IndicatorBarChart = ({
   height,
   data,
   id,
+  currentWeekPrediction,

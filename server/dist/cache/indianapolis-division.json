@@ -226,6 +226,7 @@
                 "trifecta": {
                   "color": "green",
                   "goal_value": 90,
+                  "percent_value": 93.33
                 }
               },
               "summary": "10 appointments kept"
@@ -10392,3 +10393,928 @@
                 "appt_set_division_rank": 3,
                 "appt_set_national_rank": 183,
                 "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 83.33
+                },
+                "appts_missed": 0,
+                "appts_set": 6,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 16
+                },
+                "sales_cohort_rank": 1,
+                "sales_division_rank": 1,
+                "sales_national_rank": 72,
+                "total_calls": 24,
+                "total_calls_percent_change": 0,
+                "total_chats": 1,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 1,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "1 gross sale"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Indianapolis",
+              "image_url": "",
+              "name": "Kim Yoder",
+              "national_rank": 105,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 2,
+                "appt_kept_division_rank": 2,
+                "appt_kept_national_rank": 167,
+                "appt_set_cohort_rank": 2,
+                "appt_set_division_rank": 2,
+                "appt_set_national_rank": 180,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 87.5
+                },
+                "appts_missed": 0,
+                "appts_set": 3,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "green",
+                  "goal_value": 80,
+                  "percent_value": 100
+                },
+                "leads_w_appts_set": {
+                  "color": "green",
+                  "goal_value": 13,
+                  "percent_value": 16.67
+                },
+                "sales_cohort_rank": 3,
+                "sales_division_rank": 3,
+                "sales_national_rank": 71,
+                "total_calls": 7,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "1 gross sale"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Indianapolis",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_anastasia_brascolr_jpg",
+              "name": "Anastasia Brasco",
+              "national_rank": 203,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 6,
+                "appt_kept_division_rank": 6,
+                "appt_kept_national_rank": 214,
+                "appt_set_cohort_rank": 6,
+                "appt_set_division_rank": 6,
+                "appt_set_national_rank": 219,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 100
+                },
+                "appts_missed": 0,
+                "appts_set": 2,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 7.69
+                },
+                "sales_cohort_rank": 5,
+                "sales_division_rank": 5,
+                "sales_national_rank": 99,
+                "total_calls": 14,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "0 gross sales"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Indianapolis",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_greg_randolph_2_lr_jpg",
+              "name": "Greg Randolph",
+              "national_rank": 204,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 7,
+                "appt_kept_division_rank": 7,
+                "appt_kept_national_rank": 220,
+                "appt_set_cohort_rank": 7,
+                "appt_set_division_rank": 7,
+                "appt_set_national_rank": 221,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 150
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 0
+                },
+                "sales_cohort_rank": 2,
+                "sales_division_rank": 2,
+                "sales_national_rank": 78,
+                "total_calls": 1,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "0 gross sales"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Indianapolis",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_april_drolr_jpg",
+              "name": "April Dro",
+              "national_rank": 214,
+              "pop_out_details": {
+                "appt_kept_cohort_rank": 1,
+                "appt_kept_division_rank": 1,
+                "appt_kept_national_rank": 159,
+                "appt_set_cohort_rank": 1,
+                "appt_set_division_rank": 1,
+                "appt_set_national_rank": 177,
+                "appts_kept": {
+                  "color": "green",
+                  "goal_value": 75,
+                  "percent_value": 91.67
+                },
+                "appts_missed": 1,
+                "appts_set": 0,
+                "appts_set_percent_change": 0,
+                "beback_with_follow_up": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                },
+                "follow_up": {
+                  "color": "red",
+                  "goal_value": 80,
+                  "percent_value": 0
+                },
+                "leads_w_appts_set": {
+                  "color": "red",
+                  "goal_value": 13,
+                  "percent_value": 8.93
+                },
+                "sales_cohort_rank": 6,
+                "sales_division_rank": 6,
+                "sales_national_rank": 128,
+                "total_calls": 0,
+                "total_calls_percent_change": 0,
+                "total_chats": 0,
+                "total_chats_percent_change": 0,
+                "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
+                "total_sales": 0,
+                "total_texts": 0,
+                "total_texts_percent_change": 0,
+                "trifecta": {
+                  "color": "green",
+                  "goal_value": 90,
+                  "percent_value": 100
+                }
+              },
+              "summary": "0 gross sales"
+            }
+          ]
+        },
+        "type": "ISC Leaderboard",
+        "values": [
+          {
+            "cohort_rank": 1,
+            "division_name": "Indianapolis",
+            "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_april_drolr_jpg",
+            "name": "April Dro",
+            "national_rank": 177,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 1,
+              "appt_kept_division_rank": 1,
+              "appt_kept_national_rank": 159,
+              "appt_set_cohort_rank": 1,
+              "appt_set_division_rank": 1,
+              "appt_set_national_rank": 177,
+              "appts_kept": {
+                "color": "green",
+                "goal_value": 75,
+                "percent_value": 91.67
+              },
+              "appts_missed": 1,
+              "appts_set": 0,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              },
+              "follow_up": {
+                "color": "red",
+                "goal_value": 80,
+                "percent_value": 0
+              },
+              "leads_w_appts_set": {
+                "color": "red",
+                "goal_value": 13,
+                "percent_value": 8.93
+              },
+              "sales_cohort_rank": 6,
+              "sales_division_rank": 6,
+              "sales_national_rank": 128,
+              "total_calls": 0,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              }
+            },
+            "summary": "77 appointments"
+          },
+          {
+            "cohort_rank": 2,
+            "division_name": "Indianapolis",
+            "image_url": "",
+            "name": "Kim Yoder",
+            "national_rank": 180,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 2,
+              "appt_kept_division_rank": 2,
+              "appt_kept_national_rank": 167,
+              "appt_set_cohort_rank": 2,
+              "appt_set_division_rank": 2,
+              "appt_set_national_rank": 180,
+              "appts_kept": {
+                "color": "green",
+                "goal_value": 75,
+                "percent_value": 87.5
+              },
+              "appts_missed": 0,
+              "appts_set": 3,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              },
+              "follow_up": {
+                "color": "green",
+                "goal_value": 80,
+                "percent_value": 100
+              },
+              "leads_w_appts_set": {
+                "color": "green",
+                "goal_value": 13,
+                "percent_value": 16.67
+              },
+              "sales_cohort_rank": 3,
+              "sales_division_rank": 3,
+              "sales_national_rank": 71,
+              "total_calls": 7,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              }
+            },
+            "summary": "71 appointments"
+          },
+          {
+            "cohort_rank": 3,
+            "division_name": "Indianapolis",
+            "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_carol_feipellr_jpg",
+            "name": "Carol Feipel",
+            "national_rank": 183,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 3,
+              "appt_kept_division_rank": 3,
+              "appt_kept_national_rank": 189,
+              "appt_set_cohort_rank": 3,
+              "appt_set_division_rank": 3,
+              "appt_set_national_rank": 183,
+              "appts_kept": {
+                "color": "green",
+                "goal_value": 75,
+                "percent_value": 83.33
+              },
+              "appts_missed": 0,
+              "appts_set": 6,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              },
+              "follow_up": {
+                "color": "red",
+                "goal_value": 80,
+                "percent_value": 0
+              },
+              "leads_w_appts_set": {
+                "color": "green",
+                "goal_value": 13,
+                "percent_value": 16
+              },
+              "sales_cohort_rank": 1,
+              "sales_division_rank": 1,
+              "sales_national_rank": 72,
+              "total_calls": 24,
+              "total_calls_percent_change": 0,
+              "total_chats": 1,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 1,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              }
+            },
+            "summary": "68 appointments"
+          },
+          {
+            "cohort_rank": 4,
+            "division_name": "Indianapolis",
+            "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_amy_eritanolr_jpg",
+            "name": "Amy Eritano",
+            "national_rank": 207,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 5,
+              "appt_kept_division_rank": 5,
+              "appt_kept_national_rank": 205,
+              "appt_set_cohort_rank": 4,
+              "appt_set_division_rank": 4,
+              "appt_set_national_rank": 207,
+              "appts_kept": {
+                "color": "green",
+                "goal_value": 75,
+                "percent_value": 120
+              },
+              "appts_missed": 0,
+              "appts_set": 0,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              },
+              "follow_up": {
+                "color": "green",
+                "goal_value": 80,
+                "percent_value": 100
+              },
+              "leads_w_appts_set": {
+                "color": "red",
+                "goal_value": 13,
+                "percent_value": 5.13
+              },
+              "sales_cohort_rank": 7,
+              "sales_division_rank": 7,
+              "sales_national_rank": 196,
+              "total_calls": 3,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              }
+            },
+            "summary": "42 appointments"
+          },
+          {
+            "cohort_rank": 5,
+            "division_name": "Indianapolis",
+            "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_sunny_salmonlr_jpg",
+            "name": "Sunny Salmon",
+            "national_rank": 211,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 4,
+              "appt_kept_division_rank": 4,
+              "appt_kept_national_rank": 203,
+              "appt_set_cohort_rank": 5,
+              "appt_set_division_rank": 5,
+              "appt_set_national_rank": 211,
+              "appts_kept": {
+                "color": "green",
+                "goal_value": 75,
+                "percent_value": 166.67
+              },
+              "appts_missed": 0,
+              "appts_set": 0,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              },
+              "follow_up": {
+                "color": "green",
+                "goal_value": 80,
+                "percent_value": 100
+              },
+              "leads_w_appts_set": {
+                "color": "red",
+                "goal_value": 13,
+                "percent_value": 8.7
+              },
+              "sales_cohort_rank": 4,
+              "sales_division_rank": 4,
+              "sales_national_rank": 77,
+              "total_calls": 5,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 93.33
+              }
+            },
+            "summary": "36 appointments"
+          },
+          {
+            "cohort_rank": 6,
+            "division_name": "Indianapolis",
+            "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_anastasia_brascolr_jpg",
+            "name": "Anastasia Brasco",
+            "national_rank": 219,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 6,
+              "appt_kept_division_rank": 6,
+              "appt_kept_national_rank": 214,
+              "appt_set_cohort_rank": 6,
+              "appt_set_division_rank": 6,
+              "appt_set_national_rank": 219,
+              "appts_kept": {
+                "color": "green",
+                "goal_value": 75,
+                "percent_value": 100
+              },
+              "appts_missed": 0,
+              "appts_set": 2,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              },
+              "follow_up": {
+                "color": "red",
+                "goal_value": 80,
+                "percent_value": 0
+              },
+              "leads_w_appts_set": {
+                "color": "red",
+                "goal_value": 13,
+                "percent_value": 7.69
+              },
+              "sales_cohort_rank": 5,
+              "sales_division_rank": 5,
+              "sales_national_rank": 99,
+              "total_calls": 14,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              }
+            },
+            "summary": "27 appointments"
+          },
+          {
+            "cohort_rank": 7,
+            "division_name": "Indianapolis",
+            "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_greg_randolph_2_lr_jpg",
+            "name": "Greg Randolph",
+            "national_rank": 221,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 7,
+              "appt_kept_division_rank": 7,
+              "appt_kept_national_rank": 220,
+              "appt_set_cohort_rank": 7,
+              "appt_set_division_rank": 7,
+              "appt_set_national_rank": 221,
+              "appts_kept": {
+                "color": "green",
+                "goal_value": 75,
+                "percent_value": 150
+              },
+              "appts_missed": 1,
+              "appts_set": 0,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              },
+              "follow_up": {
+                "color": "red",
+                "goal_value": 80,
+                "percent_value": 0
+              },
+              "leads_w_appts_set": {
+                "color": "red",
+                "goal_value": 13,
+                "percent_value": 0
+              },
+              "sales_cohort_rank": 2,
+              "sales_division_rank": 2,
+              "sales_national_rank": 78,
+              "total_calls": 1,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              }
+            },
+            "summary": "23 appointments"
+          }
+        ]
+      },
+      "NHC_LEADERBOARDS": {
+        "appointment_kept_rate": {
+          "MTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Indianapolis",
+              "image_url": "",
+              "name": "Monica Hubner",
+              "national_rank": 6,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 2,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 2
+                  }
+                ],
+                "gross_sales": 7,
+                "gross_sales_division_rank": 2,
+                "gross_sales_national_rank": 33,
+                "incentive_rate": 11,
+                "net_revenue": 2202749,
+                "net_revenue_division_rank": 2,
+                "net_revenue_national_rank": 82,
+                "net_revenue_percent_change": 150,
+                "net_sales": 6,
+                "realtor_attachment_rate": 57,
+                "realtor_attachment_rate_division_rank": 10,
+                "realtor_attachment_rate_national_rank": 338,
+                "realtor_commission_rate": 1.4
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Indianapolis",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_viet_tranlr_jpg",
+              "name": "Viet Tran",
+              "national_rank": 17,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 3,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 5,
+                "gross_sales_division_rank": 3,
+                "gross_sales_national_rank": 97,
+                "incentive_rate": 5.9,
+                "net_revenue": 2096631,
+                "net_revenue_division_rank": 4,
+                "net_revenue_national_rank": 97,
+                "net_revenue_percent_change": -7,
+                "net_sales": 5,
+                "realtor_attachment_rate": 80,
+                "realtor_attachment_rate_division_rank": 12,
+                "realtor_attachment_rate_national_rank": 449,
+                "realtor_commission_rate": 2.4
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Indianapolis",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_mitch_moore_lr_jpg",
+              "name": "Mitch Moore",
+              "national_rank": 20,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 0,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 5,
+                "gross_sales_division_rank": 4,
+                "gross_sales_national_rank": 117,
+                "incentive_rate": 13.2,
+                "net_revenue": 2133338,
+                "net_revenue_division_rank": 3,
+                "net_revenue_national_rank": 92,
+                "net_revenue_percent_change": 33,
+                "net_sales": 4,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 14,
+                "realtor_attachment_rate_national_rank": 503,
+                "realtor_commission_rate": 2.7
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Indianapolis",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_margaret_scottlr_jpg",
+              "name": "Margaret Scott",
+              "national_rank": 55,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 1,

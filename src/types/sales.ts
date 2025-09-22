@@ -7,3 +7,4 @@ export interface SalesDetailObject {
 }
 
 export interface AssociateArrayItem {
+  cohort_rank: number

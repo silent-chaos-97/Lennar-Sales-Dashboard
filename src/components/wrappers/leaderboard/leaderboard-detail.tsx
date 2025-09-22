@@ -6,3 +6,4 @@ export interface LeaderboardDetailProps {
   open: boolean
   name: string
   imageUrl: string
+  cohortRank: number

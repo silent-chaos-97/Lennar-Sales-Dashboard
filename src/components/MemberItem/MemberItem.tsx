@@ -8,3 +8,5 @@ interface MemberItemProps {
   cohort_rank: number
   national_rank: number
   divisionName?: string
+  imageSrc: string
+  name: string

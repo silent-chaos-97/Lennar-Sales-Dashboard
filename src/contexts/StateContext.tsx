@@ -27,3 +27,5 @@ interface StateContextValues {
   fetchNextDivision: () => void
   fetchRegionDivisions: () => void
   setPrevSelectedDivisionType: (value: string) => void
+  metrics?: MetricsState
+  dataStatus?: number

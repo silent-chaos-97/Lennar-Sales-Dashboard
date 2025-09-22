@@ -46,3 +46,7 @@ const CenterPane = () => {
     height: number
     x: number
     y: number
+  } | null>(null)
+  const [mapViewState, setMapViewState] = useState({
+    latitude: currentCohort.latitude,
+    longitude: currentCohort.longitude - LONGITUDE_DELTA[currentCohort.type],

@@ -75,6 +75,7 @@ const Header = () => {
   const [openRegionSelectMenu, setOpenRegionSelectMenu] = useState(false)
   const [alert, setAlert] = useState<boolean>(false)
 
+  useClickAway(menuRef, () => {
     setOpenRegionSelectMenu(false)
   })
 

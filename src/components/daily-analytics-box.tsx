@@ -12,3 +12,4 @@ import SalesLineChart from './charts/LineChart/SalesLineChart'
 export interface DailyAnalyticsBoxProps {
   isLargeSize?: boolean
   title: string
+  value: number

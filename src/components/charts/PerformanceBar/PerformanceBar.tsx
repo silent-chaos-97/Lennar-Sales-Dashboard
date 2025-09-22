@@ -3,7 +3,6 @@ import DataAlert from '@/components/common/CustomTooltip/DataAlert'
 import Box from '@mui/material/Box'
 import Stack from '@mui/material/Stack'
 import Typography from '@mui/material/Typography'
-import { styled } from '@mui/material/styles'
 
 interface TrackProps {
   color?: string
@@ -13,3 +12,4 @@ interface TrackProps {
 interface GoalLineProps {
   color?: string
   percent: number
+  goal: number

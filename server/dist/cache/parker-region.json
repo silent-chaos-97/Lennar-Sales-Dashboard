@@ -10384,6 +10384,7 @@
                   "color": "green",
                   "goal_value": 90,
                   "percent_value": 100
+                },
                 "follow_up": {
                   "color": "green",
                   "goal_value": 80,
@@ -15498,3 +15499,1274 @@
               },
               "appts_missed": 0,
               "appts_set": 6,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              },
+              "follow_up": {
+                "color": "green",
+                "goal_value": 80,
+                "percent_value": 100
+              },
+              "leads_w_appts_set": {
+                "color": "red",
+                "goal_value": 13,
+                "percent_value": 7.32
+              },
+              "sales_cohort_rank": 39,
+              "sales_division_rank": 5,
+              "sales_national_rank": 162,
+              "total_calls": 10,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              }
+            },
+            "summary": "136 appointments"
+          },
+          {
+            "cohort_rank": 7,
+            "division_name": "Chicago",
+            "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ashley_vogelmann_lr_jpg",
+            "name": "Ashley Vogelmann",
+            "national_rank": 106,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 8,
+              "appt_kept_division_rank": 2,
+              "appt_kept_national_rank": 97,
+              "appt_set_cohort_rank": 7,
+              "appt_set_division_rank": 2,
+              "appt_set_national_rank": 106,
+              "appts_kept": {
+                "color": "yellow",
+                "goal_value": 75,
+                "percent_value": 68
+              },
+              "appts_missed": 3,
+              "appts_set": 0,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              },
+              "follow_up": {
+                "color": "red",
+                "goal_value": 80,
+                "percent_value": 0
+              },
+              "leads_w_appts_set": {
+                "color": "red",
+                "goal_value": 13,
+                "percent_value": 7.58
+              },
+              "sales_cohort_rank": 2,
+              "sales_division_rank": 2,
+              "sales_national_rank": 10,
+              "total_calls": 4,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "yellow",
+                "goal_value": 90,
+                "percent_value": 89.09
+              }
+            },
+            "summary": "126 appointments"
+          },
+          {
+            "cohort_rank": 8,
+            "division_name": "Maryland",
+            "image_url": "",
+            "name": "Avia Burnett",
+            "national_rank": 107,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 4,
+              "appt_kept_division_rank": 2,
+              "appt_kept_national_rank": 86,
+              "appt_set_cohort_rank": 7,
+              "appt_set_division_rank": 2,
+              "appt_set_national_rank": 107,
+              "appts_kept": {
+                "color": "green",
+                "goal_value": 75,
+                "percent_value": 79.41
+              },
+              "appts_missed": 2,
+              "appts_set": 0,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 92.31
+              },
+              "follow_up": {
+                "color": "red",
+                "goal_value": 80,
+                "percent_value": 0
+              },
+              "leads_w_appts_set": {
+                "color": "green",
+                "goal_value": 13,
+                "percent_value": 14.1
+              },
+              "sales_cohort_rank": 11,
+              "sales_division_rank": 2,
+              "sales_national_rank": 64,
+              "total_calls": 15,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 90.74
+              }
+            },
+            "summary": "126 appointments"
+          },
+          {
+            "cohort_rank": 9,
+            "division_name": "Maryland",
+            "image_url": "",
+            "name": "Darian Robinson",
+            "national_rank": 112,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 13,
+              "appt_kept_division_rank": 4,
+              "appt_kept_national_rank": 132,
+              "appt_set_cohort_rank": 9,
+              "appt_set_division_rank": 3,
+              "appt_set_national_rank": 112,
+              "appts_kept": {
+                "color": "red",
+                "goal_value": 75,
+                "percent_value": 65.52
+              },
+              "appts_missed": 1,
+              "appts_set": 0,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 95.83
+              },
+              "follow_up": {
+                "color": "green",
+                "goal_value": 80,
+                "percent_value": 100
+              },
+              "leads_w_appts_set": {
+                "color": "green",
+                "goal_value": 13,
+                "percent_value": 13.75
+              },
+              "sales_cohort_rank": 33,
+              "sales_division_rank": 5,
+              "sales_national_rank": 174,
+              "total_calls": 0,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 98.41
+              }
+            },
+            "summary": "122 appointments"
+          },
+          {
+            "cohort_rank": 10,
+            "division_name": "Minnesota",
+            "image_url": "",
+            "name": "Colten Decker",
+            "national_rank": 116,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 12,
+              "appt_kept_division_rank": 1,
+              "appt_kept_national_rank": 122,
+              "appt_set_cohort_rank": 10,
+              "appt_set_division_rank": 1,
+              "appt_set_national_rank": 116,
+              "appts_kept": {
+                "color": "yellow",
+                "goal_value": 75,
+                "percent_value": 71.43
+              },
+              "appts_missed": 4,
+              "appts_set": 0,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              },
+              "follow_up": {
+                "color": "green",
+                "goal_value": 80,
+                "percent_value": 100
+              },
+              "leads_w_appts_set": {
+                "color": "red",
+                "goal_value": 13,
+                "percent_value": 10.11
+              },
+              "sales_cohort_rank": 20,
+              "sales_division_rank": 3,
+              "sales_national_rank": 115,
+              "total_calls": 0,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 98.15
+              }
+            },
+            "summary": "119 appointments"
+          }
+        ]
+      },
+      "NHC_LEADERBOARDS": {
+        "appointment_kept_rate": {
+          "MTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Indianapolis",
+              "image_url": "",
+              "name": "Monica Hubner",
+              "national_rank": 6,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 2,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 2
+                  }
+                ],
+                "gross_sales": 7,
+                "gross_sales_division_rank": 2,
+                "gross_sales_national_rank": 33,
+                "incentive_rate": 11,
+                "net_revenue": 2202749,
+                "net_revenue_division_rank": 2,
+                "net_revenue_national_rank": 82,
+                "net_revenue_percent_change": 150,
+                "net_sales": 6,
+                "realtor_attachment_rate": 57,
+                "realtor_attachment_rate_division_rank": 10,
+                "realtor_attachment_rate_national_rank": 338,
+                "realtor_commission_rate": 1.4
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Raleigh",
+              "image_url": "",
+              "name": "Nancy Vaughn",
+              "national_rank": 7,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 6
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 7,
+                "gross_sales_division_rank": 1,
+                "gross_sales_national_rank": 36,
+                "incentive_rate": 0,
+                "net_revenue": 2960671,
+                "net_revenue_division_rank": 2,
+                "net_revenue_national_rank": 35,
+                "net_revenue_percent_change": 41,
+                "net_sales": 7,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 19,
+                "realtor_attachment_rate_national_rank": 490,
+                "realtor_commission_rate": 2.6
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Maryland",
+              "image_url": "",
+              "name": "Philip Marcheso",
+              "national_rank": 12,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 1,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 6
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 6,
+                "gross_sales_division_rank": 1,
+                "gross_sales_national_rank": 62,
+                "incentive_rate": 0,
+                "net_revenue": 1920248,
+                "net_revenue_division_rank": 3,
+                "net_revenue_national_rank": 125,
+                "net_revenue_percent_change": 98,
+                "net_sales": 6,
+                "realtor_attachment_rate": 83,
+                "realtor_attachment_rate_division_rank": 12,
+                "realtor_attachment_rate_national_rank": 469,
+                "realtor_commission_rate": 1.3
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Indianapolis",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_viet_tranlr_jpg",
+              "name": "Viet Tran",
+              "national_rank": 17,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 3,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 5,
+                "gross_sales_division_rank": 3,
+                "gross_sales_national_rank": 97,
+                "incentive_rate": 5.9,
+                "net_revenue": 2096631,
+                "net_revenue_division_rank": 4,
+                "net_revenue_national_rank": 97,
+                "net_revenue_percent_change": -7,
+                "net_sales": 5,
+                "realtor_attachment_rate": 80,
+                "realtor_attachment_rate_division_rank": 12,
+                "realtor_attachment_rate_national_rank": 449,
+                "realtor_commission_rate": 2.4
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Indianapolis",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_mitch_moore_lr_jpg",
+              "name": "Mitch Moore",
+              "national_rank": 20,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 0,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 5,
+                "gross_sales_division_rank": 4,
+                "gross_sales_national_rank": 117,
+                "incentive_rate": 13.2,
+                "net_revenue": 2133338,
+                "net_revenue_division_rank": 3,
+                "net_revenue_national_rank": 92,
+                "net_revenue_percent_change": 33,
+                "net_sales": 4,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 14,
+                "realtor_attachment_rate_national_rank": 503,
+                "realtor_commission_rate": 2.7
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Maryland",
+              "image_url": "",
+              "name": "Sam Reeves",
+              "national_rank": 25,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 0,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 4,
+                "gross_sales_division_rank": 4,
+                "gross_sales_national_rank": 167,
+                "incentive_rate": 4.1,
+                "net_revenue": 1611526,
+                "net_revenue_division_rank": 7,
+                "net_revenue_national_rank": 189,
+                "net_revenue_percent_change": 38,
+                "net_sales": 4,
+                "realtor_attachment_rate": 75,
+                "realtor_attachment_rate_division_rank": 10,
+                "realtor_attachment_rate_national_rank": 407,
+                "realtor_commission_rate": 1.1
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Raleigh",
+              "image_url": "",
+              "name": "McCann Sheridan",
+              "national_rank": 25,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 3,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 4,
+                "gross_sales_division_rank": 5,
+                "gross_sales_national_rank": 167,
+                "incentive_rate": 0,
+                "net_revenue": 1390689,
+                "net_revenue_division_rank": 6,
+                "net_revenue_national_rank": 259,
+                "net_revenue_percent_change": -36,
+                "net_sales": 4,
+                "realtor_attachment_rate": 75,
+                "realtor_attachment_rate_division_rank": 18,
+                "realtor_attachment_rate_national_rank": 407,
+                "realtor_commission_rate": 2
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Atlanta",
+              "image_url": "",
+              "name": "Jennifer Hall",
+              "national_rank": 28,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 2,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 6
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 4,
+                "gross_sales_division_rank": 2,
+                "gross_sales_national_rank": 207,
+                "incentive_rate": 7,
+                "net_revenue": 1515201,
+                "net_revenue_division_rank": 2,
+                "net_revenue_national_rank": 214,
+                "net_revenue_percent_change": 126,
+                "net_sales": 4,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 12,
+                "realtor_attachment_rate_national_rank": 516,
+                "realtor_commission_rate": 2.8
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Minnesota",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jennifer_finlay_lr_jpg",
+              "name": "Jennifer Finlay",
+              "national_rank": 28,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 9
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 7
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 6
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 6
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 10
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 4,
+                "gross_sales_division_rank": 4,
+                "gross_sales_national_rank": 207,
+                "incentive_rate": 7.3,
+                "net_revenue": 1719043,
+                "net_revenue_division_rank": 4,
+                "net_revenue_national_rank": 163,
+                "net_revenue_percent_change": 22,
+                "net_sales": 2,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 23,
+                "realtor_attachment_rate_national_rank": 516,
+                "realtor_commission_rate": 2.1
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Charlotte",
+              "image_url": "",
+              "name": "Elizabeth Hart",
+              "national_rank": 28,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 0,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 2
+                  }
+                ],
+                "gross_sales": 4,
+                "gross_sales_division_rank": 5,
+                "gross_sales_national_rank": 207,
+                "incentive_rate": 7.6,
+                "net_revenue": 1776876,
+                "net_revenue_division_rank": 2,
+                "net_revenue_national_rank": 159,
+                "net_revenue_percent_change": 278,
+                "net_sales": 4,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 24,
+                "realtor_attachment_rate_national_rank": 516,
+                "realtor_commission_rate": 2.8
+              },
+              "summary": "100% appointments kept"
+            }
+          ],
+          "QTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Raleigh",
+              "image_url": "",
+              "name": "Nancy Vaughn",
+              "national_rank": 11,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 6
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 18,
+                "gross_sales_division_rank": 1,
+                "gross_sales_national_rank": 65,
+                "incentive_rate": 0,
+                "net_revenue": 7598060,
+                "net_revenue_division_rank": 1,
+                "net_revenue_national_rank": 62,
+                "net_revenue_percent_change": 150,
+                "net_sales": 18,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 14,
+                "realtor_attachment_rate_national_rank": 889,
+                "realtor_commission": 197291.69,
+                "realtor_commission_rate": 2.6
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Indianapolis",
+              "image_url": "",
+              "name": "Katie Souders",
+              "national_rank": 17,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 10,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 6
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 15,
+                "gross_sales_division_rank": 3,
+                "gross_sales_national_rank": 117,
+                "incentive_rate": 12.6,
+                "net_revenue": 5141014,
+                "net_revenue_division_rank": 5,
+                "net_revenue_national_rank": 197,
+                "net_revenue_percent_change": -14,
+                "net_sales": 11,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 26,
+                "realtor_attachment_rate_national_rank": 894,
+                "realtor_commission": 166075.77,
+                "realtor_commission_rate": 3.2
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Indianapolis",
+              "image_url": "",
+              "name": "Monica Hubner",
+              "national_rank": 19,

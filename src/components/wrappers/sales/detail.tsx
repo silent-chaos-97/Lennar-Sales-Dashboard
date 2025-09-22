@@ -25,3 +25,6 @@ interface SalesDetailsProps {
   onClose: () => void
   salesDetail: SalesItem
   mapWrapperRef: RefObject<HTMLDivElement>
+  onPrev: () => void
+  onNext: () => void
+  scrollProgress: [boolean, boolean]

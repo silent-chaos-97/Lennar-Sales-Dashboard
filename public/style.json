@@ -228,6 +228,7 @@
             "id": "land",
             "type": "background",
             "metadata": {
+                "mapbox:featureComponent": "land-and-water",
                 "mapbox:group": "Land & water, land"
             },
             "layout": {},
@@ -335,3 +336,33 @@
                 ["==", ["geometry-type"], "LineString"]
             ],
             "layout": {"line-cap": "square"},
+            "paint": {
+                "line-width": [
+                    "interpolate",
+                    ["exponential", 1.99],
+                    ["zoom"],
+                    14,
+                    0.75,
+                    20,
+                    40
+                ],
+                "line-color": [
+                    "interpolate",
+                    ["linear"],
+                    ["zoom"],
+                    9,
+                    "#334057",
+                    11,
+                    "rgb(39, 48, 64)"
+                ]
+            }
+        },
+        {
+            "id": "building",
+            "type": "fill",
+            "metadata": {
+                "mapbox:featureComponent": "buildings",
+                "mapbox:group": "Buildings, built"
+            },
+            "source": "composite",
+            "source-layer": "building",

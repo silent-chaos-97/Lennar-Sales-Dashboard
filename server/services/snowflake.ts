@@ -26,3 +26,5 @@ const snowflakeOptions: ConnectionOptions = {
   schema: process.env.SNOWFLAKE_DMT
 }
 
+class SnowflakeService {
+  createConnection() {

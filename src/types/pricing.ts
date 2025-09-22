@@ -1,2 +1,1 @@
-import { Cohort } from './cohort'
 
