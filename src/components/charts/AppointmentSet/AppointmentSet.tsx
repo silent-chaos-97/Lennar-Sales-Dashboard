@@ -28,3 +28,5 @@ const AppointmentSet = ({
   const aggregateWeekData = useCallback(
     (data: TickerItem[], isPrevWeek = false): DayType[] => {
       const nWeekdayEvents: Record<string, { total: number; byTimeframe: number[] }> = {}
+      data.forEach((event) => {
+        if (event.activity_time) {

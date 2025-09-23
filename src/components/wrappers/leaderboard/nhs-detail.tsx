@@ -61,6 +61,7 @@ const NHSDetail = ({
             px: 3,
             py: 2.5,
             borderRadius: 2
+          }}
           ref={wrapperRef}
         >
           <Stack direction="row" justifyContent="space-between">

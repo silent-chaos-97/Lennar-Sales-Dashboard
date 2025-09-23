@@ -11,3 +11,4 @@ interface AssociateMemberCard {
 }
 
 const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
+  const { currentCohort } = useAppState()

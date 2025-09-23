@@ -18,3 +18,6 @@ const Wrapper = styled(Box)({
   zIndex: 2,
   background: 'linear-gradient(to right, #191D26, rgba(33, 42, 54, 0))',
   padding: '32px 24px'
+})
+
+const StrongText = styled('span')({

@@ -50,3 +50,9 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps & { value: number })
           dy={22}
           fontSize={56}
           fontWeight={500}
+          fill="#A5CFEF"
+          fontFamily="mabry-pro"
+        >
+          {props.value.toFixed()}%
+        </text>
+      </g>

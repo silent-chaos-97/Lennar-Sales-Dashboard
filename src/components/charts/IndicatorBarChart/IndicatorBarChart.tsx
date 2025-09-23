@@ -22,3 +22,5 @@ const IndicatorBarChart = ({
   data,
   id,
   currentWeekPrediction,
+  hidePredictionBar = false
+}: IndicatorBarChartProps) => {

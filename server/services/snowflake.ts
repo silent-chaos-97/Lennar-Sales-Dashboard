@@ -28,3 +28,6 @@ const snowflakeOptions: ConnectionOptions = {
 
 class SnowflakeService {
   createConnection() {
+    return snowflake.createConnection(snowflakeOptions)
+  }
+

@@ -12,3 +12,4 @@ type HeatmapProps = {
   spacing?: number
   nRow: number
   nCol: number
+  data: TickerItem[]

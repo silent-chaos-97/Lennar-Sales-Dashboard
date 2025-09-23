@@ -13,3 +13,5 @@ export interface DailyAnalyticsBoxProps {
   isLargeSize?: boolean
   title: string
   value: number
+  grossValue: number
+  diffPercent: number

@@ -65,7 +65,6 @@ const ScreenWrapper = ({ children, padding = 0, justifyContent = 'flex-start' })
   )
 }
 
-const Header = () => {
   const { setPlaying, setCycleTimerProgress } = useAppTimerSetters()
   const { mode, currentScreen, setCurrentScreen } = useScreen()
   const menuRef = useRef<HTMLDivElement>(null)
@@ -80,3 +79,4 @@ const Header = () => {
   })
 
   const handleMenuClick = () => {
+    setOpenRegionSelectMenu((prev) => !prev)

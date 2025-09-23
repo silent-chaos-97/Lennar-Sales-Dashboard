@@ -6,3 +6,4 @@ export interface WeeklyPacingItem {
   future_pace: number
   gross_sales: number
   x_axis: string
+  sort: number

@@ -4,3 +4,4 @@ export interface TickerItem {
   sort: number
 }
 
+export interface HourlyTicker {

@@ -21,3 +21,6 @@ export const Section = ({
   title,
   timestamp,
   category,
+  more,
+  timestampList,
+  categoryList,

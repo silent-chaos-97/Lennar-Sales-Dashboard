@@ -8,3 +8,13 @@ export interface SalesDetailObject {
 
 export interface AssociateArrayItem {
   cohort_rank: number
+  image_url: string
+  name: string
+  national_rank: string
+  summary: string
+  type: string
+}
+
+export interface JourneyArrayItem {
+  activity_date: string
+  activity_type: string

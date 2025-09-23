@@ -12,3 +12,4 @@ const NATIONAL_DIVISION = {
   type: 'all',
   latitude: 35.86,
   longitude: -98.26,
+  timezone: 'US/Eastern'

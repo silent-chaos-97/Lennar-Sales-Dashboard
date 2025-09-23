@@ -3,7 +3,6 @@ import * as d3 from 'd3'
 import { PricingData } from '@/types/pacing'
 import Box from '@mui/material/Box'
 
-interface BoxPlotProps {
   id: string
   width: number
   height: number
@@ -24,3 +23,5 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
     })
 
     const margin = { top: 10, right: 30, bottom: 50, left: 50 },
+      width = nWidth - margin.left - margin.right,
+      height = nHeight - margin.top - margin.bottom

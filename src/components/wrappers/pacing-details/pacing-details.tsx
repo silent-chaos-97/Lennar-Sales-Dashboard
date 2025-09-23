@@ -45,3 +45,4 @@ const List = ({ list, choose, showList }: ListProps) => {
         py: 2,
         top: 80,
         zIndex: 100,
+        borderRadius: '8px',

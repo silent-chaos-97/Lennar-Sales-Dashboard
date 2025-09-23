@@ -14,3 +14,4 @@ export interface LeaderboardISCMemberDetail {
   appts_set_percent_change: number
   sales_division_rank: number
   sales_national_rank: number
+  total_calls: number

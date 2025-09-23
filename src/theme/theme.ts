@@ -52,3 +52,9 @@ export const theme = createTheme({
       fontWeight: 400
     },
     h1: {
+      fontSize: 56,
+      lineHeight: '68px',
+      fontWeight: 700,
+      letterSpacing: '-0.66px'
+    },
+    h2: {

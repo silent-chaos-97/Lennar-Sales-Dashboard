@@ -29,3 +29,7 @@ interface StateContextValues {
   setPrevSelectedDivisionType: (value: string) => void
   metrics?: MetricsState
   dataStatus?: number
+}
+
+const StateContext = createContext<StateContextValues>({
+  refreshData: () => null,

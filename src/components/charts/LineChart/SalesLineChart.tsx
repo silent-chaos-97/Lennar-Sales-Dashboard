@@ -10,6 +10,9 @@ interface LineChartProps {
   height?: number
   data: SalesDetailObject['graph']
 }
+
 const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) => {
   useEffect(() => {
     d3.select(`#${id}`).selectAll('*').remove()
+    if (data.length) {
+      const xValues = data.map((item) => item.x_axis)

@@ -50,3 +50,9 @@ const CenterPane = () => {
   const [mapViewState, setMapViewState] = useState({
     latitude: currentCohort.latitude,
     longitude: currentCohort.longitude - LONGITUDE_DELTA[currentCohort.type],
+    zoom: ZOOM_LEVELS[currentCohort.type]
+  })
+  const now = DateTime.local().setZone(TIMEZONE[currentCohort.timezone])
+  const [salesTimeframe, setSalesTimeframe] = useState('QTD')
+  const salesState = salesTimeframeState[salesTimeframe]
+  const isBetween7and11 = now.hour > 0 && now.hour < 11 && now.weekday === 1

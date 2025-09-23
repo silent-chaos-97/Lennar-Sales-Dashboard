@@ -1952,6 +1952,7 @@
                   "goal_value": 80,
                   "percent_value": 100
                 },
+                "leads_w_appts_set": {
                   "color": "yellow",
                   "goal_value": 13,
                   "percent_value": 12.5
@@ -12370,3 +12371,1266 @@
               },
               "follow_up": {
                 "color": "red",
+                "goal_value": 80,
+                "percent_value": 0
+              },
+              "leads_w_appts_set": {
+                "color": "red",
+                "goal_value": 13,
+                "percent_value": 6.67
+              },
+              "sales_cohort_rank": 1,
+              "sales_division_rank": 1,
+              "sales_national_rank": 49,
+              "total_calls": 0,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              }
+            },
+            "summary": "96 appointments"
+          },
+          {
+            "cohort_rank": 5,
+            "division_name": "Raleigh",
+            "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_kristin_baltimore_lr_jpg",
+            "name": "Kristin Baltimore",
+            "national_rank": 161,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 6,
+              "appt_kept_division_rank": 6,
+              "appt_kept_national_rank": 158,
+              "appt_set_cohort_rank": 5,
+              "appt_set_division_rank": 5,
+              "appt_set_national_rank": 161,
+              "appts_kept": {
+                "color": "green",
+                "goal_value": 75,
+                "percent_value": 88.89
+              },
+              "appts_missed": 3,
+              "appts_set": 4,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "red",
+                "goal_value": 90,
+                "percent_value": 80
+              },
+              "follow_up": {
+                "color": "green",
+                "goal_value": 80,
+                "percent_value": 100
+              },
+              "leads_w_appts_set": {
+                "color": "green",
+                "goal_value": 13,
+                "percent_value": 18.75
+              },
+              "sales_cohort_rank": 6,
+              "sales_division_rank": 6,
+              "sales_national_rank": 188,
+              "total_calls": 11,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "yellow",
+                "goal_value": 90,
+                "percent_value": 85.71
+              }
+            },
+            "summary": "88 appointments"
+          },
+          {
+            "cohort_rank": 6,
+            "division_name": "Raleigh",
+            "image_url": "",
+            "name": "Jessica Schurr",
+            "national_rank": 171,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 5,
+              "appt_kept_division_rank": 5,
+              "appt_kept_national_rank": 147,
+              "appt_set_cohort_rank": 6,
+              "appt_set_division_rank": 6,
+              "appt_set_national_rank": 171,
+              "appts_kept": {
+                "color": "green",
+                "goal_value": 75,
+                "percent_value": 88.89
+              },
+              "appts_missed": 0,
+              "appts_set": 0,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              },
+              "follow_up": {
+                "color": "green",
+                "goal_value": 80,
+                "percent_value": 100
+              },
+              "leads_w_appts_set": {
+                "color": "red",
+                "goal_value": 13,
+                "percent_value": 10.34
+              },
+              "sales_cohort_rank": 5,
+              "sales_division_rank": 5,
+              "sales_national_rank": 157,
+              "total_calls": 0,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "yellow",
+                "goal_value": 90,
+                "percent_value": 84.62
+              }
+            },
+            "summary": "80 appointments"
+          },
+          {
+            "cohort_rank": 7,
+            "division_name": "Raleigh",
+            "image_url": "",
+            "name": "Courtney Hill",
+            "national_rank": 204,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 8,
+              "appt_kept_division_rank": 8,
+              "appt_kept_national_rank": 211,
+              "appt_set_cohort_rank": 7,
+              "appt_set_division_rank": 7,
+              "appt_set_national_rank": 204,
+              "appts_kept": {
+                "color": "yellow",
+                "goal_value": 75,
+                "percent_value": 72
+              },
+              "appts_missed": 2,
+              "appts_set": 4,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "red",
+                "goal_value": 90,
+                "percent_value": 50
+              },
+              "follow_up": {
+                "color": "red",
+                "goal_value": 80,
+                "percent_value": 0
+              },
+              "leads_w_appts_set": {
+                "color": "green",
+                "goal_value": 13,
+                "percent_value": 22.86
+              },
+              "sales_cohort_rank": 8,
+              "sales_division_rank": 8,
+              "sales_national_rank": 221,
+              "total_calls": 7,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 96
+              }
+            },
+            "summary": "44 appointments"
+          },
+          {
+            "cohort_rank": 8,
+            "division_name": "Raleigh",
+            "image_url": "",
+            "name": "Ally Henry",
+            "national_rank": 206,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 7,
+              "appt_kept_division_rank": 7,
+              "appt_kept_national_rank": 209,
+              "appt_set_cohort_rank": 8,
+              "appt_set_division_rank": 8,
+              "appt_set_national_rank": 206,
+              "appts_kept": {
+                "color": "red",
+                "goal_value": 75,
+                "percent_value": 59.26
+              },
+              "appts_missed": 1,
+              "appts_set": 1,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "red",
+                "goal_value": 90,
+                "percent_value": 0
+              },
+              "follow_up": {
+                "color": "red",
+                "goal_value": 80,
+                "percent_value": 0
+              },
+              "leads_w_appts_set": {
+                "color": "green",
+                "goal_value": 13,
+                "percent_value": 23.53
+              },
+              "sales_cohort_rank": 7,
+              "sales_division_rank": 7,
+              "sales_national_rank": 216,
+              "total_calls": 10,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 92.31
+              }
+            },
+            "summary": "43 appointments"
+          }
+        ]
+      },
+      "NHC_LEADERBOARDS": {
+        "appointment_kept_rate": {
+          "MTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Raleigh",
+              "image_url": "",
+              "name": "Nancy Vaughn",
+              "national_rank": 7,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 6
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 7,
+                "gross_sales_division_rank": 1,
+                "gross_sales_national_rank": 36,
+                "incentive_rate": 0,
+                "net_revenue": 2960671,
+                "net_revenue_division_rank": 2,
+                "net_revenue_national_rank": 35,
+                "net_revenue_percent_change": 41,
+                "net_sales": 7,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 19,
+                "realtor_attachment_rate_national_rank": 490,
+                "realtor_commission_rate": 2.6
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Raleigh",
+              "image_url": "",
+              "name": "McCann Sheridan",
+              "national_rank": 25,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 3,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 4,
+                "gross_sales_division_rank": 5,
+                "gross_sales_national_rank": 167,
+                "incentive_rate": 0,
+                "net_revenue": 1390689,
+                "net_revenue_division_rank": 6,
+                "net_revenue_national_rank": 259,
+                "net_revenue_percent_change": -36,
+                "net_sales": 4,
+                "realtor_attachment_rate": 75,
+                "realtor_attachment_rate_division_rank": 18,
+                "realtor_attachment_rate_national_rank": 407,
+                "realtor_commission_rate": 2
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Raleigh",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jessica_jordanlr_jpg",
+              "name": "Jessica Jordan",
+              "national_rank": 49,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 2,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 3,
+                "gross_sales_division_rank": 8,
+                "gross_sales_national_rank": 301,
+                "incentive_rate": 0.2,
+                "net_revenue": 1255513,
+                "net_revenue_division_rank": 9,
+                "net_revenue_national_rank": 309,
+                "net_revenue_percent_change": 184,
+                "net_sales": 3,
+                "realtor_attachment_rate": 67,
+                "realtor_attachment_rate_division_rank": 17,
+                "realtor_attachment_rate_national_rank": 359,
+                "realtor_commission_rate": 1.9
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Raleigh",
+              "image_url": "",
+              "name": "Sabrina Noe",
+              "national_rank": 73,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 6,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 2,
+                "gross_sales_division_rank": 11,
+                "gross_sales_national_rank": 439,
+                "incentive_rate": 0,
+                "net_revenue": 761655,
+                "net_revenue_division_rank": 16,
+                "net_revenue_national_rank": 529,
+                "net_revenue_percent_change": 0,
+                "net_sales": 2,
+                "realtor_attachment_rate": 50,
+                "realtor_attachment_rate_division_rank": 13,
+                "realtor_attachment_rate_national_rank": 245,
+                "realtor_commission_rate": 1.2
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Raleigh",
+              "image_url": "",
+              "name": "Warren Beck",
+              "national_rank": 121,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 17,
+                "gross_sales_national_rank": 738,
+                "incentive_rate": 0,
+                "net_revenue": 410222,
+                "net_revenue_division_rank": 20,
+                "net_revenue_national_rank": 772,
+                "net_revenue_percent_change": -69,
+                "net_sales": 1,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 28,
+                "realtor_attachment_rate_national_rank": 738,
+                "realtor_commission_rate": 2.5
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Raleigh",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_mark_freemanlr_jpg",
+              "name": "Mark Freeman",
+              "national_rank": 121,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 10,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 17,
+                "gross_sales_national_rank": 738,
+                "incentive_rate": 0.6,
+                "net_revenue": 306153,
+                "net_revenue_division_rank": 24,
+                "net_revenue_national_rank": 868,
+                "net_revenue_percent_change": -80,
+                "net_sales": 1,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 28,
+                "realtor_attachment_rate_national_rank": 738,
+                "realtor_commission_rate": 2.8
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Raleigh",
+              "image_url": "",
+              "name": "Kathleen McWilliams-Stasser",
+              "national_rank": 149,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 21,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 25,
+                "gross_sales_national_rank": 932,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 25,
+                "net_revenue_national_rank": 932,
+                "net_revenue_percent_change": 0,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 1,
+                "realtor_attachment_rate_national_rank": 932,
+                "realtor_commission_rate": 0
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Raleigh",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_haley_allenlr_jpg",
+              "name": "Haley Allen",
+              "national_rank": 230,
+              "pop_out_details": {
+                "appointments_kept_rate": 67,
+                "days_since_last_sale": 6,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 2,
+                "gross_sales_division_rank": 11,
+                "gross_sales_national_rank": 439,
+                "incentive_rate": 0,
+                "net_revenue": 977220,
+                "net_revenue_division_rank": 12,
+                "net_revenue_national_rank": 436,
+                "net_revenue_percent_change": -60,
+                "net_sales": 1,
+                "realtor_attachment_rate": 50,
+                "realtor_attachment_rate_division_rank": 13,
+                "realtor_attachment_rate_national_rank": 245,
+                "realtor_commission_rate": 1.5
+              },
+              "summary": "67% appointments kept"
+            },
+            {
+              "cohort_rank": 9,
+              "division_name": "Raleigh",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_matthew_lovelace_lr_jpg",
+              "name": "Matthew Lovelace",
+              "national_rank": 256,
+              "pop_out_details": {
+                "appointments_kept_rate": 60,
+                "days_since_last_sale": 5,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 17,
+                "gross_sales_national_rank": 738,
+                "incentive_rate": 0,
+                "net_revenue": 475085,
+                "net_revenue_division_rank": 18,
+                "net_revenue_national_rank": 727,
+                "net_revenue_percent_change": -63,
+                "net_sales": 1,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 28,
+                "realtor_attachment_rate_national_rank": 738,
+                "realtor_commission_rate": 2.5
+              },
+              "summary": "60% appointments kept"
+            },
+            {
+              "cohort_rank": 9,
+              "division_name": "Raleigh",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_katie_webblr_jpg",
+              "name": "Katie Webb",
+              "national_rank": 256,
+              "pop_out_details": {
+                "appointments_kept_rate": 60,
+                "days_since_last_sale": 6,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 17,
+                "gross_sales_national_rank": 738,
+                "incentive_rate": 0,
+                "net_revenue": 412940,
+                "net_revenue_division_rank": 19,
+                "net_revenue_national_rank": 769,
+                "net_revenue_percent_change": -13,
+                "net_sales": 1,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 28,
+                "realtor_attachment_rate_national_rank": 738,
+                "realtor_commission_rate": 2.5
+              },
+              "summary": "60% appointments kept"
+            },
+            {
+              "cohort_rank": 11,
+              "division_name": "Raleigh",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_declan_burnslr_jpg",
+              "name": "Declan Burns",
+              "national_rank": 260,
+              "pop_out_details": {
+                "appointments_kept_rate": 60,
+                "days_since_last_sale": 20,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 25,
+                "gross_sales_national_rank": 932,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 25,
+                "net_revenue_national_rank": 932,
+                "net_revenue_percent_change": -100,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 1,
+                "realtor_attachment_rate_national_rank": 932,
+                "realtor_commission_rate": 0
+              },
+              "summary": "60% appointments kept"
+            },
+            {
+              "cohort_rank": 12,
+              "division_name": "Raleigh",
+              "image_url": "",
+              "name": "Stephanie Masino",
+              "national_rank": 323,
+              "pop_out_details": {
+                "appointments_kept_rate": 50,
+                "days_since_last_sale": 17,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 7
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 8
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 25,
+                "gross_sales_national_rank": 932,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 25,
+                "net_revenue_national_rank": 932,
+                "net_revenue_percent_change": -100,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 1,
+                "realtor_attachment_rate_national_rank": 932,
+                "realtor_commission_rate": 0
+              },
+              "summary": "50% appointments kept"
+            },
+            {
+              "cohort_rank": 13,
+              "division_name": "Raleigh",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_austin_antwine_jpg",
+              "name": "Austin Antwine",
+              "national_rank": 415,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },

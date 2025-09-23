@@ -7,3 +7,4 @@ export interface LeaderboardDetailProps {
   name: string
   imageUrl: string
   cohortRank: number
+  nationalRank: number

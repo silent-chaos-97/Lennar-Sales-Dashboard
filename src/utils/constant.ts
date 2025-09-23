@@ -7,3 +7,4 @@ export const STATUS_COLORS = {
 }
 
 export const PERFORMANCE_COLORS = {
+  red: '#DF5347',

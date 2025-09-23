@@ -17,3 +17,5 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
     d3.select('#pie_chart > *').remove()
     const radius = Math.min(width, height) / 2
 
+    const svg = d3
+      .select('#pie_chart')

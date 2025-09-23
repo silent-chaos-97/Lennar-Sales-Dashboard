@@ -13,4 +13,3 @@ interface ActivityChartProps {
   data: TickerItem[]
 }
 
-const ActivityChart = ({ data }: ActivityChartProps) => {

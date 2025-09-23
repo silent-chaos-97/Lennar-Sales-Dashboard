@@ -11,3 +11,4 @@ The project is divided into two main parts: the backend and the frontend. The ba
   - It's recommended to use [nvm](https://github.com/nvm-sh/nvm) for this.
     Install with `brew install nvm` and then run `nvm use` in the root directory
     of this repo.
+- `npm` 8.x

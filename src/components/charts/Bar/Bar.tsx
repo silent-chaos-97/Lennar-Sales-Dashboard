@@ -6,3 +6,4 @@ import SouthEastIcon from '@mui/icons-material/SouthEast'
 import { getValueChangeTextColor } from '@/utils/helper'
 
 interface BarProps {
+  label: string

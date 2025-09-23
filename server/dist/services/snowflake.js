@@ -61,7 +61,6 @@ class SnowflakeService {
                             }));
                             const subRegions = rows
                                 .filter((dRow) => dRow.COHORT_TYPE === 'sub_region' && dRow.REGION === rRow.REGION)
-                                .map((dRow) => {
                                 const divisions = rows
                                     .filter((sub_division) => sub_division.COHORT_TYPE === 'division' &&
                                     sub_division.REGION === rRow.REGION &&

@@ -17,3 +17,5 @@ const LeaderboardItems = ({
   leaderboardData,
   currentCohort,
   activeIdx,
+  handleClickDetail
+}) => (

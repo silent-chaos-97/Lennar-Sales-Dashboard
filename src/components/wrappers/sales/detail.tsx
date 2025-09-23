@@ -28,3 +28,6 @@ interface SalesDetailsProps {
   onPrev: () => void
   onNext: () => void
   scrollProgress: [boolean, boolean]
+}
+
+const SalesDetails = ({

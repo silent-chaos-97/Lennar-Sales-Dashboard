@@ -16,3 +16,5 @@ interface DataEntry {
   cur: FrameData
   prv: FrameData
 }
+
+interface StackedBarChartProps {

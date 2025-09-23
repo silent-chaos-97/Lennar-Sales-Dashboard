@@ -3,6 +3,7 @@ import Accordion from '@mui/material/Accordion'
 import AccordionDetails from '@mui/material/AccordionDetails'
 import AccordionSummary from '@mui/material/AccordionSummary'
 import Chip from '@mui/material/Chip'
+import Box from '@mui/material/Box'
 import PersonIcon from '@mui/icons-material/Person'
 import Button from '@mui/material/Button'
 import Stack from '@mui/material/Stack'
@@ -21,3 +22,4 @@ const Divider = styled('div')(({ theme }) => ({
   width: 2,
   zIndex: -1
 }))
+
