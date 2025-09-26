@@ -6,12 +6,13 @@ import Typography from '@mui/material/Typography'
 import { styled } from '@mui/material/styles'
 
 interface TrackProps {
+  color?: string
   percent: number
 }
 
 interface GoalLineProps {
   color?: string
-  percent: number
   goal: number
 }
 
+const Track = styled('div', {

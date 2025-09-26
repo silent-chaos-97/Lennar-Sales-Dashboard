@@ -56,3 +56,4 @@ const CenterPane = () => {
   const [salesTimeframe, setSalesTimeframe] = useState('QTD')
   const salesState = salesTimeframeState[salesTimeframe]
   const isBetween7and11 = now.hour > 0 && now.hour < 11 && now.weekday === 1
+

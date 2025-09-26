@@ -9,3 +9,4 @@ import DataAlert from '@/components/common/CustomTooltip/DataAlert'
 import { CurrentActivityState } from '@/types/current_activity'
 
 interface LeadsProps {
+  activityTimeframe: string

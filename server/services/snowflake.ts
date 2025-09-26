@@ -31,3 +31,4 @@ class SnowflakeService {
     return snowflake.createConnection(snowflakeOptions)
   }
 
+  getCohortList(): Promise<CohortListItem[]> {

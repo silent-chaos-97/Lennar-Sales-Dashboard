@@ -37,7 +37,6 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps) => {
           fontFamily="mabry-pro"
         >
           <DataAlert
-            elementName={`label-${props.label.toString().toLowerCase()}`}
             truncateSize={0}
             isSvg
           >

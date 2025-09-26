@@ -33,3 +33,4 @@ interface StateContextValues {
 
 const StateContext = createContext<StateContextValues>({
   refreshData: () => null,
+  cohorts: [],

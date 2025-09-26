@@ -54,5 +54,5 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps & { value: number })
           fontFamily="mabry-pro"
         >
           {props.value.toFixed()}%
-        </text>
       </g>
+    </CustomTooltip>

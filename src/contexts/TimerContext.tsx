@@ -25,6 +25,7 @@ interface TimerContextVariables {
 const TimerVariablesContext = createContext<TimerContextVariables>({
   cycleTimeout: 180,
   idleTimeout: 600,
+  disableRotation: 1
 })
 
 interface TimerContextSetters {

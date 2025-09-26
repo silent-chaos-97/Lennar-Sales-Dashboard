@@ -19,3 +19,4 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
   return (
     <Box>
       <Stack direction="row" gap={2} mb={6}>
+        <Stack sx={{ width: 160 }}>

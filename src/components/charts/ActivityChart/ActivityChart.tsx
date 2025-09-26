@@ -11,5 +11,3 @@ import { useMemo } from 'react'
 
 interface ActivityChartProps {
   data: TickerItem[]
-}
-

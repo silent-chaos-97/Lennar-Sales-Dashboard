@@ -4,5 +4,4 @@ import Typography from '@mui/material/Typography'
 import { suffixTheNumber } from '@/utils/helper'
 import { Grid } from '@mui/material'
 
-interface KPIWidgetProps {
   title: string

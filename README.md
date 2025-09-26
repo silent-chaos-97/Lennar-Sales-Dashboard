@@ -12,3 +12,4 @@ The project is divided into two main parts: the backend and the frontend. The ba
     Install with `brew install nvm` and then run `nvm use` in the root directory
     of this repo.
 - `npm` 8.x
+  - If you used `nvm`, this should be set up for you after running `nvm use`.

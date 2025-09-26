@@ -31,3 +31,4 @@ interface SalesDetailsProps {
 }
 
 const SalesDetails = ({
+  svgSize,

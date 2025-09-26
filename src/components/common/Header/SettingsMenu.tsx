@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import Box from '@mui/material/Box'
 import Stack from '@mui/material/Stack'
 import Typography from '@mui/material/Typography'
 import Select from '@mui/material/Select'
@@ -30,3 +31,4 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
     setDisableRotation(value)
   }
 
+  const handleChangeMode = (event: React.ChangeEvent<HTMLInputElement>) => {

@@ -58,3 +58,5 @@ export const theme = createTheme({
       letterSpacing: '-0.66px'
     },
     h2: {
+      fontSize: 42,
+      lineHeight: '50px',

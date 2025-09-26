@@ -18,3 +18,4 @@ interface DataEntry {
 }
 
 interface StackedBarChartProps {
+  data: DataEntry

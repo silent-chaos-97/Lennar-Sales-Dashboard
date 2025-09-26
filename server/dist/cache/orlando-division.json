@@ -8685,7 +8685,6 @@
                 "appt_set_division_rank": 4,
                 "appt_set_national_rank": 83,
                 "appts_kept": {
-                  "color": "green",
                   "goal_value": 75,
                   "percent_value": 78.57
                 },
@@ -10423,6 +10422,7 @@
               "national_rank": 87,
               "pop_out_details": {
                 "appt_kept_cohort_rank": 8,
+                "appt_kept_division_rank": 8,
                 "appt_kept_national_rank": 113,
                 "appt_set_cohort_rank": 5,
                 "appt_set_division_rank": 5,
@@ -19466,3 +19466,555 @@
                 "realtor_commission_rate": 1.7
               },
               "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Orlando",
+              "image_url": "",
+              "name": "Leonardo Macknight",
+              "national_rank": 169,
+              "pop_out_details": {
+                "appointments_kept_rate": 96,
+                "days_since_last_sale": 3,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 6,
+                "gross_sales_division_rank": 25,
+                "gross_sales_national_rank": 687,
+                "incentive_rate": 7,
+                "net_revenue": 2360450,
+                "net_revenue_division_rank": 27,
+                "net_revenue_national_rank": 689,
+                "net_revenue_percent_change": 28,
+                "net_sales": 6,
+                "realtor_attachment_rate": 67,
+                "realtor_attachment_rate_division_rank": 8,
+                "realtor_attachment_rate_national_rank": 443,
+                "realtor_commission": 60277.74,
+                "realtor_commission_rate": 2.6
+              },
+              "summary": "96% appointments kept"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Orlando",
+              "image_url": "",
+              "name": "George Kokoris",
+              "national_rank": 204,
+              "pop_out_details": {
+                "appointments_kept_rate": 86,
+                "days_since_last_sale": 8,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 14,
+                "gross_sales_division_rank": 8,
+                "gross_sales_national_rank": 145,
+                "incentive_rate": 4.1,
+                "net_revenue": 4621065,
+                "net_revenue_division_rank": 12,
+                "net_revenue_national_rank": 257,
+                "net_revenue_percent_change": 36,
+                "net_sales": 11,
+                "realtor_attachment_rate": 86,
+                "realtor_attachment_rate_division_rank": 22,
+                "realtor_attachment_rate_national_rank": 748,
+                "realtor_commission": 172068.31,
+                "realtor_commission_rate": 3.7
+              },
+              "summary": "86% appointments kept"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Orlando",
+              "image_url": "",
+              "name": "Antonio Ramirez",
+              "national_rank": 211,
+              "pop_out_details": {
+                "appointments_kept_rate": 86,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 6,
+                "gross_sales_division_rank": 28,
+                "gross_sales_national_rank": 705,
+                "incentive_rate": 8.4,
+                "net_revenue": 1378727,
+                "net_revenue_division_rank": 35,
+                "net_revenue_national_rank": 934,
+                "net_revenue_percent_change": 441,
+                "net_sales": 3,
+                "realtor_attachment_rate": 83,
+                "realtor_attachment_rate_division_rank": 20,
+                "realtor_attachment_rate_national_rank": 709,
+                "realtor_commission": 49994.5,
+                "realtor_commission_rate": 3.6
+              },
+              "summary": "86% appointments kept"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Orlando",
+              "image_url": "",
+              "name": "Graciela Soto",
+              "national_rank": 234,
+              "pop_out_details": {
+                "appointments_kept_rate": 82,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 6
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 11,
+                "gross_sales_division_rank": 15,
+                "gross_sales_national_rank": 274,
+                "incentive_rate": 0.3,
+                "net_revenue": 5805367,
+                "net_revenue_division_rank": 6,
+                "net_revenue_national_rank": 143,
+                "net_revenue_percent_change": -4,
+                "net_sales": 11,
+                "realtor_attachment_rate": 82,
+                "realtor_attachment_rate_division_rank": 17,
+                "realtor_attachment_rate_national_rank": 690,
+                "realtor_commission": 159154.21,
+                "realtor_commission_rate": 2.7
+              },
+              "summary": "82% appointments kept"
+            },
+            {
+              "cohort_rank": 7,
+              "division_name": "Orlando",
+              "image_url": "",
+              "name": "Ryan Justice",
+              "national_rank": 252,
+              "pop_out_details": {
+                "appointments_kept_rate": 80,
+                "days_since_last_sale": 15,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 6,
+                "gross_sales_division_rank": 30,
+                "gross_sales_national_rank": 735,
+                "incentive_rate": 2.8,
+                "net_revenue": 2385931,
+                "net_revenue_division_rank": 26,
+                "net_revenue_national_rank": 681,
+                "net_revenue_percent_change": 134,
+                "net_sales": 5,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 35,
+                "realtor_attachment_rate_national_rank": 955,
+                "realtor_commission": 87324.76,
+                "realtor_commission_rate": 3.7
+              },
+              "summary": "80% appointments kept"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Orlando",
+              "image_url": "",
+              "name": "Hernesto Torrealba",
+              "national_rank": 276,
+              "pop_out_details": {
+                "appointments_kept_rate": 75,
+                "days_since_last_sale": 2,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 14,
+                "gross_sales_division_rank": 10,
+                "gross_sales_national_rank": 148,
+                "incentive_rate": 4.8,
+                "net_revenue": 4088531,
+                "net_revenue_division_rank": 14,
+                "net_revenue_national_rank": 331,
+                "net_revenue_percent_change": 502,
+                "net_sales": 11,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 34,
+                "realtor_attachment_rate_national_rank": 898,
+                "realtor_commission": 185440.69,
+                "realtor_commission_rate": 4.5
+              },
+              "summary": "75% appointments kept"
+            },
+            {
+              "cohort_rank": 9,
+              "division_name": "Orlando",
+              "image_url": "",
+              "name": "Jeff Davis",
+              "national_rank": 280,
+              "pop_out_details": {
+                "appointments_kept_rate": 75,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {

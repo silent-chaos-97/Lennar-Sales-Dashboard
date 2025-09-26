@@ -1,6 +1,5 @@
 import Stack from '@mui/material/Stack'
 import Section from '@/components/common/Section'
-import Box from '@mui/material/Box'
 import Typography from '@mui/material/Typography'
 import BoxPlot from '@/components/charts/BoxPlot'
 import SouthEastIcon from '@mui/icons-material/SouthEast'
@@ -20,3 +19,4 @@ interface PricingAnalysisProps {
 }
 
 const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) => {
+  const { width, height, ref } = useResizeDetector()

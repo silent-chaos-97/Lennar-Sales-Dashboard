@@ -38,3 +38,4 @@ const PacingStatus = ({ mapWrapperRef }) => {
   const { width, height, ref: pieChartRef } = useResizeDetector()
   const [activeDots, setActiveDots] = useState<number[]>([])
   const [activePieName, setActivePieName] = useState('')
+  const [selectedPacingItem, setSelectedPacingItem] = useState<SubCohortItem | null>(null)

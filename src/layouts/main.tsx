@@ -27,6 +27,7 @@ const DashboardLayout = styled('div')({
 const Screen = styled('div')({
   width: 2400,
   height: 0,
+  paddingTop: 1350,
   position: 'relative'
 })
 

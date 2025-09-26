@@ -13,3 +13,4 @@ type HeatmapProps = {
   nRow: number
   nCol: number
   data: TickerItem[]
+  ref?: OneRefChangeTime

@@ -7,7 +7,6 @@ import { SalesDetailObject } from '@/types/sales'
 interface LineChartProps {
   id: string
   width?: number
-  height?: number
   data: SalesDetailObject['graph']
 }
 
@@ -16,3 +15,4 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
     d3.select(`#${id}`).selectAll('*').remove()
     if (data.length) {
       const xValues = data.map((item) => item.x_axis)
+      const yValues = data.map((item) => item.y_axis)
