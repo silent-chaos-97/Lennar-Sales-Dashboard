@@ -15,3 +15,5 @@ export interface DailyAnalyticsBoxProps {
   value: number
   grossValue: number
   diffPercent: number
+  color?: string
+  unit?: string

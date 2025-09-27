@@ -46,3 +46,5 @@ const List = ({ list, choose, showList }: ListProps) => {
         top: 80,
         zIndex: 100,
         borderRadius: '8px',
+        backgroundColor: '#212936',
+        width: 460,

@@ -24,3 +24,7 @@ export const Section = ({
   more,
   timestampList,
   categoryList,
+  onSelectTimestamp,
+  onSelectCategory,
+  dropdownAlignment = 'right',
+  children

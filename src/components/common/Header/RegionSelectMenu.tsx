@@ -14,3 +14,5 @@ const NATIONAL_DIVISION = {
   longitude: -98.26,
   timezone: 'US/Eastern'
 }
+
+interface RegionSelectMenuProps {

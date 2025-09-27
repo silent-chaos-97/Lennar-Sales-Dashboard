@@ -54,5 +54,13 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps & { value: number })
           fontFamily="mabry-pro"
         >
           {props.value.toFixed()}%
+        </text>
       </g>
     </CustomTooltip>
+  )
+}
+
+const AxisXEndTickComponent = (props: RadialAxisTickProps & { goal: number }) => {
+  return (
+    <g transform={`translate(${props.y}, 0) rotate(180)`}>
+      <text

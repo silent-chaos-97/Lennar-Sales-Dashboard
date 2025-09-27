@@ -19,3 +19,6 @@ const LeaderboardItems = ({
   activeIdx,
   handleClickDetail
 }) => (
+  <>
+    {leaderboardItems.map((leader, idx) => (
+      <MemberItem

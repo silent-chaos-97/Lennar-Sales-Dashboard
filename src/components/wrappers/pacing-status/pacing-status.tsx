@@ -27,7 +27,6 @@ const MarkerIcon = styled('div', {
   width: 20,
   borderWidth: 1,
   borderStyle: 'solid',
-  borderColor: `rbga(255, 255, 255, 0.7)`,
   opacity: props.active ? 1 : 0.3
 }))
 
@@ -39,3 +38,8 @@ const PacingStatus = ({ mapWrapperRef }) => {
   const [activeDots, setActiveDots] = useState<number[]>([])
   const [activePieName, setActivePieName] = useState('')
   const [selectedPacingItem, setSelectedPacingItem] = useState<SubCohortItem | null>(null)
+  const [mapViewState, setMapViewState] = useState({
+    latitude: currentCohort.latitude,
+    longitude: currentCohort.longitude,
+    zoom: PACING_ZOOM_LEVEL[currentCohort.type]
+  })

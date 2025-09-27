@@ -6,7 +6,7 @@ import { Typography } from '@mui/material'
 import { useMemo } from 'react'
 import CustomTooltip from '@/components/common/CustomTooltip'
 import DataAlert from '@/components/common/CustomTooltip/DataAlert'
-import { CurrentActivityState } from '@/types/current_activity'
 
 interface LeadsProps {
   activityTimeframe: string
+  data: CurrentActivityState

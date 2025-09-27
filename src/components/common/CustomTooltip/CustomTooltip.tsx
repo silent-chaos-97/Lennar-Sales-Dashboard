@@ -5,3 +5,4 @@ import { useScreen } from '@/contexts/ScreenContext'
 
 export interface CustomTooltipProps {
   elementName: string
+  children: ReactElement

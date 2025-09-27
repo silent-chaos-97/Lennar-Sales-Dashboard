@@ -37,6 +37,7 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps) => {
           fontFamily="mabry-pro"
         >
           <DataAlert
+            elementName={`label-${props.label.toString().toLowerCase()}`}
             truncateSize={0}
             isSvg
           >
@@ -46,7 +47,6 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps) => {
       </CustomTooltip>
       <text
         dx={props.textX}
-        textAnchor={props.textAnchor}
         dy={22}
         fontSize={56}
         fontWeight={500}
@@ -59,3 +59,5 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps) => {
   )
 }
 
+const AxisXEndTickComponent = (props: RadialAxisTickProps) => {
+  const { performanceState } = usePerformanceContext()

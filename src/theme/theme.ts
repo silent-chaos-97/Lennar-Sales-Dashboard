@@ -60,3 +60,10 @@ export const theme = createTheme({
     h2: {
       fontSize: 42,
       lineHeight: '50px',
+      letterSpacing: '-0.66px',
+      fontWeight: 700
+    },
+    h3: {
+      fontSize: 32,
+      lineHeight: '38px'
+    },

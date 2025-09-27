@@ -5,3 +5,4 @@ export interface TickerItem {
 }
 
 export interface HourlyTicker {
+  prev: number

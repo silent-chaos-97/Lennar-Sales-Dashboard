@@ -48,3 +48,5 @@ const ScreenWrapper = ({ children, padding, justifyContent = 'flex-start', width
       <Screen>
         <InnerScreen style={{ padding, justifyContent }}>{children}</InnerScreen>
       </Screen>
+    )
+  }

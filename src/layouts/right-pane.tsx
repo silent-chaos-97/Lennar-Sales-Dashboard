@@ -8,3 +8,4 @@ import { useMemo, useRef } from 'react'
 import { useAppState } from '@/contexts/StateContext'
 import { NHC_LEADERBOARD_CATEGORIES } from '@/types/leaderboards'
 
+const RightPane = () => {

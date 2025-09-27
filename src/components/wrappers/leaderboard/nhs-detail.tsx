@@ -69,3 +69,5 @@ const NHSDetail = ({
               {name}
             </Typography>
             <Stack direction="row">
+              <IconButton onClick={onPrev}>
+                <ChevronLeftIcon htmlColor="#dde3f6" opacity={disablePrevNext[0] ? 0.25 : 1} />

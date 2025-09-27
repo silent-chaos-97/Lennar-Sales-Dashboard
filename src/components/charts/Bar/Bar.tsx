@@ -7,3 +7,4 @@ import { getValueChangeTextColor } from '@/utils/helper'
 
 interface BarProps {
   label: string
+  percent?: number

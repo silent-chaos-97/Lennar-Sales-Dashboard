@@ -12,6 +12,7 @@ import TimelineEvent from './TimelineEvent'
 import { JourneyArrayItem } from '@/types/sales'
 import { DateTime } from 'luxon'
 import { Scrollbar } from 'react-scrollbars-custom'
+
 const Divider = styled('div')(({ theme }) => ({
   background: theme.palette.secondary.main,
   position: 'absolute',

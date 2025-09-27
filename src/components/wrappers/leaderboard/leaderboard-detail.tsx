@@ -8,3 +8,5 @@ export interface LeaderboardDetailProps {
   imageUrl: string
   cohortRank: number
   nationalRank: number
+  data?: LeaderboardMemberDetail
+  onClose: () => void

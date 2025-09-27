@@ -19,3 +19,6 @@ interface DataEntry {
 
 interface StackedBarChartProps {
   data: DataEntry
+  maxValue: number
+}
+

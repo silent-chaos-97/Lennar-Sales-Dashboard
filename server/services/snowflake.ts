@@ -32,3 +32,7 @@ class SnowflakeService {
   }
 
   getCohortList(): Promise<CohortListItem[]> {
+    const sql = 'select * from homebase.corp_hub_cohorts_json'
+    const connection = this.createConnection()
+
+    return new Promise((resolve, reject) => {

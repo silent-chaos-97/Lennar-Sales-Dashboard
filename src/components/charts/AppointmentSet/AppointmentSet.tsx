@@ -1,5 +1,6 @@
 import { useCallback, useMemo } from 'react'
 import Stack from '@mui/material/Stack'
+import Box from '@mui/material/Box'
 import Typography from '@mui/material/Typography'
 import { DateTime } from 'luxon'
 import StackedBarChart from './StackedBarChart'
@@ -29,3 +30,5 @@ const AppointmentSet = ({
       const nWeekdayEvents: Record<string, { total: number; byTimeframe: number[] }> = {}
       data.forEach((event) => {
         if (event.activity_time) {
+          const eventDateTime = DateTime.fromISO(event.activity_time.replace(' ', 'T') + 'Z')
+          const weekdate = eventDateTime.toFormat('yyyy-MM-dd')

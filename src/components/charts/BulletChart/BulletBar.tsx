@@ -9,3 +9,5 @@ interface BulletBarProps {
   value: number
   label?: string
   maxValue?: number
+  color?: PacingBulletBarColors
+}

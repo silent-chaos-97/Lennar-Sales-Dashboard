@@ -81,3 +81,7 @@ const Header = () => {
 
   const handleMenuClick = () => {
     setOpenRegionSelectMenu((prev) => !prev)
+  }
+
+  const handleSelectMenu = (menu: Division) => {
+    setOpenRegionSelectMenu(false)

@@ -24,3 +24,5 @@ const IndicatorBarChart = ({
   currentWeekPrediction,
   hidePredictionBar = false
 }: IndicatorBarChartProps) => {
+  useEffect(() => {
+    // Set ranges

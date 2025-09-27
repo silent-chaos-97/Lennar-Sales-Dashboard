@@ -57,3 +57,11 @@ const CenterPane = () => {
   const salesState = salesTimeframeState[salesTimeframe]
   const isBetween7and11 = now.hour > 0 && now.hour < 11 && now.weekday === 1
 
+  useEffect(() => {
+    if (isBetween7and11) {
+      setSalesTimeframe('QTD')
+    } else {
+      setSalesTimeframe('WTD')
+    }
+  }, [isBetween7and11, salesTimeframeState])
+

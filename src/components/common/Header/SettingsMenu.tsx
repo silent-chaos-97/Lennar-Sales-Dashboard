@@ -32,3 +32,7 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
   }
 
   const handleChangeMode = (event: React.ChangeEvent<HTMLInputElement>) => {
+    const value = +(event.target as HTMLInputElement).value as unknown as ScreenMode
+    setScreenMode(value)
+  }
+

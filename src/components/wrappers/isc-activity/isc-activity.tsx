@@ -20,3 +20,5 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
     <Box>
       <Stack direction="row" gap={2} mb={6}>
         <Stack sx={{ width: 160 }}>
+          <CustomTooltip elementName="label-activity-calls">
+            <Typography
