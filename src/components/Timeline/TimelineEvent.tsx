@@ -1,7 +1,6 @@
 import Stack from '@mui/material/Stack'
 import Box from '@mui/material/Box'
 import Typography from '@mui/material/Typography'
-import PublicIcon from '@mui/icons-material/Public'
 import PersonAddAlt1Icon from '@mui/icons-material/PersonAddAlt1'
 import EmailIcon from '@mui/icons-material/Email'
 import SmsIcon from '@mui/icons-material/Sms'
@@ -14,3 +13,4 @@ import FlagIcon from '@mui/icons-material/Flag'
 import { JourneyArrayItem } from '@/types/sales'
 import { DateTime } from 'luxon'
 import { useMemo } from 'react'
+

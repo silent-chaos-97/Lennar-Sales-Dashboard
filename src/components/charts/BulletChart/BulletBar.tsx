@@ -11,3 +11,4 @@ interface BulletBarProps {
   maxValue?: number
   color?: PacingBulletBarColors
 }
+

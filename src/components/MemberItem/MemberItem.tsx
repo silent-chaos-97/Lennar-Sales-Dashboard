@@ -13,3 +13,5 @@ interface MemberItemProps {
   summary: string
   onOpenDetail?: () => void
   active?: boolean
+  type?: string
+}

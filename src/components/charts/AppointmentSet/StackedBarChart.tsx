@@ -6,7 +6,6 @@ interface FrameData {
   total: number | undefined
   f0: number | undefined
   f1: number | undefined
-  f2: number | undefined
   f3: number | undefined
   [key: string]: number | string | undefined
 }
@@ -22,3 +21,4 @@ interface StackedBarChartProps {
   maxValue: number
 }
 
+interface StackedData {

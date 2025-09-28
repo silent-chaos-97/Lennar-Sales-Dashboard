@@ -85,3 +85,17 @@ const Header = () => {
 
   const handleSelectMenu = (menu: Division) => {
     setOpenRegionSelectMenu(false)
+    setPlaying(false)
+    setCurrentCohort(menu)
+    setPrevSelectedDivisionType('')
+  }
+
+  const handleRefreshTimer = () => {
+    setCycleTimerProgress(0)
+    setCurrentCohort(cohorts[0])
+  }
+
+  const handleClickSettings = () => {
+    setOpenSettings(true)
+  }
+

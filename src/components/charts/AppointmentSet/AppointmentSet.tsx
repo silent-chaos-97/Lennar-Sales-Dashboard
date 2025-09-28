@@ -32,3 +32,5 @@ const AppointmentSet = ({
         if (event.activity_time) {
           const eventDateTime = DateTime.fromISO(event.activity_time.replace(' ', 'T') + 'Z')
           const weekdate = eventDateTime.toFormat('yyyy-MM-dd')
+          const weekday = eventDateTime.weekdayShort
+          const hour = eventDateTime.hour

@@ -9,3 +9,4 @@ export interface WeeklyPacingItem {
   sort: number
 }
 
+interface AvailableHomes {

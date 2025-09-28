@@ -24,3 +24,5 @@ const StrongText = styled('span')({
   fontWeight: 700
 })
 
+interface SalesProps {
+  data: SalesState

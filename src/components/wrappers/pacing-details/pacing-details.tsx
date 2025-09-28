@@ -48,3 +48,4 @@ const List = ({ list, choose, showList }: ListProps) => {
         borderRadius: '8px',
         backgroundColor: '#212936',
         width: 460,
+        boxShadow: '0 8px 16px 0 rgba(0,0,0,0.80)',

@@ -34,7 +34,9 @@ interface TimerContextSetters {
   setIdleTimerProgress: (val: number) => void
   setIdleTimeout: (val: number) => void
   setPlaying: (val: boolean) => void
+  setDisableRotation: (val: number) => void
 }
 
 const TimerSetterContext = createContext<TimerContextSetters>({
   setCycleTimerProgress: () => null,
+  setCycleTimeout: () => null,

@@ -9,6 +9,7 @@ import ArrowForwardIcon from '@mui/icons-material/ArrowForward'
 import { useResizeDetector } from 'react-resize-detector'
 import { PricingData } from '@/types/pacing'
 import CustomTooltip from '@/components/common/CustomTooltip'
+import DataAlert from '@/components/common/CustomTooltip/DataAlert'
 import { useAppState } from '@/contexts/StateContext'
 import { truncateText } from '@/utils/helper'
 
@@ -22,3 +23,5 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
   const { width, height, ref } = useResizeDetector()
 
   const { currentCohort } = useAppState()
+
+  const priceChanges = {

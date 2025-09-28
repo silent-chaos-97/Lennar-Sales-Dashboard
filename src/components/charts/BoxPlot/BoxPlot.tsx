@@ -1,4 +1,3 @@
-import { useEffect } from 'react'
 import * as d3 from 'd3'
 import { PricingData } from '@/types/pacing'
 import Box from '@mui/material/Box'
@@ -12,6 +11,7 @@ interface BoxPlotProps {
 
 const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => {
   useEffect(() => {
+    // Calculate the domain for the x and y scales
     const boxPlotData = Object.keys(data).map((key: string) => {
       return [
         data?.[key]?.percentile_5 || 0,
@@ -30,3 +30,5 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
     d3.select(`#${id} > *`).remove()
     const svg = d3
       .select(`#${id}`)
+      .attr('width', width + margin.left + margin.right)
+      .attr('height', height + margin.top + margin.bottom)

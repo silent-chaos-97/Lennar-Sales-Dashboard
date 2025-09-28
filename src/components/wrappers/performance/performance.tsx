@@ -47,6 +47,7 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps) => {
       </CustomTooltip>
       <text
         dx={props.textX}
+        textAnchor={props.textAnchor}
         dy={22}
         fontSize={56}
         fontWeight={500}

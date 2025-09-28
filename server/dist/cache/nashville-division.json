@@ -6253,3 +6253,445 @@
               "appt_set_division_rank": 3,
               "appt_set_national_rank": 193,
               "appts_kept": {
+                "color": "green",
+                "goal_value": 75,
+                "percent_value": 133.33
+              },
+              "appts_missed": 0,
+              "appts_set": 0,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              },
+              "follow_up": {
+                "color": "red",
+                "goal_value": 80,
+                "percent_value": 0
+              },
+              "leads_w_appts_set": {
+                "color": "red",
+                "goal_value": 13,
+                "percent_value": 10.91
+              },
+              "sales_cohort_rank": 4,
+              "sales_division_rank": 4,
+              "sales_national_rank": 191,
+              "total_calls": 0,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              }
+            },
+            "summary": "59 appointments"
+          },
+          {
+            "cohort_rank": 4,
+            "division_name": "Nashville",
+            "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_meridith_thweattlr_jpg",
+            "name": "Meridith Thweatt",
+            "national_rank": 202,
+            "pop_out_details": {
+              "appt_kept_cohort_rank": 3,
+              "appt_kept_division_rank": 3,
+              "appt_kept_national_rank": 196,
+              "appt_set_cohort_rank": 4,
+              "appt_set_division_rank": 4,
+              "appt_set_national_rank": 202,
+              "appts_kept": {
+                "color": "red",
+                "goal_value": 75,
+                "percent_value": 50
+              },
+              "appts_missed": 0,
+              "appts_set": 0,
+              "appts_set_percent_change": 0,
+              "beback_with_follow_up": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 100
+              },
+              "follow_up": {
+                "color": "red",
+                "goal_value": 80,
+                "percent_value": 0
+              },
+              "leads_w_appts_set": {
+                "color": "red",
+                "goal_value": 13,
+                "percent_value": 0
+              },
+              "sales_cohort_rank": 1,
+              "sales_division_rank": 1,
+              "sales_national_rank": 94,
+              "total_calls": 16,
+              "total_calls_percent_change": 0,
+              "total_chats": 0,
+              "total_chats_percent_change": 0,
+              "total_chats_texts": 0,
+              "total_chats_texts_percent_change": 0,
+              "total_sales": 0,
+              "total_texts": 0,
+              "total_texts_percent_change": 0,
+              "trifecta": {
+                "color": "green",
+                "goal_value": 90,
+                "percent_value": 96.67
+              }
+            },
+            "summary": "46 appointments"
+          }
+        ]
+      },
+      "NHC_LEADERBOARDS": {
+        "appointment_kept_rate": {
+          "MTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Nashville",
+              "image_url": "",
+              "name": "Angela McAdams",
+              "national_rank": 85,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 6,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 2,
+                "gross_sales_division_rank": 6,
+                "gross_sales_national_rank": 530,
+                "incentive_rate": 17.7,
+                "net_revenue": 491637,
+                "net_revenue_division_rank": 7,
+                "net_revenue_national_rank": 713,
+                "net_revenue_percent_change": -7,
+                "net_sales": 2,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 10,
+                "realtor_attachment_rate_national_rank": 615,
+                "realtor_commission_rate": 3.3
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Nashville",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_umeka_mcelrathlr_jpg",
+              "name": "Umeka McElrath",
+              "national_rank": 103,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 3,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 8,
+                "gross_sales_national_rank": 653,
+                "incentive_rate": 10,
+                "net_revenue": 409877,
+                "net_revenue_division_rank": 8,
+                "net_revenue_national_rank": 773,
+                "net_revenue_percent_change": -75,
+                "net_sales": 1,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 1,
+                "realtor_attachment_rate_national_rank": 68,
+                "realtor_commission_rate": 0
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "Nashville",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_casey_zinc_jpg",
+              "name": "Casey Zink",
+              "national_rank": 121,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 6,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 6
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 7
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 9,
+                "gross_sales_national_rank": 738,
+                "incentive_rate": 13.5,
+                "net_revenue": 251223,
+                "net_revenue_division_rank": 9,
+                "net_revenue_national_rank": 904,
+                "net_revenue_percent_change": -62,
+                "net_sales": 1,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 12,
+                "realtor_attachment_rate_national_rank": 738,
+                "realtor_commission_rate": 3.3
+              },
+              "summary": "100% appointments kept"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "Nashville",
+              "image_url": "",
+              "name": "Taylor Baker",
+              "national_rank": 358,
+              "pop_out_details": {
+                "appointments_kept_rate": 33,
+                "days_since_last_sale": 0,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 5,
+                "gross_sales_division_rank": 1,
+                "gross_sales_national_rank": 97,
+                "incentive_rate": 6.2,
+                "net_revenue": 2288413,
+                "net_revenue_division_rank": 1,
+                "net_revenue_national_rank": 77,
+                "net_revenue_percent_change": 143,
+                "net_sales": 5,
+                "realtor_attachment_rate": 80,
+                "realtor_attachment_rate_division_rank": 7,
+                "realtor_attachment_rate_national_rank": 449,
+                "realtor_commission_rate": 2.6
+              },
+              "summary": "33% appointments kept"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Nashville",
+              "image_url": "",
+              "name": "Rebecca Moylan",
+              "national_rank": 466,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 1,
+                "graph_data": [
+                  {

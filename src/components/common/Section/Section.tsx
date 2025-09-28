@@ -28,3 +28,5 @@ export const Section = ({
   onSelectCategory,
   dropdownAlignment = 'right',
   children
+}: PropsWithChildren<SectionProps>) => {
+  const subtitle = timestamp || 'Today'

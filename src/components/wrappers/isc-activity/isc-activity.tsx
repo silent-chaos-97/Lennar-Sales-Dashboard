@@ -11,7 +11,6 @@ import CustomTooltip from '@/components/common/CustomTooltip'
 import { CurrentActivityState } from '@/types/current_activity'
 
 interface IscActivityProps {
-  data: CurrentActivityState
   activityTimeframe: string
 }
 
@@ -22,3 +21,5 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
         <Stack sx={{ width: 160 }}>
           <CustomTooltip elementName="label-activity-calls">
             <Typography
+              variant="body1"
+              fontWeight={700}

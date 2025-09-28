@@ -11,3 +11,4 @@ interface SubPacingAnalysisProps {
   next3WPace: number
   past3WSales: number
   changeNeeded: number
+  currentWeekPrediction: number

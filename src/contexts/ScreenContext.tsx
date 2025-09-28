@@ -1,3 +1,4 @@
+import { createContext, PropsWithChildren, useContext, useState } from 'react'
 
 export enum ScreenMode {
   panorama,
@@ -7,3 +8,4 @@ export enum ScreenMode {
 
 export enum ScreenPanes {
   leads,
+  sales,

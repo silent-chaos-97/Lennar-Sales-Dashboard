@@ -17,3 +17,5 @@ export interface DailyAnalyticsBoxProps {
   diffPercent: number
   color?: string
   unit?: string
+  isDecreaseBenefit?: boolean
+  graphData?: SalesDetailObject['graph']

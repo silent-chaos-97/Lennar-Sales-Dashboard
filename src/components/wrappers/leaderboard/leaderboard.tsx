@@ -22,3 +22,4 @@ const LeaderboardItems = ({
   <>
     {leaderboardItems.map((leader, idx) => (
       <MemberItem
+        key={`${leader.name.split(' ').join('-').toLowerCase()}-${idx}`}

@@ -15,3 +15,5 @@ interface GrossSalesBarChartProps {
 const MARGIN = { top: 10, right: 0, bottom: 40, left: 20 }
 
 const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps) => {
+  const now = DateTime.now()
+  const currentMonday = now.startOf('week').startOf('day').toFormat('MMM dd')
