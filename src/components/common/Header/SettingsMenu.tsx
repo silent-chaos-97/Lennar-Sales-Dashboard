@@ -28,6 +28,7 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
   const [idleTimeValue, setIdleTimeValue] = useState(idleTimeout)
 
   const handleDisableRotation = (value: number) => {
+    setDisableRotation(value)
   }
 
   const handleChangeMode = (event: React.ChangeEvent<HTMLInputElement>) => {
@@ -38,3 +39,5 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
   const handleClickSave = () => {
     setCycleTimeout(cycleTimeValue)
     setIdleTimeout(idleTimeValue)
+    onClose()
+  }

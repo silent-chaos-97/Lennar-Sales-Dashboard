@@ -19,3 +19,4 @@ export interface DailyAnalyticsBoxProps {
   unit?: string
   isDecreaseBenefit?: boolean
   graphData?: SalesDetailObject['graph']
+}

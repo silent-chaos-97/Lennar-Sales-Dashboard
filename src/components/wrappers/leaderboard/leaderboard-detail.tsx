@@ -10,3 +10,4 @@ export interface LeaderboardDetailProps {
   nationalRank: number
   data?: LeaderboardMemberDetail
   onClose: () => void
+  onPrev: () => void

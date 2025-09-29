@@ -69,3 +69,7 @@ const CenterPane = () => {
   const [selectedSalesItems, setSelectedSalesItems] = useState<DetailSalesItems[]>([])
   const [clusterIndex, setClusterIndex] = useState<number>(0)
   const [activeDot, setActiveDot] = useState<null | number>(null)
+  const [bounds, setBounds] = useState<[number, number, number, number]>([0, 0, 0, 0])
+  const [scroolProgress, setScroolProgress] = useState<[boolean, boolean]>([false, false])
+  const [lId, setLId] = useState<number>()
+

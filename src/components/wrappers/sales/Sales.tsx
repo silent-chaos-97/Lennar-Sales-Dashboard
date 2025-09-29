@@ -23,6 +23,6 @@ const Wrapper = styled(Box)({
 const StrongText = styled('span')({
   fontWeight: 700
 })
-
 interface SalesProps {
   data: SalesState
+  salesTimeframe: string

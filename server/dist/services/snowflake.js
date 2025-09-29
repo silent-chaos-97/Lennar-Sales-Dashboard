@@ -49,7 +49,6 @@ class SnowflakeService {
                             .filter((rRow) => rRow.COHORT_TYPE === 'region')
                             .map((rRow) => {
                             const divisions = rows
-// Temp comment
                                 .filter((dRow) => dRow.COHORT_TYPE === 'division' &&
                                 dRow.REGION === rRow.REGION &&
                                 !dRow.SUB_REGION)
@@ -91,7 +90,6 @@ class SnowflakeService {
                                 timezone: rRow.TIME_ZONE,
                                 divisions: [...divisions, ...subRegions]
                             };
-                        });
                         connection.destroy(() => {
                             console.log('Cohort Division fetching is finished');
                         });

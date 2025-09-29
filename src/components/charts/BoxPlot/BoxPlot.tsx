@@ -1,3 +1,4 @@
+import { useEffect } from 'react'
 import * as d3 from 'd3'
 import { PricingData } from '@/types/pacing'
 import Box from '@mui/material/Box'
@@ -32,3 +33,5 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       .select(`#${id}`)
       .attr('width', width + margin.left + margin.right)
       .attr('height', height + margin.top + margin.bottom)
+      .append('g')
+      .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')')

@@ -9,6 +9,7 @@ interface LineChartProps {
   width?: number
   height?: number
   data: SalesDetailObject['graph']
+}
 
 const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) => {
   useEffect(() => {
@@ -20,3 +21,4 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
       const margin = { top: 10, right: 24, bottom: 30, left: 24 },
         chartWidth = width - margin.left - margin.right,
         chartHeight = height - margin.top - margin.bottom
+

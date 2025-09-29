@@ -1,4 +1,5 @@
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+// @ts-nocheck
 import { useEffect } from 'react'
 import * as d3 from 'd3'
 import { WeeklyPacingItem } from '@/types/pacing'
@@ -23,7 +24,7 @@ const IndicatorBarChart = ({
   currentWeekPrediction,
   hidePredictionBar = false
 }: IndicatorBarChartProps) => {
-  useEffect(() => {
     // Set ranges
     const now = DateTime.now()
     const currentMonday = now.startOf('week').startOf('day').toFormat('MMM dd')
+    const x = d3.scaleBand().range([0, width]).padding(0.1)

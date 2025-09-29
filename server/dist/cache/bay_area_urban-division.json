@@ -49,6 +49,7 @@
           "percent_value": 0
         },
         "DBT_UPDATED_AT": "2023-10-12 19:16:33.196"
+      },
       "t7d": {
         "COHORT": "Bay Area Urban",
         "COHORT_TYPE": "division",
@@ -128,7 +129,6 @@
         },
         "LEADS_WITH_TRIFECTA": {
           "color": "red",
-          "goal_value": 90,
           "percent_value": 0
         },
         "LEADS_WITH_FOLLOWUP": {
@@ -284,3 +284,17 @@
             "prev": 39
           },
           {
+            "current": 47,
+            "hour": 16,
+            "prev": 30
+          },
+          {
+            "current": 47,
+            "hour": 17,
+            "prev": 52
+          },
+          {
+            "current": 45,
+            "hour": 18,
+            "prev": 42
+          }

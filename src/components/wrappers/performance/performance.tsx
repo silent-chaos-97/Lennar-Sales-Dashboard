@@ -29,7 +29,6 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps) => {
       <CustomTooltip elementName={`label-${props.label.toString().toLowerCase()}`}>
         <text
           dx={props.textX}
-          dy={-24}
           textAnchor={props.textAnchor}
           fill="#fff"
           fillOpacity="0.67"

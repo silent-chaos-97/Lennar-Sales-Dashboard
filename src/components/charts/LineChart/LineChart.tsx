@@ -19,5 +19,7 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
   const { currentCohort } = useAppState()
   useEffect(() => {
     d3.select(`#${id}`).selectAll('*').remove()
+    if (data.length) {
       const now = DateTime.local().setZone(TIMEZONE[currentCohort.timezone])
       const currentHour = now.hour
+      const currentTickers = data.map((item) => item.current)

@@ -8,3 +8,4 @@ interface KPIWidgetProps {
   title: string
   firstValue: number
   firstLabel: string
+  secondValue: number

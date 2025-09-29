@@ -39,3 +39,4 @@ const SalesDetails = ({
   onNext,
   scrollProgress
 }: SalesDetailsProps) => {
+  const wrapperRef = useRef<HTMLDivElement>(null)

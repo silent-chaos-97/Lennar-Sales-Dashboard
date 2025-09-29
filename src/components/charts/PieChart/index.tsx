@@ -19,7 +19,9 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
 
     const svg = d3
       .select('#pie_chart')
+      .append('g')
       .attr('transform', 'translate(' + width / 2 + ',' + (height / 2 + 10) + ')')
 
     // set the color scale
     const color = d3
+      .scaleOrdinal()

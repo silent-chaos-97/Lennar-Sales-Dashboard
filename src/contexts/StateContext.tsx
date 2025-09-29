@@ -41,3 +41,5 @@ const StateContext = createContext<StateContextValues>({
     latitude: 35.86,
     longitude: -98.26,
     timezone: 'US/Eastern'
+  },
+  activityTimeframeState: {},

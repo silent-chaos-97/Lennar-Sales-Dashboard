@@ -23,3 +23,4 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
             <Typography
               variant="body1"
               fontWeight={700}
+              mb={-1.5}

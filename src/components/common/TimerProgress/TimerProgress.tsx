@@ -4,3 +4,4 @@ import IconButton from '@mui/material/IconButton'
 import PauseIcon from '@mui/icons-material/Pause'
 import PlayArrowIcon from '@mui/icons-material/PlayArrow'
 
+interface TimerProgressProps {

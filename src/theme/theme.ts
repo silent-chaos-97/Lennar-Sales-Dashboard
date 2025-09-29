@@ -21,7 +21,6 @@ declare module '@mui/material/styles' {
   }
 
   // allow configuration using `createTheme`
-  interface TypographyVariantsOptions {
     title?: React.CSSProperties
   }
 
@@ -72,3 +71,6 @@ export const theme = createTheme({
       lineHeight: '34px',
       fontWeight: 800
     },
+    h5: {
+      fontSize: 24,
+      lineHeight: 1.4

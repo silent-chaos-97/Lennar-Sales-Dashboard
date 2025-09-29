@@ -34,3 +34,4 @@ const AppointmentSet = ({
           const weekdate = eventDateTime.toFormat('yyyy-MM-dd')
           const weekday = eventDateTime.weekdayShort
           const hour = eventDateTime.hour
+          if (weekday) {

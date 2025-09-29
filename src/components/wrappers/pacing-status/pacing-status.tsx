@@ -47,3 +47,5 @@ const PacingStatus = ({ mapWrapperRef }) => {
   const pacingCohortArray = pacingState?.SUB_COHORT_MAP?.sub_cohort_array || []
 
   useEffect(() => {
+    if (!pacingState) {
+      setActivePieName('')

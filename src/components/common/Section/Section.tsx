@@ -2,7 +2,6 @@ import { PropsWithChildren, useMemo, useState } from 'react'
 import ClickAwayListener from '@mui/base/ClickAwayListener'
 import Typography from '@mui/material/Typography'
 import Stack from '@mui/material/Stack'
-import Box from '@mui/material/Box'
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown'
 
 interface SectionProps {
@@ -30,3 +29,4 @@ export const Section = ({
   children
 }: PropsWithChildren<SectionProps>) => {
   const subtitle = timestamp || 'Today'
+  const [showTimestampDropdown, setShowTimestampDropdown] = useState(false)

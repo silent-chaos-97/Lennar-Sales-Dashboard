@@ -92,6 +92,7 @@ const Header = () => {
 
   const handleRefreshTimer = () => {
     setCycleTimerProgress(0)
+    setPlaying(true)
     setCurrentCohort(cohorts[0])
   }
 

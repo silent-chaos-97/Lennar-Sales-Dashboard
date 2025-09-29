@@ -38,7 +38,6 @@ const InnerScreen = styled('div')({
   top: 0,
   left: 0,
   padding: '0 46px',
-  display: 'flex'
 })
 
 const ScreenWrapper = ({ children, padding, justifyContent = 'flex-start', width }) => {
