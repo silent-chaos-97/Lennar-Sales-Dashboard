@@ -1,4 +1,4 @@
-import Stack from '@mui/material/Stack'
+import { Typography } from '@mui/material'
 import { styled } from '@mui/material/styles'
 import NorthEastIcon from '@mui/icons-material/NorthEast'
 import SouthEastIcon from '@mui/icons-material/SouthEast'
@@ -9,3 +9,4 @@ interface BarProps {
   percent?: number
   value: number
   color?: string
+  change: number

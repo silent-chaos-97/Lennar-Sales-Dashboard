@@ -7,6 +7,7 @@ import { useResizeDetector } from 'react-resize-detector'
 import { DateTime } from 'luxon'
 import { useAppState } from '@/contexts/StateContext'
 import { TIMEZONE, TIMEZONE_VALUE } from '@/utils/constant'
+import { useMemo } from 'react'
 
 interface ActivityChartProps {
   data: TickerItem[]

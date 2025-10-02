@@ -38,3 +38,5 @@ const AppointmentSet = ({
             if (!nWeekdayEvents[weekdate]?.total) {
               nWeekdayEvents[weekdate] = {
                 total: 1,
+                byTimeframe: [0, 0, 0, 0]
+              }

@@ -28,3 +28,4 @@ const LeaderboardItems = ({
         name={leader.name}
         national_rank={leader.national_rank}
         summary={leader.summary}
+        divisionName={currentCohort.type === 'division' ? undefined : leader.division_name}

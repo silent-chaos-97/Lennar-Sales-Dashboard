@@ -8,6 +8,7 @@ import { useCallback, useEffect, useRef, useState } from 'react'
 import Box from '@mui/material/Box'
 import { ScreenMode, ScreenPanes, useScreen } from '@/contexts/ScreenContext'
 import { useSearchParams } from 'react-router-dom'
+import { useAppState } from '@/contexts/StateContext'
 import { useAppTimerSetters } from '@/contexts/TimerContext'
 
 const Main = styled('main')({
@@ -51,3 +52,4 @@ const ScreenWrapper = ({ children, padding, justifyContent = 'flex-start', width
   }
 
   if (width > 2400 && mode !== ScreenMode.panorama) {
+    return (

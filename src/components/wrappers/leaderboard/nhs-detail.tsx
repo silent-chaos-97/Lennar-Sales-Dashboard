@@ -74,3 +74,4 @@ const NHSDetail = ({
               </IconButton>
               <IconButton onClick={onNext}>
                 <ChevronRightIcon htmlColor="#dde3f6" opacity={disablePrevNext[1] ? 0.25 : 1} />
+              </IconButton>

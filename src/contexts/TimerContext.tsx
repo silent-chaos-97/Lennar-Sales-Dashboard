@@ -42,3 +42,4 @@ const TimerSetterContext = createContext<TimerContextSetters>({
   setCycleTimeout: () => null,
   setIdleTimerProgress: () => null,
   setIdleTimeout: () => null,
+  setPlaying: () => null,

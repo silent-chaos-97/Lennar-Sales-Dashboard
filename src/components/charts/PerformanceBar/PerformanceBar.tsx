@@ -24,3 +24,17 @@ const Track = styled('div', {
   background: color || '#fff',
   height: `${percent}%`,
   transform: 'height 0.2s ease-in'
+}))
+
+const GoalLine = styled('div', {
+  shouldForwardProp: (prop) => !['color', 'percent', 'goal'].includes(prop as string)
+})(({ color, percent, goal }: GoalLineProps) => ({
+  width: 48,
+  background: color || '#fff',
+  height: 4,
+  position: 'absolute',
+  top: `${100 - percent}%`,
+  transform: `translateY(-${100 - percent}%)`,
+  borderRadius: 2,
+  '&:before': {
+    content: `"${goal}%"`,

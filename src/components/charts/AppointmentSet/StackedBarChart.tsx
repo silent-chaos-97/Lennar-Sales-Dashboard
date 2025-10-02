@@ -27,3 +27,5 @@ interface StackedData {
   cur?: string | number
   prv?: string | number
 }
+
+const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => {

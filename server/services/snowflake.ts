@@ -46,3 +46,5 @@ class SnowflakeService {
           sqlText: sql,
           complete: (err, stmt, rows?: Cohort[]) => {
             if (err || !rows) {
+              console.error('Error executing Snowflake query:', err)
+              return reject(err)

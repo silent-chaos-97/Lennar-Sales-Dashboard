@@ -28,3 +28,4 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
       .domain(['very_ahead_of_pace', 'ahead_of_pace', 'on_pace', 'behind_pace', 'very_behind_pace'])
       .range(Object.values(STATUS_COLORS))
 
+    const pie = d3

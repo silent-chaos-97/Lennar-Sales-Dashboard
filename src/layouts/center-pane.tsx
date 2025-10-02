@@ -80,3 +80,8 @@ const CenterPane = () => {
       zoom: ZOOM_LEVELS[currentCohort.type]
     })
   }, [currentCohort])
+
+  useEffect(() => {
+    if (!salesState?.DETAIL_SALES_ARRAY) {
+      setSelectedSalesItem(null)
+      setSelectedSalesItems([])

@@ -26,3 +26,4 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
       const previousTickers = data.map((item) => item.prev)
       const hours = data.map((item) => item.hour)
       const currentHourIndex = showCurrentFully
+        ? hours.length - 1

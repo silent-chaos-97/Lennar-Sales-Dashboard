@@ -28,3 +28,5 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
               color="rgba(255, 255, 255, 0.67)"
             >
               <DataAlert elementName="label-activity-calls">Calls</DataAlert>
+            </Typography>
+          </CustomTooltip>

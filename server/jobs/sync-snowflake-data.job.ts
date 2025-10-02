@@ -20,3 +20,5 @@ function sanitizeFilename(filename: string) {
 
 const run = async () => {
   const cohortList = await SnowflakeService.getCohortList()
+
+  const sortedCohortList: Division[] = [

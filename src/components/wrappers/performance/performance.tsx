@@ -65,3 +65,4 @@ const AxisXEndTickComponent = (props: RadialAxisTickProps) => {
   const goal = performanceState?.[props.label].goal_value || 0
 
   return (
+    <g transform={`translate(${props.y}, 0) rotate(180)`}>

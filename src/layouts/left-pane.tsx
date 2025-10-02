@@ -14,3 +14,4 @@ import { ACTIVITY_TIMEFRAMES } from '@/types/current_activity'
 import { ISC_LEADERBOARD_CATEGORIES } from '@/types/leaderboards'
 import { DateTime } from 'luxon'
 import { TIMEZONE } from '@/utils/constant'
+

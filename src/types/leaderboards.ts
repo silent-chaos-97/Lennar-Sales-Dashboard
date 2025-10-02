@@ -23,3 +23,4 @@ export interface LeaderboardISCMemberDetail {
   total_sales: number
   total_texts: number
   total_texts_percent_change: number
+  leads_w_appts_set: MemberDetailValue

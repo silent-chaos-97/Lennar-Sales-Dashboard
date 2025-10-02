@@ -29,4 +29,4 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
     new: data?.new_construction_prices?.percentile_50_percent_change || 0,
     resale: data?.resale_prices?.percentile_50_percent_change || 0
   }
-
+  const diffColor = (diffPercent: number) => {

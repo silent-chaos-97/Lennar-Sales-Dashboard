@@ -34,6 +34,7 @@ const MarkerIcon = styled('div', {
 const PacingStatus = ({ mapWrapperRef }) => {
   const mapRef = useRef<MapRef>(null)
   const { pacingState, currentCohort } = useAppState()
+  const { setPlaying, setIdleTimerProgress } = useAppTimerSetters()
   const { width, height, ref: pieChartRef } = useResizeDetector()
   const [activeDots, setActiveDots] = useState<number[]>([])
   const [activePieName, setActivePieName] = useState('')
@@ -54,3 +55,6 @@ const PacingStatus = ({ mapWrapperRef }) => {
 
   const nSubByStatus = useMemo(() => {
     const status = {
+      very_ahead_of_pace: 0,
+      ahead_of_pace: 0,
+      on_pace: 0,

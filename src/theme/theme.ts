@@ -35,7 +35,6 @@ declare module '@mui/material/styles' {
     quaternary: string
   }
 }
-
 // Update the Typography's variant prop options
 declare module '@mui/material/Typography' {
   interface TypographyPropsVariantOverrides {
@@ -84,3 +83,7 @@ export const theme = createTheme({
     subtitle1: {
       fontSize: 22,
       lineHeight: '24px'
+    },
+    body1: {
+      fontSize: 18,
+      lineHeight: 1.5

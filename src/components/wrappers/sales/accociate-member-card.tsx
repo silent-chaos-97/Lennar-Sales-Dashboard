@@ -17,3 +17,4 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
       direction="row"
       borderRadius={2}
       sx={{ backgroundColor: 'background.default', px: 2, pt: 1, pb: 2.5, boxShadow: 3 }}
+      spacing={1.5}

@@ -5,6 +5,7 @@ import { getRandomColor } from '@/utils/helper'
 import { useAppState } from '@/contexts/StateContext'
 
 interface MemberItemProps {
+  cohort_rank: number
   national_rank: number
   divisionName?: string
   imageSrc: string
@@ -16,3 +17,4 @@ interface MemberItemProps {
 }
 
 const MemberItem = ({
+  cohort_rank,

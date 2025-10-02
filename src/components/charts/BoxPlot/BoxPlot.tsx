@@ -1,5 +1,6 @@
 import { useEffect } from 'react'
 import * as d3 from 'd3'
+import { PricingData } from '@/types/pacing'
 import Box from '@mui/material/Box'
 
 interface BoxPlotProps {
@@ -36,5 +37,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')')
 
     // Show the Y scale
-    const y = d3
       .scaleLinear()
+      .domain([0, Math.max(...boxPlotData.flat())])
+      .range([height, 0])

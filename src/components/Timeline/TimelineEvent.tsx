@@ -18,3 +18,4 @@ import { useMemo } from 'react'
 interface TimelineEventProps {
   event: JourneyArrayItem
   expanded: boolean
+}

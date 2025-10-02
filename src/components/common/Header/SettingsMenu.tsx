@@ -45,3 +45,6 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
   const handleToggleTooltips = () => {
     setShowTooltips((prev) => !prev)
   }
+
+  return (
+    <Box sx={{ position: 'relative', px: 2 }}>

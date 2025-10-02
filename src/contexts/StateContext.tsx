@@ -47,3 +47,6 @@ const StateContext = createContext<StateContextValues>({
   performanceTimeframeState: {},
   setCurrentCohort: () => null,
   fetchNextDivision: () => null,
+  fetchRegionDivisions: () => null,
+  setPrevSelectedDivisionType: () => null
+})

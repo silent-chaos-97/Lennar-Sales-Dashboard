@@ -7,7 +7,7 @@ import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown'
 
 interface SectionProps {
   title: string
-  category?: string
+  timestamp?: string
   more?: React.ReactNode
   timestampList?: Record<string, string>
   categoryList?: Record<string, string>
@@ -34,3 +34,5 @@ export const Section = ({
   const handleClickTimestampItem = (timestamp: string) => {
     setShowTimestampDropdown(false)
     if (typeof onSelectTimestamp === 'function') onSelectTimestamp(timestamp)
+  }
+

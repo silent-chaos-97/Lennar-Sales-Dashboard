@@ -20,3 +20,4 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
   const width = cWidth || (size + spacing) * nCol - spacing
   const height = 87 || (size + spacing) * nRow - 1 // 87 is the height of the ActivityChart
   // bounds = area inside the axis
+  const boundsWidth = width - MARGIN.right - MARGIN.left

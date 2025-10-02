@@ -16,8 +16,10 @@ export interface DailyAnalyticsBoxProps {
   grossValue: number
   diffPercent: number
   color?: string
+  unit?: string
   isDecreaseBenefit?: boolean
   graphData?: SalesDetailObject['graph']
 }
 
 const DailyAnalyticsBox = ({
+  isLargeSize = false,
