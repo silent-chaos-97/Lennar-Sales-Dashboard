@@ -11,3 +11,4 @@ const PacingAnalysis = () => {
   const { pacingState } = useAppState()
 
   return (
+    <Section

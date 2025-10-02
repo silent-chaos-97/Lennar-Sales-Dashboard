@@ -57,6 +57,7 @@ const NHSDetail = ({
             transform: 'translateX(-50%)',
             width: 1420,
             bgcolor: 'background.paper',
+            boxShadow: 24,
             px: 3,
             py: 2.5,
             borderRadius: 2
@@ -70,3 +71,6 @@ const NHSDetail = ({
             <Stack direction="row">
               <IconButton onClick={onPrev}>
                 <ChevronLeftIcon htmlColor="#dde3f6" opacity={disablePrevNext[0] ? 0.25 : 1} />
+              </IconButton>
+              <IconButton onClick={onNext}>
+                <ChevronRightIcon htmlColor="#dde3f6" opacity={disablePrevNext[1] ? 0.25 : 1} />

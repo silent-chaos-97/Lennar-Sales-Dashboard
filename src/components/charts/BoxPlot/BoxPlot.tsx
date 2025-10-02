@@ -13,7 +13,6 @@ interface BoxPlotProps {
 const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => {
   useEffect(() => {
     // Calculate the domain for the x and y scales
-    const boxPlotData = Object.keys(data).map((key: string) => {
       return [
         data?.[key]?.percentile_5 || 0,
         data?.[key]?.percentile_25 || 0,
@@ -35,3 +34,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       .attr('height', height + margin.top + margin.bottom)
       .append('g')
       .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')')
+
+    // Show the Y scale
+    const y = d3

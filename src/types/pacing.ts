@@ -8,5 +8,5 @@ export interface WeeklyPacingItem {
   x_axis: string
   sort: number
 }
-
 interface AvailableHomes {
+  black_homes: number

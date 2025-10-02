@@ -4,6 +4,7 @@ import { useAppState } from './StateContext'
 import { TIMEZONE } from '@/utils/constant'
 
 interface TimerContextValues {
+  cycleTimerProgress: number
   idleTimerProgress: number
   currentTime?: string
   playing: boolean
@@ -39,3 +40,5 @@ interface TimerContextSetters {
 const TimerSetterContext = createContext<TimerContextSetters>({
   setCycleTimerProgress: () => null,
   setCycleTimeout: () => null,
+  setIdleTimerProgress: () => null,
+  setIdleTimeout: () => null,

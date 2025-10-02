@@ -129,6 +129,7 @@
         },
         "LEADS_WITH_TRIFECTA": {
           "color": "red",
+          "goal_value": 90,
           "percent_value": 0
         },
         "LEADS_WITH_FOLLOWUP": {
@@ -298,3 +299,33 @@
             "hour": 18,
             "prev": 42
           }
+        ],
+        "LEADS": 30,
+        "LEADS_PERCENT_CHANGE": 58,
+        "HOURLY_LEADS_ARRAY": [
+          {
+            "current": 0,
+            "hour": 7,
+            "prev": 2
+          },
+          {
+            "current": 1,
+            "hour": 8,
+            "prev": 2
+          },
+          {
+            "current": 1,
+            "hour": 9,
+            "prev": 3
+          },
+          {
+            "current": 2,
+            "hour": 10,
+            "prev": 0
+          },
+          {
+            "current": 2,
+            "hour": 11,
+            "prev": 1
+          },
+          {

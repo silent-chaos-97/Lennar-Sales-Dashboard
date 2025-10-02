@@ -41,3 +41,7 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
     setIdleTimeout(idleTimeValue)
     onClose()
   }
+
+  const handleToggleTooltips = () => {
+    setShowTooltips((prev) => !prev)
+  }

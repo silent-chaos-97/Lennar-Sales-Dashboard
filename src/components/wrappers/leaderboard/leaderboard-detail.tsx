@@ -11,3 +11,4 @@ export interface LeaderboardDetailProps {
   data?: LeaderboardMemberDetail
   onClose: () => void
   onPrev: () => void
+  onNext: () => void

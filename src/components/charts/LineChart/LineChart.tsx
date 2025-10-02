@@ -23,3 +23,6 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
       const now = DateTime.local().setZone(TIMEZONE[currentCohort.timezone])
       const currentHour = now.hour
       const currentTickers = data.map((item) => item.current)
+      const previousTickers = data.map((item) => item.prev)
+      const hours = data.map((item) => item.hour)
+      const currentHourIndex = showCurrentFully

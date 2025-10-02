@@ -73,3 +73,10 @@ const CenterPane = () => {
   const [scroolProgress, setScroolProgress] = useState<[boolean, boolean]>([false, false])
   const [lId, setLId] = useState<number>()
 
+  useEffect(() => {
+    setMapViewState({
+      latitude: currentCohort.latitude,
+      longitude: currentCohort.longitude - LONGITUDE_DELTA[currentCohort.type],
+      zoom: ZOOM_LEVELS[currentCohort.type]
+    })
+  }, [currentCohort])

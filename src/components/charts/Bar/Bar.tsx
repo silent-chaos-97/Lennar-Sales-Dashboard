@@ -9,3 +9,4 @@ interface BarProps {
   label: string
   percent?: number
   value: number
+  color?: string

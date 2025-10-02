@@ -11,3 +11,4 @@ import { getValueChangeTextColor } from '@/utils/helper'
 
 interface HourlyActivityProps {
   title: string
+  tickers: HourlyTicker[]

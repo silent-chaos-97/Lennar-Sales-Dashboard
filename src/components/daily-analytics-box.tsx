@@ -20,3 +20,5 @@ export interface DailyAnalyticsBoxProps {
   isDecreaseBenefit?: boolean
   graphData?: SalesDetailObject['graph']
 }
+
+const DailyAnalyticsBox = ({

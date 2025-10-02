@@ -40,3 +40,8 @@ const SalesDetails = ({
   scrollProgress
 }: SalesDetailsProps) => {
   const wrapperRef = useRef<HTMLDivElement>(null)
+  useClickAway(wrapperRef, (event) => {
+    if (mapWrapperRef.current && mapWrapperRef.current.contains(event.target as Node)) {
+      onClose()
+    }
+  })

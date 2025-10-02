@@ -24,3 +24,6 @@ interface StackedBarChartProps {
 
 interface StackedData {
   key: string
+  cur?: string | number
+  prv?: string | number
+}

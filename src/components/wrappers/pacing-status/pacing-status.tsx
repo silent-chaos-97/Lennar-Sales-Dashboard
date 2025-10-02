@@ -15,7 +15,6 @@ import { PACING_ZOOM_LEVEL, PACING_MAP_OFFSETS, STATUS_COLORS } from '@/utils/co
 import { SubCohortItem } from '@/types/pacing'
 import { useAppTimerSetters } from '@/contexts/TimerContext'
 import CustomTooltip from '@/components/common/CustomTooltip'
-import DataAlert from '@/components/common/CustomTooltip/DataAlert'
 
 const MarkerIcon = styled('div', {
   shouldForwardProp: (prop) => !['color', 'active'].includes(prop as string)
@@ -49,3 +48,8 @@ const PacingStatus = ({ mapWrapperRef }) => {
   useEffect(() => {
     if (!pacingState) {
       setActivePieName('')
+      setActiveDots([])
+    }
+  }, [pacingState])
+
+  const nSubByStatus = useMemo(() => {

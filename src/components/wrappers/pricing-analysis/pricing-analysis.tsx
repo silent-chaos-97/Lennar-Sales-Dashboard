@@ -27,3 +27,5 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
   const priceChanges = {
     lennar: data?.lennar_prices?.percentile_50_percent_change || 0,
     new: data?.new_construction_prices?.percentile_50_percent_change || 0,
+    resale: data?.resale_prices?.percentile_50_percent_change || 0
+  }

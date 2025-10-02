@@ -18,3 +18,5 @@ const NATIONAL_DIVISION = {
 interface RegionSelectMenuProps {
   onSelectMenu: (menu: Division) => void
 }
+
+const LogoSvg = () => (

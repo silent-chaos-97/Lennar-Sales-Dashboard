@@ -63,7 +63,6 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps & { value: number })
 const AxisXEndTickComponent = (props: RadialAxisTickProps & { goal: number }) => {
   return (
     <g transform={`translate(${props.y}, 0) rotate(180)`}>
-      <text
         dx={-12}
         dy={-12}
         textAnchor={props.textAnchor}
@@ -72,3 +71,11 @@ const AxisXEndTickComponent = (props: RadialAxisTickProps & { goal: number }) =>
         fontSize={16}
         fontFamily="mabry-pro"
       >
+        {props.goal}%
+      </text>
+    </g>
+  )
+}
+
+const ISCDetail = ({
+  open,

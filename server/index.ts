@@ -14,3 +14,4 @@ const port = process.env.PORT
 app.use(cors())
 app.get('/api/cohorts', async (req, res) => {
   const result = await SnowflakeService.getCohortList()
+

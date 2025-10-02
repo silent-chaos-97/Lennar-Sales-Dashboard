@@ -3,7 +3,6 @@ import Box from '@mui/material/Box'
 import Typography from '@mui/material/Typography'
 import PublicIcon from '@mui/icons-material/Public'
 import PersonAddAlt1Icon from '@mui/icons-material/PersonAddAlt1'
-import EmailIcon from '@mui/icons-material/Email'
 import SmsIcon from '@mui/icons-material/Sms'
 import CallIcon from '@mui/icons-material/Call'
 import CancelIcon from '@mui/icons-material/Cancel'
@@ -16,3 +15,5 @@ import { DateTime } from 'luxon'
 import { useMemo } from 'react'
 
 interface TimelineEventProps {
+  event: JourneyArrayItem
+  expanded: boolean

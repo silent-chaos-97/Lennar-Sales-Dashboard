@@ -15,3 +15,5 @@ interface MemberItemProps {
   active?: boolean
   type?: string
 }
+
+const MemberItem = ({

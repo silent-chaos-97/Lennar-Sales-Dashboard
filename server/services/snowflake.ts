@@ -41,3 +41,7 @@ class SnowflakeService {
           console.error('Error connecting to Snowflake:', err)
           return reject(err)
         }
+
+        connection.execute({
+          sqlText: sql,
+          complete: (err, stmt, rows?: Cohort[]) => {

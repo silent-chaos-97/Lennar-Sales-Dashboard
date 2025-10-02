@@ -8,5 +8,5 @@ interface LMapProps {
   mapViewState: {
     latitude: number
     longitude: number
-    zoom: number
   }
+  padding?: {

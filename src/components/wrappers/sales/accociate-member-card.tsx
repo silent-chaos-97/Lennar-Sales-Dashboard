@@ -15,3 +15,5 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
   return (
     <Stack
       direction="row"
+      borderRadius={2}
+      sx={{ backgroundColor: 'background.default', px: 2, pt: 1, pb: 2.5, boxShadow: 3 }}

@@ -1,7 +1,6 @@
 import { styled } from '@mui/material/styles'
 import LeftPane from './left-pane'
 import CenterPane from './center-pane'
-import RightPane from './right-pane'
 import Header from '@/components/common/Header'
 import { useResizeDetector } from 'react-resize-detector'
 import { useCallback, useEffect, useRef, useState } from 'react'
@@ -38,6 +37,7 @@ const InnerScreen = styled('div')({
   top: 0,
   left: 0,
   padding: '0 46px',
+  display: 'flex'
 })
 
 const ScreenWrapper = ({ children, padding, justifyContent = 'flex-start', width }) => {
@@ -49,3 +49,5 @@ const ScreenWrapper = ({ children, padding, justifyContent = 'flex-start', width
       </Screen>
     )
   }
+
+  if (width > 2400 && mode !== ScreenMode.panorama) {

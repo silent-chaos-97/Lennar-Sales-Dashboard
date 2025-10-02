@@ -29,6 +29,7 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps) => {
       <CustomTooltip elementName={`label-${props.label.toString().toLowerCase()}`}>
         <text
           dx={props.textX}
+          dy={-24}
           textAnchor={props.textAnchor}
           fill="#fff"
           fillOpacity="0.67"
@@ -61,3 +62,6 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps) => {
 
 const AxisXEndTickComponent = (props: RadialAxisTickProps) => {
   const { performanceState } = usePerformanceContext()
+  const goal = performanceState?.[props.label].goal_value || 0
+
+  return (

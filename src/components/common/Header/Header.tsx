@@ -100,3 +100,6 @@ const Header = () => {
     setOpenSettings(true)
   }
 
+  const handleTabChange = (event: React.SyntheticEvent, newValue: number) => {
+    setCurrentScreen(newValue)
+  }

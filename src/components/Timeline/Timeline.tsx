@@ -23,3 +23,4 @@ const Divider = styled('div')(({ theme }) => ({
   zIndex: -1
 }))
 
+interface TimelineProps {

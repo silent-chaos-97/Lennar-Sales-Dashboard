@@ -1,4 +1,3 @@
-import { createTheme } from '@mui/material/styles'
 import LinkBehavior from './MuiLink'
 
 import MabryLight_WOFF from '@/assets/fonts/mabry/light/mabry-light-pro.woff'
@@ -21,6 +20,7 @@ declare module '@mui/material/styles' {
   }
 
   // allow configuration using `createTheme`
+  interface TypographyVariantsOptions {
     title?: React.CSSProperties
   }
 
@@ -74,3 +74,11 @@ export const theme = createTheme({
     h5: {
       fontSize: 24,
       lineHeight: 1.4
+    },
+    h6: {
+      fontSize: 20,
+      lineHeight: 1.4,
+      fontWeight: 800
+    },
+    subtitle1: {
+      fontSize: 22,

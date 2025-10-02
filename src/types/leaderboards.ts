@@ -21,3 +21,5 @@ export interface LeaderboardISCMemberDetail {
   total_chats_texts: number
   total_chats_texts_percent_change: number
   total_sales: number
+  total_texts: number
+  total_texts_percent_change: number

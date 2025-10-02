@@ -50,3 +50,6 @@ const List = ({ list, choose, showList }: ListProps) => {
         width: 460,
         boxShadow: '0 8px 16px 0 rgba(0,0,0,0.80)',
         cursor: 'pointer',
+        color: '#ddd'
+      }}
+    >

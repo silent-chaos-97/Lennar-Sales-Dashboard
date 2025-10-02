@@ -22,3 +22,5 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         chartWidth = width - margin.left - margin.right,
         chartHeight = height - margin.top - margin.bottom
 
+      const svg = d3
+        .select(`#${id}`)

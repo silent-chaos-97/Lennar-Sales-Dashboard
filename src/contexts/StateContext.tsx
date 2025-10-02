@@ -37,9 +37,12 @@ const StateContext = createContext<StateContextValues>({
   locations: [],
   currentCohort: {
     name: 'National',
-    type: 'all',
     latitude: 35.86,
     longitude: -98.26,
     timezone: 'US/Eastern'
   },
   activityTimeframeState: {},
+  salesTimeframeState: {},
+  performanceTimeframeState: {},
+  setCurrentCohort: () => null,
+  fetchNextDivision: () => null,

@@ -90,6 +90,7 @@ class SnowflakeService {
                                 timezone: rRow.TIME_ZONE,
                                 divisions: [...divisions, ...subRegions]
                             };
+                        });
                         connection.destroy(() => {
                             console.log('Cohort Division fetching is finished');
                         });
@@ -151,7 +152,6 @@ class SnowflakeService {
                         if (stmt.hasNext()) {
                             statIdx++;
                             stmt.NextResult();
-                        }
                         else {
                             connection.destroy(() => {
                                 console.log(`Fetching Cohort Data for ${cohort} is finished`);

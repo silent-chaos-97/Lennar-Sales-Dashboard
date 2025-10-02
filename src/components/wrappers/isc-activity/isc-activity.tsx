@@ -11,6 +11,7 @@ import CustomTooltip from '@/components/common/CustomTooltip'
 import { CurrentActivityState } from '@/types/current_activity'
 
 interface IscActivityProps {
+  data: CurrentActivityState
   activityTimeframe: string
 }
 
@@ -24,3 +25,6 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
               variant="body1"
               fontWeight={700}
               mb={-1.5}
+              color="rgba(255, 255, 255, 0.67)"
+            >
+              <DataAlert elementName="label-activity-calls">Calls</DataAlert>

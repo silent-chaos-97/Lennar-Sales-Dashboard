@@ -12,10 +12,10 @@ const CACHE_DIRECTORY = path.join(__dirname, '..', 'cache')
 if (!fs.existsSync(CACHE_DIRECTORY)) {
   fs.mkdirSync(CACHE_DIRECTORY)
 }
-
 function sanitizeFilename(filename: string) {
   // Replace unsafe characters with underscores
   return filename.replace(/[^a-zA-Z0-9-_]/g, '_')
 }
 
 const run = async () => {
+  const cohortList = await SnowflakeService.getCohortList()
