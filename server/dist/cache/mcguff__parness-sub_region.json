@@ -1101,6 +1101,7 @@
                 },
                 "follow_up": {
                   "color": "green",
+                  "goal_value": 80,
                   "percent_value": 100
                 },
                 "leads_w_appts_set": {
@@ -11186,7 +11187,6 @@
                 "total_calls": 0,
                 "total_calls_percent_change": 0,
                 "total_chats": 0,
-                "total_chats_percent_change": 0,
                 "total_chats_texts": 0,
                 "total_chats_texts_percent_change": 0,
                 "total_sales": 0,
@@ -21555,3 +21555,113 @@
                   {
                     "x_axis": "Aug 21",
                     "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 8
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 3,
+                "gross_sales_division_rank": 4,
+                "gross_sales_national_rank": 262,
+                "incentive_rate": 0,
+                "net_revenue": 2026918,
+                "net_revenue_division_rank": 8,
+                "net_revenue_national_rank": 115,
+                "net_revenue_percent_change": -82,
+                "net_sales": -1,
+                "realtor_attachment_rate": 33,
+                "realtor_attachment_rate_division_rank": 10,
+                "realtor_attachment_rate_national_rank": 169,
+                "realtor_commission_rate": 1
+              },
+              "summary": "0% incentives"
+            }
+          ],
+          "QTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Central Valley",
+              "image_url": "",
+              "name": "Linda Davisson",
+              "national_rank": 1,
+              "pop_out_details": {
+                "appointments_kept_rate": 89,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 9
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 10
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 6
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 6
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 6
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 4
+                  },

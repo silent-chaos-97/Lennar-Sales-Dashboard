@@ -7,7 +7,6 @@ import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown'
 
 interface SectionProps {
   title: string
-  timestamp?: string
   category?: string
   more?: React.ReactNode
   timestampList?: Record<string, string>

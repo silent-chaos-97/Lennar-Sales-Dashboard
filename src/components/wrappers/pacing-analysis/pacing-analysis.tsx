@@ -12,3 +12,4 @@ const PacingAnalysis = () => {
 
   return (
     <Section
+      title="Pacing Analysis"

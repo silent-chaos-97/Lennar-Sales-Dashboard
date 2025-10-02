@@ -10,6 +10,7 @@ import { LEADERBOARD_TIMEFRAMES } from '@/types/leaderboards'
 interface IscLeaderBoardProps {
   leaderboardData: LeaderboardObj
   categoryList: Record<string, string>
+}
 
 const LeaderboardItems = ({
   leaderboardItems,
@@ -26,3 +27,4 @@ const LeaderboardItems = ({
         imageSrc={leader.image_url}
         name={leader.name}
         national_rank={leader.national_rank}
+        summary={leader.summary}

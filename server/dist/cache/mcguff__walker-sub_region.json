@@ -11392,7 +11392,6 @@
                 "appts_missed": 3,
                 "appts_set": 0,
                 "appts_set_percent_change": 0,
-                "beback_with_follow_up": {
                   "color": "green",
                   "goal_value": 90,
                   "percent_value": 95.65
@@ -15219,6 +15218,7 @@
               },
               "appts_missed": 1,
               "appts_set": 3,
+              "appts_set_percent_change": 0,
               "beback_with_follow_up": {
                 "color": "yellow",
                 "goal_value": 90,
@@ -17380,3 +17380,92 @@
                   {
                     "x_axis": "Oct 09",
                     "y_axis": 0
+                  }
+                ],
+                "gross_sales": 5,
+                "gross_sales_division_rank": 21,
+                "gross_sales_national_rank": 785,
+                "incentive_rate": 4.8,
+                "net_revenue": 3377294,
+                "net_revenue_division_rank": 19,
+                "net_revenue_national_rank": 477,
+                "net_revenue_percent_change": 41,
+                "net_sales": 5,
+                "realtor_attachment_rate": 60,
+                "realtor_attachment_rate_division_rank": 8,
+                "realtor_attachment_rate_national_rank": 374,
+                "realtor_commission": 34677.54,
+                "realtor_commission_rate": 1
+              },
+              "summary": "100% appointments kept"
+            }
+          ],
+          "WTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Colorado",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_sara_melzerlr_jpg",
+              "name": "Sara Melzer",
+              "national_rank": 3,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 1,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 2
+                  }
+                ],
+                "gross_sales": 2,

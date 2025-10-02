@@ -3,7 +3,6 @@ export const STATUS_COLORS = {
   ahead_of_pace: '#f5cc6c',
   on_pace: '#00904f',
   behind_pace: '#e76161',
-  very_behind_pace: '#dc3030'
 }
 
 export const PERFORMANCE_COLORS = {
@@ -12,3 +11,4 @@ export const PERFORMANCE_COLORS = {
   yellow: '#EC9628'
 }
 
+export const STATUS_TEXT_BY_KEY = {

@@ -19,3 +19,4 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
   const currentMonday = now.startOf('week').startOf('day').toFormat('MMM dd')
 
   useEffect(() => {
+    const x = d3.scaleBand().range([0, width]).padding(0.5)

@@ -1,3 +1,4 @@
+import { createTheme } from '@mui/material/styles'
 import LinkBehavior from './MuiLink'
 
 import MabryLight_WOFF from '@/assets/fonts/mabry/light/mabry-light-pro.woff'
@@ -82,3 +83,4 @@ export const theme = createTheme({
     },
     subtitle1: {
       fontSize: 22,
+      lineHeight: '24px'

@@ -152,6 +152,7 @@ class SnowflakeService {
                         if (stmt.hasNext()) {
                             statIdx++;
                             stmt.NextResult();
+                        }
                         else {
                             connection.destroy(() => {
                                 console.log(`Fetching Cohort Data for ${cohort} is finished`);

@@ -4146,6 +4146,7 @@
                 "appt_set_national_rank": 35,
                 "appts_kept": {
                   "color": "green",
+                  "goal_value": 75,
                   "percent_value": 89.19
                 },
                 "appts_missed": 3,
@@ -13975,3 +13976,74 @@
                     "x_axis": "Oct 09",
                     "y_axis": 0
                   }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 15,
+                "gross_sales_national_rank": 933,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 15,
+                "net_revenue_national_rank": 933,
+                "net_revenue_percent_change": 0,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 2,
+                "realtor_attachment_rate_national_rank": 933,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0 gross sales"
+            },
+            {
+              "cohort_rank": 15,
+              "division_name": "Central Valley",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_diane_bronze_lr_jpg",
+              "name": "Diane Bronze",
+              "national_rank": 933,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 0,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 15,
+                "gross_sales_national_rank": 933,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 15,
+                "net_revenue_national_rank": 933,
+                "net_revenue_percent_change": 0,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 2,
+                "realtor_attachment_rate_national_rank": 933,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0 gross sales"
+            },
+            {
+              "cohort_rank": 15,
+              "division_name": "Central Valley",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_chandra_clemmey_lr_jpg",
+              "name": "Chandra Clemmey",
+              "national_rank": 933,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 0,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {

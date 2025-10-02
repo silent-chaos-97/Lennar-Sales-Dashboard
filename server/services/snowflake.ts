@@ -45,3 +45,4 @@ class SnowflakeService {
         connection.execute({
           sqlText: sql,
           complete: (err, stmt, rows?: Cohort[]) => {
+            if (err || !rows) {

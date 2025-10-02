@@ -4,7 +4,6 @@ This project is a sales dashboard for Lennar, a leading homebuilder in the US. I
 
 The project is divided into two main parts: the backend and the frontend. The backend is responsible for fetching, processing, and serving data from the Snowflake database. The frontend is a web application that presents the data in a user-friendly format.
 
-
 ## Requirements
 
 - `node` 18.x
@@ -18,3 +17,4 @@ The project is divided into two main parts: the backend and the frontend. The ba
 
 ## Local Development
 
+### Backend

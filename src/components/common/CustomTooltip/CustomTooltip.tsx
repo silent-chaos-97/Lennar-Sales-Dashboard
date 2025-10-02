@@ -6,6 +6,7 @@ import { useScreen } from '@/contexts/ScreenContext'
 export interface CustomTooltipProps {
   elementName: string
   children: ReactElement
+}
 
 const CustomTooltip = ({ elementName, children }: CustomTooltipProps) => {
   const { metrics } = useAppState()

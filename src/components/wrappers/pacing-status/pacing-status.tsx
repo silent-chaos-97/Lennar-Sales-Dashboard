@@ -15,6 +15,7 @@ import { PACING_ZOOM_LEVEL, PACING_MAP_OFFSETS, STATUS_COLORS } from '@/utils/co
 import { SubCohortItem } from '@/types/pacing'
 import { useAppTimerSetters } from '@/contexts/TimerContext'
 import CustomTooltip from '@/components/common/CustomTooltip'
+import DataAlert from '@/components/common/CustomTooltip/DataAlert'
 
 const MarkerIcon = styled('div', {
   shouldForwardProp: (prop) => !['color', 'active'].includes(prop as string)
@@ -33,7 +34,6 @@ const MarkerIcon = styled('div', {
 const PacingStatus = ({ mapWrapperRef }) => {
   const mapRef = useRef<MapRef>(null)
   const { pacingState, currentCohort } = useAppState()
-  const { setPlaying, setIdleTimerProgress } = useAppTimerSetters()
   const { width, height, ref: pieChartRef } = useResizeDetector()
   const [activeDots, setActiveDots] = useState<number[]>([])
   const [activePieName, setActivePieName] = useState('')
@@ -53,3 +53,4 @@ const PacingStatus = ({ mapWrapperRef }) => {
   }, [pacingState])
 
   const nSubByStatus = useMemo(() => {
+    const status = {

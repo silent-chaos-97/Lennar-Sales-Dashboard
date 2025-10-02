@@ -12,3 +12,4 @@ export interface LeaderboardDetailProps {
   onClose: () => void
   onPrev: () => void
   onNext: () => void
+  disablePrevNext: [boolean, boolean]
