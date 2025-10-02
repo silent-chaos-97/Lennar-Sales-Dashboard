@@ -9,6 +9,7 @@ import cors from 'cors'
 import SnowflakeService from './services/snowflake'
 
 const app: Express = express()
+const port = process.env.PORT
 
 app.use(cors())
 app.get('/api/cohorts', async (req, res) => {
@@ -17,3 +18,4 @@ app.get('/api/cohorts', async (req, res) => {
   res.json(result)
 })
 
+app.get('/api/metrics', async (req, res) => {

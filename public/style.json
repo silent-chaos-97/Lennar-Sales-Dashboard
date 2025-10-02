@@ -172,6 +172,7 @@
                     "golfHoleLabelLine": false,
                     "walkingCyclingPisteBackground": false,
                     "colorBase": "#334057",
+                    "trailDashPattern": "Solid",
                     "pedestrianPolygonFeatures": false,
                     "cyclewayPisteDashPattern": "Solid",
                     "labels": false
@@ -661,3 +662,47 @@
                         ["secondary", "tertiary"],
                         15.6,
                         [
+                            "motorway_link",
+                            "trunk_link",
+                            "street",
+                            "street_limited",
+                            "primary_link"
+                        ],
+                        10.799999999999999,
+                        7.199999999999999
+                    ],
+                    22,
+                    [
+                        "match",
+                        ["get", "class"],
+                        ["motorway", "trunk", "primary"],
+                        192,
+                        ["secondary", "tertiary"],
+                        156,
+                        [
+                            "motorway_link",
+                            "trunk_link",
+                            "primary_link",
+                            "street",
+                            "street_limited"
+                        ],
+                        108,
+                        72
+                    ]
+                ],
+                "line-color": "rgb(54, 67, 90)"
+            }
+        },
+        {
+            "id": "road-path-trail",
+            "type": "line",
+            "metadata": {
+                "mapbox:featureComponent": "walking-cycling",
+                "mapbox:group": "Walking, cycling, etc., surface"
+            },
+            "source": "composite",
+            "source-layer": "road",
+            "minzoom": 12,
+            "filter": [
+                "all",
+                ["==", ["get", "class"], "path"],

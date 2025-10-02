@@ -21,3 +21,5 @@ interface TimelineEventProps {
 }
 
 const icons = {
+  text: <SmsIcon />,
+  email: <EmailIcon />,

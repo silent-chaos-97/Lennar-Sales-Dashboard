@@ -27,3 +27,5 @@ export interface LeaderboardISCMemberDetail {
   trifecta: MemberDetailValue
   follow_up: MemberDetailValue
   beback_with_follow_up: MemberDetailValue
+  appts_kept: MemberDetailValue
+}

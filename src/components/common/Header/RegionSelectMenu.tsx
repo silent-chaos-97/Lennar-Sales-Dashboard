@@ -23,3 +23,5 @@ const LogoSvg = () => (
   <svg
     width="144px"
     height="13.0212766px"
+    viewBox="0 0 144 13.0212766"
+    version="1.1"

@@ -108,3 +108,6 @@ const Header = () => {
   const isTriple = mode === ScreenMode.triple_monitor
 
   const timeoutRef = useRef<number | null>(null)
+
+  useEffect(() => {
+    if (!timeoutRef.current && dataStatus === undefined) {

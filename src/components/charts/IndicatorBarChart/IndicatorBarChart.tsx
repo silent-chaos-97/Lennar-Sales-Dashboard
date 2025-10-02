@@ -3,6 +3,7 @@
 import { useEffect } from 'react'
 import * as d3 from 'd3'
 import { WeeklyPacingItem } from '@/types/pacing'
+import { DateTime } from 'luxon'
 
 const MARGIN = { top: 0, right: 0, bottom: 26, left: 40 }
 
@@ -35,3 +36,5 @@ const IndicatorBarChart = ({
       .attr('width', width + MARGIN.left + MARGIN.right)
       .attr('height', height + MARGIN.top + MARGIN.bottom)
       .append('g')
+      .attr('transform', 'translate(' + MARGIN.left + ',' + MARGIN.top + ')')
+

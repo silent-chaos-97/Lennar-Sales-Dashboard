@@ -22,3 +22,6 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
     const x = d3.scaleBand().range([0, width]).padding(0.5)
     const y = d3.scaleLinear().range([height, 0])
     d3.select(`#${id} > *`).remove()
+    const svg = d3
+      .select(`#${id}`)
+      .attr('width', width + MARGIN.left + MARGIN.right)

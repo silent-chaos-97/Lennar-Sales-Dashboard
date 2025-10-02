@@ -10,7 +10,6 @@ import { PricingState } from '@/types/pricing'
 import { InsightState } from '@/types/insights'
 import { MetricsState } from '@/types/metrics'
 import { HTTP_STATUS_CODES } from '@/utils/constant'
-
 interface StateContextValues {
   leaderboards?: LeaderboardsState
   performanceTimeframeState: Record<string, IscPerformanceState>
@@ -45,6 +44,7 @@ const StateContext = createContext<StateContextValues>({
   activityTimeframeState: {},
   salesTimeframeState: {},
   performanceTimeframeState: {},
+  setCurrentCohort: () => null,
   fetchNextDivision: () => null,
   fetchRegionDivisions: () => null,
   setPrevSelectedDivisionType: () => null
@@ -54,3 +54,7 @@ export const StateProvider = (props: PropsWithChildren) => {
   const [leaderboards, setLeaderboards] = useState<LeaderboardsState | undefined>()
   const [performanceTimeframeState, setPerformanceTimeframeState] = useState<
     Record<string, IscPerformanceState>
+  >({})
+  const [activityTimeframeState, setActivityTimeframeState] = useState<
+    Record<string, CurrentActivityState>
+  >({})

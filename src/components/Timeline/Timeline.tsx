@@ -26,3 +26,4 @@ const Divider = styled('div')(({ theme }) => ({
 interface TimelineProps {
   journeyData: JourneyArrayItem[]
 }
+

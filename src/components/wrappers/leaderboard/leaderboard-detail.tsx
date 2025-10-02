@@ -15,3 +15,4 @@ export interface LeaderboardDetailProps {
   disablePrevNext: [boolean, boolean]
   type?: string
   activeTimestamp?: string
+}

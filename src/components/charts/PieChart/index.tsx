@@ -32,3 +32,5 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
       .pie()
       .value(function (d) {
         return d[1]
+      })
+      .startAngle(0)

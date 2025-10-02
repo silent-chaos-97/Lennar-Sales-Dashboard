@@ -3,3 +3,4 @@
   REGION: string
   SUB_REGION: string
   LATITUDE: number
+  LONGITUDE: number

@@ -6,3 +6,4 @@ const NotFound = () => {
   return (
     <Box display="flex" justifyContent="center">
       <Stack alignItems="center" sx={{ marginTop: '10px', width: '100%' }}>
+        <Stack

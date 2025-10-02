@@ -1,7 +1,6 @@
 import { PropsWithChildren, useMemo, useState } from 'react'
 import ClickAwayListener from '@mui/base/ClickAwayListener'
 import Typography from '@mui/material/Typography'
-import Stack from '@mui/material/Stack'
 import Box from '@mui/material/Box'
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown'
 
@@ -40,3 +39,6 @@ export const Section = ({
   const handleClickCategoryItem = (category: string) => {
     setShowCategoryDropdown(false)
     if (typeof onSelectCategory === 'function') onSelectCategory(category)
+  }
+
+  const alignmentStyle = useMemo(() => {

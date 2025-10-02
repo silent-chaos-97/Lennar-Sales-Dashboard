@@ -34,6 +34,7 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
   const handleChangeMode = (event: React.ChangeEvent<HTMLInputElement>) => {
     const value = +(event.target as HTMLInputElement).value as unknown as ScreenMode
     setScreenMode(value)
+  }
 
   const handleClickSave = () => {
     setCycleTimeout(cycleTimeValue)
@@ -51,3 +52,7 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
         sx={{
           position: 'absolute',
           right: 0,
+          borderRadius: '8px',
+          px: 3,
+          py: 2,
+          backgroundColor: '#191D26',

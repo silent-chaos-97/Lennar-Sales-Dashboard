@@ -32,3 +32,5 @@ const LeaderboardItems = ({
         onOpenDetail={() => handleClickDetail(idx)}
         active={activeIdx === idx}
         type={`${leaderboardData.type.split(' ').join('-').toLowerCase()}`}
+      />
+    ))}

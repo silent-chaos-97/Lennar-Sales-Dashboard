@@ -39,3 +39,4 @@ const GoalLine = styled('div', {
   '&:before': {
     content: `"${goal}%"`,
     position: 'absolute',
+    left: 'calc(100% + 4px)',

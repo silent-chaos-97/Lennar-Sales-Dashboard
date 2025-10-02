@@ -30,3 +30,5 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         : hours.findIndex((hour) => hour === currentHour)
       const filteredCurrentTickers = currentTickers
         .slice(0, currentHourIndex + 1)
+        .filter((ticker) => ticker !== '')
+      const margin = { top: 10, right: 0, bottom: 10, left: 0 },

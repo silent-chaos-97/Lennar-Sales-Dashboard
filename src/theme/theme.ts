@@ -96,3 +96,10 @@ export const theme = createTheme({
     button: {
       textTransform: 'none'
     }
+  },
+  components: {
+    MuiCssBaseline: {
+      styleOverrides: `
+      @font-face {
+        font-family: 'mabry-pro';
+        src: url(${MabryLight_WOFF});

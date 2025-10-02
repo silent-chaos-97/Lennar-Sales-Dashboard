@@ -46,3 +46,5 @@ const TimerSetterContext = createContext<TimerContextSetters>({
   setDisableRotation: () => null
 })
 
+export enum Rotate {
+  locations = 1,

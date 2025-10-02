@@ -57,3 +57,6 @@ const List = ({ list, choose, showList }: ListProps) => {
         <Scrollbar
           style={{
             maxHeight: 1040,
+            height: `${list.length * 44}px`,
+            width: '100%',
+            paddingRight: 24

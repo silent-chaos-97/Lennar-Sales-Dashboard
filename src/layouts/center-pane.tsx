@@ -31,7 +31,6 @@ const MarkerIcon = styled('div', {
   width: props.radius,
   display: 'flex',
   justifyContent: 'center',
-  alignItems: 'center',
   cursor: 'pointer'
 }))
 
@@ -93,3 +92,9 @@ const CenterPane = () => {
   useEffect(() => {
     if (mapRef.current) {
       setBounds(
+        mapRef.current?.getMap().getBounds().toArray().flat() as [number, number, number, number]
+      )
+    }
+  }, [mapRef.current])
+
+  const points = useMemo(() => {

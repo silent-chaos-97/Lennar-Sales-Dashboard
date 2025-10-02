@@ -2,7 +2,6 @@ import { useEffect, useState } from 'react'
 import Box from '@mui/material/Box'
 import Grid from '@mui/material/Grid'
 import Stack from '@mui/material/Stack'
-import Typography from '@mui/material/Typography'
 import Leads from '@/components/wrappers/leads/leads'
 import IscActivity from '@/components/wrappers/isc-activity'
 import Leaderboard from '@/components/wrappers/leaderboard'
@@ -16,3 +15,4 @@ import { DateTime } from 'luxon'
 import { TIMEZONE } from '@/utils/constant'
 
 const LeftPane = () => {
+  const { leaderboards, activityTimeframeState, currentCohort } = useAppState()

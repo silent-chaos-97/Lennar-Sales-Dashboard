@@ -14,3 +14,4 @@ interface AvailableHomes {
   green_homes: number
   red_homes: number
   total_available: number
+  yellow_homes: number

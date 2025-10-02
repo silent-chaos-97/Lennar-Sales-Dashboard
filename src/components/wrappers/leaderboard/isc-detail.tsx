@@ -26,7 +26,6 @@ import CustomTooltip from '@/components/common/CustomTooltip'
 
 const AxisXStartTickComponent = (props: RadialAxisTickProps & { value: number }) => {
   const labels = {
-    beback_with_follow_up: 'Be-backs with follow-up',
     follow_up: 'Leads with follow-up',
     trifecta: 'Leads with trifecta'
   }
@@ -58,6 +57,7 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps & { value: number })
       </g>
     </CustomTooltip>
   )
+}
 
 const AxisXEndTickComponent = (props: RadialAxisTickProps & { goal: number }) => {
   return (
@@ -92,3 +92,9 @@ const ISCDetail = ({
   const wrapperRef = useRef<HTMLDivElement>(null)
   useClickAway(wrapperRef, () => onClose())
 
+  const radialData = useMemo(() => {
+    return [
+      {
+        id: 'beback_with_follow_up',
+        data: [
+          {

@@ -15,3 +15,4 @@ const PacingAnalysis = () => {
       title="Pacing Analysis"
       timestamp="WTD"
       more={
+        <Stack direction="row" alignItems="center" spacing={0.5}>

@@ -16,3 +16,4 @@ const BulletBar = ({
   id,
   value,
   label,
+  maxValue = 100,

@@ -1,4 +1,3 @@
-import Stack from '@mui/material/Stack'
 import Box from '@mui/material/Box'
 import { Typography } from '@mui/material'
 import ActivityChart from '@/components/charts/ActivityChart'
@@ -33,3 +32,5 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
           <Stack direction="row" alignItems="flex-end" spacing={1}>
             <Typography variant="h1">{(data?.TOTAL_CALLS || 0).toLocaleString()}</Typography>
             <Stack sx={{ pb: 0.75 }}>
+              {(data?.TOTAL_CALLS_PERCENT_CHANGE || 0) !== 0 &&
+                ((data?.TOTAL_CALLS_PERCENT_CHANGE || 0) > 0 ? (

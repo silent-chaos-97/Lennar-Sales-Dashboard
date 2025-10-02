@@ -18,7 +18,6 @@ if (!process.env.SNOWFLAKE_ACCOUNT ||
 }
 const snowflakeOptions = {
     account: process.env.SNOWFLAKE_ACCOUNT,
-    username: process.env.SNOWFLAKE_USERNAME,
     password: process.env.SNOWFLAKE_PASSWORD,
     role: process.env.SNOWFLAKE_ROLE,
     warehouse: process.env.SNOWFLAKE_WAREHOUSE,
@@ -55,7 +54,6 @@ class SnowflakeService {
                                 .map((dRow) => ({
                                 type: dRow.COHORT_TYPE,
                                 name: dRow.COHORT,
-// Temp comment
                                 latitude: dRow.LATITUDE,
                                 longitude: dRow.LONGITUDE,
                                 timezone: dRow.TIME_ZONE

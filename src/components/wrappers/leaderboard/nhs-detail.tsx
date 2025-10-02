@@ -79,3 +79,5 @@ const NHSDetail = ({
                 <CloseIcon htmlColor="#dde3f6" />
               </IconButton>
             </Stack>
+          </Stack>
+          <Box sx={{ mb: 5 }}>

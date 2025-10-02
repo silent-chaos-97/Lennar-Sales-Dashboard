@@ -1,3 +1,4 @@
+import Stack from '@mui/material/Stack'
 import Section from '@/components/common/Section'
 import Box from '@mui/material/Box'
 import Typography from '@mui/material/Typography'
@@ -33,3 +34,6 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
     if (diffPercent === 0) return 'text.primary'
     else if (diffPercent > 0) return 'success.main'
     return 'error'
+  }
+
+  return (

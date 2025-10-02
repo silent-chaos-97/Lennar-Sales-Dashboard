@@ -45,3 +45,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       d3
         .axisLeft(y)
         .ticks(5)
+        .tickSizeInner(-width)
+        .tickSizeOuter(0)
+        .tickPadding(12)

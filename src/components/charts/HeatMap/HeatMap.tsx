@@ -23,3 +23,5 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
   const boundsWidth = width - MARGIN.right - MARGIN.left
   const boundsHeight = height - MARGIN.top - MARGIN.bottom
 
+  const parseTime = d3.timeParse('%Y-%m-%d %H:%M:%S.%L')
+

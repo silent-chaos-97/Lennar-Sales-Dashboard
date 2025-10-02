@@ -43,3 +43,6 @@ const AppointmentSet = ({
 
               if (hour >= 0 && hour < 9) {
                 nWeekdayEvents[weekdate].byTimeframe[0] =
+                  nWeekdayEvents[weekdate].byTimeframe[0] + 1
+              } else if (hour >= 9 && hour < 12) {
+                nWeekdayEvents[weekdate].byTimeframe[1] =

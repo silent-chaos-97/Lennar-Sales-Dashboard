@@ -12,3 +12,4 @@ interface BarProps {
   color?: string
   change: number
 }
+

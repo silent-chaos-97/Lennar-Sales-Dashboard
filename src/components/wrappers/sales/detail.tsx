@@ -52,3 +52,6 @@ const SalesDetails = ({
         <svg
           id="triangleSvg"
           width={svgSize.width}
+          height={svgSize.height}
+          style={{
+            position: 'absolute',
