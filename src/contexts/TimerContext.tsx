@@ -43,3 +43,6 @@ const TimerSetterContext = createContext<TimerContextSetters>({
   setIdleTimerProgress: () => null,
   setIdleTimeout: () => null,
   setPlaying: () => null,
+  setDisableRotation: () => null
+})
+

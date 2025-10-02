@@ -37,6 +37,11 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')')
 
     // Show the Y scale
+    const y = d3
       .scaleLinear()
       .domain([0, Math.max(...boxPlotData.flat())])
       .range([height, 0])
+    const yAxisGroup = svg.call(
+      d3
+        .axisLeft(y)
+        .ticks(5)

@@ -45,8 +45,12 @@ const StateContext = createContext<StateContextValues>({
   activityTimeframeState: {},
   salesTimeframeState: {},
   performanceTimeframeState: {},
-  setCurrentCohort: () => null,
   fetchNextDivision: () => null,
   fetchRegionDivisions: () => null,
   setPrevSelectedDivisionType: () => null
 })
+
+export const StateProvider = (props: PropsWithChildren) => {
+  const [leaderboards, setLeaderboards] = useState<LeaderboardsState | undefined>()
+  const [performanceTimeframeState, setPerformanceTimeframeState] = useState<
+    Record<string, IscPerformanceState>

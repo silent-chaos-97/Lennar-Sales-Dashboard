@@ -9,3 +9,4 @@ export interface HourlyTicker {
   current: number
   hour: number
 }
+

@@ -14,3 +14,5 @@ interface ActivityChartProps {
 }
 
 const ActivityChart = ({ data }: ActivityChartProps) => {
+  const { width, ref } = useResizeDetector()
+  const { currentCohort } = useAppState()

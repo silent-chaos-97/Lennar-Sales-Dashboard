@@ -48,3 +48,8 @@ class SnowflakeService {
             if (err || !rows) {
               console.error('Error executing Snowflake query:', err)
               return reject(err)
+            }
+            const regions = rows
+              .filter((rRow) => rRow.COHORT_TYPE === 'region')
+              .map((rRow) => {
+                const divisions = rows

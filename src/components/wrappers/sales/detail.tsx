@@ -42,7 +42,13 @@ const SalesDetails = ({
   const wrapperRef = useRef<HTMLDivElement>(null)
   useClickAway(wrapperRef, (event) => {
     if (mapWrapperRef.current && mapWrapperRef.current.contains(event.target as Node)) {
+      onClose()
     }
   })
 
   return (
+    <>
+      {svgSize.width > 0 && (
+        <svg
+          id="triangleSvg"
+          width={svgSize.width}

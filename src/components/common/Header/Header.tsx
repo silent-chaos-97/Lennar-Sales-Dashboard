@@ -104,3 +104,7 @@ const Header = () => {
     setCurrentScreen(newValue)
   }
 
+  const isDesktop = mode === ScreenMode.desktop
+  const isTriple = mode === ScreenMode.triple_monitor
+
+  const timeoutRef = useRef<number | null>(null)

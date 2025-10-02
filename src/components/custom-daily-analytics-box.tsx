@@ -7,3 +7,4 @@ import { DailyAnalyticsBoxProps } from './daily-analytics-box'
 
 type CustomDailyAnalyticsBoxProps = Omit<
   DailyAnalyticsBoxProps,
+  'graphData' | 'isLargeSize' | 'color' | 'grossValue'

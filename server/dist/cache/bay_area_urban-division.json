@@ -348,3 +348,35 @@
             "hour": 15,
             "prev": 0
           },
+          {
+            "current": 0,
+            "hour": 16,
+            "prev": 1
+          },
+          {
+            "current": 1,
+            "hour": 17,
+            "prev": 1
+          },
+          {
+            "current": 0,
+            "hour": 18,
+            "prev": 3
+          }
+        ],
+        "TOTAL_CALLS": 0,
+        "TOTAL_CALLS_PERCENT_CHANGE": null,
+        "TOTAL_CHATS_TEXTS": 0,
+        "TOTAL_CHATS_TEXTS_PERCENT_CHANGE": null,
+        "APPOINTMENTS_SET": 2,
+        "APPOINTMENTS_SET_PERCENT_CHANGE": -33,
+        "LEADS_BY_CHANNEL": {
+          "non_paid": 3,
+          "non_paid_pct_change": 50,
+          "paid": 27,
+          "paid_pct_change": 59,
+          "third_party": 0,
+          "third_party_pct_change": 0
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:28.315"
+      },

@@ -13,6 +13,7 @@ const Wrapper = styled(Box)({
   position: 'absolute',
   top: 0,
   left: 0,
+  bottom: 0,
   width: 648,
   zIndex: 2,
   background: 'linear-gradient(to right, #191D26, rgba(33, 42, 54, 0))',
@@ -47,3 +48,4 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
         more={
           <Stack direction="row" alignItems="center" spacing={1} color="text.secondary">
             <ArrowForwardIcon color="inherit" />
+            <Typography variant="caption" color="text.secondary">

@@ -6,3 +6,4 @@ import PlayArrowIcon from '@mui/icons-material/PlayArrow'
 
 interface TimerProgressProps {
   value: number
+  playing: boolean

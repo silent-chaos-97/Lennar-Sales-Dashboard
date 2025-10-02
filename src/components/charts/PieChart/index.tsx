@@ -29,3 +29,6 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
       .range(Object.values(STATUS_COLORS))
 
     const pie = d3
+      .pie()
+      .value(function (d) {
+        return d[1]

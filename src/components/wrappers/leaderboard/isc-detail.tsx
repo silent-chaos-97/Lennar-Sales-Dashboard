@@ -58,7 +58,6 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps & { value: number })
       </g>
     </CustomTooltip>
   )
-}
 
 const AxisXEndTickComponent = (props: RadialAxisTickProps & { goal: number }) => {
   return (
@@ -85,3 +84,11 @@ const ISCDetail = ({
   onNext,
   onClose,
   data,
+  imageUrl,
+  cohortRank,
+  nationalRank,
+  disablePrevNext
+}: LeaderboardDetailProps) => {
+  const wrapperRef = useRef<HTMLDivElement>(null)
+  useClickAway(wrapperRef, () => onClose())
+

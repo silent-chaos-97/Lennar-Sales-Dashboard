@@ -66,3 +66,6 @@ const AxisXEndTickComponent = (props: RadialAxisTickProps) => {
 
   return (
     <g transform={`translate(${props.y}, 0) rotate(180)`}>
+      <text
+        dx={-12}
+        dy={-12}

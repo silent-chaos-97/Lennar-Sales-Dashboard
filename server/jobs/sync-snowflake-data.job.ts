@@ -22,3 +22,23 @@ const run = async () => {
   const cohortList = await SnowflakeService.getCohortList()
 
   const sortedCohortList: Division[] = [
+    {
+      name: 'National',
+      type: 'all',
+      latitude: 35.86,
+      longitude: -98.26,
+      timezone: 'US/Eastern'
+    }
+  ]
+
+  cohortList.forEach((region: CohortListItem) => {
+    sortedCohortList.push({
+      name: region.name,
+      type: region.type,
+      latitude: region.latitude,
+      longitude: region.longitude,
+      timezone: region.timezone
+    })
+
+    if (region.divisions) {
+      region.divisions.forEach((sub_region) => {

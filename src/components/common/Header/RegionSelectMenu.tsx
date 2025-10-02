@@ -21,3 +21,5 @@ interface RegionSelectMenuProps {
 
 const LogoSvg = () => (
   <svg
+    width="144px"
+    height="13.0212766px"

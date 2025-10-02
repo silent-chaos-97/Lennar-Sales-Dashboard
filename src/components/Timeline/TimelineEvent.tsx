@@ -19,3 +19,5 @@ interface TimelineEventProps {
   event: JourneyArrayItem
   expanded: boolean
 }
+
+const icons = {

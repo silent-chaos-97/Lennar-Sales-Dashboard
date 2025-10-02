@@ -85,3 +85,11 @@ const CenterPane = () => {
     if (!salesState?.DETAIL_SALES_ARRAY) {
       setSelectedSalesItem(null)
       setSelectedSalesItems([])
+      setClusterIndex(0)
+      setSvgSize(null)
+    }
+  }, [salesState?.DETAIL_SALES_ARRAY])
+
+  useEffect(() => {
+    if (mapRef.current) {
+      setBounds(

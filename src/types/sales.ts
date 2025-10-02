@@ -18,5 +18,5 @@ export interface AssociateArrayItem {
 export interface JourneyArrayItem {
   activity_date: string
   activity_type: string
-  actor_type: string
   body: string
+  sort: number

@@ -13,7 +13,6 @@ import { useAppTimerSetters } from '@/contexts/TimerContext'
 
 const Main = styled('main')({
   width: '100%'
-})
 
 const DashboardLayout = styled('div')({
   display: 'grid',
@@ -53,3 +52,5 @@ const ScreenWrapper = ({ children, padding, justifyContent = 'flex-start', width
 
   if (width > 2400 && mode !== ScreenMode.panorama) {
     return (
+      <Box display="flex" justifyContent="center" width={width}>
+        {renderContent()}

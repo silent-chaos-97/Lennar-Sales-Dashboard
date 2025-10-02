@@ -12,3 +12,5 @@ interface LMapProps {
   }
   padding?: {
     top: number
+    bottom: number
+    left: number

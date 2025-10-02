@@ -8,3 +8,4 @@ interface PercentValueTextProps {
   value: number
   change?: number
   hideChange?: boolean
+  prefix?: string

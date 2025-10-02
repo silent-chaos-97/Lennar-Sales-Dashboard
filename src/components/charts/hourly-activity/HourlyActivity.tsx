@@ -13,3 +13,4 @@ interface HourlyActivityProps {
   title: string
   tickers: HourlyTicker[]
   total: number
+  change: number

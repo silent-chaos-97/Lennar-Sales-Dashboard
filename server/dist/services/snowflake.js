@@ -55,6 +55,7 @@ class SnowflakeService {
                                 .map((dRow) => ({
                                 type: dRow.COHORT_TYPE,
                                 name: dRow.COHORT,
+// Temp comment
                                 latitude: dRow.LATITUDE,
                                 longitude: dRow.LONGITUDE,
                                 timezone: dRow.TIME_ZONE

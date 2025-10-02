@@ -10,7 +10,9 @@ interface BulletBarProps {
   label?: string
   maxValue?: number
   color?: PacingBulletBarColors
+}
 
 const BulletBar = ({
   id,
   value,
+  label,

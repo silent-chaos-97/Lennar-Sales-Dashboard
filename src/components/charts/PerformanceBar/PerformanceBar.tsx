@@ -38,3 +38,4 @@ const GoalLine = styled('div', {
   borderRadius: 2,
   '&:before': {
     content: `"${goal}%"`,
+    position: 'absolute',

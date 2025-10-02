@@ -34,7 +34,6 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
   const handleChangeMode = (event: React.ChangeEvent<HTMLInputElement>) => {
     const value = +(event.target as HTMLInputElement).value as unknown as ScreenMode
     setScreenMode(value)
-  }
 
   const handleClickSave = () => {
     setCycleTimeout(cycleTimeValue)
@@ -48,3 +47,7 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
 
   return (
     <Box sx={{ position: 'relative', px: 2 }}>
+      <Stack
+        sx={{
+          position: 'absolute',
+          right: 0,

@@ -30,3 +30,6 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
               <DataAlert elementName="label-activity-calls">Calls</DataAlert>
             </Typography>
           </CustomTooltip>
+          <Stack direction="row" alignItems="flex-end" spacing={1}>
+            <Typography variant="h1">{(data?.TOTAL_CALLS || 0).toLocaleString()}</Typography>
+            <Stack sx={{ pb: 0.75 }}>

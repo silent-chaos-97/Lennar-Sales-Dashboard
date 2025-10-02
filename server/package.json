@@ -5,3 +5,4 @@
   "main": "index.ts",
   "scripts": {
     "build": "npx tsc",
+    "start": "node dist/index.js",

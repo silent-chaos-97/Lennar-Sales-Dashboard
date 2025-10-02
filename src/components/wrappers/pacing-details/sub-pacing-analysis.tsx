@@ -8,10 +8,11 @@ import { useAppState } from '@/contexts/StateContext'
 
 interface SubPacingAnalysisProps {
   weeklyData: WeeklyPacingItem[]
-  next3WPace: number
   past3WSales: number
   changeNeeded: number
   currentWeekPrediction: number
 }
 
 const SubPacingAnalysis = ({
+  weeklyData,
+  next3WPace,

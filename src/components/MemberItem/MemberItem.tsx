@@ -18,3 +18,5 @@ interface MemberItemProps {
 
 const MemberItem = ({
   cohort_rank,
+  national_rank,
+  imageSrc,

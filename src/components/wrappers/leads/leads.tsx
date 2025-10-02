@@ -1,5 +1,6 @@
 import Stack from '@mui/material/Stack'
 import Box from '@mui/material/Box'
+import Bar from '@/components/charts/Bar/Bar'
 import HourlyActivity from '@/components/charts/hourly-activity'
 import { Typography } from '@mui/material'
 import { useMemo } from 'react'
@@ -14,3 +15,5 @@ interface LeadsProps {
 
 const Leads = ({ data, activityTimeframe }: LeadsProps) => {
   const scores = {
+    paid: data?.LEADS_BY_CHANNEL.paid || 0,
+    non_paid: data?.LEADS_BY_CHANNEL.non_paid || 0,

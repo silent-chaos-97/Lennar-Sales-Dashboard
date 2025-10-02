@@ -2,3 +2,4 @@ import { useAppTimer, useAppTimerSetters, useAppTimerVariables } from '@/context
 import TimerProgress from '../TimerProgress'
 
 const TimeProgress = () => {
+  const { playing, cycleTimerProgress } = useAppTimer()

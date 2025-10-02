@@ -58,3 +58,57 @@ const PacingStatus = ({ mapWrapperRef }) => {
       very_ahead_of_pace: 0,
       ahead_of_pace: 0,
       on_pace: 0,
+      behind_pace: 0,
+      very_behind_pace: 0
+    }
+
+    pacingCohortArray.forEach((item) => {
+      if (item.status) {
+        status[item.status]++
+      }
+    })
+
+    return status
+  }, [pacingCohortArray])
+
+  useEffect(() => {
+    setMapViewState({
+      latitude: currentCohort.latitude,
+      longitude: currentCohort.longitude,
+      zoom: PACING_ZOOM_LEVEL[currentCohort.type]
+    })
+  }, [currentCohort])
+
+  useEffect(() => {
+    if (mapRef.current && pacingCohortArray && pacingCohortArray.length) {
+      const options = {
+        offset: [0, PACING_MAP_OFFSETS[currentCohort.type]] as PointLike,
+        maxZoom: PACING_ZOOM_LEVEL[currentCohort.type],
+        linear: true
+      }
+      const bounds = pacingCohortArray.reduce(
+        (acc, item) => {
+          const lat = item.latitude
+          const lng = item.longitude
+          if (lat !== undefined && lng !== undefined) {
+            return {
+              minLat: Math.min(acc.minLat, lat),
+              maxLat: Math.max(acc.maxLat, lat),
+              minLng: Math.min(acc.minLng, lng),
+              maxLng: Math.max(acc.maxLng, lng)
+            }
+          }
+          return acc
+        },
+        { minLat: 90, maxLat: -90, minLng: 180, maxLng: -180 }
+      )
+
+      const coordinates: mapboxgl.LngLatBoundsLike = [
+        { lat: bounds.minLat, lng: bounds.minLng },
+        { lat: bounds.maxLat, lng: bounds.maxLng }
+      ]
+      mapRef.current.fitBounds(coordinates, options)
+    }
+  }, [mapRef, pacingCohortArray, currentCohort])
+
+  useEffect(() => {

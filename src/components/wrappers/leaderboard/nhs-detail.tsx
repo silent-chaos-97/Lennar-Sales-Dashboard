@@ -75,3 +75,7 @@ const NHSDetail = ({
               <IconButton onClick={onNext}>
                 <ChevronRightIcon htmlColor="#dde3f6" opacity={disablePrevNext[1] ? 0.25 : 1} />
               </IconButton>
+              <IconButton size="large" onClick={onClose}>
+                <CloseIcon htmlColor="#dde3f6" />
+              </IconButton>
+            </Stack>

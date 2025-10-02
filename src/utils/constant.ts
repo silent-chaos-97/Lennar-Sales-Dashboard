@@ -13,3 +13,5 @@ export const PERFORMANCE_COLORS = {
 }
 
 export const STATUS_TEXT_BY_KEY = {
+  very_ahead_of_pace: 'Very ahead',
+  ahead_of_pace: 'Ahead',
