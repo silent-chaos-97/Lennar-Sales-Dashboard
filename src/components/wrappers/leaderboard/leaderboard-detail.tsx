@@ -16,3 +16,4 @@ export interface LeaderboardDetailProps {
   type?: string
   activeTimestamp?: string
 }
+

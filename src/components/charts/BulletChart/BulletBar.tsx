@@ -17,3 +17,4 @@ const BulletBar = ({
   value,
   label,
   maxValue = 100,
+  color = PacingBulletBarColors.white

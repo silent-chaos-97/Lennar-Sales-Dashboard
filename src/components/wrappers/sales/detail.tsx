@@ -55,3 +55,26 @@ const SalesDetails = ({
           height={svgSize.height}
           style={{
             position: 'absolute',
+            top: svgSize.y,
+            right: svgSize.x,
+            zIndex: 0,
+            filter: 'drop-shadow(0 0 16px rgba(0,0,0,0.5))'
+          }}
+        ></svg>
+      )}
+      <Box
+        sx={{
+          position: 'absolute',
+          top: 24,
+          width: 860,
+          right: 12,
+          height: 1180,
+          zIndex: 2,
+          px: 2.5,
+          py: 2,
+          borderRadius: '8px',
+          backgroundColor: 'rgba(38,54,81,0.85)',
+          boxShadow: '16px 8px 16px 0 rgba(0,0,0,0.5)'
+        }}
+        ref={wrapperRef}
+      >

@@ -81,3 +81,4 @@ const NHSDetail = ({
             </Stack>
           </Stack>
           <Box sx={{ mb: 5 }}>
+            <Section

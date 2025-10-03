@@ -29,3 +29,4 @@ export interface LeaderboardISCMemberDetail {
   beback_with_follow_up: MemberDetailValue
   appts_kept: MemberDetailValue
 }
+

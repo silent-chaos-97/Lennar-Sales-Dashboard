@@ -25,3 +25,4 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
 
   const parseTime = d3.timeParse('%Y-%m-%d %H:%M:%S.%L')
 
+  const allYGroups = useMemo(() => {

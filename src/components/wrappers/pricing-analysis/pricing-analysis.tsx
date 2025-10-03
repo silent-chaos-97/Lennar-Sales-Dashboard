@@ -37,3 +37,4 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
   }
 
   return (
+    <Section

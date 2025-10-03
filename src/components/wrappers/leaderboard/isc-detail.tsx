@@ -26,6 +26,7 @@ import CustomTooltip from '@/components/common/CustomTooltip'
 
 const AxisXStartTickComponent = (props: RadialAxisTickProps & { value: number }) => {
   const labels = {
+    beback_with_follow_up: 'Be-backs with follow-up',
     follow_up: 'Leads with follow-up',
     trifecta: 'Leads with trifecta'
   }
@@ -98,3 +99,7 @@ const ISCDetail = ({
         id: 'beback_with_follow_up',
         data: [
           {
+            x: 'Be-backs with follow-up',
+            y: Math.min(
+              ((data?.beback_with_follow_up.percent_value || 0) /
+                (data?.beback_with_follow_up.goal_value || 100)) *

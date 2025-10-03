@@ -11,7 +11,6 @@ export interface WeeklyPacingItem {
 
 interface AvailableHomes {
   black_homes: number
-  green_homes: number
   red_homes: number
   total_available: number
   yellow_homes: number

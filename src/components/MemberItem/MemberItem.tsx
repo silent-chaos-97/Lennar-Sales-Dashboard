@@ -21,3 +21,4 @@ const MemberItem = ({
   national_rank,
   imageSrc,
   name,
+  divisionName,

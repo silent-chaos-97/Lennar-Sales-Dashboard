@@ -5,6 +5,7 @@ import SouthEastIcon from '@mui/icons-material/SouthEast'
 import { getValueChangeTextColor } from '@/utils/helper'
 
 interface PercentValueTextProps {
+  value: number
   change?: number
   hideChange?: boolean
   prefix?: string

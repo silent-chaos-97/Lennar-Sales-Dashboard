@@ -38,3 +38,5 @@ const IndicatorBarChart = ({
       .append('g')
       .attr('transform', 'translate(' + MARGIN.left + ',' + MARGIN.top + ')')
 
+    if (data.length) {
+      // Scale the range of the data in the domains

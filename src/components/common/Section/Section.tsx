@@ -1,6 +1,7 @@
 import { PropsWithChildren, useMemo, useState } from 'react'
 import ClickAwayListener from '@mui/base/ClickAwayListener'
 import Typography from '@mui/material/Typography'
+import Stack from '@mui/material/Stack'
 import Box from '@mui/material/Box'
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown'
 
@@ -42,3 +43,5 @@ export const Section = ({
   }
 
   const alignmentStyle = useMemo(() => {
+    if (dropdownAlignment === 'left') {
+      return { left: 0 }

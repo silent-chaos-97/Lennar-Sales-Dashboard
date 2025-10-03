@@ -20,5 +20,7 @@ The project is divided into two main parts: the backend and the frontend. The ba
 
 ### Backend
 
+Follow these steps to set up the backend:
 
 1. Clone the repository using `git clone`.
+2. Navigate to the server directory and copy the example environment file to a new `.env` file: `cd server && cp .env.example .env`.

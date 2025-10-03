@@ -50,3 +50,4 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
             <ArrowForwardIcon color="inherit" />
             <Typography variant="caption" color="text.secondary">
               vs same point last period
+            </Typography>

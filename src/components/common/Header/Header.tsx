@@ -111,3 +111,4 @@ const Header = () => {
 
   useEffect(() => {
     if (!timeoutRef.current && dataStatus === undefined) {
+      timeoutRef.current = window.setTimeout(() => {

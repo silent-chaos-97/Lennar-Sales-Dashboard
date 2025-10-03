@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import Box from '@mui/material/Box'
 import Grid from '@mui/material/Grid'
 import Stack from '@mui/material/Stack'
+import Typography from '@mui/material/Typography'
 import Leads from '@/components/wrappers/leads/leads'
 import IscActivity from '@/components/wrappers/isc-activity'
 import Leaderboard from '@/components/wrappers/leaderboard'
@@ -16,3 +17,11 @@ import { TIMEZONE } from '@/utils/constant'
 
 const LeftPane = () => {
   const { leaderboards, activityTimeframeState, currentCohort } = useAppState()
+  const [activityTimeframe, setActivityFrame] = useState('today')
+  const selectedActivity = activityTimeframeState[activityTimeframe]
+  const now = DateTime.local().setZone(TIMEZONE[currentCohort.timezone])
+  const isBetween7and11 = now.hour >= 0 && now.hour < 11
+
+  useEffect(() => {
+    if (isBetween7and11) {
+      setActivityFrame('yesterday')

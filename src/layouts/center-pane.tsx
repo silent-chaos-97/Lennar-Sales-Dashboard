@@ -31,6 +31,7 @@ const MarkerIcon = styled('div', {
   width: props.radius,
   display: 'flex',
   justifyContent: 'center',
+  alignItems: 'center',
   cursor: 'pointer'
 }))
 
@@ -98,3 +99,7 @@ const CenterPane = () => {
   }, [mapRef.current])
 
   const points = useMemo(() => {
+    if (!salesState?.DETAIL_SALES_ARRAY) return []
+    if (currentCohort.type === 'division') return salesState.DETAIL_SALES_ARRAY
+    return salesState.DETAIL_SALES_ARRAY.map((point) => ({
+      ...point,

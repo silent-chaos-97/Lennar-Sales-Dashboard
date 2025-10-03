@@ -48,3 +48,5 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
         .tickSizeInner(-width)
         .tickSizeOuter(0)
         .tickPadding(12)
+        .tickFormat((d) => d3.format('.2s')(d).replace('G', 'k'))
+    )

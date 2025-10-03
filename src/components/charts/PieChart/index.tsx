@@ -34,3 +34,5 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
         return d[1]
       })
       .startAngle(0)
+      .endAngle(2 * Math.PI)
+      .sort(null)

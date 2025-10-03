@@ -30,3 +30,4 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .attr('transform', `translate(${margin.left},${margin.top})`)
       const xScale = d3.scalePoint().domain(xValues).range([0, chartWidth])
 
+      const yScale = d3

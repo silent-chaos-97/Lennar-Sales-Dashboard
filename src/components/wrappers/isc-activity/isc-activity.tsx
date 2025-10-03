@@ -1,3 +1,4 @@
+import Stack from '@mui/material/Stack'
 import Box from '@mui/material/Box'
 import { Typography } from '@mui/material'
 import ActivityChart from '@/components/charts/ActivityChart'
@@ -34,3 +35,4 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
             <Stack sx={{ pb: 0.75 }}>
               {(data?.TOTAL_CALLS_PERCENT_CHANGE || 0) !== 0 &&
                 ((data?.TOTAL_CALLS_PERCENT_CHANGE || 0) > 0 ? (
+                  <NorthEastIcon color="success" />

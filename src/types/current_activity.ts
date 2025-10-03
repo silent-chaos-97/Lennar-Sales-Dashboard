@@ -1,7 +1,6 @@
 export interface TickerItem {
   activity_time: string
   activity_status: string
-  sort: number
 }
 
 export interface HourlyTicker {
@@ -10,3 +9,4 @@ export interface HourlyTicker {
   hour: number
 }
 
+export interface CurrentActivityState {

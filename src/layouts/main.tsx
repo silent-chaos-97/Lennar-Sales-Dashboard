@@ -12,7 +12,6 @@ import { useAppState } from '@/contexts/StateContext'
 import { useAppTimerSetters } from '@/contexts/TimerContext'
 
 const Main = styled('main')({
-  width: '100%'
 })
 
 const DashboardLayout = styled('div')({
@@ -21,6 +20,7 @@ const DashboardLayout = styled('div')({
     '[left-start] 65fr [left-end center-start] 84fr [center-end right-start] 65fr [right-end]',
   width: 6420,
   columnGap: 0,
+  margin: '0 auto'
 })
 
 const Screen = styled('div')({
@@ -56,3 +56,4 @@ const ScreenWrapper = ({ children, padding, justifyContent = 'flex-start', width
         {renderContent()}
       </Box>
     )
+  }

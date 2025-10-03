@@ -13,3 +13,4 @@ interface BarProps {
   change: number
 }
 
+interface TrackProps {

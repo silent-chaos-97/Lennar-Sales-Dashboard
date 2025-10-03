@@ -25,3 +25,4 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
     const svg = d3
       .select(`#${id}`)
       .attr('width', width + MARGIN.left + MARGIN.right)
+      .attr('height', height + MARGIN.top + MARGIN.bottom)
