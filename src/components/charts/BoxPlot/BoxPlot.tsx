@@ -17,7 +17,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       return [
         data?.[key]?.percentile_5 || 0,
         data?.[key]?.percentile_25 || 0,
-        data?.[key]?.percentile_50 || 0,
         data?.[key]?.percentile_75 || 0,
         data?.[key]?.percentile_95 || 0
       ]
@@ -50,3 +49,5 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
         .tickPadding(12)
         .tickFormat((d) => d3.format('.2s')(d).replace('G', 'k'))
     )
+    yAxisGroup.select('.domain').remove()
+    yAxisGroup.selectAll('.tick text').style('fill', '#70747A').style('font-size', '16px')

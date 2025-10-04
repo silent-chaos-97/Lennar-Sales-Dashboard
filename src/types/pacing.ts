@@ -9,8 +9,9 @@ export interface WeeklyPacingItem {
   sort: number
 }
 
-interface AvailableHomes {
   black_homes: number
+  green_homes: number
   red_homes: number
   total_available: number
   yellow_homes: number
+}

@@ -27,3 +27,4 @@ interface TimelineProps {
   journeyData: JourneyArrayItem[]
 }
 
+const Timeline = ({ journeyData }: TimelineProps) => {

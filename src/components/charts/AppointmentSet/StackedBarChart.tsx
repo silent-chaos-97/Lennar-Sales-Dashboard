@@ -31,6 +31,8 @@ interface StackedData {
 const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => {
   const svgRef = useRef<SVGSVGElement>(null)
 
-  useEffect(() => {
+    drawChart()
     window.addEventListener('resize', drawChart)
     return () => {
+      window.removeEventListener('resize', drawChart)
+    }

@@ -36,3 +36,4 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
       .startAngle(0)
       .endAngle(2 * Math.PI)
       .sort(null)
+    const data_ready = pie(Object.entries(data).sort((a, b) => b[1] - a[1]))

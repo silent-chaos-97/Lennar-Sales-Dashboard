@@ -58,3 +58,5 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
           backgroundColor: '#191D26',
           width: 460,
           boxShadow: '0 8px 16px 0 rgba(0,0,0,0.25)'
+        }}
+      >

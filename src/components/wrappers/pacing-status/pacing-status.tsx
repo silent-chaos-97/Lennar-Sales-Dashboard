@@ -10,6 +10,7 @@ import { useState, useMemo, useEffect, useRef } from 'react'
 import PacingDetails from '../pacing-details/pacing-details'
 import { useAppState } from '@/contexts/StateContext'
 import { useResizeDetector } from 'react-resize-detector'
+import PieChart from '@/components/charts/PieChart'
 import { PACING_ZOOM_LEVEL, PACING_MAP_OFFSETS, STATUS_COLORS } from '@/utils/constant'
 import { SubCohortItem } from '@/types/pacing'
 import { useAppTimerSetters } from '@/contexts/TimerContext'
@@ -40,7 +41,6 @@ const PacingStatus = ({ mapWrapperRef }) => {
   const [selectedPacingItem, setSelectedPacingItem] = useState<SubCohortItem | null>(null)
   const [mapViewState, setMapViewState] = useState({
     latitude: currentCohort.latitude,
-    longitude: currentCohort.longitude,
     zoom: PACING_ZOOM_LEVEL[currentCohort.type]
   })
   const pacingCohortArray = pacingState?.SUB_COHORT_MAP?.sub_cohort_array || []

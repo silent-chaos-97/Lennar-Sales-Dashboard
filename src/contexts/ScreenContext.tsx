@@ -8,6 +8,7 @@ export enum ScreenMode {
 
 export enum ScreenPanes {
   leads,
+  sales,
   pacing
 }
 

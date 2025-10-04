@@ -4,7 +4,6 @@ import { useAppState } from '@/contexts/StateContext'
 import { useScreen } from '@/contexts/ScreenContext'
 
 export interface CustomTooltipProps {
-  elementName: string
   children: ReactElement
 }
 
@@ -12,3 +11,4 @@ const CustomTooltip = ({ elementName, children }: CustomTooltipProps) => {
   const { metrics } = useAppState()
   const { showTooltips } = useScreen()
 
+  const metric = useMemo(() => {

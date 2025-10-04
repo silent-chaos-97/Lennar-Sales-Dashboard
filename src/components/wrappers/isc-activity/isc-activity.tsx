@@ -13,7 +13,6 @@ import { CurrentActivityState } from '@/types/current_activity'
 interface IscActivityProps {
   data: CurrentActivityState
   activityTimeframe: string
-}
 
 const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
   return (
@@ -36,3 +35,5 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
               {(data?.TOTAL_CALLS_PERCENT_CHANGE || 0) !== 0 &&
                 ((data?.TOTAL_CALLS_PERCENT_CHANGE || 0) > 0 ? (
                   <NorthEastIcon color="success" />
+                ) : (
+                  <SouthEastIcon color="error" />

@@ -82,3 +82,5 @@ const NHSDetail = ({
           </Stack>
           <Box sx={{ mb: 5 }}>
             <Section
+              title="Activity"
+              timestamp={activeTimestamp}

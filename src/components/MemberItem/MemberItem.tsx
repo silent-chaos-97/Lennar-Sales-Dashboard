@@ -22,3 +22,4 @@ const MemberItem = ({
   imageSrc,
   name,
   divisionName,
+  summary,

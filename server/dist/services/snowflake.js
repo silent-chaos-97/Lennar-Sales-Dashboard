@@ -28,6 +28,7 @@ const snowflakeOptions = {
 class SnowflakeService {
     createConnection() {
         return snowflake_sdk_1.default.createConnection(snowflakeOptions);
+// Temp comment
     }
     getCohortList() {
         const sql = 'select * from homebase.corp_hub_cohorts_json';

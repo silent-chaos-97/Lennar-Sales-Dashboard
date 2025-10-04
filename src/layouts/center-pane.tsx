@@ -70,7 +70,6 @@ const CenterPane = () => {
   const [clusterIndex, setClusterIndex] = useState<number>(0)
   const [activeDot, setActiveDot] = useState<null | number>(null)
   const [bounds, setBounds] = useState<[number, number, number, number]>([0, 0, 0, 0])
-  const [scroolProgress, setScroolProgress] = useState<[boolean, boolean]>([false, false])
   const [lId, setLId] = useState<number>()
 
   useEffect(() => {
@@ -103,3 +102,7 @@ const CenterPane = () => {
     if (currentCohort.type === 'division') return salesState.DETAIL_SALES_ARRAY
     return salesState.DETAIL_SALES_ARRAY.map((point) => ({
       ...point,
+      geometry: {
+        type: 'Point',
+        coordinates: point.division_coordinates
+      }

@@ -61,3 +61,4 @@ const List = ({ list, choose, showList }: ListProps) => {
             width: '100%',
             paddingRight: 24
           }}
+          contentProps={{ style: { paddingRight: '25px' } }}

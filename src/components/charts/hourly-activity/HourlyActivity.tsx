@@ -15,3 +15,5 @@ interface HourlyActivityProps {
   total: number
   change: number
   activityTimeframe: string
+}
+

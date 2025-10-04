@@ -32,6 +32,7 @@ const AppointmentSet = ({
         if (event.activity_time) {
           const eventDateTime = DateTime.fromISO(event.activity_time.replace(' ', 'T') + 'Z')
           const weekdate = eventDateTime.toFormat('yyyy-MM-dd')
+          const weekday = eventDateTime.weekdayShort
           const hour = eventDateTime.hour
           if (weekday) {
             if (!nWeekdayEvents[weekdate]?.total) {
@@ -46,3 +47,4 @@ const AppointmentSet = ({
               } else if (hour >= 9 && hour < 12) {
                 nWeekdayEvents[weekdate].byTimeframe[1] =
                   nWeekdayEvents[weekdate].byTimeframe[1] + 1
+              } else if (hour >= 12 && hour < 15) {

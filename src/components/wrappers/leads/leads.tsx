@@ -12,9 +12,9 @@ interface LeadsProps {
   activityTimeframe: string
   data: CurrentActivityState
 }
+
 const Leads = ({ data, activityTimeframe }: LeadsProps) => {
   const scores = {
     paid: data?.LEADS_BY_CHANNEL.paid || 0,
-    non_paid: data?.LEADS_BY_CHANNEL.non_paid || 0,
     third_party: data?.LEADS_BY_CHANNEL.third_party || 0
   }

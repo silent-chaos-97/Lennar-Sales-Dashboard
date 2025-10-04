@@ -103,3 +103,6 @@ const ISCDetail = ({
             y: Math.min(
               ((data?.beback_with_follow_up.percent_value || 0) /
                 (data?.beback_with_follow_up.goal_value || 100)) *
+                100,
+              100
+            )

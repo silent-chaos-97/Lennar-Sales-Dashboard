@@ -14,6 +14,7 @@ if (
 ) {
   console.error('Please set the env vars properly!')
   process.exit(1)
+}
 
 const snowflakeOptions: ConnectionOptions = {
   account: process.env.SNOWFLAKE_ACCOUNT,
@@ -23,7 +24,6 @@ const snowflakeOptions: ConnectionOptions = {
   warehouse: process.env.SNOWFLAKE_WAREHOUSE,
   database: process.env.SNOWFLAKE_DATABASE,
   schema: process.env.SNOWFLAKE_DMT
-}
 
 class SnowflakeService {
   createConnection() {
@@ -58,3 +58,5 @@ class SnowflakeService {
                       dRow.REGION === rRow.REGION &&
                       !dRow.SUB_REGION
                   )
+                  .map((dRow) => ({
+                    type: dRow.COHORT_TYPE,

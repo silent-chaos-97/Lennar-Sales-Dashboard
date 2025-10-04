@@ -20,7 +20,6 @@ const IndicatorBarChart = ({
   width,
   height,
   data,
-  id,
   currentWeekPrediction,
   hidePredictionBar = false
 }: IndicatorBarChartProps) => {
@@ -40,3 +39,4 @@ const IndicatorBarChart = ({
 
     if (data.length) {
       // Scale the range of the data in the domains
+      x.domain(

@@ -10,3 +10,4 @@ interface PercentValueTextProps {
   hideChange?: boolean
   prefix?: string
   suffix?: string
+  fontWeight?: string

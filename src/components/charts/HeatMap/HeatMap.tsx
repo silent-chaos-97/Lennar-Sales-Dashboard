@@ -9,7 +9,6 @@ const MARGIN = { top: 0, right: 0, bottom: 0, left: 0 }
 type HeatmapProps = {
   cWidth?: number
   size?: number
-  spacing?: number
   nRow: number
   nCol: number
   data: TickerItem[]
@@ -26,3 +25,4 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
   const parseTime = d3.timeParse('%Y-%m-%d %H:%M:%S.%L')
 
   const allYGroups = useMemo(() => {
+    const tempY2 = Array.from({ length: nRow / 2 }, (_, i) => i + 1)

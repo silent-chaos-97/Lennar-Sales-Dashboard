@@ -177,6 +177,7 @@
             "activity_time": "2023-10-15 15:00:00.000",
             "sort": 3
           }
+        ],
         "PRIOR_WEEK_APPOINTMENT_SET_TICKER_ARRAY": [
           {
             "activity_status": "Connected",
@@ -420,3 +421,17 @@
           {
             "activity_status": "Missed",
             "activity_time": "2023-10-03 14:30:00.000",
+            "sort": 5
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-03 15:30:00.000",
+            "sort": 5
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-03 16:30:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Missed",

@@ -72,3 +72,4 @@ const AxisXEndTickComponent = (props: RadialAxisTickProps) => {
         textAnchor={props.textAnchor}
         fill="#fff"
         fillOpacity="0.67"
+        fontSize={16}

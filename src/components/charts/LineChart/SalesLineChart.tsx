@@ -31,3 +31,4 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
       const xScale = d3.scalePoint().domain(xValues).range([0, chartWidth])
 
       const yScale = d3
+        .scaleLinear()

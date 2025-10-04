@@ -17,3 +17,4 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
   const { width, ref } = useResizeDetector()
   const { currentCohort } = useAppState()
 
+  // Get the current date and time in the local time zone

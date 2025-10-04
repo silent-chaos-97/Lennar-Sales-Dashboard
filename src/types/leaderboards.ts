@@ -30,3 +30,4 @@ export interface LeaderboardISCMemberDetail {
   appts_kept: MemberDetailValue
 }
 
+export interface LeaderboardNHCMemberDetail {

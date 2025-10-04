@@ -90,6 +90,7 @@ export const theme = createTheme({
       lineHeight: 1.5
     },
     caption: {
+      fontSize: 16,
       lineHeight: '20px'
     },
     button: {
@@ -106,3 +107,7 @@ export const theme = createTheme({
              url(${MabryLight_WOFF}) format('woff');
         font-weight: 300;
       }
+      @font-face {
+        font-family: 'mabry-pro';
+        src: url(${MabryRegular_WOFF});
+        src: url(${MabryRegular_WOFF2}) format('woff2'),

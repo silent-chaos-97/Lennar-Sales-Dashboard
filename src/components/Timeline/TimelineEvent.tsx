@@ -24,3 +24,4 @@ const icons = {
   text: <SmsIcon />,
   email: <EmailIcon />,
   event_completed: <EventAvailableIcon />,
+  call: <CallIcon />,

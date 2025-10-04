@@ -61,3 +61,5 @@ export const StateProvider = (props: PropsWithChildren) => {
   >({})
   const [pacingState, setPacingState] = useState<PacingState | undefined>()
   const [salesTimeframeState, setSalesTimeframeState] = useState<Record<string, SalesState>>({})
+  const [pricingState, setPricingState] = useState<PricingState | undefined>()
+  const [insightState, setInsightState] = useState<InsightState | undefined>()

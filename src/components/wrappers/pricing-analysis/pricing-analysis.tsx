@@ -13,7 +13,6 @@ import DataAlert from '@/components/common/CustomTooltip/DataAlert'
 import { useAppState } from '@/contexts/StateContext'
 import { truncateText } from '@/utils/helper'
 
-interface PricingAnalysisProps {
   chartId: string
   data: PricingData
   divisionName?: string
@@ -38,3 +37,5 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
 
   return (
     <Section
+      title="Pricing Analysis"
+      timestamp="Last 1W"

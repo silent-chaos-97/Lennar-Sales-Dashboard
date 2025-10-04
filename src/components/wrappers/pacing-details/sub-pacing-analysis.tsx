@@ -15,6 +15,8 @@ interface SubPacingAnalysisProps {
 }
 
 const SubPacingAnalysis = ({
+  weeklyData,
   next3WPace,
   past3WSales,
   changeNeeded,
+  currentWeekPrediction

@@ -13,3 +13,4 @@ interface KPIWidgetProps {
   thirdValue: number
   thirdLabel: string
 }
+const KPIWidget = ({
