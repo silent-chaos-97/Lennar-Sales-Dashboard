@@ -14,3 +14,4 @@ interface BarProps {
 }
 
 interface TrackProps {
+  color?: string

@@ -106,3 +106,10 @@ const ISCDetail = ({
                 100,
               100
             )
+          }
+        ]
+      },
+      {
+        id: 'follow_up',
+        data: [
+          {

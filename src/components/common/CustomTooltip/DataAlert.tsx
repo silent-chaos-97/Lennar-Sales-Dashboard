@@ -9,3 +9,4 @@ interface DataAlertProps {
   elementName: string
   truncateSize?: number
   isSvg?: boolean
+  children: string

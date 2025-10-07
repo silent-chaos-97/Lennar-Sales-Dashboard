@@ -78,3 +78,6 @@ const SalesDetails = ({
         }}
         ref={wrapperRef}
       >
+        <Stack direction="row" sx={{ mb: 3 }} alignItems="center" justifyContent="space-between">
+          <Stack direction="row" alignItems="center" spacing={1}>
+            <Typography variant="h3" mb={2.5}>

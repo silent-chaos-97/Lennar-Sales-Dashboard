@@ -20,3 +20,4 @@ const SubPacingAnalysis = ({
   past3WSales,
   changeNeeded,
   currentWeekPrediction
+}: SubPacingAnalysisProps) => {

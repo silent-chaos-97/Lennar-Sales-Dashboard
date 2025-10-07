@@ -1,5 +1,4 @@
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
-// @ts-nocheck
 import { useEffect } from 'react'
 import * as d3 from 'd3'
 import { SalesDetailObject } from '@/types/sales'
@@ -32,3 +31,6 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
 
       const yScale = d3
         .scaleLinear()
+        .domain([d3.min(yValues), d3.max(yValues)])
+        .range([chartHeight, 0])
+

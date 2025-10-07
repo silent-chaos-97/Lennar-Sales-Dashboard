@@ -24,6 +24,7 @@ const snowflakeOptions: ConnectionOptions = {
   warehouse: process.env.SNOWFLAKE_WAREHOUSE,
   database: process.env.SNOWFLAKE_DATABASE,
   schema: process.env.SNOWFLAKE_DMT
+}
 
 class SnowflakeService {
   createConnection() {
@@ -60,3 +61,7 @@ class SnowflakeService {
                   )
                   .map((dRow) => ({
                     type: dRow.COHORT_TYPE,
+                    name: dRow.COHORT,
+                    latitude: dRow.LATITUDE,
+                    longitude: dRow.LONGITUDE,
+                    timezone: dRow.TIME_ZONE

@@ -23,3 +23,5 @@ const MemberItem = ({
   name,
   divisionName,
   summary,
+  onOpenDetail,
+  active

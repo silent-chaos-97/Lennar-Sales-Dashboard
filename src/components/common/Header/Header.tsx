@@ -113,3 +113,8 @@ const Header = () => {
     if (!timeoutRef.current && dataStatus === undefined) {
       timeoutRef.current = window.setTimeout(() => {
         setAlert(true)
+      }, 20000)
+    } else {
+      if (timeoutRef.current) {
+        timeoutRef.current && clearTimeout(timeoutRef.current)
+        timeoutRef.current = window.setTimeout(() => {

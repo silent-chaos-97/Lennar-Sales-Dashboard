@@ -22,3 +22,5 @@ export interface JourneyArrayItem {
   body: string
   sort: number
   title: string
+}
+

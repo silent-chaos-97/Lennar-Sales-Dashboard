@@ -60,3 +60,7 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
           boxShadow: '0 8px 16px 0 rgba(0,0,0,0.25)'
         }}
       >
+        <Typography variant="h3" fontWeight={500} mb={3}>
+          Hub settings
+          {/* ({window.innerWidth}px) */}
+        </Typography>

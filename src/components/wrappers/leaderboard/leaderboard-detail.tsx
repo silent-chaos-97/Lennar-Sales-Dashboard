@@ -10,10 +10,11 @@ export interface LeaderboardDetailProps {
   nationalRank: number
   data?: LeaderboardMemberDetail
   onClose: () => void
-  onPrev: () => void
   onNext: () => void
   disablePrevNext: [boolean, boolean]
   type?: string
   activeTimestamp?: string
 }
 
+const LeaderboardDetail = ({
+  open,

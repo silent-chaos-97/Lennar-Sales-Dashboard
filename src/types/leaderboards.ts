@@ -31,3 +31,5 @@ export interface LeaderboardISCMemberDetail {
 }
 
 export interface LeaderboardNHCMemberDetail {
+  appointments_kept_rate: number
+  days_since_last_sale: number

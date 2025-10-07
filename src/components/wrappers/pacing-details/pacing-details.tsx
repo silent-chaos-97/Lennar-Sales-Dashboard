@@ -62,3 +62,6 @@ const List = ({ list, choose, showList }: ListProps) => {
             paddingRight: 24
           }}
           contentProps={{ style: { paddingRight: '25px' } }}
+        >
+          {list.map((el) => (
+            <Stack

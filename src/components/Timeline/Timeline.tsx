@@ -28,3 +28,4 @@ interface TimelineProps {
 }
 
 const Timeline = ({ journeyData }: TimelineProps) => {
+  const [expanded, setExpanded] = useState(false)

@@ -51,3 +51,5 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
             <Typography variant="caption" color="text.secondary">
               vs same point last period
             </Typography>
+          </Stack>
+        }

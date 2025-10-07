@@ -13,3 +13,4 @@ export enum ScreenPanes {
 }
 
 interface ScreenContextValues {
+  mode: ScreenMode

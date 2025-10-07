@@ -13,6 +13,7 @@ import { CurrentActivityState } from '@/types/current_activity'
 interface IscActivityProps {
   data: CurrentActivityState
   activityTimeframe: string
+}
 
 const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
   return (
@@ -37,3 +38,5 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
                   <NorthEastIcon color="success" />
                 ) : (
                   <SouthEastIcon color="error" />
+                ))}
+              <CustomTooltip elementName="value-percent-change">

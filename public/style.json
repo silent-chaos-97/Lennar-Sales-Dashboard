@@ -150,7 +150,6 @@
                 "place-labels": {
                     "colorBase": "#334057",
                     "settlementLabelStyle": "Text only",
-                    "settlementsDensity": 2,
                     "settlementSubdivisionsDensity": 4,
                     "settlements": true,
                     "settlementsMinorSize": 1.3,
@@ -758,3 +757,54 @@
                     ["exponential", 1.5],
                     ["zoom"],
                     15,
+                    1,
+                    18,
+                    4
+                ],
+                "line-color": "rgb(54, 67, 90)",
+                "line-dasharray": [10, 0]
+            }
+        },
+        {
+            "id": "road-path",
+            "type": "line",
+            "metadata": {
+                "mapbox:featureComponent": "walking-cycling",
+                "mapbox:group": "Walking, cycling, etc., surface"
+            },
+            "source": "composite",
+            "source-layer": "road",
+            "minzoom": 12,
+            "filter": [
+                "all",
+                ["==", ["get", "class"], "path"],
+                [
+                    "step",
+                    ["zoom"],
+                    [
+                        "!",
+                        [
+                            "match",
+                            ["get", "type"],
+                            ["steps", "sidewalk", "crossing"],
+                            true,
+                            false
+                        ]
+                    ],
+                    16,
+                    ["!=", ["get", "type"], "steps"]
+                ],
+                ["match", ["get", "structure"], ["none", "ford"], true, false],
+                ["==", ["geometry-type"], "LineString"]
+            ],
+            "layout": {
+                "line-cap": "round",
+                "line-join": ["step", ["zoom"], "miter", 14, "round"]
+            },
+            "paint": {
+                "line-width": [
+                    "interpolate",
+                    ["exponential", 1.5],
+                    ["zoom"],
+                    13,
+                    0.5,

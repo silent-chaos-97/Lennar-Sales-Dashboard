@@ -10,3 +10,4 @@ type CustomDailyAnalyticsBoxProps = Omit<
   'graphData' | 'isLargeSize' | 'color' | 'grossValue'
 >
 
+const CustomDailyAnalyticsBox = ({

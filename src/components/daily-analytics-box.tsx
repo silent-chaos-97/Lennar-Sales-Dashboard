@@ -30,3 +30,5 @@ const DailyAnalyticsBox = ({
   unit = '',
   graphData,
   isDecreaseBenefit = false
+}: DailyAnalyticsBoxProps) => {
+  const emStyle = {

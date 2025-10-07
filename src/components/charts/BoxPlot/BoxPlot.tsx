@@ -17,13 +17,13 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       return [
         data?.[key]?.percentile_5 || 0,
         data?.[key]?.percentile_25 || 0,
+        data?.[key]?.percentile_50 || 0,
         data?.[key]?.percentile_75 || 0,
         data?.[key]?.percentile_95 || 0
       ]
     })
 
     const margin = { top: 10, right: 30, bottom: 50, left: 50 },
-      width = nWidth - margin.left - margin.right,
       height = nHeight - margin.top - margin.bottom
 
     // append the svg object to the body of the page
@@ -51,3 +51,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
     )
     yAxisGroup.select('.domain').remove()
     yAxisGroup.selectAll('.tick text').style('fill', '#70747A').style('font-size', '16px')
+    // Style the grid lines
+    yAxisGroup.selectAll('.tick line').attr('stroke', 'rgba(255,255,255,0.18)')
+

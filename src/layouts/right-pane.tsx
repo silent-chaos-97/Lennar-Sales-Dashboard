@@ -13,3 +13,4 @@ const RightPane = () => {
   const wrapperRef = useRef<HTMLDivElement>(null)
 
   const pricingData = useMemo(() => {
+    return {

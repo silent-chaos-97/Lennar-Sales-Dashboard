@@ -25,3 +25,4 @@ const icons = {
   email: <EmailIcon />,
   event_completed: <EventAvailableIcon />,
   call: <CallIcon />,
+  // 'Completed live chat': <QuestionAnswerIcon />,

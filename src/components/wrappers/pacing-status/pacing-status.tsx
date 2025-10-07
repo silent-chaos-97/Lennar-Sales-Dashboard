@@ -41,6 +41,7 @@ const PacingStatus = ({ mapWrapperRef }) => {
   const [selectedPacingItem, setSelectedPacingItem] = useState<SubCohortItem | null>(null)
   const [mapViewState, setMapViewState] = useState({
     latitude: currentCohort.latitude,
+    longitude: currentCohort.longitude,
     zoom: PACING_ZOOM_LEVEL[currentCohort.type]
   })
   const pacingCohortArray = pacingState?.SUB_COHORT_MAP?.sub_cohort_array || []
@@ -111,3 +112,4 @@ const PacingStatus = ({ mapWrapperRef }) => {
   }, [mapRef, pacingCohortArray, currentCohort])
 
   useEffect(() => {
+    if (activePieName) {

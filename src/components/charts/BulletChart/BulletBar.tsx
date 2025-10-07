@@ -19,3 +19,4 @@ const BulletBar = ({
   maxValue = 100,
   color = PacingBulletBarColors.white
 }: BulletBarProps) => {
+  return (

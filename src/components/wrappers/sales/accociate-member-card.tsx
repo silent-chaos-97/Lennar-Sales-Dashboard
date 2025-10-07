@@ -22,3 +22,5 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
       {currentCohort.type !== 'all' ? (
         <Stack spacing={0.5} mt={2}>
           <Typography
+            variant="h4"
+            fontWeight={700}

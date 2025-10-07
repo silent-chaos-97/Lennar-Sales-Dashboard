@@ -9,5 +9,7 @@ interface SubPacingLeaderBoardProps {
 }
 
 const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
+  return (
     <Stack spacing={2}>
       <Scrollbar
+        style={{ height: 1040, width: '100%', paddingRight: 24 }}

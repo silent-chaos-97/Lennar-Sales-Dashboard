@@ -17,3 +17,4 @@ interface HourlyActivityProps {
   activityTimeframe: string
 }
 
+const HourlyActivity = ({

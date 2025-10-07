@@ -6,7 +6,6 @@ import { PacingBulletBarColors } from '@/types/pacing'
 
 interface BulletChartProps {
   height?: CSSProperties['height']
-  width?: CSSProperties['width']
 }
 
 const BulletChart = ({ height = '100%', width = '100%' }: BulletChartProps) => {
@@ -18,3 +17,5 @@ const BulletChart = ({ height = '100%', width = '100%' }: BulletChartProps) => {
     yellow: pacingState?.AVAILABLE_HOMES?.yellow_homes || 0,
     green: pacingState?.AVAILABLE_HOMES?.green_homes || 0
   }
+
+  const maxLimit = useMemo(() => {

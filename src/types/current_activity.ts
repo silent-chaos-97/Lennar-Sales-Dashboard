@@ -11,3 +11,4 @@ export interface HourlyTicker {
 }
 
 export interface CurrentActivityState {
+  APPOINTMENTS_SET: number | null

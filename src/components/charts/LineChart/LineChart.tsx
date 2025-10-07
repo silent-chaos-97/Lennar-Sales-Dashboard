@@ -26,6 +26,7 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
       const previousTickers = data.map((item) => item.prev)
       const hours = data.map((item) => item.hour)
       const currentHourIndex = showCurrentFully
+        ? hours.length - 1
         : hours.findIndex((hour) => hour === currentHour)
       const filteredCurrentTickers = currentTickers
         .slice(0, currentHourIndex + 1)
@@ -34,3 +35,5 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         chartWidth = width - margin.left - margin.right,
         chartHeight = height - margin.top - margin.bottom
 
+      const svg = d3.select(`#${id}`)
+      const xScale = d3

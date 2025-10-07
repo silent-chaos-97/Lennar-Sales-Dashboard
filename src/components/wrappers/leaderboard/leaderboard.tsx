@@ -37,3 +37,6 @@ const LeaderboardItems = ({
   </>
 )
 
+const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => {
+  const { currentCohort } = useAppState()
+  const [activeIdx, setActiveIdx] = useState<number | null>(null)

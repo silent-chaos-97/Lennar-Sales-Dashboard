@@ -27,3 +27,4 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
       .attr('width', width + MARGIN.left + MARGIN.right)
       .attr('height', height + MARGIN.top + MARGIN.bottom)
       .append('g')
+      .attr('transform', 'translate(' + MARGIN.left + ',' + MARGIN.top + ')')

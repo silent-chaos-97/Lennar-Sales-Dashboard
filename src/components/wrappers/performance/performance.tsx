@@ -73,3 +73,6 @@ const AxisXEndTickComponent = (props: RadialAxisTickProps) => {
         fill="#fff"
         fillOpacity="0.67"
         fontSize={16}
+        fontFamily="mabry-pro"
+      >
+        {goal}%

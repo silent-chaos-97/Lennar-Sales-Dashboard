@@ -4,3 +4,6 @@ export interface Cohort {
   REGION: string | null
   DBT_UPDATED_AT?: string
 }
+
+export interface Division {
+  type: string

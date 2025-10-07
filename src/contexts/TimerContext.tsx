@@ -5,7 +5,6 @@ import { TIMEZONE } from '@/utils/constant'
 
 interface TimerContextValues {
   cycleTimerProgress: number
-  idleTimerProgress: number
   currentTime?: string
   playing: boolean
 }
@@ -49,3 +48,6 @@ const TimerSetterContext = createContext<TimerContextSetters>({
 export enum Rotate {
   locations = 1,
   within_region,
+  not
+}
+

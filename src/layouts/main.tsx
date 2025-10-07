@@ -22,7 +22,6 @@ const DashboardLayout = styled('div')({
   width: 6420,
   columnGap: 0,
   margin: '0 auto'
-})
 
 const Screen = styled('div')({
   width: 2400,
@@ -52,9 +51,12 @@ const ScreenWrapper = ({ children, padding, justifyContent = 'flex-start', width
   }
 
   if (width > 2400 && mode !== ScreenMode.panorama) {
+    return (
       <Box display="flex" justifyContent="center" width={width}>
         {renderContent()}
       </Box>
     )
   }
 
+  return renderContent()
+}

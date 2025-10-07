@@ -9,7 +9,6 @@ import Leaderboard from '@/components/wrappers/leaderboard'
 import Performance from '@/components/wrappers/performance'
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward'
 import Section from '@/components/common/Section/Section'
-import { useAppState } from '@/contexts/StateContext'
 import { ACTIVITY_TIMEFRAMES } from '@/types/current_activity'
 import { ISC_LEADERBOARD_CATEGORIES } from '@/types/leaderboards'
 import { DateTime } from 'luxon'
@@ -25,3 +24,4 @@ const LeftPane = () => {
   useEffect(() => {
     if (isBetween7and11) {
       setActivityFrame('yesterday')
+    } else {

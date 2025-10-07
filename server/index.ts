@@ -18,6 +18,6 @@ app.get('/api/cohorts', async (req, res) => {
   res.json(result)
 })
 
-app.get('/api/metrics', async (req, res) => {
   const result = await SnowflakeService.getMetrics()
 
+  res.json(result)

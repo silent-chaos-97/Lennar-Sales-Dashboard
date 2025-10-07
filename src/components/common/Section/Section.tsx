@@ -47,3 +47,6 @@ export const Section = ({
       return { left: 0 }
     }
 
+    if (dropdownAlignment === 'center') {
+      return { left: '50%', transform: 'translateX(-50%)' }
+    }

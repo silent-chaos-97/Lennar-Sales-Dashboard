@@ -14,3 +14,4 @@ interface KPIWidgetProps {
   thirdLabel: string
 }
 const KPIWidget = ({
+  title,

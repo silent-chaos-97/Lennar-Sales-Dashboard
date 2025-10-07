@@ -10,3 +10,4 @@ export const fetchMetrics = async () => {
   try {
     const res = await axios.get(API_URL + '/api/metrics')
     return res.data
+  } catch (error) {

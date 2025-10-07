@@ -84,3 +84,6 @@ const NHSDetail = ({
             <Section
               title="Activity"
               timestamp={activeTimestamp}
+              more={
+                <Stack direction="row" alignItems="center" spacing={1} color="text.secondary">
+                  <ArrowForwardIcon color="inherit" />

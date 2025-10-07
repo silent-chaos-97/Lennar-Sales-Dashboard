@@ -70,6 +70,7 @@ const CenterPane = () => {
   const [clusterIndex, setClusterIndex] = useState<number>(0)
   const [activeDot, setActiveDot] = useState<null | number>(null)
   const [bounds, setBounds] = useState<[number, number, number, number]>([0, 0, 0, 0])
+  const [scroolProgress, setScroolProgress] = useState<[boolean, boolean]>([false, false])
   const [lId, setLId] = useState<number>()
 
   useEffect(() => {
@@ -89,7 +90,6 @@ const CenterPane = () => {
     }
   }, [salesState?.DETAIL_SALES_ARRAY])
 
-  useEffect(() => {
     if (mapRef.current) {
       setBounds(
         mapRef.current?.getMap().getBounds().toArray().flat() as [number, number, number, number]
@@ -106,3 +106,10 @@ const CenterPane = () => {
         type: 'Point',
         coordinates: point.division_coordinates
       }
+    }))
+  }, [salesState?.DETAIL_SALES_ARRAY, currentCohort])
+
+  const { clusters, supercluster } = useSupercluster({
+    points,
+    bounds,
+    zoom: Math.ceil(mapViewState.zoom),
