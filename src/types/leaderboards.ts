@@ -15,6 +15,7 @@ export interface LeaderboardISCMemberDetail {
   sales_division_rank: number
   sales_national_rank: number
   total_calls: number
+  total_calls_percent_change: number
   total_chats: number
   total_chats_percent_change: number
   total_chats_texts: number
@@ -32,3 +33,4 @@ export interface LeaderboardISCMemberDetail {
 export interface LeaderboardNHCMemberDetail {
   appointments_kept_rate: number
   days_since_last_sale: number
+  gross_sales: number

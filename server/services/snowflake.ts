@@ -65,3 +65,4 @@ class SnowflakeService {
                     latitude: dRow.LATITUDE,
                     longitude: dRow.LONGITUDE,
                     timezone: dRow.TIME_ZONE
+                  }))

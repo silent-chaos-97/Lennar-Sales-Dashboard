@@ -20,4 +20,4 @@ const SubPacingAnalysis = ({
   past3WSales,
   changeNeeded,
   currentWeekPrediction
-}: SubPacingAnalysisProps) => {
+  const { currentCohort } = useAppState()

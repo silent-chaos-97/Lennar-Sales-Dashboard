@@ -9,7 +9,6 @@ interface KPIWidgetProps {
   firstValue: number
   firstLabel: string
   secondValue: number
-  secondLabel: string
   thirdValue: number
   thirdLabel: string
 }

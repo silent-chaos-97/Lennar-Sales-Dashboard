@@ -11,6 +11,7 @@ interface TrackProps {
 }
 
 interface GoalLineProps {
+  color?: string
   percent: number
   goal: number
 }

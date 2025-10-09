@@ -115,3 +115,4 @@ const CenterPane = () => {
     bounds,
     zoom: Math.ceil(mapViewState.zoom),
     options: {
+      radius: currentCohort.type === 'division' ? 50 : 1,

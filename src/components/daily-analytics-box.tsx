@@ -32,3 +32,4 @@ const DailyAnalyticsBox = ({
   isDecreaseBenefit = false
 }: DailyAnalyticsBoxProps) => {
   const emStyle = {
+    fontSize: 104,

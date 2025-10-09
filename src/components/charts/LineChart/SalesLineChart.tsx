@@ -35,3 +35,4 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .domain([d3.min(yValues), d3.max(yValues)])
         .range([chartHeight, 0])
 
+      const line = d3

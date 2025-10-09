@@ -20,3 +20,4 @@ const BulletBar = ({
   color = PacingBulletBarColors.white
 }: BulletBarProps) => {
   return (
+    <CustomTooltip elementName={id}>

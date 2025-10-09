@@ -65,3 +65,4 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
           {/* ({window.innerWidth}px) */}
         </Typography>
         <Stack alignItems="flex-start" spacing={1} mb={3.5}>
+          <Typography variant="caption" color="text.secondary">

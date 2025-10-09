@@ -7,3 +7,4 @@
     "build": "npx tsc",
     "start": "node dist/index.js",
     "start-cron": "node dist/jobs/sync-snowflake-data.job.js",
+    "start-cron:now": "node dist/jobs/sync-snowflake-data.job.js --now",

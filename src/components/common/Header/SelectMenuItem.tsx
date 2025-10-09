@@ -16,4 +16,3 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
   return (
     <>
       <ListItem sx={{ p: 0, pl: hasSubItems ? 0 : 3 }}>
-        {hasSubItems && (

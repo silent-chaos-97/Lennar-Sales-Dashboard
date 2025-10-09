@@ -17,6 +17,7 @@ import { useAppTimerSetters } from '@/contexts/TimerContext'
 import { useClickAway } from 'react-use'
 import SettingsMenu from './SettingsMenu'
 import { ScreenMode, useScreen } from '@/contexts/ScreenContext'
+import TimeProgress from './TimeProgress'
 import CurrentTime from './CurrentTime'
 import { Alert, Typography } from '@mui/material'
 import WarningRoundIcon from '@mui/icons-material/WarningRounded'
@@ -65,7 +66,6 @@ const ScreenWrapper = ({ children, padding = 0, justifyContent = 'flex-start' })
 }
 
 const Header = () => {
-  const { setPlaying, setCycleTimerProgress } = useAppTimerSetters()
   const { mode, currentScreen, setCurrentScreen } = useScreen()
   const menuRef = useRef<HTMLDivElement>(null)
   const { cohorts, setCurrentCohort, currentCohort, setPrevSelectedDivisionType, dataStatus } =

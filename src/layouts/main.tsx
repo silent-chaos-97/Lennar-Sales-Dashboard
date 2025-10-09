@@ -49,7 +49,6 @@ const ScreenWrapper = ({ children, padding, justifyContent = 'flex-start', width
         <InnerScreen style={{ padding, justifyContent }}>{children}</InnerScreen>
       </Screen>
     )
-  }
 
   if (width > 2400 && mode !== ScreenMode.panorama) {
     return (
@@ -61,3 +60,4 @@ const ScreenWrapper = ({ children, padding, justifyContent = 'flex-start', width
 
   return renderContent()
 }
+

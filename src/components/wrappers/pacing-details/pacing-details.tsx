@@ -65,3 +65,4 @@ const List = ({ list, choose, showList }: ListProps) => {
         >
           {list.map((el) => (
             <Stack
+              key={`list_${el.name.replace(' ', '')}`}

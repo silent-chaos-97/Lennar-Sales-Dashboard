@@ -50,6 +50,7 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
         .tickPadding(12)
         .tickFormat((d) => d3.format('.2s')(d).replace('G', 'k'))
     )
+    yAxisGroup.select('.domain').remove()
     yAxisGroup.selectAll('.tick text').style('fill', '#70747A').style('font-size', '16px')
     // Style the grid lines
     yAxisGroup.selectAll('.tick line').attr('stroke', 'rgba(255,255,255,0.18)')

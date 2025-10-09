@@ -5907,7 +5907,6 @@
                 "total_texts_percent_change": 0,
                 "trifecta": {
                   "color": "green",
-                  "goal_value": 90,
                   "percent_value": 100
                 }
               },
@@ -17985,3 +17984,285 @@
                     "y_axis": 1
                   },
                   {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 3,
+                "gross_sales_national_rank": 179,
+                "incentive_rate": 6.3,
+                "net_revenue": 386540,
+                "net_revenue_division_rank": 15,
+                "net_revenue_national_rank": 226,
+                "net_revenue_percent_change": 0,
+                "net_sales": 1,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 30,
+                "realtor_attachment_rate_national_rank": 179,
+                "realtor_commission_rate": 3
+              },
+              "summary": "0% appointments kept"
+            },
+            {
+              "cohort_rank": 9,
+              "division_name": "Southeast Florida",
+              "image_url": "",
+              "name": "Luciana Martins",
+              "national_rank": 282,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 1,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 3,
+                "gross_sales_national_rank": 179,
+                "incentive_rate": 0,
+                "net_revenue": 571542,
+                "net_revenue_division_rank": 7,
+                "net_revenue_national_rank": 120,
+                "net_revenue_percent_change": -56,
+                "net_sales": 1,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 30,
+                "realtor_attachment_rate_national_rank": 179,
+                "realtor_commission_rate": 3
+              },
+              "summary": "0% appointments kept"
+            }
+          ]
+        },
+        "gross_sales": {
+          "MTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Palm Atlantic",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_keibby_salcedo_lr_jpg",
+              "name": "Keibby Salcedo",
+              "national_rank": 97,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 5,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 6
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 5,
+                "gross_sales_division_rank": 1,
+                "gross_sales_national_rank": 97,
+                "incentive_rate": 11.8,
+                "net_revenue": 2449066,
+                "net_revenue_division_rank": 1,
+                "net_revenue_national_rank": 62,
+                "net_revenue_percent_change": 0,
+                "net_sales": 5,
+                "realtor_attachment_rate": 80,
+                "realtor_attachment_rate_division_rank": 23,
+                "realtor_attachment_rate_national_rank": 449,
+                "realtor_commission_rate": 0.7
+              },
+              "summary": "5 gross sales"
+            },
+            {
+              "cohort_rank": 1,
+              "division_name": "Southeast Florida",
+              "image_url": "",
+              "name": "Delanie Coleman",
+              "national_rank": 97,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 3,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 09",

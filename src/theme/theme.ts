@@ -84,6 +84,7 @@ export const theme = createTheme({
     subtitle1: {
       fontSize: 22,
       lineHeight: '24px'
+    },
     body1: {
       fontSize: 18,
       lineHeight: 1.5
@@ -118,3 +119,5 @@ export const theme = createTheme({
         src: url(${MabryMedium_WOFF});
         src: url(${MabryMedium_WOFF2}) format('woff2'),
              url(${MabryMedium_WOFF}) format('woff');
+        font-weight: 500;
+      }

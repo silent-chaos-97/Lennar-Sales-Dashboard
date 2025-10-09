@@ -29,3 +29,4 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
     const tempY2 = Array.from({ length: nRow / 2 }, (_, i) => i + 1)
     const tempY = Array.from({ length: nRow }, (_, i) => i + 1)
     const allYGroups = Array.from(new Set(data.map((d) => d.sort)))
+

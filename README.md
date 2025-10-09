@@ -2,6 +2,7 @@
 
 This project is a sales dashboard for Lennar, a leading homebuilder in the US. It is designed to provide a comprehensive view of sales data, enabling users to track performance, identify trends, and make data-driven decisions. The dashboard is built with Node.js, and uses a Snowflake database for data storage.
 
+The project is divided into two main parts: the backend and the frontend. The backend is responsible for fetching, processing, and serving data from the Snowflake database. The frontend is a web application that presents the data in a user-friendly format.
 
 
 ## Requirements
@@ -26,3 +27,4 @@ Follow these steps to set up the backend:
 3. Update the environment variables in `.env` with your Snowflake credentials.
 4. Install the necessary dependencies with `npm i`.
 5. Build the project with `npm run build`.
+6. Fetch the cache data from Snowflake with `npm run start-cron:now`.

@@ -114,3 +114,5 @@ const ISCDetail = ({
         data: [
           {
             x: 'Leads with follow-up',
+            y: Math.min(
+              100,

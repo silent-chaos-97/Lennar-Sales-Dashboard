@@ -38,6 +38,5 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
                   <NorthEastIcon color="success" />
                 ) : (
                   <SouthEastIcon color="error" />
-                ))}
               <CustomTooltip elementName="value-percent-change">
                 <Typography

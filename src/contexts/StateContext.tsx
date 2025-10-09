@@ -20,7 +20,6 @@ interface StateContextValues {
   pricingState?: PricingState
   insightState?: InsightState
   cohorts: Division[]
-  locations: CohortListItem[]
   refreshData: (reset: boolean) => void
   currentCohort: Division
   setCurrentCohort: (value: Division) => void
@@ -68,3 +67,4 @@ export const StateProvider = (props: PropsWithChildren) => {
     name: 'National',
     type: 'all',
     latitude: 35.86,
+    longitude: -98.26,

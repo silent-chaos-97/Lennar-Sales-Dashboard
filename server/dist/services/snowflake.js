@@ -7,6 +7,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 // @ts-nocheck
 const snowflake_sdk_1 = __importDefault(require("snowflake-sdk"));
 if (!process.env.SNOWFLAKE_ACCOUNT ||
+// Temp comment
     !process.env.SNOWFLAKE_USERNAME ||
     !process.env.SNOWFLAKE_PASSWORD ||
     !process.env.SNOWFLAKE_ROLE ||
