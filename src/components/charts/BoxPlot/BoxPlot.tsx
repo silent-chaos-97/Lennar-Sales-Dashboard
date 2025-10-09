@@ -24,6 +24,7 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
     })
 
     const margin = { top: 10, right: 30, bottom: 50, left: 50 },
+      width = nWidth - margin.left - margin.right,
       height = nHeight - margin.top - margin.bottom
 
     // append the svg object to the body of the page
@@ -49,8 +50,8 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
         .tickPadding(12)
         .tickFormat((d) => d3.format('.2s')(d).replace('G', 'k'))
     )
-    yAxisGroup.select('.domain').remove()
     yAxisGroup.selectAll('.tick text').style('fill', '#70747A').style('font-size', '16px')
     // Style the grid lines
     yAxisGroup.selectAll('.tick line').attr('stroke', 'rgba(255,255,255,0.18)')
 
+    const xScale = d3

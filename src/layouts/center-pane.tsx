@@ -90,6 +90,7 @@ const CenterPane = () => {
     }
   }, [salesState?.DETAIL_SALES_ARRAY])
 
+  useEffect(() => {
     if (mapRef.current) {
       setBounds(
         mapRef.current?.getMap().getBounds().toArray().flat() as [number, number, number, number]
@@ -113,3 +114,4 @@ const CenterPane = () => {
     points,
     bounds,
     zoom: Math.ceil(mapViewState.zoom),
+    options: {

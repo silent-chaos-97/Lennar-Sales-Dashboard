@@ -25,7 +25,6 @@ const LogoSvg = () => (
     height="13.0212766px"
     viewBox="0 0 144 13.0212766"
     version="1.1"
-    xmlns="http://www.w3.org/2000/svg"
   >
     <title>E0D4AAAD-8141-49E4-A287-03057C5D244C</title>
     <g id="Sketches" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">

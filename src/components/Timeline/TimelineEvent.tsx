@@ -10,7 +10,6 @@ import CancelIcon from '@mui/icons-material/Cancel'
 import EventAvailableIcon from '@mui/icons-material/EventAvailable'
 import SpeakerNotesOffIcon from '@mui/icons-material/SpeakerNotesOff'
 import HouseIcon from '@mui/icons-material/House'
-import FlagIcon from '@mui/icons-material/Flag'
 import { JourneyArrayItem } from '@/types/sales'
 import { DateTime } from 'luxon'
 import { useMemo } from 'react'
@@ -26,3 +25,4 @@ const icons = {
   event_completed: <EventAvailableIcon />,
   call: <CallIcon />,
   // 'Completed live chat': <QuestionAnswerIcon />,
+  live_chat: <SpeakerNotesOffIcon />,

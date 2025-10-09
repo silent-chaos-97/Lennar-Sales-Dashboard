@@ -5,11 +5,11 @@ import { TIMEZONE } from '@/utils/constant'
 
 interface TimerContextValues {
   cycleTimerProgress: number
+  idleTimerProgress: number
   currentTime?: string
   playing: boolean
 }
 
-const TimerContext = createContext<TimerContextValues>({
   cycleTimerProgress: 0,
   idleTimerProgress: 0,
   playing: false

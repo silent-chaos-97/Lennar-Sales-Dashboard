@@ -13,6 +13,7 @@ import RecklessLight_WOFF2 from '@/assets/fonts/reckless/reckless-light.woff2'
 import RecklessRegular_WOFF from '@/assets/fonts/reckless/reckless-regular.woff'
 import RecklessRegular_WOFF2 from '@/assets/fonts/reckless/reckless-regular.woff2'
 import RecklessMedium_WOFF from '@/assets/fonts/reckless/reckless-medium.woff'
+import RecklessMedium_WOFF2 from '@/assets/fonts/reckless/reckless-medium.woff2'
 
 declare module '@mui/material/styles' {
   interface TypographyVariants {
@@ -83,7 +84,6 @@ export const theme = createTheme({
     subtitle1: {
       fontSize: 22,
       lineHeight: '24px'
-    },
     body1: {
       fontSize: 18,
       lineHeight: 1.5
@@ -117,3 +117,4 @@ export const theme = createTheme({
         font-family: 'mabry-pro';
         src: url(${MabryMedium_WOFF});
         src: url(${MabryMedium_WOFF2}) format('woff2'),
+             url(${MabryMedium_WOFF}) format('woff');

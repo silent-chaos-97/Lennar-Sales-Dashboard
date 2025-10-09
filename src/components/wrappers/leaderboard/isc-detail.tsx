@@ -113,3 +113,4 @@ const ISCDetail = ({
         id: 'follow_up',
         data: [
           {
+            x: 'Leads with follow-up',

@@ -22,6 +22,7 @@ const DashboardLayout = styled('div')({
   width: 6420,
   columnGap: 0,
   margin: '0 auto'
+})
 
 const Screen = styled('div')({
   width: 2400,

@@ -7,3 +7,4 @@ export interface Cohort {
 
 export interface Division {
   type: string
+  name: string

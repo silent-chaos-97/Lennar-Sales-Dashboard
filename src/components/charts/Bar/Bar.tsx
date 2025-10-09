@@ -15,3 +15,4 @@ interface BarProps {
 
 interface TrackProps {
   color?: string
+  percent: number

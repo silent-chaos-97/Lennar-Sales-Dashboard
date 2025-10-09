@@ -64,3 +64,4 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
           Hub settings
           {/* ({window.innerWidth}px) */}
         </Typography>
+        <Stack alignItems="flex-start" spacing={1} mb={3.5}>
