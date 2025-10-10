@@ -6,7 +6,6 @@ import { PacingBulletBarColors } from '@/types/pacing'
 
 interface BulletBarProps {
   id: string
-  value: number
   label?: string
   maxValue?: number
   color?: PacingBulletBarColors

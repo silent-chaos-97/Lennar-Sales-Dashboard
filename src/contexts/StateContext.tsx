@@ -72,3 +72,4 @@ export const StateProvider = (props: PropsWithChildren) => {
     timezone: 'US/Eastern'
   })
   const [subDivisions, setSubDivisions] = useState<Division[]>([])
+  const [prevSelectedDivisionType, setPrevSelectedDivisionType] = useState<string>('')

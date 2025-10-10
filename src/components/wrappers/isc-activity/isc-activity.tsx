@@ -43,3 +43,4 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
                 <Typography
                   component="span"
                   color={getValueChangeTextColor(data?.TOTAL_CALLS_PERCENT_CHANGE || 0)}
+                  variant="h6"

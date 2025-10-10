@@ -10,7 +10,6 @@ import { LEADERBOARD_TIMEFRAMES } from '@/types/leaderboards'
 interface IscLeaderBoardProps {
   leaderboardData: LeaderboardObj
   categoryList: Record<string, string>
-}
 
 const LeaderboardItems = ({
   leaderboardItems,
@@ -42,3 +41,4 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
   const [activeIdx, setActiveIdx] = useState<number | null>(null)
   const [disablePrevNext, setDisablePrevNext] = useState<[boolean, boolean]>([false, false])
   const [activeTimestamp, setActiveTimestamp] = useState('QTD')
+  const [activeCategory, setActiveCategory] = useState(Object.keys(categoryList)[0])

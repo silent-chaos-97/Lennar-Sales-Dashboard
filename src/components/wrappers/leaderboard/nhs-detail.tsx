@@ -90,3 +90,4 @@ const NHSDetail = ({
                   <Typography variant="caption" color="text.secondary">
                     vs same point last period
                   </Typography>
+                </Stack>

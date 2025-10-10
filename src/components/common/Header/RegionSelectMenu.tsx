@@ -31,3 +31,4 @@ const LogoSvg = () => (
     <g id="Sketches" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
       <g
         id="menu-logo"
+        transform="translate(-558.000000, -115.000000)"

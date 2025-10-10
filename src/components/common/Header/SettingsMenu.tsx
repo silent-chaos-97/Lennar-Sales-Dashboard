@@ -69,3 +69,4 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
             Region display duration
           </Typography>
           <Stack direction="row" alignItems="center" spacing={3}>
+            <Select

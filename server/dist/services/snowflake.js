@@ -104,6 +104,7 @@ class SnowflakeService {
         const result = {};
         let statIdx = 0;
         const statsKeys = [
+            'leaderboards',
             'isc_performance_timeframe',
             'current_activity_timeframe',
             'sales_timeframe',

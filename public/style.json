@@ -804,7 +804,6 @@
             },
             "paint": {
                 "line-width": [
-                    "interpolate",
                     ["exponential", 1.5],
                     ["zoom"],
                     13,
@@ -861,3 +860,18 @@
                     17,
                     ["literal", [0.3, 0.3]]
                 ]
+            }
+        },
+        {
+            "id": "road-pedestrian",
+            "type": "line",
+            "metadata": {
+                "mapbox:featureComponent": "walking-cycling",
+                "mapbox:group": "Walking, cycling, etc., surface"
+            },
+            "source": "composite",
+            "source-layer": "road",
+            "minzoom": 12,
+            "filter": [
+                "all",
+                ["==", ["get", "class"], "pedestrian"],

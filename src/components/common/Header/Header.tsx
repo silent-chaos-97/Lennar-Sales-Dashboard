@@ -121,3 +121,4 @@ const Header = () => {
           setAlert(dataStatus !== HTTP_STATUS_CODES.OK)
         }, 20000)
       }
+    }

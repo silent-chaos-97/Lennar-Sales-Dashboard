@@ -57,6 +57,7 @@ export const theme = createTheme({
       fontWeight: 700,
       letterSpacing: '-0.66px'
     },
+    h2: {
       fontSize: 42,
       lineHeight: '50px',
       letterSpacing: '-0.66px',
@@ -125,3 +126,5 @@ export const theme = createTheme({
         src: url(${MabryBold_OTF}) format('opentype');
         font-weight: 700;
       }
+      @font-face {
+        font-family: 'reckless';

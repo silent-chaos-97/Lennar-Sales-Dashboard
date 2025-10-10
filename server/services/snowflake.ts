@@ -69,3 +69,4 @@ class SnowflakeService {
 
                 const subRegions = rows
                   .filter(
+                    (dRow) => dRow.COHORT_TYPE === 'sub_region' && dRow.REGION === rRow.REGION

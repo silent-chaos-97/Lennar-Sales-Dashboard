@@ -45,3 +45,4 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
           <ArrowForwardIcon color="inherit" />
           <Typography variant="caption" color="text.secondary">
             vs prior 1W
+          </Typography>

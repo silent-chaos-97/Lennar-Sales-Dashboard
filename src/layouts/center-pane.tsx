@@ -104,7 +104,6 @@ const CenterPane = () => {
     return salesState.DETAIL_SALES_ARRAY.map((point) => ({
       ...point,
       geometry: {
-        type: 'Point',
         coordinates: point.division_coordinates
       }
     }))
@@ -121,3 +120,5 @@ const CenterPane = () => {
   })
 
   useEffect(() => {
+    if (clusters.length === 0) return
+    const { idx } = clusters.reduce(

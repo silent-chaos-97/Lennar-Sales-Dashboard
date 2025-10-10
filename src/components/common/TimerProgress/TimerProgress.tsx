@@ -9,3 +9,4 @@ interface TimerProgressProps {
   playing: boolean
   onToggle: () => void
 }
+

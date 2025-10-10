@@ -43,6 +43,7 @@ const InnerScreen = styled('div')({
 
 const ScreenWrapper = ({ children, padding, justifyContent = 'flex-start', width }) => {
   const { mode } = useScreen()
+  const renderContent = () => {
     return (
       <Screen>
         <InnerScreen style={{ padding, justifyContent }}>{children}</InnerScreen>
@@ -62,3 +63,4 @@ const ScreenWrapper = ({ children, padding, justifyContent = 'flex-start', width
 }
 
 const MainLayout = () => {
+  const dashboardRef = useRef<HTMLDivElement>(null)

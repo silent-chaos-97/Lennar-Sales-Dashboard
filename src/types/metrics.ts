@@ -3,4 +3,3 @@ export enum DataStatus {
   upToDate = 'up-to-date'
 }
 export interface Metric {
-  data_status: DataStatus

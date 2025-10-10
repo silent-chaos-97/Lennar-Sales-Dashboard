@@ -9,6 +9,7 @@ interface MemberItemProps {
   national_rank: number
   divisionName?: string
   imageSrc: string
+  name: string
   summary: string
   onOpenDetail?: () => void
   active?: boolean
@@ -25,3 +26,4 @@ const MemberItem = ({
   onOpenDetail,
   active
 }: MemberItemProps) => {
+  const { currentCohort } = useAppState()

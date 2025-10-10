@@ -41,7 +41,6 @@ const TimerSetterContext = createContext<TimerContextSetters>({
   setCycleTimerProgress: () => null,
   setCycleTimeout: () => null,
   setIdleTimerProgress: () => null,
-  setIdleTimeout: () => null,
   setPlaying: () => null,
   setDisableRotation: () => null
 })
@@ -54,3 +53,4 @@ export enum Rotate {
 
 export const TimerProvider = (props: PropsWithChildren) => {
   const { refreshData, fetchNextDivision, fetchRegionDivisions, currentCohort } = useAppState()
+  const [cycleTimerProgress, setCycleTimerProgress] = useState(0)

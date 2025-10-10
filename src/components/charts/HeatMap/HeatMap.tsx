@@ -31,3 +31,9 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
     const allYGroups = Array.from(new Set(data.map((d) => d.sort)))
 
     if (allYGroups.length <= 9) {
+      return tempY2
+    } else if (allYGroups.length > 9 && allYGroups.length < 18) {
+      return tempY
+    } else {
+      return allYGroups
+    }

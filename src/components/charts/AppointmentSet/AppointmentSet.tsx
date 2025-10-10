@@ -54,3 +54,4 @@ const AppointmentSet = ({
                 nWeekdayEvents[weekdate].byTimeframe[3] =
                   nWeekdayEvents[weekdate].byTimeframe[3] + 1
               }
+            } else {

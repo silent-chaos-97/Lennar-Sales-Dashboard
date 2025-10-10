@@ -10,3 +10,4 @@ interface DataAlertProps {
   truncateSize?: number
   isSvg?: boolean
   children: string
+}

@@ -121,3 +121,5 @@ const ISCDetail = ({
           }
         ]
       },
+      {
+        id: 'trifecta',

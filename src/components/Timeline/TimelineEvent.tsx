@@ -28,3 +28,4 @@ const icons = {
   // 'Completed live chat': <QuestionAnswerIcon />,
   live_chat: <SpeakerNotesOffIcon />,
   lead_created: <PersonAddAlt1Icon />,
+  web_session: <PublicIcon />,

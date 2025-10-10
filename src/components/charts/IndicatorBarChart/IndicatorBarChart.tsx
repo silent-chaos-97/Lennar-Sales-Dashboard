@@ -9,6 +9,7 @@ const MARGIN = { top: 0, right: 0, bottom: 26, left: 40 }
 
 interface IndicatorBarChartProps {
   width: number
+  height: number
   data: WeeklyPacingItem[]
   id: string
   currentWeekPrediction: number
@@ -45,3 +46,4 @@ const IndicatorBarChart = ({
         })
       )
       y.domain([
+        0,

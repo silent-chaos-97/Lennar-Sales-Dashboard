@@ -30,3 +30,4 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
       .attr('transform', 'translate(' + MARGIN.left + ',' + MARGIN.top + ')')
 
     if (data.length) {
+      x.domain(data.map((d) => d.x_axis))

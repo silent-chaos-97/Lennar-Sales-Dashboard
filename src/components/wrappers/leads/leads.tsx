@@ -18,7 +18,7 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
     paid: data?.LEADS_BY_CHANNEL.paid || 0,
     non_paid: data?.LEADS_BY_CHANNEL.non_paid || 0,
     third_party: data?.LEADS_BY_CHANNEL.third_party || 0
-  }
 
   const maxValue = useMemo(() => {
     return Math.max(...Object.values(scores))
+  }, [scores])

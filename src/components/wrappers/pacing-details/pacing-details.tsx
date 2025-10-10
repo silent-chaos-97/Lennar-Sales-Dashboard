@@ -68,3 +68,4 @@ const List = ({ list, choose, showList }: ListProps) => {
               key={`list_${el.name.replace(' ', '')}`}
               onClick={() => handleChoose(el.idx)}
               direction="row"
+              sx={{ mb: 1.5, '&:hover': { color: '#fff' } }}
