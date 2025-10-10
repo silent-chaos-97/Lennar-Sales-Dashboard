@@ -13,3 +13,4 @@ interface PercentValueTextProps {
   fontWeight?: string
 }
 
+const PercentValueText = ({

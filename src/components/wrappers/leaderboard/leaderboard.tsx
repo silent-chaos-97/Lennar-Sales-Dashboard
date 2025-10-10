@@ -45,3 +45,5 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
   const [activeCategory, setActiveCategory] = useState(Object.keys(categoryList)[0])
 
   useEffect(() => {
+    setActiveIdx(null)
+  }, [currentCohort])

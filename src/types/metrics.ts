@@ -4,3 +4,4 @@ export enum DataStatus {
 }
 export interface Metric {
   data_status: DataStatus
+  definition_tooltip: string

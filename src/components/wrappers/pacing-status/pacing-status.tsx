@@ -114,3 +114,4 @@ const PacingStatus = ({ mapWrapperRef }) => {
   useEffect(() => {
     if (activePieName) {
       const dotsIdx: number[] = []
+      pacingCohortArray.forEach((item, idx) => {

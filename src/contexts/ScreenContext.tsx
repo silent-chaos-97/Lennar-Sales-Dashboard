@@ -16,3 +16,4 @@ interface ScreenContextValues {
   mode: ScreenMode
   currentScreen: number
   setScreenMode: (mode: ScreenMode) => void
+  setCurrentScreen: (current: number) => void

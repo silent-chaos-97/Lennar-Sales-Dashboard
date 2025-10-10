@@ -17,7 +17,6 @@ interface PricingAnalysisProps {
   chartId: string
   data: PricingData
   divisionName?: string
-}
 
 const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) => {
   const { width, height, ref } = useResizeDetector()
@@ -48,3 +47,25 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
           </Typography>
         </Stack>
       }
+    >
+      <Stack>
+        <Stack direction="row" justifyContent="space-between" sx={{ mb: 4 }}>
+          <Box flex={1}>
+            <CustomTooltip elementName="pacing-national-median-price">
+              <Typography variant="caption" color="text.secondary" fontWeight={500}>
+                <DataAlert elementName="pacing-national-median-price">
+                  {truncateText(
+                    `${divisionName ? divisionName : currentCohort.name} median price`,
+                    35
+                  )}
+                </DataAlert>
+              </Typography>
+            </CustomTooltip>
+            <Stack direction="row" alignItems="flex-end" spacing={0.5}>
+              <Typography variant="h3" fontWeight={700}>
+                ${(data?.lennar_prices?.percentile_50 || 0).toLocaleString()}
+              </Typography>
+              {priceChanges.lennar !== 0 && (
+                <>
+                  {priceChanges.lennar > 0 ? (
+                    <NorthEastIcon color="success" />

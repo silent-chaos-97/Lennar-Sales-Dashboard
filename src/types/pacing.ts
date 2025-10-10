@@ -19,3 +19,4 @@ interface AvailableHomes {
 
 export interface PricingData {
   lennar_prices: PriceDetailItem
+  new_construction_prices: PriceDetailItem

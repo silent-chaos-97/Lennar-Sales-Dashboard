@@ -6,5 +6,5 @@ interface PerformanceContextValues {
   performanceState: IscPerformanceState
 }
 
-export const PerformanceContext = createContext<PerformanceContextValues>({
+// Create a new context
   performanceState: {} as IscPerformanceState

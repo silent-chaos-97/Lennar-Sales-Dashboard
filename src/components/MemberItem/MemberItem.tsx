@@ -28,3 +28,4 @@ const MemberItem = ({
 }: MemberItemProps) => {
   const { currentCohort } = useAppState()
   return (
+    <Stack

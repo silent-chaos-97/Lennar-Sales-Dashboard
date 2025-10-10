@@ -8,6 +8,7 @@ interface KPIWidgetProps {
   title: string
   firstValue: number
   firstLabel: string
+  secondValue: number
   secondLabel: string
   thirdValue: number
   thirdLabel: string
@@ -16,3 +17,4 @@ const KPIWidget = ({
   title,
   firstValue,
   firstLabel,
+  secondValue,

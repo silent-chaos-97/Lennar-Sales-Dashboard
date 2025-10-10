@@ -56,3 +56,5 @@ export const TimerProvider = (props: PropsWithChildren) => {
   const { refreshData, fetchNextDivision, fetchRegionDivisions, currentCohort } = useAppState()
   const [cycleTimerProgress, setCycleTimerProgress] = useState(0)
   const [cycleTimeout, setCycleTimeout] = useState(180)
+  const [idleTimerProgress, setIdleTimerProgress] = useState(0)
+  const [idleTimeout, setIdleTimeout] = useState(600)

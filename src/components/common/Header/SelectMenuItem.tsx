@@ -19,3 +19,4 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
         {hasSubItems && (
           <IconButton sx={{ p: 0 }}>
             <ListItemIcon sx={{ color: 'grey.300', minWidth: 'auto' }} />
+          </IconButton>

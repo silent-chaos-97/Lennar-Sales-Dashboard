@@ -46,3 +46,5 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
                   variant="h6"
                   sx={{ ml: 1 }}
                 >
+                  {data?.TOTAL_CALLS_PERCENT_CHANGE || 0}%
+                </Typography>

@@ -6,3 +6,4 @@ export interface Cohort {
   LATITUDE: number
   LONGITUDE: number
   TIME_ZONE: string
+}

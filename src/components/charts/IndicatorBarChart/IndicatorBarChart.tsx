@@ -34,6 +34,7 @@ const IndicatorBarChart = ({
     const svg = d3
       .select(`#${id}`)
       .attr('width', width + MARGIN.left + MARGIN.right)
+      .attr('height', height + MARGIN.top + MARGIN.bottom)
       .append('g')
       .attr('transform', 'translate(' + MARGIN.left + ',' + MARGIN.top + ')')
 
@@ -47,3 +48,6 @@ const IndicatorBarChart = ({
       y.domain([
         0,
         d3.max(data, (d: WeeklyPacingItem) => {
+          return Math.max(d.gross_sales, d.future_pace, currentWeekPrediction, 1)
+        })
+      ])

@@ -53,7 +53,6 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps & { value: number })
           fill="#A5CFEF"
           fontFamily="mabry-pro"
         >
-          {props.value.toFixed()}%
         </text>
       </g>
     </CustomTooltip>
@@ -128,3 +127,8 @@ const ISCDetail = ({
             x: 'Leads with trifecta',
             y: Math.min(
               ((data?.trifecta.percent_value || 0) / (data?.trifecta.goal_value || 100)) * 100,
+              100
+            )
+          }
+        ]
+      }

@@ -93,3 +93,6 @@ const NHSDetail = ({
                 </Stack>
               }
             >
+              <Grid container>
+                <Grid item xs={2.5}>
+                  <Stack direction="row" spacing={1.5} alignItems="center" py={2}>

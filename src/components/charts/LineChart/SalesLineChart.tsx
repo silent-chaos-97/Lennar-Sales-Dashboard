@@ -39,3 +39,5 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .line()
         .curve(d3.curveCardinal)
         .x((d) => xScale(d.x_axis))
+        .y((d) => yScale(d.y_axis))
+        .defined((d, i, data) => {

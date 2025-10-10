@@ -81,3 +81,6 @@ const AxisXEndTickComponent = (props: RadialAxisTickProps) => {
   )
 }
 
+const Performance = () => {
+  const { performanceTimeframeState } = useAppState()
+  const [performanceTimeframe, setPerformanceTimeframe] = useState('t7d')

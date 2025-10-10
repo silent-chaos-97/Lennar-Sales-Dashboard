@@ -14,6 +14,7 @@ interface SubPacingAnalysisProps {
   currentWeekPrediction: number
 }
 
+const SubPacingAnalysis = ({
   weeklyData,
   next3WPace,
   past3WSales,
@@ -23,3 +24,4 @@ interface SubPacingAnalysisProps {
   const { currentCohort } = useAppState()
 
   return (
+    <Section

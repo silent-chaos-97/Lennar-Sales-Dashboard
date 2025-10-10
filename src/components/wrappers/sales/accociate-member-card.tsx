@@ -27,3 +27,4 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
             sx={{ width: 44, textAlign: 'center' }}
             color="grey.300"
           >
+            {member.cohort_rank}

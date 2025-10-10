@@ -22,3 +22,4 @@ const LeaderboardDetail = ({
   name,
   onPrev,
   onNext,
+  onClose,

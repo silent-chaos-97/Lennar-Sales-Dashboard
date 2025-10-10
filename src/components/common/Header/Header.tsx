@@ -125,3 +125,7 @@ const Header = () => {
     return () => {
       if (timeoutRef.current) clearTimeout(timeoutRef.current)
       timeoutRef.current = null
+    }
+  }, [dataStatus])
+
+  return (

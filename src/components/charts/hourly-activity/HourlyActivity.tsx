@@ -20,3 +20,4 @@ interface HourlyActivityProps {
 const HourlyActivity = ({
   title,
   tickers,
+  total,

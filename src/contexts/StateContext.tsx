@@ -76,3 +76,6 @@ export const StateProvider = (props: PropsWithChildren) => {
   const [msd, setMsd] = useState<boolean>(false)
   const [metrics, setMetrics] = useState<MetricsState>()
   const [dataStatus, setDataStatus] = useState<number | undefined>()
+
+  const fetchTheMetrics = async () => {
+    const [m] = await fetchMetrics()

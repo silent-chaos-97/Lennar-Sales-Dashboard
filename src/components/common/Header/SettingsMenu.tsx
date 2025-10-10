@@ -73,3 +73,6 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
               native={true}
               defaultValue={cycleTimeout}
               onChange={(evt) => {
+                setCycleTimeValue(+evt.target.value)
+              }}
+              variant="outlined"

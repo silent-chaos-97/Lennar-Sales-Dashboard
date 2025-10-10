@@ -24,3 +24,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
     return Math.max(...Object.values(scores))
   }, [scores])
 
+  return (

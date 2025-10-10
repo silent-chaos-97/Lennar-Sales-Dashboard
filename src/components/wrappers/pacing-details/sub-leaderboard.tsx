@@ -15,3 +15,4 @@ const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
         style={{ height: 1040, width: '100%', paddingRight: 24 }}
         contentProps={{ style: { paddingRight: '25px' } }}
       >
+        {Array.isArray(leaders) ? (

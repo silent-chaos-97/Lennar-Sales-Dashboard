@@ -62,3 +62,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       .paddingInner(0.4)
       .paddingOuter(0)
 
+    const xAxisGroup = svg
+      .append('g')
+      .attr('transform', `translate(0, ${height})`)

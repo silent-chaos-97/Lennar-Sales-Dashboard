@@ -31,3 +31,4 @@ Follow these steps to set up the backend:
 7. Start the backend server with `npm start`.
 
 
+### Frontend

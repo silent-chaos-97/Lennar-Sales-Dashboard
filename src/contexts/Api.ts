@@ -10,6 +10,5 @@ export const fetchMetrics = async () => {
   try {
     const res = await axios.get(API_URL + '/api/metrics')
     return res.data
-  } catch (error) {
     console.log('#### Request Error:', (error as Error).message)
   }

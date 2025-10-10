@@ -31,3 +31,4 @@ const Timeline = ({ journeyData }: TimelineProps) => {
   const [expanded, setExpanded] = useState(false)
   const handleChange = () => {
     setExpanded((prev) => !prev)
+  }

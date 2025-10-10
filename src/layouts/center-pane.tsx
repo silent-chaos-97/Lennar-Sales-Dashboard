@@ -128,3 +128,8 @@ const CenterPane = () => {
           ? supercluster.getLeaves(cluster.id, Infinity)
           : [cluster]
         leaves.forEach((leaf) => {
+          if (leaf.properties.sales.sale_cohort_rank < acc.minSaleCohortRank) {
+            acc.minSaleCohortRank = leaf.properties.sales.sale_cohort_rank
+            acc.idx = id
+          }
+        })

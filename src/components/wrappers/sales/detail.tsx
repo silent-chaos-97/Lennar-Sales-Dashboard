@@ -83,3 +83,5 @@ const SalesDetails = ({
             <Typography variant="h3" mb={2.5}>
               {truncateText(salesDetail.sale_title, 44)}
             </Typography>
+          </Stack>
+          <Stack direction="row">

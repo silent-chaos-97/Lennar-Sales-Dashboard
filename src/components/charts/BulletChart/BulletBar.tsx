@@ -23,3 +23,4 @@ const BulletBar = ({
     <CustomTooltip elementName={id}>
       <Stack height="100%" justifyContent="flex-end">
         <Box
+          height="calc(100% - 20%)"

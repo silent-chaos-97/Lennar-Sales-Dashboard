@@ -11,5 +11,13 @@ export interface HourlyTicker {
 }
 
 export interface CurrentActivityState {
+  APPOINTMENTS_SET: number | null
   APPOINTMENTS_SET_PERCENT_CHANGE: number | null
   TOTAL_CALLS: number | null
+  TOTAL_CALLS_PERCENT_CHANGE: number | null
+  TOTAL_CHATS_TEXTS: number | null
+  TOTAL_CHATS_TEXTS_PERCENT_CHANGE: number | null
+  COHORT: string
+  COHORT_TYPE: string
+  DBT_UPDATED_AT: string
+  APPOINTMENT_SET_TICKER_ARRAY: TickerItem[]

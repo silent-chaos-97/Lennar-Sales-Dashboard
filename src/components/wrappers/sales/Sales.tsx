@@ -5,7 +5,6 @@ import Section from '@/components/common/Section/Section'
 import DailyAnalyticsBox from '@/components/daily-analytics-box'
 import { Typography } from '@mui/material'
 import { useAppState } from '@/contexts/StateContext'
-import ArrowForwardIcon from '@mui/icons-material/ArrowForward'
 import CustomDailyAnalyticsBox from '@/components/custom-daily-analytics-box'
 import { SALES_TIMEFRAMES, SalesState } from '@/types/sales'
 
@@ -55,3 +54,5 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
         }
         dropdownAlignment="center"
       >
+        <DailyAnalyticsBox
+          isLargeSize

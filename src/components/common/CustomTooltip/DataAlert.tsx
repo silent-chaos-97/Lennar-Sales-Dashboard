@@ -11,3 +11,4 @@ interface DataAlertProps {
   isSvg?: boolean
   children: string
 }
+

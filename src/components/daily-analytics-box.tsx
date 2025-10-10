@@ -1,6 +1,5 @@
 import Box from '@mui/material/Box'
 import Stack from '@mui/material/Stack'
-import Typography from '@mui/material/Typography'
 import SouthEastIcon from '@mui/icons-material/SouthEast'
 import NorthEastIcon from '@mui/icons-material/NorthEast'
 import { useMemo } from 'react'
@@ -36,3 +35,5 @@ const DailyAnalyticsBox = ({
     lineHeight: '114px'
   }
 
+  const diffColor = useMemo(() => {
+    if (diffPercent === 0) return 'text.primary'

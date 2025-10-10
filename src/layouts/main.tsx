@@ -12,6 +12,7 @@ import { useAppState } from '@/contexts/StateContext'
 import { useAppTimerSetters } from '@/contexts/TimerContext'
 
 const Main = styled('main')({
+  width: '100%'
 })
 
 const DashboardLayout = styled('div')({
@@ -64,3 +65,6 @@ const ScreenWrapper = ({ children, padding, justifyContent = 'flex-start', width
 const MainLayout = () => {
   const dashboardRef = useRef<HTMLDivElement>(null)
   const { mode, currentScreen, setScreenMode, setCurrentScreen } = useScreen()
+  const { width, ref } = useResizeDetector({ refreshRate: 1000 })
+  const [zoomRate, setZoomRate] = useState(1)
+  const [wrapperWidth, setWrapperWidth] = useState(2400)

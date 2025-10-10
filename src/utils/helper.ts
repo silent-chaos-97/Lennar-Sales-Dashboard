@@ -6,8 +6,8 @@ const colors = [
   '#009D4F',
   '#00763B',
   '#577591',
+  '#77C1FF',
   '#005DAA',
   '#AE78D7'
 ]
-
 export function getRandomColor(name: string) {

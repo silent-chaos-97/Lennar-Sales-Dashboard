@@ -9,4 +9,4 @@ interface TimerProgressProps {
   playing: boolean
   onToggle: () => void
 }
-
+const TimerProgress = ({ value, playing, onToggle }: TimerProgressProps) => {

@@ -21,3 +21,4 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
   const now = DateTime.local().setZone(TIMEZONE[currentCohort.timezone])
 
   // Set the time to 7am today
+  const startOfDay = now.startOf('day').set({ hour: 7 })
