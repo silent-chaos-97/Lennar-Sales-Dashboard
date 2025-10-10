@@ -30,3 +30,4 @@ const LogoSvg = () => (
     <title>E0D4AAAD-8141-49E4-A287-03057C5D244C</title>
     <g id="Sketches" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
       <g
+        id="menu-logo"

@@ -52,3 +52,5 @@ export enum Rotate {
   not
 }
 
+export const TimerProvider = (props: PropsWithChildren) => {
+  const { refreshData, fetchNextDivision, fetchRegionDivisions, currentCohort } = useAppState()

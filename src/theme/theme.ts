@@ -57,7 +57,6 @@ export const theme = createTheme({
       fontWeight: 700,
       letterSpacing: '-0.66px'
     },
-    h2: {
       fontSize: 42,
       lineHeight: '50px',
       letterSpacing: '-0.66px',
@@ -120,4 +119,9 @@ export const theme = createTheme({
         src: url(${MabryMedium_WOFF2}) format('woff2'),
              url(${MabryMedium_WOFF}) format('woff');
         font-weight: 500;
+      }
+      @font-face {
+        font-family: 'mabry-pro';
+        src: url(${MabryBold_OTF}) format('opentype');
+        font-weight: 700;
       }

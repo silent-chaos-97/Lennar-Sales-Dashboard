@@ -10,5 +10,7 @@ export interface CustomTooltipProps {
 
 const CustomTooltip = ({ elementName, children }: CustomTooltipProps) => {
   const { metrics } = useAppState()
+  const { showTooltips } = useScreen()
 
   const metric = useMemo(() => {
+    if (!metrics?.METRICS) return

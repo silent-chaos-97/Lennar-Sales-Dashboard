@@ -116,3 +116,8 @@ const CenterPane = () => {
     zoom: Math.ceil(mapViewState.zoom),
     options: {
       radius: currentCohort.type === 'division' ? 50 : 1,
+      maxZoom: Math.floor(mapViewState.zoom) + 1
+    }
+  })
+
+  useEffect(() => {

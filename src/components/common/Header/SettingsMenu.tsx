@@ -66,3 +66,6 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
         </Typography>
         <Stack alignItems="flex-start" spacing={1} mb={3.5}>
           <Typography variant="caption" color="text.secondary">
+            Region display duration
+          </Typography>
+          <Stack direction="row" alignItems="center" spacing={3}>

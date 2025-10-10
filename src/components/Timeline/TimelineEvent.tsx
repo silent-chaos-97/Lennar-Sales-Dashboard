@@ -27,3 +27,4 @@ const icons = {
   call: <CallIcon />,
   // 'Completed live chat': <QuestionAnswerIcon />,
   live_chat: <SpeakerNotesOffIcon />,
+  lead_created: <PersonAddAlt1Icon />,

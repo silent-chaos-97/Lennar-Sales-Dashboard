@@ -14,6 +14,7 @@ import ChevronLeftIcon from '@mui/icons-material/ChevronLeft'
 import ChevronRightIcon from '@mui/icons-material/ChevronRight'
 import { Scrollbar } from 'react-scrollbars-custom'
 import { truncateText } from '@/utils/helper'
+
 interface SalesDetailsProps {
   svgSize: {
     width: number
@@ -80,3 +81,4 @@ const SalesDetails = ({
         <Stack direction="row" sx={{ mb: 3 }} alignItems="center" justifyContent="space-between">
           <Stack direction="row" alignItems="center" spacing={1}>
             <Typography variant="h3" mb={2.5}>
+              {truncateText(salesDetail.sale_title, 44)}

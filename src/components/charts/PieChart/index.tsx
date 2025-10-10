@@ -22,7 +22,6 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
       .append('g')
       .attr('transform', 'translate(' + width / 2 + ',' + (height / 2 + 10) + ')')
 
-    // set the color scale
     const color = d3
       .scaleOrdinal()
       .domain(['very_ahead_of_pace', 'ahead_of_pace', 'on_pace', 'behind_pace', 'very_behind_pace'])
@@ -38,5 +37,8 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
       .sort(null)
     const data_ready = pie(Object.entries(data).sort((a, b) => b[1] - a[1]))
 
+    // The arc generator
     let radiusFactor = 1
     const arc = d3
+      .arc()
+      .innerRadius(0) // This is the size of the donut hole

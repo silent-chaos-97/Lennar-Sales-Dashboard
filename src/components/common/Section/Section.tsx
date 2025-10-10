@@ -51,3 +51,5 @@ export const Section = ({
       return { left: '50%', transform: 'translateX(-50%)' }
     }
 
+    return { right: 0 }
+  }, [dropdownAlignment])

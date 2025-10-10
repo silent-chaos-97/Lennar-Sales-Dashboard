@@ -23,7 +23,6 @@ export interface DailyAnalyticsBoxProps {
 
 const DailyAnalyticsBox = ({
   isLargeSize = false,
-  title,
   value,
   grossValue,
   diffPercent,
@@ -33,3 +32,4 @@ const DailyAnalyticsBox = ({
 }: DailyAnalyticsBoxProps) => {
   const emStyle = {
     fontSize: 104,
+    lineHeight: '114px'

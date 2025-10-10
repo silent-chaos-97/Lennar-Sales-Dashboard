@@ -11,6 +11,7 @@ interface LineChartProps {
   id: string
   width?: number
   height?: number
+  data: Ticker[]
   showCurrentFully: boolean
 }
 
@@ -37,3 +38,5 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
       const svg = d3.select(`#${id}`)
       const xScale = d3
         .scaleLinear()
+        .domain([0, currentTickers.length - 1])
+        .range([0, chartWidth])

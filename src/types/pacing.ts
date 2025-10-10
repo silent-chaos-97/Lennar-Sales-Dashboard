@@ -17,3 +17,4 @@ interface AvailableHomes {
   yellow_homes: number
 }
 
+export interface PricingData {

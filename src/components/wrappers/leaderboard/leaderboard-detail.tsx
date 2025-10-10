@@ -20,3 +20,4 @@ export interface LeaderboardDetailProps {
 const LeaderboardDetail = ({
   open,
   name,
+  onPrev,

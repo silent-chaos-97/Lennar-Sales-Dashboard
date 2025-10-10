@@ -21,3 +21,4 @@ const BulletBar = ({
 }: BulletBarProps) => {
   return (
     <CustomTooltip elementName={id}>
+      <Stack height="100%" justifyContent="flex-end">

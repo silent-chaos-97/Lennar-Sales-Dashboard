@@ -77,3 +77,5 @@ const AxisXEndTickComponent = (props: RadialAxisTickProps) => {
       >
         {goal}%
       </text>
+    </g>
+  )

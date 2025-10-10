@@ -14,3 +14,4 @@ const RightPane = () => {
 
   const pricingData = useMemo(() => {
     return {
+      lennar_prices: pricingState?.LENNAR_PRICES || {},

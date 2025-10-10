@@ -116,3 +116,8 @@ const ISCDetail = ({
             x: 'Leads with follow-up',
             y: Math.min(
               100,
+              ((data?.follow_up.percent_value || 0) / (data?.follow_up.goal_value || 100)) * 100
+            )
+          }
+        ]
+      },

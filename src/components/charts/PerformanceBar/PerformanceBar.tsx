@@ -33,7 +33,6 @@ const GoalLine = styled('div', {
   background: color || '#fff',
   height: 4,
   position: 'absolute',
-  top: `${100 - percent}%`,
   transform: `translateY(-${100 - percent}%)`,
   borderRadius: 2,
   '&:before': {
@@ -42,3 +41,4 @@ const GoalLine = styled('div', {
     left: 'calc(100% + 4px)',
     top: -9,
     fontSize: 16,
+    lineHeight: '20px',

@@ -56,3 +56,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
     yAxisGroup.selectAll('.tick line').attr('stroke', 'rgba(255,255,255,0.18)')
 
     const xScale = d3
+      .scaleBand()
+      .domain(boxPlotData.map((d, i) => ['LEN', 'New Contruction', 'Resale'][i]))
+      .range([0, width])

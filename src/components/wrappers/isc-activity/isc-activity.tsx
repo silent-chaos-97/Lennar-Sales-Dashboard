@@ -38,5 +38,8 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
                   <NorthEastIcon color="success" />
                 ) : (
                   <SouthEastIcon color="error" />
+                ))}
               <CustomTooltip elementName="value-percent-change">
                 <Typography
+                  component="span"
+                  color={getValueChangeTextColor(data?.TOTAL_CALLS_PERCENT_CHANGE || 0)}

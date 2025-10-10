@@ -1,4 +1,5 @@
 import { useEffect, useState, useMemo, useCallback } from 'react'
+import MemberItem from '@/components/MemberItem/MemberItem'
 import Section from '@/components/common/Section/Section'
 import { useAppState } from '@/contexts/StateContext'
 import { LeaderboardItemValue, LeaderboardObj } from '@/types/leaderboards'
@@ -40,3 +41,4 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
   const { currentCohort } = useAppState()
   const [activeIdx, setActiveIdx] = useState<number | null>(null)
   const [disablePrevNext, setDisablePrevNext] = useState<[boolean, boolean]>([false, false])
+  const [activeTimestamp, setActiveTimestamp] = useState('QTD')

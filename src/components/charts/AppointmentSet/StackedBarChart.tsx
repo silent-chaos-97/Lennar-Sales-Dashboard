@@ -40,3 +40,5 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
   }, [data])
 
   const stackData = () => {
+    const stackedData: StackedData[] = []
+    const keys = Object.keys(data.cur)

@@ -26,3 +26,4 @@ const LeftPane = () => {
     if (isBetween7and11) {
       setActivityFrame('yesterday')
     } else {
+      setActivityFrame('today')

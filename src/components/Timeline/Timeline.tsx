@@ -6,7 +6,6 @@ import Chip from '@mui/material/Chip'
 import Box from '@mui/material/Box'
 import PersonIcon from '@mui/icons-material/Person'
 import Button from '@mui/material/Button'
-import Stack from '@mui/material/Stack'
 import { styled } from '@mui/material/styles'
 import TimelineEvent from './TimelineEvent'
 import { JourneyArrayItem } from '@/types/sales'
@@ -29,3 +28,4 @@ interface TimelineProps {
 
 const Timeline = ({ journeyData }: TimelineProps) => {
   const [expanded, setExpanded] = useState(false)
+  const handleChange = () => {

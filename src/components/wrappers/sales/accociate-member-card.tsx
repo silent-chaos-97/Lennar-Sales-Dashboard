@@ -24,3 +24,4 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
           <Typography
             variant="h4"
             fontWeight={700}
+            sx={{ width: 44, textAlign: 'center' }}

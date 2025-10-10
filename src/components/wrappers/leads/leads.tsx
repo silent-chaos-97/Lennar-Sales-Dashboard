@@ -21,3 +21,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
   }
 
   const maxValue = useMemo(() => {
+    return Math.max(...Object.values(scores))

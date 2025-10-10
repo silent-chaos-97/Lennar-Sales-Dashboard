@@ -5,6 +5,7 @@ import NorthEastIcon from '@mui/icons-material/NorthEast'
 import SouthEastIcon from '@mui/icons-material/SouthEast'
 import { getValueChangeTextColor } from '@/utils/helper'
 
+interface BarProps {
   label: string
   percent?: number
   value: number
@@ -15,3 +16,4 @@ import { getValueChangeTextColor } from '@/utils/helper'
 interface TrackProps {
   color?: string
   percent: number
+}

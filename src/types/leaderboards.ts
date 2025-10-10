@@ -8,7 +8,6 @@ export interface LeaderboardISCMemberDetail {
   appt_kept_division_rank: number
   appt_kept_national_rank: number
   appt_set_division_rank: number
-  appt_set_national_rank: number
   appts_missed: number
   appts_set: number
   appts_set_percent_change: number
@@ -34,3 +33,5 @@ export interface LeaderboardNHCMemberDetail {
   appointments_kept_rate: number
   days_since_last_sale: number
   gross_sales: number
+  gross_sales_division_rank: number
+  gross_sales_national_rank: number

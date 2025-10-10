@@ -43,12 +43,12 @@ const InnerScreen = styled('div')({
 
 const ScreenWrapper = ({ children, padding, justifyContent = 'flex-start', width }) => {
   const { mode } = useScreen()
-  const renderContent = () => {
     return (
       <Screen>
         <InnerScreen style={{ padding, justifyContent }}>{children}</InnerScreen>
       </Screen>
     )
+  }
 
   if (width > 2400 && mode !== ScreenMode.panorama) {
     return (
@@ -61,3 +61,4 @@ const ScreenWrapper = ({ children, padding, justifyContent = 'flex-start', width
   return renderContent()
 }
 
+const MainLayout = () => {

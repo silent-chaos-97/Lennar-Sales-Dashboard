@@ -66,3 +66,6 @@ class SnowflakeService {
                     longitude: dRow.LONGITUDE,
                     timezone: dRow.TIME_ZONE
                   }))
+
+                const subRegions = rows
+                  .filter(

@@ -19,3 +19,4 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
 
   // Get the current date and time in the local time zone
   const now = DateTime.local().setZone(TIMEZONE[currentCohort.timezone])
+

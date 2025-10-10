@@ -17,3 +17,4 @@ interface LMapProps {
     right: number
   }
   style?: React.CSSProperties
+  mapRef?: React.RefObject<MapRef>

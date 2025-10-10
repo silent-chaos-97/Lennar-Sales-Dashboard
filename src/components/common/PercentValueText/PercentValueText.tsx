@@ -12,3 +12,4 @@ interface PercentValueTextProps {
   suffix?: string
   fontWeight?: string
 }
+
