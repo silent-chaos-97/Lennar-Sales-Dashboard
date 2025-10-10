@@ -73,3 +73,6 @@ export const StateProvider = (props: PropsWithChildren) => {
   })
   const [subDivisions, setSubDivisions] = useState<Division[]>([])
   const [prevSelectedDivisionType, setPrevSelectedDivisionType] = useState<string>('')
+  const [msd, setMsd] = useState<boolean>(false)
+  const [metrics, setMetrics] = useState<MetricsState>()
+  const [dataStatus, setDataStatus] = useState<number | undefined>()

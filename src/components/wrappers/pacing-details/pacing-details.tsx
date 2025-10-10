@@ -69,3 +69,5 @@ const List = ({ list, choose, showList }: ListProps) => {
               onClick={() => handleChoose(el.idx)}
               direction="row"
               sx={{ mb: 1.5, '&:hover': { color: '#fff' } }}
+            >
+              <Stack width="70%">

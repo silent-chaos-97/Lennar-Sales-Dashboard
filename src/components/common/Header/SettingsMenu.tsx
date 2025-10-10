@@ -70,3 +70,6 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
           </Typography>
           <Stack direction="row" alignItems="center" spacing={3}>
             <Select
+              native={true}
+              defaultValue={cycleTimeout}
+              onChange={(evt) => {

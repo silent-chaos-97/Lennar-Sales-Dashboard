@@ -113,3 +113,4 @@ const PacingStatus = ({ mapWrapperRef }) => {
 
   useEffect(() => {
     if (activePieName) {
+      const dotsIdx: number[] = []

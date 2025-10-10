@@ -8,7 +8,6 @@ if (
   !process.env.SNOWFLAKE_USERNAME ||
   !process.env.SNOWFLAKE_PASSWORD ||
   !process.env.SNOWFLAKE_ROLE ||
-  !process.env.SNOWFLAKE_WAREHOUSE ||
   !process.env.SNOWFLAKE_DATABASE ||
   !process.env.SNOWFLAKE_DMT
 ) {
@@ -70,3 +69,6 @@ class SnowflakeService {
                 const subRegions = rows
                   .filter(
                     (dRow) => dRow.COHORT_TYPE === 'sub_region' && dRow.REGION === rRow.REGION
+                  )
+                  .map((dRow) => {
+                    const divisions = rows

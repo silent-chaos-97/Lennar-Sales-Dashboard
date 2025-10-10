@@ -31,3 +31,4 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
 
     if (data.length) {
       x.domain(data.map((d) => d.x_axis))
+      y.domain([0, d3.max(data, (d) => d.y_axis)]).range([height, 0])

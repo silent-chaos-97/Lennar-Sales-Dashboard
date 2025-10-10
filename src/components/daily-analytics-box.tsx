@@ -35,3 +35,4 @@ const DailyAnalyticsBox = ({
     fontSize: 104,
     lineHeight: '114px'
   }
+

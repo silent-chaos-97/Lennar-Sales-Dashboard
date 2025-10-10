@@ -91,3 +91,5 @@ const NHSDetail = ({
                     vs same point last period
                   </Typography>
                 </Stack>
+              }
+            >

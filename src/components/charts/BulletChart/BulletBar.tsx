@@ -6,6 +6,7 @@ import { PacingBulletBarColors } from '@/types/pacing'
 
 interface BulletBarProps {
   id: string
+  value: number
   label?: string
   maxValue?: number
   color?: PacingBulletBarColors
@@ -21,3 +22,4 @@ const BulletBar = ({
   return (
     <CustomTooltip elementName={id}>
       <Stack height="100%" justifyContent="flex-end">
+        <Box

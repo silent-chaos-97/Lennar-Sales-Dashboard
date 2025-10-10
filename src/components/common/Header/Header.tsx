@@ -122,3 +122,6 @@ const Header = () => {
         }, 20000)
       }
     }
+    return () => {
+      if (timeoutRef.current) clearTimeout(timeoutRef.current)
+      timeoutRef.current = null

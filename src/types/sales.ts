@@ -20,7 +20,7 @@ export interface JourneyArrayItem {
   activity_type: string
   actor_type: string
   body: string
-  sort: number
   title: string
 }
 
+export interface SalesItem {

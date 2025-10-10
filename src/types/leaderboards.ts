@@ -16,6 +16,7 @@ export interface LeaderboardISCMemberDetail {
   sales_national_rank: number
   total_calls: number
   total_calls_percent_change: number
+  total_chats: number
   total_chats_percent_change: number
   total_chats_texts: number
   total_chats_texts_percent_change: number
@@ -35,3 +36,5 @@ export interface LeaderboardNHCMemberDetail {
   gross_sales: number
   gross_sales_division_rank: number
   gross_sales_national_rank: number
+  incentive_rate: number
+  net_revenue: number

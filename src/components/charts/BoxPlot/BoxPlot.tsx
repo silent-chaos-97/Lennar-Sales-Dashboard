@@ -36,6 +36,7 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       .append('g')
       .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')')
 
+    // Show the Y scale
     const y = d3
       .scaleLinear()
       .domain([0, Math.max(...boxPlotData.flat())])
@@ -59,3 +60,5 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       .domain(boxPlotData.map((d, i) => ['LEN', 'New Contruction', 'Resale'][i]))
       .range([0, width])
       .paddingInner(0.4)
+      .paddingOuter(0)
+

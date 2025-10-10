@@ -29,3 +29,5 @@ Follow these steps to set up the backend:
 5. Build the project with `npm run build`.
 6. Fetch the cache data from Snowflake with `npm run start-cron:now`.
 7. Start the backend server with `npm start`.
+
+

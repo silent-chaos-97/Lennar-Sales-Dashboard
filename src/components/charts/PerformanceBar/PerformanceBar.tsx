@@ -1,5 +1,4 @@
 import CustomTooltip from '@/components/common/CustomTooltip'
-import DataAlert from '@/components/common/CustomTooltip/DataAlert'
 import Box from '@mui/material/Box'
 import Stack from '@mui/material/Stack'
 import Typography from '@mui/material/Typography'
@@ -43,3 +42,4 @@ const GoalLine = styled('div', {
     top: -9,
     fontSize: 16,
     lineHeight: '20px',
+    color: 'rgba(255, 255, 255, 0.67)'

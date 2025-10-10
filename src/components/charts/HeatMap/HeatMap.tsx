@@ -37,3 +37,4 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
     } else {
       return allYGroups
     }
+  }, [data, nRow])

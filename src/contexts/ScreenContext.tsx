@@ -15,3 +15,4 @@ export enum ScreenPanes {
 interface ScreenContextValues {
   mode: ScreenMode
   currentScreen: number
+  setScreenMode: (mode: ScreenMode) => void

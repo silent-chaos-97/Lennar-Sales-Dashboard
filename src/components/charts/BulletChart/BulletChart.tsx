@@ -21,3 +21,4 @@ const BulletChart = ({ height = '100%', width = '100%' }: BulletChartProps) => {
 
   const maxLimit = useMemo(() => {
     return Math.max(...Object.values(homes))
+  }, [homes])

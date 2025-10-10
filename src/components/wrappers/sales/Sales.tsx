@@ -54,3 +54,4 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
           </Stack>
         }
         dropdownAlignment="center"
+      >

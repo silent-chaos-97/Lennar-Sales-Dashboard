@@ -43,3 +43,5 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
     const arc = d3
       .arc()
       .innerRadius(0) // This is the size of the donut hole
+      .outerRadius(function (d) {
+        if (d.value) {

@@ -38,3 +38,4 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
       const line = d3
         .line()
         .curve(d3.curveCardinal)
+        .x((d) => xScale(d.x_axis))

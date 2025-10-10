@@ -11,4 +11,3 @@ type CustomDailyAnalyticsBoxProps = Omit<
 >
 
 const CustomDailyAnalyticsBox = ({
-  title,

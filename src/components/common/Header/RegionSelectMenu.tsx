@@ -32,3 +32,4 @@ const LogoSvg = () => (
       <g
         id="menu-logo"
         transform="translate(-558.000000, -115.000000)"
+        fill="#A5CFEF"

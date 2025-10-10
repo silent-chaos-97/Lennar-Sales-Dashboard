@@ -29,3 +29,4 @@ const icons = {
   live_chat: <SpeakerNotesOffIcon />,
   lead_created: <PersonAddAlt1Icon />,
   web_session: <PublicIcon />,
+  opp_created: <FlagIcon />,

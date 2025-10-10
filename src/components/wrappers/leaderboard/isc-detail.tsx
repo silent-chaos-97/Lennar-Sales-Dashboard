@@ -123,3 +123,8 @@ const ISCDetail = ({
       },
       {
         id: 'trifecta',
+        data: [
+          {
+            x: 'Leads with trifecta',
+            y: Math.min(
+              ((data?.trifecta.percent_value || 0) / (data?.trifecta.goal_value || 100)) * 100,

@@ -26,3 +26,4 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
             fontWeight={700}
             sx={{ width: 44, textAlign: 'center' }}
             color="grey.300"
+          >

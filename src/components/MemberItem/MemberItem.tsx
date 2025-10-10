@@ -27,3 +27,4 @@ const MemberItem = ({
   active
 }: MemberItemProps) => {
   const { currentCohort } = useAppState()
+  return (

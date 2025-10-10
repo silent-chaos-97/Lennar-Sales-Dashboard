@@ -82,3 +82,4 @@ const SalesDetails = ({
           <Stack direction="row" alignItems="center" spacing={1}>
             <Typography variant="h3" mb={2.5}>
               {truncateText(salesDetail.sale_title, 44)}
+            </Typography>

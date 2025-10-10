@@ -4,6 +4,7 @@ import Box from '@mui/material/Box'
 import Typography from '@mui/material/Typography'
 import IndicatorBarChart from '@/components/charts/IndicatorBarChart/IndicatorBarChart'
 import { WeeklyPacingItem } from '@/types/pacing'
+import { useAppState } from '@/contexts/StateContext'
 
 interface SubPacingAnalysisProps {
   weeklyData: WeeklyPacingItem[]
@@ -13,7 +14,6 @@ interface SubPacingAnalysisProps {
   currentWeekPrediction: number
 }
 
-const SubPacingAnalysis = ({
   weeklyData,
   next3WPace,
   past3WSales,
@@ -22,3 +22,4 @@ const SubPacingAnalysis = ({
 }: SubPacingAnalysisProps) => {
   const { currentCohort } = useAppState()
 
+  return (

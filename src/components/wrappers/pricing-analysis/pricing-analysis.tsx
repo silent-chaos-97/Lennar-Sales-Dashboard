@@ -46,3 +46,5 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
           <Typography variant="caption" color="text.secondary">
             vs prior 1W
           </Typography>
+        </Stack>
+      }

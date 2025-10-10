@@ -128,3 +128,8 @@ export const theme = createTheme({
       }
       @font-face {
         font-family: 'reckless';
+        src: url(${RecklessLight_WOFF});
+        src: url(${RecklessLight_WOFF2}) format('woff2'),
+             url(${RecklessLight_WOFF}) format('woff');
+        font-weight: 300;
+      }

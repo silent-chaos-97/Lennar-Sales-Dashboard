@@ -14,3 +14,4 @@ const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
       <Scrollbar
         style={{ height: 1040, width: '100%', paddingRight: 24 }}
         contentProps={{ style: { paddingRight: '25px' } }}
+      >
