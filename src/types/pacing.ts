@@ -1,4 +1,3 @@
-import { Cohort } from './cohort'
 import { LeaderboardObj } from './leaderboards'
 import { PriceDetailItem } from './pricing'
 
@@ -20,3 +19,4 @@ interface AvailableHomes {
 export interface PricingData {
   lennar_prices: PriceDetailItem
   new_construction_prices: PriceDetailItem
+  resale_prices: PriceDetailItem

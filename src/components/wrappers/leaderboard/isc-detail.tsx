@@ -53,6 +53,7 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps & { value: number })
           fill="#A5CFEF"
           fontFamily="mabry-pro"
         >
+          {props.value.toFixed()}%
         </text>
       </g>
     </CustomTooltip>
@@ -132,3 +133,8 @@ const ISCDetail = ({
           }
         ]
       }
+    ]
+  }, [data])
+
+  return (
+    <Fade in={open}>

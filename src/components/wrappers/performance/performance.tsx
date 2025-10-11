@@ -18,7 +18,6 @@ import { PERFORMANCE_TIMEFRAMES } from '@/types/performance'
 const AxisXStartTickComponent = (props: RadialAxisTickProps) => {
   const { performanceState } = usePerformanceContext()
   const value = performanceState?.[props.label].percent_value || 0
-  const labels = {
     BEBACKS_WITH_FOLLOWUP: 'Be-backs with follow-up',
     LEADS_WITH_FOLLOWUP: 'Leads with follow-up',
     LEADS_WITH_TRIFECTA: 'Leads with trifecta'
@@ -84,3 +83,5 @@ const AxisXEndTickComponent = (props: RadialAxisTickProps) => {
 const Performance = () => {
   const { performanceTimeframeState } = useAppState()
   const [performanceTimeframe, setPerformanceTimeframe] = useState('t7d')
+  const performanceState = performanceTimeframeState[performanceTimeframe]
+

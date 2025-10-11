@@ -28,3 +28,4 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
             color="grey.300"
           >
             {member.cohort_rank}
+          </Typography>

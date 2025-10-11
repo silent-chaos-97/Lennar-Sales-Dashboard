@@ -47,3 +47,4 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
   useEffect(() => {
     setActiveIdx(null)
   }, [currentCohort])
+

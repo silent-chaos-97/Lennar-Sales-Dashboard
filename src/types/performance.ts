@@ -1,7 +1,7 @@
 export interface PerformanceItem {
   color: string
   goal_value: number
-  missed?: number
+  percent_value: number
 }
 
 export interface IscPerformanceState {

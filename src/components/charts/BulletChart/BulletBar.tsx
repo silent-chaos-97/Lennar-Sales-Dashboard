@@ -24,3 +24,4 @@ const BulletBar = ({
       <Stack height="100%" justifyContent="flex-end">
         <Box
           height="calc(100% - 20%)"
+          display="flex"

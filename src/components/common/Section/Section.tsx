@@ -5,6 +5,7 @@ import Stack from '@mui/material/Stack'
 import Box from '@mui/material/Box'
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown'
 
+interface SectionProps {
   title: string
   timestamp?: string
   category?: string
@@ -58,3 +59,5 @@ export const Section = ({
       <Stack
         direction="row"
         alignItems={categoryList ? 'flex-end' : 'baseline'}
+        justifyContent="space-between"
+      >

@@ -37,7 +37,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')')
 
     // Show the Y scale
-    const y = d3
       .scaleLinear()
       .domain([0, Math.max(...boxPlotData.flat())])
       .range([height, 0])
@@ -65,3 +64,5 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
     const xAxisGroup = svg
       .append('g')
       .attr('transform', `translate(0, ${height})`)
+      .call(d3.axisBottom(xScale).tickSizeOuter(0).tickPadding(12).tickSizeInner(0))
+    xAxisGroup.select('.domain').remove()

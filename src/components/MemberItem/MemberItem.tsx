@@ -29,3 +29,4 @@ const MemberItem = ({
   const { currentCohort } = useAppState()
   return (
     <Stack
+      direction="row"

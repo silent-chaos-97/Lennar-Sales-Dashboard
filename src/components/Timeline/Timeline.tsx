@@ -19,7 +19,6 @@ const Divider = styled('div')(({ theme }) => ({
   left: 19,
   top: -4,
   height: '100%',
-  width: 2,
   zIndex: -1
 }))
 
@@ -32,3 +31,4 @@ const Timeline = ({ journeyData }: TimelineProps) => {
   const handleChange = () => {
     setExpanded((prev) => !prev)
   }
+

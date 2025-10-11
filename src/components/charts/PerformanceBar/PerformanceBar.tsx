@@ -13,7 +13,6 @@ interface TrackProps {
 interface GoalLineProps {
   color?: string
   percent: number
-  goal: number
 }
 
 const Track = styled('div', {
@@ -45,3 +44,4 @@ const GoalLine = styled('div', {
     lineHeight: '20px',
     color: 'rgba(255, 255, 255, 0.67)'
   }
+}))

@@ -34,3 +34,4 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
       y.domain([0, d3.max(data, (d) => d.y_axis)]).range([height, 0])
 
       const borderRadius = 8
+      svg

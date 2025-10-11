@@ -34,3 +34,5 @@ const LogoSvg = () => (
         transform="translate(-558.000000, -115.000000)"
         fill="#A5CFEF"
         fillRule="nonzero"
+      >
+        <g id="lennar-logo-copy-3" transform="translate(558.000000, 115.000000)">

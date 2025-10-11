@@ -51,3 +51,4 @@ const IndicatorBarChart = ({
           return Math.max(d.gross_sales, d.future_pace, currentWeekPrediction, 1)
         })
       ])
+

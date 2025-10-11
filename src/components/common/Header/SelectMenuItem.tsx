@@ -20,3 +20,4 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
           <IconButton sx={{ p: 0 }}>
             <ListItemIcon sx={{ color: 'grey.300', minWidth: 'auto' }} />
           </IconButton>
+        )}

@@ -46,3 +46,5 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
       if (key !== 'date' && key !== 'total') {
         const stackedEntry = {
           key: key,
+          cur: data.cur[key],
+          prv: data.prv[key]

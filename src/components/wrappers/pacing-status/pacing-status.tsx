@@ -73,7 +73,6 @@ const PacingStatus = ({ mapWrapperRef }) => {
 
   useEffect(() => {
     setMapViewState({
-      latitude: currentCohort.latitude,
       longitude: currentCohort.longitude,
       zoom: PACING_ZOOM_LEVEL[currentCohort.type]
     })
@@ -115,3 +114,4 @@ const PacingStatus = ({ mapWrapperRef }) => {
     if (activePieName) {
       const dotsIdx: number[] = []
       pacingCohortArray.forEach((item, idx) => {
+        if (item.status === activePieName) {

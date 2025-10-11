@@ -58,3 +58,5 @@ export const TimerProvider = (props: PropsWithChildren) => {
   const [cycleTimeout, setCycleTimeout] = useState(180)
   const [idleTimerProgress, setIdleTimerProgress] = useState(0)
   const [idleTimeout, setIdleTimeout] = useState(600)
+  const [disableRotation, setDisableRotation] = useState(1)
+  const [playing, setPlaying] = useState(true)

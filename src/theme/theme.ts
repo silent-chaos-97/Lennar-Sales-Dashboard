@@ -119,6 +119,7 @@ export const theme = createTheme({
         src: url(${MabryMedium_WOFF});
         src: url(${MabryMedium_WOFF2}) format('woff2'),
              url(${MabryMedium_WOFF}) format('woff');
+        font-weight: 500;
       }
       @font-face {
         font-family: 'mabry-pro';
@@ -138,3 +139,7 @@ export const theme = createTheme({
         src: url(${RecklessRegular_WOFF2}) format('woff2'),
              url(${RecklessRegular_WOFF}) format('woff');
         font-weight: 400;
+      }
+      @font-face {
+        font-family: 'reckless';
+        src: url(${RecklessMedium_WOFF});

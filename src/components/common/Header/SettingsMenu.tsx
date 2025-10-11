@@ -76,3 +76,28 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
                 setCycleTimeValue(+evt.target.value)
               }}
               variant="outlined"
+              sx={{
+                background: '#F2F2F2',
+                color: '#000',
+                height: 32,
+                padding: 0,
+                px: 1,
+                width: 112
+              }}
+            >
+              <option value={60}>1 min</option>
+              <option value={120}>2 min</option>
+              <option value={180}>3 min</option>
+              <option value={240}>4 min</option>
+              <option value={300}>5 min</option>
+              <option value={360}>6 min</option>
+              <option value={420}>7 min</option>
+              <option value={480}>8 min</option>
+              <option value={540}>9 min</option>
+              <option value={600}>10 min</option>
+            </Select>
+          </Stack>
+        </Stack>
+
+        <Stack alignItems="flex-start" spacing={1} mb={3.5}>
+          <Typography variant="caption" color="text.secondary">

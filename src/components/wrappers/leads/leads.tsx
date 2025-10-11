@@ -25,3 +25,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
   }, [scores])
 
   return (
+    <Box width="100%">

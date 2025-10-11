@@ -9,7 +9,6 @@ import DataAlert from '@/components/common/CustomTooltip/DataAlert'
 
 const PacingAnalysis = () => {
   const { pacingState } = useAppState()
-
   return (
     <Section
       title="Pacing Analysis"
@@ -23,3 +22,4 @@ const PacingAnalysis = () => {
         </Stack>
       }
     >
+      <Stack sx={{ mb: 14 }}>

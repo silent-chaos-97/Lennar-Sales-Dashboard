@@ -18,3 +18,4 @@ interface TrackProps {
   percent: number
 }
 
+const Track = styled('span', {

@@ -41,3 +41,5 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .x((d) => xScale(d.x_axis))
         .y((d) => yScale(d.y_axis))
         .defined((d, i, data) => {
+          if (i === data.length - 1 && d.y_axis === 0) return false
+          return true

@@ -1,6 +1,7 @@
 export interface MemberDetailValue {
   color: string
   goal_value: number
+  percent_value: number
 }
 
 export interface LeaderboardISCMemberDetail {
@@ -38,3 +39,5 @@ export interface LeaderboardNHCMemberDetail {
   incentive_rate: number
   net_revenue: number
   net_revenue_division_rank: number
+  net_revenue_national_rank: number
+  net_revenue_percent_change: number

@@ -47,3 +47,5 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
         if (d.value) {
           radiusFactor -= 0.05
         }
+        return radius * 0.7 * radiusFactor
+      })

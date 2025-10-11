@@ -4,6 +4,7 @@ import snowflake, { ConnectionOptions } from 'snowflake-sdk'
 import { Cohort } from '../types/cohort'
 
 if (
+  !process.env.SNOWFLAKE_ACCOUNT ||
   !process.env.SNOWFLAKE_USERNAME ||
   !process.env.SNOWFLAKE_PASSWORD ||
   !process.env.SNOWFLAKE_ROLE ||
@@ -42,7 +43,6 @@ class SnowflakeService {
         }
 
         connection.execute({
-          sqlText: sql,
           complete: (err, stmt, rows?: Cohort[]) => {
             if (err || !rows) {
               console.error('Error executing Snowflake query:', err)
@@ -75,3 +75,6 @@ class SnowflakeService {
                       .filter(
                         (sub_division) =>
                           sub_division.COHORT_TYPE === 'division' &&
+                          sub_division.REGION === rRow.REGION &&
+                          sub_division.SUB_REGION === dRow.SUB_REGION
+                      )

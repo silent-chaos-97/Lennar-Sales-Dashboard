@@ -68,3 +68,4 @@ const MainLayout = () => {
   const { width, ref } = useResizeDetector({ refreshRate: 1000 })
   const [zoomRate, setZoomRate] = useState(1)
   const [wrapperWidth, setWrapperWidth] = useState(2400)
+  const [searchParams] = useSearchParams()

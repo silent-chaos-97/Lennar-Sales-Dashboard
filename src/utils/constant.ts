@@ -22,3 +22,4 @@ export const STATUS_TEXT_BY_KEY = {
 
 export const ZOOM_LEVELS = {
   all: 4,
+  region: 6,

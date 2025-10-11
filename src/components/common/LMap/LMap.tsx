@@ -20,3 +20,4 @@ interface LMapProps {
   mapRef?: React.RefObject<MapRef>
   setMapViewState: (viewState: { latitude: number; longitude: number; zoom: number }) => void
 
+  children?: React.ReactNode

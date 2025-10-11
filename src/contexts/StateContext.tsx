@@ -79,3 +79,6 @@ export const StateProvider = (props: PropsWithChildren) => {
 
   const fetchTheMetrics = async () => {
     const [m] = await fetchMetrics()
+    setMetrics(m)
+  }
+

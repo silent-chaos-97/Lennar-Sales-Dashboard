@@ -85,3 +85,5 @@ const SalesDetails = ({
             </Typography>
           </Stack>
           <Stack direction="row">
+            <IconButton onClick={onPrev}>
+              <ChevronLeftIcon htmlColor="#dde3f6" opacity={scrollProgress[0] ? 0.25 : 1} />

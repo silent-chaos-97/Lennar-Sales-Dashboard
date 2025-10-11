@@ -73,3 +73,5 @@ const List = ({ list, choose, showList }: ListProps) => {
               <Stack width="70%">
                 <Typography variant="h6" fontWeight={400}>
                   {el.name.length > 27 ? el.name.slice(0, 25) + '...' : el.name}
+                </Typography>
+              </Stack>
