@@ -33,3 +33,4 @@ Follow these steps to set up the backend:
 
 ### Frontend
 
+Follow these steps to set up the frontend:

@@ -30,3 +30,4 @@ const MemberItem = ({
   return (
     <Stack
       direction="row"
+      spacing={1.5}

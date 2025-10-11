@@ -35,3 +35,4 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
 
       const borderRadius = 8
       svg
+        .selectAll('.bar')

@@ -62,7 +62,6 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
       >
         <Typography variant="h3" fontWeight={500} mb={3}>
           Hub settings
-          {/* ({window.innerWidth}px) */}
         </Typography>
         <Stack alignItems="flex-start" spacing={1} mb={3.5}>
           <Typography variant="caption" color="text.secondary">

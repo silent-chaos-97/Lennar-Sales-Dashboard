@@ -88,7 +88,6 @@ const Header = () => {
     setPlaying(false)
     setCurrentCohort(menu)
     setPrevSelectedDivisionType('')
-  }
 
   const handleRefreshTimer = () => {
     setCycleTimerProgress(0)
@@ -130,4 +129,6 @@ const Header = () => {
 
   return (
     <Wrapper>
+      {alert && (
         <Alert
+          variant="filled"

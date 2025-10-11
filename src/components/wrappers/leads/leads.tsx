@@ -11,7 +11,6 @@ import { CurrentActivityState } from '@/types/current_activity'
 interface LeadsProps {
   activityTimeframe: string
   data: CurrentActivityState
-}
 
 const Leads = ({ data, activityTimeframe }: LeadsProps) => {
   const scores = {

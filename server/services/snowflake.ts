@@ -43,6 +43,7 @@ class SnowflakeService {
         }
 
         connection.execute({
+          sqlText: sql,
           complete: (err, stmt, rows?: Cohort[]) => {
             if (err || !rows) {
               console.error('Error executing Snowflake query:', err)
@@ -78,3 +79,4 @@ class SnowflakeService {
                           sub_division.REGION === rRow.REGION &&
                           sub_division.SUB_REGION === dRow.SUB_REGION
                       )
+                      .map((sub_division) => ({

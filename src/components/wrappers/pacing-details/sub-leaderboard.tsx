@@ -6,6 +6,7 @@ import { Scrollbar } from 'react-scrollbars-custom'
 
 interface SubPacingLeaderBoardProps {
   leaders: LeaderboardObj[] | LeaderboardObj
+}
 
 const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
   return (
@@ -15,3 +16,4 @@ const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
         contentProps={{ style: { paddingRight: '25px' } }}
       >
         {Array.isArray(leaders) ? (
+          leaders.map((leaderboard) => (

@@ -30,6 +30,7 @@ const MarkerIcon = styled('div', {
   height: props.radius,
   width: props.radius,
   display: 'flex',
+  justifyContent: 'center',
   alignItems: 'center',
   cursor: 'pointer'
 }))
@@ -137,3 +138,5 @@ const CenterPane = () => {
       { minSaleCohortRank: Infinity, idx: 0 }
     )
     setLId(idx)
+  }, [clusters])
+

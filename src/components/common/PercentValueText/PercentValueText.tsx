@@ -6,7 +6,7 @@ import { getValueChangeTextColor } from '@/utils/helper'
 
 interface PercentValueTextProps {
   value: number
-  hideChange?: boolean
+  change?: number
   prefix?: string
   suffix?: string
   fontWeight?: string

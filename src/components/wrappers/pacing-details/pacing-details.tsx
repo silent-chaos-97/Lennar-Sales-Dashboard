@@ -75,3 +75,4 @@ const List = ({ list, choose, showList }: ListProps) => {
                   {el.name.length > 27 ? el.name.slice(0, 25) + '...' : el.name}
                 </Typography>
               </Stack>
+              <Stack width="30%">

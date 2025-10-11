@@ -82,3 +82,5 @@ export const StateProvider = (props: PropsWithChildren) => {
     setMetrics(m)
   }
 
+  const fetchLocations = async () => {
+    const regions = await fetchRegions()

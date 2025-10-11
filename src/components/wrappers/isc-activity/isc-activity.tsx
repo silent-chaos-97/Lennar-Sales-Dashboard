@@ -17,7 +17,6 @@ interface IscActivityProps {
 
 const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
   return (
-    <Box>
       <Stack direction="row" gap={2} mb={6}>
         <Stack sx={{ width: 160 }}>
           <CustomTooltip elementName="label-activity-calls">
@@ -49,3 +48,4 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
                   {data?.TOTAL_CALLS_PERCENT_CHANGE || 0}%
                 </Typography>
               </CustomTooltip>
+            </Stack>

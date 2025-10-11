@@ -9,6 +9,7 @@ export enum ScreenMode {
 export enum ScreenPanes {
   leads,
   sales,
+  pacing
 }
 
 interface ScreenContextValues {
@@ -16,3 +17,4 @@ interface ScreenContextValues {
   currentScreen: number
   setScreenMode: (mode: ScreenMode) => void
   setCurrentScreen: (current: number) => void
+  showTooltips: boolean

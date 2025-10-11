@@ -5,6 +5,7 @@ import SouthEastIcon from '@mui/icons-material/SouthEast'
 import NorthEastIcon from '@mui/icons-material/NorthEast'
 import { DailyAnalyticsBoxProps } from './daily-analytics-box'
 
+type CustomDailyAnalyticsBoxProps = Omit<
   DailyAnalyticsBoxProps,
   'graphData' | 'isLargeSize' | 'color' | 'grossValue'
 >
@@ -12,3 +13,4 @@ import { DailyAnalyticsBoxProps } from './daily-analytics-box'
 const CustomDailyAnalyticsBox = ({
   title,
   value,
+  diffPercent,

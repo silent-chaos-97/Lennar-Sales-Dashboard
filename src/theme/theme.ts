@@ -143,3 +143,6 @@ export const theme = createTheme({
       @font-face {
         font-family: 'reckless';
         src: url(${RecklessMedium_WOFF});
+        src: url(${RecklessMedium_WOFF2}) format('woff2'),
+             url(${RecklessMedium_WOFF}) format('woff');
+        font-weight: 500;

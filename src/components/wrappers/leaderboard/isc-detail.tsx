@@ -138,3 +138,5 @@ const ISCDetail = ({
 
   return (
     <Fade in={open}>
+      <Box
+        sx={{

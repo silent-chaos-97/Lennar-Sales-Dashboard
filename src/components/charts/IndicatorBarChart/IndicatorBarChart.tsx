@@ -52,3 +52,4 @@ const IndicatorBarChart = ({
         })
       ])
 
+      // Append rectangles for bar chart

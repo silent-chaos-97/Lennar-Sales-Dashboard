@@ -69,3 +69,4 @@ const MainLayout = () => {
   const [zoomRate, setZoomRate] = useState(1)
   const [wrapperWidth, setWrapperWidth] = useState(2400)
   const [searchParams] = useSearchParams()
+  const { cohorts, setCurrentCohort, setPrevSelectedDivisionType } = useAppState()

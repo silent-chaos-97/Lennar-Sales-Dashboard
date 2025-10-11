@@ -19,6 +19,7 @@ const Divider = styled('div')(({ theme }) => ({
   left: 19,
   top: -4,
   height: '100%',
+  width: 2,
   zIndex: -1
 }))
 

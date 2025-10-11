@@ -52,7 +52,6 @@ export const Section = ({
     }
 
     return { right: 0 }
-  }, [dropdownAlignment])
 
   return (
     <Box>
@@ -61,3 +60,4 @@ export const Section = ({
         alignItems={categoryList ? 'flex-end' : 'baseline'}
         justifyContent="space-between"
       >
+        <Stack alignItems="flex-start">
