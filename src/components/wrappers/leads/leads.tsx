@@ -11,6 +11,7 @@ import { CurrentActivityState } from '@/types/current_activity'
 interface LeadsProps {
   activityTimeframe: string
   data: CurrentActivityState
+}
 
 const Leads = ({ data, activityTimeframe }: LeadsProps) => {
   const scores = {
@@ -25,3 +26,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
 
   return (
     <Box width="100%">
+      <Stack direction="row" spacing={4}>

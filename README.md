@@ -30,7 +30,6 @@ Follow these steps to set up the backend:
 6. Fetch the cache data from Snowflake with `npm run start-cron:now`.
 7. Start the backend server with `npm start`.
 
-
 ### Frontend
 
 Follow these steps to set up the frontend:

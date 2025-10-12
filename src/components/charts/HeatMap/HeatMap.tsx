@@ -13,6 +13,7 @@ type HeatmapProps = {
   nRow: number
   nCol: number
   data: TickerItem[]
+  ref?: OneRefChangeTime
 }
 
 const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapProps) => {

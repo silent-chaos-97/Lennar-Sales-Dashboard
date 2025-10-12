@@ -140,3 +140,6 @@ const CenterPane = () => {
     setLId(idx)
   }, [clusters])
 
+  useEffect(() => {
+    const options = {
+      maxZoom: ZOOM_LEVELS[currentCohort.type],

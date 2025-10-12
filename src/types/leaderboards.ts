@@ -41,3 +41,4 @@ export interface LeaderboardNHCMemberDetail {
   net_revenue_division_rank: number
   net_revenue_national_rank: number
   net_revenue_percent_change: number
+  net_sales: number

@@ -43,5 +43,7 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
 
       const yScale = d3
         .scaleLinear()
+        .domain([0, d3.max([...currentTickers, ...previousTickers])])
         .range([chartHeight, 0])
       const prevLine = d3
+        .line()

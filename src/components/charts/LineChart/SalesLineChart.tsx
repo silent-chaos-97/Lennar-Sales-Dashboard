@@ -1,5 +1,6 @@
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-nocheck
+import { useEffect } from 'react'
 import * as d3 from 'd3'
 import { SalesDetailObject } from '@/types/sales'
 
@@ -42,3 +43,4 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .defined((d, i, data) => {
           if (i === data.length - 1 && d.y_axis === 0) return false
           return true
+        })

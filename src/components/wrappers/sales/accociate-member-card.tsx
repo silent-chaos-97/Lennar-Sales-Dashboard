@@ -18,6 +18,7 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
       borderRadius={2}
       sx={{ backgroundColor: 'background.default', px: 2, pt: 1, pb: 2.5, boxShadow: 3 }}
       spacing={1.5}
+    >
       {currentCohort.type !== 'all' ? (
         <Stack spacing={0.5} mt={2}>
           <Typography
@@ -28,3 +29,4 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
           >
             {member.cohort_rank}
           </Typography>
+          <Typography

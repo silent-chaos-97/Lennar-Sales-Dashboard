@@ -140,3 +140,5 @@ const ISCDetail = ({
     <Fade in={open}>
       <Box
         sx={{
+          position: 'absolute',
+          left: 0,

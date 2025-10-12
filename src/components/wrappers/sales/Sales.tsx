@@ -58,3 +58,4 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
         <DailyAnalyticsBox
           isLargeSize
           title="Gross sales"
+          value={salesState?.GROSS_SALES?.value || 0}

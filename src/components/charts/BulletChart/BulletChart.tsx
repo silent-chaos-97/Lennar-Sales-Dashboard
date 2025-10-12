@@ -11,7 +11,6 @@ interface BulletChartProps {
 
 const BulletChart = ({ height = '100%', width = '100%' }: BulletChartProps) => {
   const { pacingState } = useAppState()
-
   const homes = {
     black: pacingState?.AVAILABLE_HOMES?.black_homes || 0,
     red: pacingState?.AVAILABLE_HOMES?.red_homes || 0,
@@ -24,3 +23,4 @@ const BulletChart = ({ height = '100%', width = '100%' }: BulletChartProps) => {
   }, [homes])
 
   return (
+    <Stack

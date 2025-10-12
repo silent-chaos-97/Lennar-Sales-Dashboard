@@ -49,3 +49,4 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
   }, [currentCohort])
 
   const handleClickDetail = (idx: number) => {
+    setActiveIdx(idx)

@@ -46,3 +46,4 @@ const GoalLine = styled('div', {
     color: 'rgba(255, 255, 255, 0.67)'
   }
 }))
+

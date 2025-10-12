@@ -36,3 +36,4 @@ const LogoSvg = () => (
         fillRule="nonzero"
       >
         <g id="lennar-logo-copy-3" transform="translate(558.000000, 115.000000)">
+          <path

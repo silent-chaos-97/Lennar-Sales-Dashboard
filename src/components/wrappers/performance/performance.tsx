@@ -87,3 +87,4 @@ const Performance = () => {
   const performanceState = performanceTimeframeState[performanceTimeframe]
 
   const radialData = useMemo(() => {
+    return [

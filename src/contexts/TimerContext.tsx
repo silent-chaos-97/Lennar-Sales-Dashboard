@@ -47,7 +47,6 @@ const TimerSetterContext = createContext<TimerContextSetters>({
 })
 
 export enum Rotate {
-  locations = 1,
   within_region,
   not
 }

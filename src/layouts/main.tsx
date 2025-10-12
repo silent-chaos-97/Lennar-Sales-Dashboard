@@ -70,3 +70,4 @@ const MainLayout = () => {
   const [wrapperWidth, setWrapperWidth] = useState(2400)
   const [searchParams] = useSearchParams()
   const { cohorts, setCurrentCohort, setPrevSelectedDivisionType } = useAppState()
+  const { setPlaying } = useAppTimerSetters()

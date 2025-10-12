@@ -28,7 +28,6 @@ declare module '@mui/material/styles' {
   interface TypeBackground {
     secondary: string
     tertiary: string
-  }
 
   interface TypeText {
     tertiary: string
@@ -146,3 +145,5 @@ export const theme = createTheme({
         src: url(${RecklessMedium_WOFF2}) format('woff2'),
              url(${RecklessMedium_WOFF}) format('woff');
         font-weight: 500;
+      }
+

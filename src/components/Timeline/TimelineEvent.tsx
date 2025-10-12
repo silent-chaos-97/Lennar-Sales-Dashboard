@@ -12,7 +12,6 @@ import SpeakerNotesOffIcon from '@mui/icons-material/SpeakerNotesOff'
 import HouseIcon from '@mui/icons-material/House'
 import FlagIcon from '@mui/icons-material/Flag'
 import { JourneyArrayItem } from '@/types/sales'
-import { DateTime } from 'luxon'
 import { useMemo } from 'react'
 
 interface TimelineEventProps {
@@ -28,7 +27,9 @@ const icons = {
   // 'Completed live chat': <QuestionAnswerIcon />,
   live_chat: <SpeakerNotesOffIcon />,
   lead_created: <PersonAddAlt1Icon />,
+  web_session: <PublicIcon />,
   opp_created: <FlagIcon />,
   cancellation: <CancelIcon />,
   sale: <HouseIcon />
 }
+

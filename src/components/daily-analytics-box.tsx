@@ -7,6 +7,7 @@ import { useMemo } from 'react'
 import { SalesDetailObject } from '@/types/sales'
 import CustomTooltip from './common/CustomTooltip'
 import DataAlert from './common/CustomTooltip/DataAlert'
+import SalesLineChart from './charts/LineChart/SalesLineChart'
 
 export interface DailyAnalyticsBoxProps {
   isLargeSize?: boolean
@@ -39,3 +40,4 @@ const DailyAnalyticsBox = ({
     if (diffPercent === 0) return 'text.primary'
     else if (diffPercent > 0) return isDecreaseBenefit ? 'error' : 'success.main'
     return isDecreaseBenefit ? 'success.main' : 'error'
+  }, [diffPercent, isDecreaseBenefit])

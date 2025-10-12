@@ -80,3 +80,5 @@ class SnowflakeService {
                           sub_division.SUB_REGION === dRow.SUB_REGION
                       )
                       .map((sub_division) => ({
+                        type: sub_division.COHORT_TYPE,
+                        name: sub_division.COHORT,

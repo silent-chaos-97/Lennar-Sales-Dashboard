@@ -7,7 +7,6 @@ export const STATUS_COLORS = {
 }
 
 export const PERFORMANCE_COLORS = {
-  red: '#DF5347',
   green: '#009D4F',
   yellow: '#EC9628'
 }
@@ -23,3 +22,4 @@ export const STATUS_TEXT_BY_KEY = {
 export const ZOOM_LEVELS = {
   all: 4,
   region: 6,
+  sub_region: 7.5,

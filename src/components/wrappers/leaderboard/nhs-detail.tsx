@@ -99,3 +99,5 @@ const NHSDetail = ({
                     <Stack alignItems="center" sx={{ width: 44 }}>
                       <Typography variant="h4" fontWeight={700} color="#A5CFEF">
                         {cohortRank}
+                      </Typography>
+                      <Typography variant="body1" color="#A5CFEF">

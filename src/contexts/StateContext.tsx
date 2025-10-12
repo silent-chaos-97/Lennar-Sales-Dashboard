@@ -84,3 +84,4 @@ export const StateProvider = (props: PropsWithChildren) => {
 
   const fetchLocations = async () => {
     const regions = await fetchRegions()
+    setLocations(regions)

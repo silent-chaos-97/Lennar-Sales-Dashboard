@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react'
 import Box from '@mui/material/Box'
-import Grid from '@mui/material/Grid'
 import Stack from '@mui/material/Stack'
 import Typography from '@mui/material/Typography'
 import Leads from '@/components/wrappers/leads/leads'
@@ -28,3 +27,4 @@ const LeftPane = () => {
     } else {
       setActivityFrame('today')
     }
+  }, [isBetween7and11, activityTimeframeState])

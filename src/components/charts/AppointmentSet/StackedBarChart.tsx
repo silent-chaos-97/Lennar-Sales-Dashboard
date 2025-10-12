@@ -49,3 +49,4 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
           cur: data.cur[key],
           prv: data.prv[key]
         }
+        stackedData.push(stackedEntry)

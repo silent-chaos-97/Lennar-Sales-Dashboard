@@ -24,7 +24,7 @@ app.get('/api/metrics', async (req, res) => {
   res.json(result)
 })
 
-const CACHE_DIRECTORY = path.join(__dirname, 'cache')
 
 // Create the cache directory if it doesn't exist
 if (!fs.existsSync(CACHE_DIRECTORY)) {
+  fs.mkdirSync(CACHE_DIRECTORY)

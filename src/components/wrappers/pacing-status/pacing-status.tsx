@@ -37,6 +37,7 @@ const PacingStatus = ({ mapWrapperRef }) => {
   const { setPlaying, setIdleTimerProgress } = useAppTimerSetters()
   const { width, height, ref: pieChartRef } = useResizeDetector()
   const [activeDots, setActiveDots] = useState<number[]>([])
+  const [activePieName, setActivePieName] = useState('')
   const [selectedPacingItem, setSelectedPacingItem] = useState<SubCohortItem | null>(null)
   const [mapViewState, setMapViewState] = useState({
     latitude: currentCohort.latitude,

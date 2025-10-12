@@ -3995,6 +3995,7 @@
               "national_rank": 110,
               "pop_out_details": {
                 "appt_kept_cohort_rank": 3,
+                "appt_kept_division_rank": 3,
                 "appt_kept_national_rank": 192,
                 "appt_set_cohort_rank": 3,
                 "appt_set_division_rank": 3,
@@ -8147,3 +8148,120 @@
                   },
                   {
                     "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 7
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 17,
+                "gross_sales_division_rank": 2,
+                "gross_sales_national_rank": 69,
+                "incentive_rate": 2.5,
+                "net_revenue": 5776153,
+                "net_revenue_division_rank": 2,
+                "net_revenue_national_rank": 144,
+                "net_revenue_percent_change": 107,
+                "net_sales": 13,
+                "realtor_attachment_rate": 53,
+                "realtor_attachment_rate_division_rank": 3,
+                "realtor_attachment_rate_national_rank": 316,
+                "realtor_commission": 44603.6,
+                "realtor_commission_rate": 0.8
+              },
+              "summary": "2.5% incentives"
+            },
+            {
+              "cohort_rank": 6,
+              "division_name": "Tucson",
+              "image_url": "",
+              "name": "Susan Peabody",
+              "national_rank": 477,
+              "pop_out_details": {
+                "appointments_kept_rate": 56,
+                "days_since_last_sale": 5,
+                "graph_data": [
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 9,
+                "gross_sales_division_rank": 4,
+                "gross_sales_national_rank": 383,
+                "incentive_rate": 2.5,
+                "net_revenue": 3005164,
+                "net_revenue_division_rank": 4,
+                "net_revenue_national_rank": 548,
+                "net_revenue_percent_change": 0,
+                "net_sales": 9,
+                "realtor_attachment_rate": 44,
+                "realtor_attachment_rate_division_rank": 1,
+                "realtor_attachment_rate_national_rank": 214,
+                "realtor_commission": 30876.4,
+                "realtor_commission_rate": 1
+              },
+              "summary": "2.5% incentives"
+            }
+          ],

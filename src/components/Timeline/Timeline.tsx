@@ -33,3 +33,4 @@ const Timeline = ({ journeyData }: TimelineProps) => {
     setExpanded((prev) => !prev)
   }
 
+  const journeyDays = useMemo(() => {

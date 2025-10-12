@@ -16,8 +16,8 @@ interface LMapProps {
     left: number
     right: number
   }
-  style?: React.CSSProperties
   mapRef?: React.RefObject<MapRef>
   setMapViewState: (viewState: { latitude: number; longitude: number; zoom: number }) => void
 
   children?: React.ReactNode
+}
