@@ -29,3 +29,4 @@ const LeftPane = () => {
       setActivityFrame('today')
     }
   }, [isBetween7and11, activityTimeframeState])
+

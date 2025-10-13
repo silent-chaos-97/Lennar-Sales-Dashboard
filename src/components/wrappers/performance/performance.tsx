@@ -25,6 +25,7 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps) => {
   }
 
   return (
+    <g transform={`translate(${props.y}, 0) rotate(${props.rotation})`}>
       <CustomTooltip elementName={`label-${props.label.toString().toLowerCase()}`}>
         <text
           dx={props.textX}
@@ -89,3 +90,6 @@ const Performance = () => {
     return [
       {
         id: 'BEBACKS_WITH_FOLLOWUP',
+        data: [
+          {
+            x: 'Be-backs with follow-up',

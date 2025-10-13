@@ -87,3 +87,6 @@ export const StateProvider = (props: PropsWithChildren) => {
     setLocations(regions)
   }
 
+  const sortedCohorts = useMemo(() => {
+    const cohorts = [
+      {

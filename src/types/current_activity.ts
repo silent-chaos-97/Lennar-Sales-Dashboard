@@ -3,6 +3,7 @@ export interface TickerItem {
   activity_status: string
   sort: number
 }
+
 export interface HourlyTicker {
   prev: number
   current: number

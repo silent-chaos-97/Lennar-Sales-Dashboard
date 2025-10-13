@@ -14,3 +14,4 @@ const CustomDailyAnalyticsBox = ({
   title,
   value,
   diffPercent,
+  unit = '',

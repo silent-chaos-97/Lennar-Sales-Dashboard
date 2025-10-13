@@ -42,3 +42,4 @@ const DailyAnalyticsBox = ({
     return isDecreaseBenefit ? 'success.main' : 'error'
   }, [diffPercent, isDecreaseBenefit])
 
+  const displayValue = useMemo(() => {

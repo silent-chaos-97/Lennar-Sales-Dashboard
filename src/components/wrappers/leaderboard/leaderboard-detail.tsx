@@ -25,3 +25,4 @@ const LeaderboardDetail = ({
   onClose,
   data,
   imageUrl,
+  cohortRank,

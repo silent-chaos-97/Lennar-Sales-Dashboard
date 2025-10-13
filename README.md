@@ -35,3 +35,4 @@ Follow these steps to set up the backend:
 
 Follow these steps to set up the frontend:
 
+1. In the root folder, copy the example environment file to a new `.env` file: `cp .env.example .env`.

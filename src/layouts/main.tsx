@@ -72,3 +72,5 @@ const MainLayout = () => {
   const { cohorts, setCurrentCohort, setPrevSelectedDivisionType } = useAppState()
   const { setPlaying } = useAppTimerSetters()
 
+  const adjustMode = () => {
+    switch (searchParams.get('display')) {

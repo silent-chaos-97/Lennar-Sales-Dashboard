@@ -47,7 +47,6 @@ class SnowflakeService {
           complete: (err, stmt, rows?: Cohort[]) => {
             if (err || !rows) {
               console.error('Error executing Snowflake query:', err)
-              return reject(err)
             }
             const regions = rows
               .filter((rRow) => rRow.COHORT_TYPE === 'region')
@@ -83,3 +82,7 @@ class SnowflakeService {
                         type: sub_division.COHORT_TYPE,
                         name: sub_division.COHORT,
                         latitude: sub_division.LATITUDE,
+                        longitude: sub_division.LONGITUDE,
+                        timezone: sub_division.TIME_ZONE
+                      }))
+                    return {

@@ -63,3 +63,5 @@ export const TimerProvider = (props: PropsWithChildren) => {
   const [currentTime, setCurrentTime] = useState(
     DateTime.local().setZone('America/New_York').toFormat("h:mm a 'ET' MMM d")
   )
+
+  useEffect(() => {

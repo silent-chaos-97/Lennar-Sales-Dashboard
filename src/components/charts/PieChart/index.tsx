@@ -52,3 +52,4 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
 
     // Another arc that won't be drawn. Just for labels positioning
     // let outerRadiusFactor = 1
+    const outerArc = d3

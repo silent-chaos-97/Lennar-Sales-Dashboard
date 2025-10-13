@@ -119,6 +119,7 @@ export const theme = createTheme({
         src: url(${MabryMedium_WOFF});
         src: url(${MabryMedium_WOFF2}) format('woff2'),
              url(${MabryMedium_WOFF}) format('woff');
+        font-weight: 500;
       }
       @font-face {
         font-family: 'mabry-pro';
@@ -151,3 +152,8 @@ export const theme = createTheme({
         font-feature-settings: 'salt' on;
         color: #ffffff;
         -webkit-font-smoothing: antialiased;
+        -webkit-filter: blur(0px);
+        -webkit-perspective: 1000;
+        filter: blur(0px);
+        backface-visibility: hidden;
+        height: 100%;

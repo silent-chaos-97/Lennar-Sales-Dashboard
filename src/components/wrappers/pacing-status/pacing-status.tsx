@@ -116,3 +116,5 @@ const PacingStatus = ({ mapWrapperRef }) => {
       const dotsIdx: number[] = []
       pacingCohortArray.forEach((item, idx) => {
         if (item.status === activePieName) {
+          dotsIdx.push(idx)
+        }

@@ -1,4 +1,3 @@
-import Box from '@mui/material/Box'
 import Stack from '@mui/material/Stack'
 import { styled } from '@mui/material/styles'
 import Section from '@/components/common/Section/Section'
@@ -60,3 +59,5 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
           title="Gross sales"
           value={salesState?.GROSS_SALES?.value || 0}
           grossValue={salesState?.GROSS_SALES?.value || 0}
+          diffPercent={salesState?.GROSS_SALES?.percent_change || 0}
+          graphData={salesState?.GROSS_SALES?.graph}

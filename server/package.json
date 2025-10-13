@@ -10,3 +10,4 @@
     "start-cron:now": "node dist/jobs/sync-snowflake-data.job.js --now",
     "dev": "concurrently \"npx tsc --watch\" \"nodemon -q dist/index.js\""
   },
+  "keywords": [],

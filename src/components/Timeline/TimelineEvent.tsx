@@ -15,7 +15,6 @@ import { JourneyArrayItem } from '@/types/sales'
 import { DateTime } from 'luxon'
 import { useMemo } from 'react'
 
-interface TimelineEventProps {
   event: JourneyArrayItem
   expanded: boolean
 }
@@ -34,3 +33,5 @@ const icons = {
   sale: <HouseIcon />
 }
 
+const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
+  const colors = {

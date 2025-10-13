@@ -17,6 +17,7 @@ import { truncateText } from '@/utils/helper'
 
 interface SalesDetailsProps {
   svgSize: {
+    width: number
     height: number
     x: number
     y: number
@@ -88,3 +89,5 @@ const SalesDetails = ({
               <ChevronLeftIcon htmlColor="#dde3f6" opacity={scrollProgress[0] ? 0.25 : 1} />
             </IconButton>
             <IconButton onClick={onNext}>
+              <ChevronRightIcon htmlColor="#dde3f6" opacity={scrollProgress[1] ? 0.25 : 1} />
+            </IconButton>

@@ -7,3 +7,4 @@ export interface Cohort {
   LONGITUDE: number
   TIME_ZONE: string
 }
+

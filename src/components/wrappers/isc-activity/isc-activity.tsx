@@ -52,3 +52,5 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
             </Stack>
           </Stack>
         </Stack>
+        {data?.CALLS_TICKER_ARRAY && <ActivityChart data={data?.CALLS_TICKER_ARRAY || []} />}
+      </Stack>

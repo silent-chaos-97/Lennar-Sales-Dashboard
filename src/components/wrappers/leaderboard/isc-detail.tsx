@@ -146,3 +146,8 @@ const ISCDetail = ({
           bottom: 0,
           right: 0,
           bgcolor: 'rgba(33,41,54,0.67)'
+        }}
+      >
+        <Box
+          sx={{
+            position: 'absolute',

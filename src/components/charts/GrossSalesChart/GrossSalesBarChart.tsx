@@ -37,3 +37,4 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
       svg
         .selectAll('.bar')
         .data(data)
+        .enter()

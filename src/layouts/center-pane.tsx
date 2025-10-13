@@ -108,7 +108,6 @@ const CenterPane = () => {
         coordinates: point.division_coordinates
       }
     }))
-  }, [salesState?.DETAIL_SALES_ARRAY, currentCohort])
 
   const { clusters, supercluster } = useSupercluster({
     points,
@@ -146,3 +145,8 @@ const CenterPane = () => {
       padding: { top: 80, bottom: 80, left: 650, right: 900 },
       bearing: 0,
       linear: true
+    }
+    if (mapRef.current) {
+      if (points.length && lId !== undefined) {
+        let minLat = 90
+        let maxLat = -90

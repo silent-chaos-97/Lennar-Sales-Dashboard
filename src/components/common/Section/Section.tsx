@@ -61,6 +61,8 @@ export const Section = ({
         alignItems={categoryList ? 'flex-end' : 'baseline'}
         justifyContent="space-between"
       >
-        <Stack alignItems="flex-start">
           <Typography variant="h3" fontWeight={500}>
             {title}
+          </Typography>
+          {category && categoryList && (
+            <Box position="relative">

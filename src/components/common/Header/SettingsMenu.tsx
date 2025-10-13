@@ -101,3 +101,5 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
 
         <Stack alignItems="flex-start" spacing={1} mb={3.5}>
           <Typography variant="caption" color="text.secondary">
+            Locations rotate settings
+          </Typography>

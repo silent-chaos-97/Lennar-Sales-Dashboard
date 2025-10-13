@@ -22,3 +22,4 @@ export interface PricingData {
   new_construction_prices: PriceDetailItem
   resale_prices: PriceDetailItem
 }
+

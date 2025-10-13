@@ -18,3 +18,4 @@ interface ScreenContextValues {
   setScreenMode: (mode: ScreenMode) => void
   setCurrentScreen: (current: number) => void
   showTooltips: boolean
+  setShowTooltips: React.Dispatch<React.SetStateAction<boolean>>

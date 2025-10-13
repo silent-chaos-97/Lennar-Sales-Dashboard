@@ -28,3 +28,4 @@ const SubPacingAnalysis = ({
       title="Pacing Analysis"
       timestamp="WTD"
       more={
+        currentCohort?.type !== 'division' && (

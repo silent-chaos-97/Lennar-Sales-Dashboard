@@ -24,3 +24,4 @@ const HourlyActivity = ({
   change,
   activityTimeframe
 }: HourlyActivityProps) => {
+  const id = title

@@ -84,6 +84,7 @@ const Header = () => {
   }
 
   const handleSelectMenu = (menu: Division) => {
+    setOpenRegionSelectMenu(false)
     setPlaying(false)
     setCurrentCohort(menu)
     setPrevSelectedDivisionType('')
@@ -135,3 +136,8 @@ const Header = () => {
           severity="error"
           icon={<WarningRoundIcon sx={{ fontSize: 80 }} />}
           sx={{
+            position: 'absolute',
+            top: 0,
+            left: 0,
+            right: 0,
+            justifyContent: 'center',

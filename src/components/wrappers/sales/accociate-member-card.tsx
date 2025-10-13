@@ -31,3 +31,4 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
           </Typography>
           <Typography
             variant="body1"
+            fontWeight={300}

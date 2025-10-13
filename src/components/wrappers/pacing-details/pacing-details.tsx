@@ -79,3 +79,6 @@ const List = ({ list, choose, showList }: ListProps) => {
                 <Stack direction="column" alignItems="flex-start">
                   <Typography
                     sx={{
+                      backgroundColor: STATUS_COLORS[el.status],
+                      py: 0.3,
+                      px: 1,

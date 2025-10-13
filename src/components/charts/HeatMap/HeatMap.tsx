@@ -41,3 +41,4 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
 
   // x and y scales
 
+  const today = data[0]?.activity_time ? parseTime(data[0].activity_time) : new Date()
