@@ -143,3 +143,6 @@ const CenterPane = () => {
   useEffect(() => {
     const options = {
       maxZoom: ZOOM_LEVELS[currentCohort.type],
+      padding: { top: 80, bottom: 80, left: 650, right: 900 },
+      bearing: 0,
+      linear: true

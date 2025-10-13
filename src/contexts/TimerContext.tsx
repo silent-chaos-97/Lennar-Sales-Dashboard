@@ -47,6 +47,7 @@ const TimerSetterContext = createContext<TimerContextSetters>({
 })
 
 export enum Rotate {
+  locations = 1,
   within_region,
   not
 }
@@ -60,3 +61,5 @@ export const TimerProvider = (props: PropsWithChildren) => {
   const [disableRotation, setDisableRotation] = useState(1)
   const [playing, setPlaying] = useState(true)
   const [currentTime, setCurrentTime] = useState(
+    DateTime.local().setZone('America/New_York').toFormat("h:mm a 'ET' MMM d")
+  )

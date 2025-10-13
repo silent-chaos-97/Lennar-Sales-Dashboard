@@ -112,7 +112,6 @@ class SnowflakeService {
             'pricing',
             'insights'
         ];
-// Temp comment
         const sqls = {
             leaderboards: `select * from homebase.corp_hub_leaderboards_json WHERE COHORT = '${cohort}' AND COHORT_TYPE = '${cohort_type}';`,
             isc_performance_timeframe: `select * from homebase.corp_hub_timeframe_isc_performance_json WHERE COHORT = '${cohort}' AND COHORT_TYPE = '${cohort_type}';`,

@@ -28,6 +28,7 @@ declare module '@mui/material/styles' {
   interface TypeBackground {
     secondary: string
     tertiary: string
+  }
 
   interface TypeText {
     tertiary: string
@@ -118,7 +119,6 @@ export const theme = createTheme({
         src: url(${MabryMedium_WOFF});
         src: url(${MabryMedium_WOFF2}) format('woff2'),
              url(${MabryMedium_WOFF}) format('woff');
-        font-weight: 500;
       }
       @font-face {
         font-family: 'mabry-pro';
@@ -147,3 +147,7 @@ export const theme = createTheme({
         font-weight: 500;
       }
 
+      html, body {
+        font-feature-settings: 'salt' on;
+        color: #ffffff;
+        -webkit-font-smoothing: antialiased;

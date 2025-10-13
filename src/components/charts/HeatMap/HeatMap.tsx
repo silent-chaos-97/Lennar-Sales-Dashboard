@@ -40,3 +40,4 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
   }, [data, nRow])
 
   // x and y scales
+

@@ -42,3 +42,4 @@ export interface LeaderboardNHCMemberDetail {
   net_revenue_national_rank: number
   net_revenue_percent_change: number
   net_sales: number
+  realtor_attachment_rate: number

@@ -26,4 +26,4 @@ export interface JourneyArrayItem {
 
 export interface SalesItem {
   bed_bath: string
-  days_from_completion: string
+  home_size: string

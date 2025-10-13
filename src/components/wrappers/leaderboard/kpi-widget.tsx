@@ -19,3 +19,4 @@ const KPIWidget = ({
   firstLabel,
   secondValue,
   secondLabel,
+  thirdValue,

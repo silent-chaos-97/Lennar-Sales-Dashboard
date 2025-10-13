@@ -15,7 +15,6 @@ interface IndicatorBarChartProps {
   currentWeekPrediction: number
   hidePredictionBar?: boolean
 }
-
 const IndicatorBarChart = ({
   width,
   height,
@@ -53,3 +52,5 @@ const IndicatorBarChart = ({
       ])
 
       // Append rectangles for bar chart
+      const borderRadius = 8
+      svg

@@ -44,3 +44,4 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
           if (i === data.length - 1 && d.y_axis === 0) return false
           return true
         })
+

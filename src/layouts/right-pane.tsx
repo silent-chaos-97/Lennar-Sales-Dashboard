@@ -17,3 +17,4 @@ const RightPane = () => {
       lennar_prices: pricingState?.LENNAR_PRICES || {},
       new_construction_prices: pricingState?.NEW_CONSTRUCTION_PRICES || {},
       resale_prices: pricingState?.RESALE_PRICES || {}
+    }

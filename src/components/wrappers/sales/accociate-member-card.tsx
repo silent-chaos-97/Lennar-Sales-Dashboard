@@ -30,3 +30,4 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
             {member.cohort_rank}
           </Typography>
           <Typography
+            variant="body1"

@@ -26,3 +26,4 @@ const BulletBar = ({
           height="calc(100% - 20%)"
           display="flex"
           sx={{ justifyContent: 'flex-end', flexFlow: 'column' }}
+        >

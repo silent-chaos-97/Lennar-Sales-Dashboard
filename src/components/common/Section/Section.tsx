@@ -3,6 +3,7 @@ import ClickAwayListener from '@mui/base/ClickAwayListener'
 import Typography from '@mui/material/Typography'
 import Stack from '@mui/material/Stack'
 import Box from '@mui/material/Box'
+import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown'
 
 interface SectionProps {
   title: string
@@ -62,3 +63,4 @@ export const Section = ({
       >
         <Stack alignItems="flex-start">
           <Typography variant="h3" fontWeight={500}>
+            {title}

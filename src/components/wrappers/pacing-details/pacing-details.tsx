@@ -77,3 +77,5 @@ const List = ({ list, choose, showList }: ListProps) => {
               </Stack>
               <Stack width="30%">
                 <Stack direction="column" alignItems="flex-start">
+                  <Typography
+                    sx={{

@@ -26,7 +26,6 @@ interface StackedData {
   key: string
   cur?: string | number
   prv?: string | number
-}
 
 const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => {
   const svgRef = useRef<SVGSVGElement>(null)
@@ -50,3 +49,4 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
           prv: data.prv[key]
         }
         stackedData.push(stackedEntry)
+      }

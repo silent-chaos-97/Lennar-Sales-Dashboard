@@ -17,7 +17,6 @@ import { truncateText } from '@/utils/helper'
 
 interface SalesDetailsProps {
   svgSize: {
-    width: number
     height: number
     x: number
     y: number
@@ -81,9 +80,11 @@ const SalesDetails = ({
         <Stack direction="row" sx={{ mb: 3 }} alignItems="center" justifyContent="space-between">
           <Stack direction="row" alignItems="center" spacing={1}>
             <Typography variant="h3" mb={2.5}>
+              {truncateText(salesDetail.sale_title, 44)}
             </Typography>
           </Stack>
           <Stack direction="row">
             <IconButton onClick={onPrev}>
               <ChevronLeftIcon htmlColor="#dde3f6" opacity={scrollProgress[0] ? 0.25 : 1} />
             </IconButton>
+            <IconButton onClick={onNext}>

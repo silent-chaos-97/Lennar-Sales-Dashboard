@@ -47,3 +47,4 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         .range([chartHeight, 0])
       const prevLine = d3
         .line()
+        .curve(d3.curveBasis)

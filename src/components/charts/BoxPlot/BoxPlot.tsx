@@ -47,6 +47,7 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
         .ticks(5)
         .tickSizeInner(-width)
         .tickSizeOuter(0)
+        .tickPadding(12)
         .tickFormat((d) => d3.format('.2s')(d).replace('G', 'k'))
     )
     yAxisGroup.select('.domain').remove()
@@ -69,3 +70,4 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
     xAxisGroup.selectAll('.tick text').style('fill', '#70747A').style('font-size', '16px')
 
     // Add x-axis labels
+    svg

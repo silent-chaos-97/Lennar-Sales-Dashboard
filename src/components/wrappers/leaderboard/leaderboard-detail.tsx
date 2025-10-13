@@ -24,3 +24,4 @@ const LeaderboardDetail = ({
   onNext,
   onClose,
   data,
+  imageUrl,

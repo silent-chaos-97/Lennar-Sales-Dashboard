@@ -50,3 +50,4 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
 
   const handleClickDetail = (idx: number) => {
     setActiveIdx(idx)
+  }

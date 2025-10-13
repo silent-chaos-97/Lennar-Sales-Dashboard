@@ -7,3 +7,4 @@ export interface PerformanceItem {
 
 export interface IscPerformanceState {
   COHORT: string
+  COHORT_TYPE: string

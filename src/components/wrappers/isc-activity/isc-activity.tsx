@@ -51,3 +51,4 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
               </CustomTooltip>
             </Stack>
           </Stack>
+        </Stack>

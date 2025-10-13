@@ -11,3 +11,4 @@ interface TimerProgressProps {
 }
 
 const TimerProgress = ({ value, playing, onToggle }: TimerProgressProps) => {
+  return (

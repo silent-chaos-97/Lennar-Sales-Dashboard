@@ -10,3 +10,4 @@ interface PerformanceContextValues {
 export const PerformanceContext = createContext<PerformanceContextValues>({
   performanceState: {} as IscPerformanceState
 })
+

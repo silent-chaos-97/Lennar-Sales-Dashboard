@@ -59,3 +59,4 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
           isLargeSize
           title="Gross sales"
           value={salesState?.GROSS_SALES?.value || 0}
+          grossValue={salesState?.GROSS_SALES?.value || 0}

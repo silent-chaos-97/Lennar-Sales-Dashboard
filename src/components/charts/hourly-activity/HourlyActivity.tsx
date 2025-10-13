@@ -23,3 +23,4 @@ const HourlyActivity = ({
   total,
   change,
   activityTimeframe
+}: HourlyActivityProps) => {
