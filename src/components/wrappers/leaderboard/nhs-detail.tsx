@@ -106,3 +106,5 @@ const NHSDetail = ({
                     </Stack>
                     <Avatar
                       sx={{
+                        width: 96,
+                        height: 96,

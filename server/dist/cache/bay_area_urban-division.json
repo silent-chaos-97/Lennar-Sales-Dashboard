@@ -37,7 +37,6 @@
           "color": "red",
           "goal_value": 90,
           "percent_value": 0
-        },
         "LEADS_WITH_FOLLOWUP": {
           "color": "red",
           "goal_value": 80,
@@ -615,3 +614,175 @@
         "DBT_UPDATED_AT": "2023-10-12 19:16:28.315"
       },
       "prev_week": {
+        "COHORT": "Bay Area Urban",
+        "COHORT_TYPE": "division",
+        "CALLS_TICKER_ARRAY": [],
+        "CHATS_TEXTS_TICKER_ARRAY": [],
+        "APPOINTMENT_SET_TICKER_ARRAY": [
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-02 16:30:00.000",
+            "sort": 5
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-03 14:30:00.000",
+            "sort": 5
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-03 15:30:00.000",
+            "sort": 5
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-03 16:30:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-04 11:00:00.000",
+            "sort": 3
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-04 12:00:00.000",
+            "sort": 5
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-04 16:00:00.000",
+            "sort": 8
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-07 12:00:00.000",
+            "sort": 9
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-07 13:00:00.000",
+            "sort": 4
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-08 12:00:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-08 15:30:00.000",
+            "sort": 4
+          }
+        ],
+        "PRIOR_WEEK_APPOINTMENT_SET_TICKER_ARRAY": [
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-09-25 13:00:00.000",
+            "sort": 16
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-09-26 15:30:00.000",
+            "sort": 15
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-09-26 15:30:00.000",
+            "sort": 35
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-09-26 15:30:00.000",
+            "sort": 54
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-09-27 10:00:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-09-27 12:00:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-09-30 12:00:00.000",
+            "sort": 16
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-09-30 13:00:00.000",
+            "sort": 28
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-09-30 15:00:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-01 13:30:00.000",
+            "sort": 5
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-01 14:30:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-01 15:30:00.000",
+            "sort": 2
+          }
+        ],
+        "TIMEFRAME": "prev_week",
+        "WEB_VISITORS": 286,
+        "WEB_VISITORS_PERCENT_CHANGE": 13,
+        "HOURLY_WEB_VISITORS_ARRAY": [
+          {
+            "current": 26,
+            "hour": 7,
+            "prev": 0
+          },
+          {
+            "current": 28,
+            "hour": 8,
+            "prev": 0
+          },
+          {
+            "current": 27,
+            "hour": 9,
+            "prev": 0
+          },
+          {
+            "current": 30,
+            "hour": 10,
+            "prev": 0
+          },
+          {
+            "current": 44,
+            "hour": 11,
+            "prev": 0
+          },
+          {
+            "current": 39,
+            "hour": 12,
+            "prev": 0
+          },
+          {
+            "current": 46,
+            "hour": 13,
+            "prev": 0
+          },
+          {
+            "current": 45,
+            "hour": 14,
+            "prev": 0
+          },
+          {
+            "current": 49,
+            "hour": 15,
+            "prev": 0
+          },

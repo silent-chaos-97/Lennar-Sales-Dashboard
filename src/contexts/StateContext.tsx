@@ -90,3 +90,6 @@ export const StateProvider = (props: PropsWithChildren) => {
   const sortedCohorts = useMemo(() => {
     const cohorts = [
       {
+        name: 'National',
+        type: 'all',
+        latitude: 35.86,

@@ -1,5 +1,6 @@
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-nocheck
+import { useEffect } from 'react'
 import * as d3 from 'd3'
 import { DateTime } from 'luxon'
 import { Ticker } from '@/types/current_activity'
@@ -49,3 +50,4 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         .curve(d3.curveBasis)
         .x((d, i) => xScale(i))
         .y((d) => yScale(d))
+      const curentLine = d3

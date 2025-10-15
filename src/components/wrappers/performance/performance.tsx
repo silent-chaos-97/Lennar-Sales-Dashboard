@@ -93,3 +93,5 @@ const Performance = () => {
         data: [
           {
             x: 'Be-backs with follow-up',
+            y: Math.min(
+              ((performanceState?.BEBACKS_WITH_FOLLOWUP.percent_value || 0) /

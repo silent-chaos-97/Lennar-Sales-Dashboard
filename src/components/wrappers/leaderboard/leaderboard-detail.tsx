@@ -26,3 +26,4 @@ const LeaderboardDetail = ({
   data,
   imageUrl,
   cohortRank,
+  nationalRank,

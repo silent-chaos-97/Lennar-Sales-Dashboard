@@ -36,7 +36,6 @@ export const Section = ({
     setShowTimestampDropdown(false)
     if (typeof onSelectTimestamp === 'function') onSelectTimestamp(timestamp)
   }
-
   const handleClickCategoryItem = (category: string) => {
     setShowCategoryDropdown(false)
     if (typeof onSelectCategory === 'function') onSelectCategory(category)
@@ -61,8 +60,11 @@ export const Section = ({
         alignItems={categoryList ? 'flex-end' : 'baseline'}
         justifyContent="space-between"
       >
+        <Stack alignItems="flex-start">
           <Typography variant="h3" fontWeight={500}>
             {title}
           </Typography>
           {category && categoryList && (
             <Box position="relative">
+              <Stack
+                direction="row"

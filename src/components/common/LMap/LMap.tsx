@@ -1,3 +1,4 @@
+import debounce from 'lodash.debounce'
 import Map, { MapRef, ViewStateChangeEvent } from 'react-map-gl'
 
 const mbStyle = process.env.REACT_APP_MAPBOX_STYLE
@@ -16,9 +17,9 @@ interface LMapProps {
     right: number
   }
   style?: React.CSSProperties
-  mapRef?: React.RefObject<MapRef>
   setMapViewState: (viewState: { latitude: number; longitude: number; zoom: number }) => void
 
   children?: React.ReactNode
 }
 
+const LMap: React.FC<LMapProps> = ({

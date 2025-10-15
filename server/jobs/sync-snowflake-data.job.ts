@@ -44,3 +44,4 @@ const run = async () => {
       region.divisions.forEach((sub_region) => {
         sortedCohortList.push({
           name: sub_region.name,
+          type: sub_region.type,

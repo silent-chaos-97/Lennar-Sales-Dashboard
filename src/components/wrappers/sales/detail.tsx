@@ -91,3 +91,5 @@ const SalesDetails = ({
             <IconButton onClick={onNext}>
               <ChevronRightIcon htmlColor="#dde3f6" opacity={scrollProgress[1] ? 0.25 : 1} />
             </IconButton>
+            <IconButton onClick={onClose} size={'large'}>
+              <CloseIcon htmlColor="#fff" />

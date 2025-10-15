@@ -65,3 +65,4 @@ export const TimerProvider = (props: PropsWithChildren) => {
   )
 
   useEffect(() => {
+    const cycleTimer = setInterval(() => {

@@ -27,3 +27,4 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
           sx={{
             fontSize: 24,
             lineHeight: 2,
+            color: 'grey.300',

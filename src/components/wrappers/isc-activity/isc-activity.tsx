@@ -41,7 +41,6 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
                 ))}
               <CustomTooltip elementName="value-percent-change">
                 <Typography
-                  component="span"
                   color={getValueChangeTextColor(data?.TOTAL_CALLS_PERCENT_CHANGE || 0)}
                   variant="h6"
                   sx={{ ml: 1 }}
@@ -54,3 +53,5 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
         </Stack>
         {data?.CALLS_TICKER_ARRAY && <ActivityChart data={data?.CALLS_TICKER_ARRAY || []} />}
       </Stack>
+      <Stack direction="row" gap={2} mb={6}>
+        <Stack sx={{ width: 160 }}>

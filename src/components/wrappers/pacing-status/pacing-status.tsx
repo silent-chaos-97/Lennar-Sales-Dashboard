@@ -110,7 +110,6 @@ const PacingStatus = ({ mapWrapperRef }) => {
       mapRef.current.fitBounds(coordinates, options)
     }
   }, [mapRef, pacingCohortArray, currentCohort])
-
   useEffect(() => {
     if (activePieName) {
       const dotsIdx: number[] = []
@@ -118,3 +117,5 @@ const PacingStatus = ({ mapWrapperRef }) => {
         if (item.status === activePieName) {
           dotsIdx.push(idx)
         }
+      })
+      setActiveDots([...dotsIdx])

@@ -82,3 +82,5 @@ const List = ({ list, choose, showList }: ListProps) => {
                       backgroundColor: STATUS_COLORS[el.status],
                       py: 0.3,
                       px: 1,
+                      borderRadius: 4
+                    }}

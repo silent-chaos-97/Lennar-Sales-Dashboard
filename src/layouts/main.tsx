@@ -74,3 +74,5 @@ const MainLayout = () => {
 
   const adjustMode = () => {
     switch (searchParams.get('display')) {
+      case 'panorama':
+        setScreenMode(ScreenMode.panorama)

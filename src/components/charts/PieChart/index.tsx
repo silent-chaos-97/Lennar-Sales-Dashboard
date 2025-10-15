@@ -11,7 +11,6 @@ interface PieChartProps {
   activeName: string
   onClickSlice: (value: Array<string | number>) => void
 }
-
 const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }: PieChartProps) => {
   useEffect(() => {
     d3.select('#pie_chart > *').remove()
@@ -53,3 +52,5 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
     // Another arc that won't be drawn. Just for labels positioning
     // let outerRadiusFactor = 1
     const outerArc = d3
+      .arc()
+      .innerRadius(radius * 0.4)

@@ -49,3 +49,4 @@ const GoalLine = styled('div', {
 
 interface PerformanceBarProps {
   color?: string
+  title: string

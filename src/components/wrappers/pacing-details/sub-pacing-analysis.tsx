@@ -18,7 +18,6 @@ const SubPacingAnalysis = ({
   weeklyData,
   next3WPace,
   past3WSales,
-  changeNeeded,
   currentWeekPrediction
 }: SubPacingAnalysisProps) => {
   const { currentCohort } = useAppState()
@@ -29,3 +28,4 @@ const SubPacingAnalysis = ({
       timestamp="WTD"
       more={
         currentCohort?.type !== 'division' && (
+          <Stack direction="row" alignItems="center" spacing={0.5}>

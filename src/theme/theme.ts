@@ -157,3 +157,8 @@ export const theme = createTheme({
         filter: blur(0px);
         backface-visibility: hidden;
         height: 100%;
+        min-height: 100%;
+        overflow: hidden;
+      }
+
+      #root {

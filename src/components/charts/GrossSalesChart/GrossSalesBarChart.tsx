@@ -38,3 +38,5 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
         .selectAll('.bar')
         .data(data)
         .enter()
+        .append('path')
+        .attr('class', 'bar')

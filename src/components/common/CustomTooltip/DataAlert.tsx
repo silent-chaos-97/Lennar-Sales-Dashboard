@@ -13,3 +13,4 @@ interface DataAlertProps {
 }
 
 const DataAlert = ({ elementName, truncateSize = 0, isSvg = false, children }: DataAlertProps) => {
+  const { metrics } = useAppState()

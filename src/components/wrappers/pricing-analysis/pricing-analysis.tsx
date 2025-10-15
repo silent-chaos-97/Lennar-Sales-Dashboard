@@ -70,3 +70,4 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
                 <>
                   {priceChanges.lennar > 0 ? (
                     <NorthEastIcon color="success" />
+                  ) : (

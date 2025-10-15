@@ -182,7 +182,6 @@ class SnowflakeService {
                         }
                         connection.destroy(() => {
                             console.log('Cohort Division fetching is finished');
-// Temp comment
                         });
                         resolve(rows);
                     }

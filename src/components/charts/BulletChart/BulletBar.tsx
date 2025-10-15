@@ -28,3 +28,4 @@ const BulletBar = ({
           sx={{ justifyContent: 'flex-end', flexFlow: 'column' }}
         >
           <Box
+            height={`calc(${(value / maxValue) * 100}% + 32px)`}

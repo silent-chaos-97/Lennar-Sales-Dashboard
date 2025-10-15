@@ -151,3 +151,7 @@ const ISCDetail = ({
         <Box
           sx={{
             position: 'absolute',
+            top: 16,
+            left: '50%',
+            transform: 'translateX(-50%)',
+            width: 1420,

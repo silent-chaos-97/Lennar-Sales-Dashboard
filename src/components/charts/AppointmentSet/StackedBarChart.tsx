@@ -11,7 +11,6 @@ interface FrameData {
   [key: string]: number | string | undefined
 }
 
-interface DataEntry {
   weekday: string
   cur: FrameData
   prv: FrameData
@@ -53,3 +52,4 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
       }
     })
     return stackedData
+  }

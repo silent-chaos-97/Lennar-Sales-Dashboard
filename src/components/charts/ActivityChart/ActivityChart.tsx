@@ -25,3 +25,4 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
 
   // Set the time to 7pm today
   const endOfDay = now.startOf('day').set({ hour: 19 })
+

@@ -45,7 +45,6 @@ const InnerScreen = styled('div')({
   position: 'absolute',
   width: '100%',
   height: '100%',
-  top: 0,
   left: 0,
   padding: '0 46px',
   display: 'flex'
@@ -141,3 +140,6 @@ const Header = () => {
             left: 0,
             right: 0,
             justifyContent: 'center',
+            zIndex: 1000,
+            height: '104px'
+          }}

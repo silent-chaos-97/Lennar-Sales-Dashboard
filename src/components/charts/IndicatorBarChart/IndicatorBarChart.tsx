@@ -57,3 +57,5 @@ const IndicatorBarChart = ({
       svg
         .selectAll('.bar')
         .data(data)
+        .enter()
+        .append('path')

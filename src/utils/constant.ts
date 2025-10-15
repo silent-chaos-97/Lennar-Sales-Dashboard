@@ -6,6 +6,7 @@ export const STATUS_COLORS = {
   very_behind_pace: '#dc3030'
 }
 
+export const PERFORMANCE_COLORS = {
   red: '#DF5347',
   green: '#009D4F',
   yellow: '#EC9628'
@@ -16,7 +17,6 @@ export const STATUS_TEXT_BY_KEY = {
   ahead_of_pace: 'Ahead',
   on_pace: 'On pace',
   behind_pace: 'Behind',
-  very_behind_pace: 'Very behind'
 }
 
 export const ZOOM_LEVELS = {
@@ -24,3 +24,4 @@ export const ZOOM_LEVELS = {
   region: 6,
   sub_region: 7.5,
   division: 8.5
+}

@@ -1,5 +1,4 @@
 import { useEffect } from 'react'
-import * as d3 from 'd3'
 import { PricingData } from '@/types/pacing'
 import Box from '@mui/material/Box'
 
@@ -73,3 +72,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
     svg
       .selectAll('.x-label')
       .data(boxPlotData)
+      .enter()
+      .append('text')
+      .attr('class', 'x-label')
