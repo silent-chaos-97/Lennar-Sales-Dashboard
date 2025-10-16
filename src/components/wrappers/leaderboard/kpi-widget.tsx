@@ -21,3 +21,4 @@ const KPIWidget = ({
   secondLabel,
   thirdValue,
   thirdLabel
+}: KPIWidgetProps) => {

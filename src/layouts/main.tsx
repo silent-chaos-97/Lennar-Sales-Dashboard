@@ -76,3 +76,6 @@ const MainLayout = () => {
     switch (searchParams.get('display')) {
       case 'panorama':
         setScreenMode(ScreenMode.panorama)
+        break
+      case '3tvs':
+        setScreenMode(ScreenMode.triple_monitor)

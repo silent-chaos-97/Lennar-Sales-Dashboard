@@ -155,3 +155,10 @@ const ISCDetail = ({
             left: '50%',
             transform: 'translateX(-50%)',
             width: 1420,
+            bgcolor: 'background.paper',
+            boxShadow: 24,
+            px: 3,
+            py: 2.5,
+            borderRadius: 2
+          }}
+          ref={wrapperRef}

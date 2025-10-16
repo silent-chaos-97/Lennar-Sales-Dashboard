@@ -29,3 +29,16 @@ const BulletBar = ({
         >
           <Box
             height={`calc(${(value / maxValue) * 100}% + 32px)`}
+            sx={{ position: 'relative', background: '#2B3648', width: 48, pb: 4 }}
+          >
+            <Typography
+              variant="caption"
+              fontWeight={500}
+              sx={{ position: 'absolute', top: -24, left: '50%', transform: 'translateX(-50%)' }}
+            >
+              {value.toLocaleString()}
+            </Typography>
+            <Box
+              sx={{
+                position: 'absolute',
+                height: 8,

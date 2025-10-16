@@ -45,3 +45,4 @@ const run = async () => {
         sortedCohortList.push({
           name: sub_region.name,
           type: sub_region.type,
+          latitude: sub_region.latitude,

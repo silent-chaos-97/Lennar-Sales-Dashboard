@@ -48,3 +48,5 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
       // After defining your xScale and yScale
       const xAxis = d3.axisBottom(xScale).tickSize(0).tickPadding(30)
 
+      // Append the xAxis to your svg
+      svg

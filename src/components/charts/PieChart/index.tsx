@@ -11,6 +11,7 @@ interface PieChartProps {
   activeName: string
   onClickSlice: (value: Array<string | number>) => void
 }
+
 const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }: PieChartProps) => {
   useEffect(() => {
     d3.select('#pie_chart > *').remove()
@@ -54,3 +55,6 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
     const outerArc = d3
       .arc()
       .innerRadius(radius * 0.4)
+      .outerRadius(radius * 0.6)
+
+    svg

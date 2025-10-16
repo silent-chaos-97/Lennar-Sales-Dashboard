@@ -95,3 +95,7 @@ const Performance = () => {
             x: 'Be-backs with follow-up',
             y: Math.min(
               ((performanceState?.BEBACKS_WITH_FOLLOWUP.percent_value || 0) /
+                (performanceState?.BEBACKS_WITH_FOLLOWUP.goal_value || 100)) *
+                100,
+              100
+            )

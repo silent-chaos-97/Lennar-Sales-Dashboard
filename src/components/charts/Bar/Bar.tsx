@@ -19,5 +19,7 @@ interface TrackProps {
 }
 
 const Track = styled('span', {
+  shouldForwardProp: (prop) => !['color', 'percent'].includes(prop as string)
 })(({ color, percent }: TrackProps) => ({
   height: 12,
+  borderRadius: '0 8px 8px 0',

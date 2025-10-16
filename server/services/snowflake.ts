@@ -89,3 +89,7 @@ class SnowflakeService {
                     return {
                       type: dRow.COHORT_TYPE,
                       name: dRow.COHORT,
+                      latitude: dRow.LATITUDE,
+                      longitude: dRow.LONGITUDE,
+                      timezone: dRow.TIME_ZONE,
+                      divisions

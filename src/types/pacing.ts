@@ -7,6 +7,7 @@ export interface WeeklyPacingItem {
   gross_sales: number
   x_axis: string
   sort: number
+}
 
 interface AvailableHomes {
   black_homes: number
@@ -23,3 +24,4 @@ export interface PricingData {
 }
 
 export interface SubCohortItem {
+  latitude: number

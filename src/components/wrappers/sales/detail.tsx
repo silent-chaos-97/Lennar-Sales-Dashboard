@@ -93,3 +93,7 @@ const SalesDetails = ({
             </IconButton>
             <IconButton onClick={onClose} size={'large'}>
               <CloseIcon htmlColor="#fff" />
+            </IconButton>
+          </Stack>
+        </Stack>
+        <Grid container spacing={5}>

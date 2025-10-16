@@ -5,6 +5,7 @@ export enum ScreenMode {
   desktop,
   triple_monitor
 }
+
 export enum ScreenPanes {
   leads,
   sales,
@@ -19,3 +20,4 @@ interface ScreenContextValues {
   showTooltips: boolean
   setShowTooltips: React.Dispatch<React.SetStateAction<boolean>>
 }
+

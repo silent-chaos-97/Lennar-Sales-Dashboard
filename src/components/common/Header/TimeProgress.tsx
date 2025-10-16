@@ -6,3 +6,4 @@ const TimeProgress = () => {
   const { setPlaying } = useAppTimerSetters()
   const { cycleTimeout } = useAppTimerVariables()
 
+  const handleToggle = () => {

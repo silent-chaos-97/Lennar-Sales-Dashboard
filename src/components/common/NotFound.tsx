@@ -12,3 +12,4 @@ const NotFound = () => {
             boxShadow: '0px 12px 10px rgba(0, 0, 0, 0.25)',
             height: '76px',
             padding: '25px',
+            marginTop: 0

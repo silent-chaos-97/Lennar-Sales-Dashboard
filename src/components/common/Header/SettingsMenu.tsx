@@ -25,7 +25,6 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
   const { currentCohort } = useAppState()
 
   const [cycleTimeValue, setCycleTimeValue] = useState(cycleTimeout)
-  const [idleTimeValue, setIdleTimeValue] = useState(idleTimeout)
 
   const handleDisableRotation = (value: number) => {
     setDisableRotation(value)
@@ -103,3 +102,6 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
           <Typography variant="caption" color="text.secondary">
             Locations rotate settings
           </Typography>
+          <Select
+            native={true}
+            defaultValue={disableRotation}

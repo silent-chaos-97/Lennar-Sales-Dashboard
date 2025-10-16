@@ -25,6 +25,7 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
             variant="h4"
             fontWeight={700}
             sx={{ width: 44, textAlign: 'center' }}
+            color="grey.300"
           >
             {member.cohort_rank}
           </Typography>
@@ -32,3 +33,4 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
             variant="body1"
             fontWeight={300}
             sx={{ width: 44, textAlign: 'center' }}
+            color="grey.300"

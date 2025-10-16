@@ -30,3 +30,5 @@ const LeftPane = () => {
     }
   }, [isBetween7and11, activityTimeframeState])
 
+  return (
+    <Box width={1888} position="relative">

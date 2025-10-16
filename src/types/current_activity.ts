@@ -17,6 +17,8 @@ export interface CurrentActivityState {
   TOTAL_CALLS_PERCENT_CHANGE: number | null
   TOTAL_CHATS_TEXTS: number | null
   TOTAL_CHATS_TEXTS_PERCENT_CHANGE: number | null
+  COHORT: string
   COHORT_TYPE: string
   DBT_UPDATED_AT: string
   APPOINTMENT_SET_TICKER_ARRAY: TickerItem[]
+  PRIOR_WEEK_APPOINTMENT_SET_TICKER_ARRAY: TickerItem[]

@@ -55,3 +55,5 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
   const leaderboardItems: LeaderboardItemValue[] = useMemo(() => {
     if (!leaderboardData) return []
 
+    return leaderboardData[activeCategory][activeTimestamp]
+  }, [leaderboardData, categoryList, activeTimestamp, activeCategory])

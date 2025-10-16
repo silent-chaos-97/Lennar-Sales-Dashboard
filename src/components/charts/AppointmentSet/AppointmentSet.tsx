@@ -35,6 +35,7 @@ const AppointmentSet = ({
           const weekday = eventDateTime.weekdayShort
           const hour = eventDateTime.hour
           if (weekday) {
+            if (!nWeekdayEvents[weekdate]?.total) {
               nWeekdayEvents[weekdate] = {
                 total: 1,
                 byTimeframe: [0, 0, 0, 0]
@@ -68,3 +69,6 @@ const AppointmentSet = ({
                 nWeekdayEvents[weekdate].byTimeframe[3] =
                   nWeekdayEvents[weekdate].byTimeframe[3] + 1
               }
+            }
+          }
+        }

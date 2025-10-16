@@ -14,7 +14,6 @@ interface GoalLineProps {
   color?: string
   percent: number
   goal: number
-}
 
 const Track = styled('div', {
   shouldForwardProp: (prop) => !['color', 'percent'].includes(prop as string)
@@ -50,3 +49,5 @@ const GoalLine = styled('div', {
 interface PerformanceBarProps {
   color?: string
   title: string
+  value?: number
+  goal?: number

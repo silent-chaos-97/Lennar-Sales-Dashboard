@@ -5,7 +5,6 @@ import ListItemButton from '@mui/material/ListItemButton'
 import ListItemIcon from '@mui/material/ListItemIcon'
 import IconButton from '@mui/material/IconButton'
 import { SubRegion } from '@/types/cohort'
-
 interface SelectMenuItemProps {
   item: SubRegion
   onSelectMenu: (menu: SubRegion) => void

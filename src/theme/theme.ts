@@ -123,7 +123,6 @@ export const theme = createTheme({
       }
       @font-face {
         font-family: 'mabry-pro';
-        src: url(${MabryBold_OTF}) format('opentype');
         font-weight: 700;
       }
       @font-face {
@@ -162,3 +161,10 @@ export const theme = createTheme({
       }
 
       #root {
+        &:fullscreen, &::backdrop {
+          background-color: #212936;
+        }
+      }
+
+      .ScrollbarsCustom-Scroller::-webkit-scrollbar {
+        display: none;

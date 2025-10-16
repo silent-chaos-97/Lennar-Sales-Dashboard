@@ -28,8 +28,11 @@ const MemberItem = ({
 }: MemberItemProps) => {
   const { currentCohort } = useAppState()
   return (
+    <Stack
       direction="row"
       spacing={1.5}
       alignItems="center"
       py={2}
       role="button"
+      tabIndex={-1}
+      sx={{

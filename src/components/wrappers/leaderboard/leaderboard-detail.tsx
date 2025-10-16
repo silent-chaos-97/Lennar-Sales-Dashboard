@@ -27,3 +27,4 @@ const LeaderboardDetail = ({
   imageUrl,
   cohortRank,
   nationalRank,
+  disablePrevNext,

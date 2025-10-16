@@ -36,6 +36,7 @@ export const Section = ({
     setShowTimestampDropdown(false)
     if (typeof onSelectTimestamp === 'function') onSelectTimestamp(timestamp)
   }
+
   const handleClickCategoryItem = (category: string) => {
     setShowCategoryDropdown(false)
     if (typeof onSelectCategory === 'function') onSelectCategory(category)
@@ -68,3 +69,6 @@ export const Section = ({
             <Box position="relative">
               <Stack
                 direction="row"
+                alignItems="center"
+                onClick={() => setShowCategoryDropdown(true)}
+                sx={{

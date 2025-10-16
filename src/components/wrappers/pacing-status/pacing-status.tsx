@@ -26,7 +26,6 @@ const MarkerIcon = styled('div', {
   height: 20,
   width: 20,
   borderWidth: 1,
-  borderStyle: 'solid',
   borderColor: `rbga(255, 255, 255, 0.7)`,
   opacity: props.active ? 1 : 0.3
 }))
@@ -110,6 +109,7 @@ const PacingStatus = ({ mapWrapperRef }) => {
       mapRef.current.fitBounds(coordinates, options)
     }
   }, [mapRef, pacingCohortArray, currentCohort])
+
   useEffect(() => {
     if (activePieName) {
       const dotsIdx: number[] = []
@@ -119,3 +119,6 @@ const PacingStatus = ({ mapWrapperRef }) => {
         }
       })
       setActiveDots([...dotsIdx])
+    }
+  }, [activePieName])
+

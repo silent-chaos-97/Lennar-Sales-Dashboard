@@ -15,3 +15,4 @@ const CustomDailyAnalyticsBox = ({
   value,
   diffPercent,
   unit = '',
+  isDecreaseBenefit = false

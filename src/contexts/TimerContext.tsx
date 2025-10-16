@@ -66,3 +66,6 @@ export const TimerProvider = (props: PropsWithChildren) => {
 
   useEffect(() => {
     const cycleTimer = setInterval(() => {
+      if (playing) {
+        if ((cycleTimerProgress / cycleTimeout) * 100 >= 100) {
+          setCycleTimerProgress(0)

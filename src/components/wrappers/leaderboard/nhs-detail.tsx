@@ -108,3 +108,8 @@ const NHSDetail = ({
                       sx={{
                         width: 96,
                         height: 96,
+                        bgcolor: getRandomColor(name),
+                        color: 'primary.contrastText'
+                      }}
+                      imgProps={{ width: 300, height: 300 }}
+                      alt={name}

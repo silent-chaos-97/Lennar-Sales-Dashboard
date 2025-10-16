@@ -18,6 +18,7 @@ const BulletChart = ({ height = '100%', width = '100%' }: BulletChartProps) => {
     yellow: pacingState?.AVAILABLE_HOMES?.yellow_homes || 0,
     green: pacingState?.AVAILABLE_HOMES?.green_homes || 0
   }
+
   const maxLimit = useMemo(() => {
     return Math.max(...Object.values(homes))
   }, [homes])
@@ -26,3 +27,4 @@ const BulletChart = ({ height = '100%', width = '100%' }: BulletChartProps) => {
     <Stack
       height={height}
       width={width}
+      direction="row"

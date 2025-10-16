@@ -156,3 +156,10 @@ const CenterPane = () => {
 
         points.forEach((point: DetailSalesItems) => {
           const lat = point.geometry?.coordinates[1]
+          const lng = point.geometry?.coordinates[0]
+
+          if (lat !== undefined) {
+            minLat = Math.min(minLat, lat)
+            maxLat = Math.max(maxLat, lat)
+          }
+

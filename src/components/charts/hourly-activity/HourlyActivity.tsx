@@ -25,3 +25,5 @@ const HourlyActivity = ({
   activityTimeframe
 }: HourlyActivityProps) => {
   const id = title
+    .toLowerCase()
+    .replaceAll(' ', '-')

@@ -45,3 +45,5 @@ const DailyAnalyticsBox = ({
   const displayValue = useMemo(() => {
     if (value !== 0) {
       if (unit !== '%') {
+        return `${unit}${value.toLocaleString()}`
+      } else {

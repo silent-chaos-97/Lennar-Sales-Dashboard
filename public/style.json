@@ -570,7 +570,6 @@
             }
         },
         {
-            "id": "tunnel-simple",
             "type": "line",
             "metadata": {
                 "mapbox:featureComponent": "road-network",
@@ -1102,3 +1101,50 @@
                         ["motorway", "trunk", "primary"],
                         192,
                         ["secondary", "tertiary"],
+                        156,
+                        [
+                            "motorway_link",
+                            "trunk_link",
+                            "primary_link",
+                            "street",
+                            "street_limited"
+                        ],
+                        108,
+                        60
+                    ]
+                ],
+                "line-color": "rgb(54, 67, 90)"
+            }
+        },
+        {
+            "id": "road-rail",
+            "type": "line",
+            "metadata": {
+                "mapbox:featureComponent": "transit",
+                "mapbox:group": "Transit, surface"
+            },
+            "source": "composite",
+            "source-layer": "road",
+            "minzoom": 13,
+            "filter": [
+                "all",
+                [
+                    "match",
+                    ["get", "class"],
+                    ["major_rail", "minor_rail"],
+                    true,
+                    false
+                ],
+                ["match", ["get", "structure"], ["none", "ford"], true, false]
+            ],
+            "paint": {
+                "line-color": [
+                    "interpolate",
+                    ["linear"],
+                    ["zoom"],
+                    13,
+                    "rgb(37, 43, 55)",
+                    17,
+                    "rgb(32, 38, 48)"
+                ],
+                "line-width": [

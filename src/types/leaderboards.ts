@@ -46,3 +46,5 @@ export interface LeaderboardNHCMemberDetail {
   realtor_attachment_rate_division_rank: number
   realtor_attachment_rate_national_rank: number
   realtor_commission_rate: number
+  graph_data: []
+}

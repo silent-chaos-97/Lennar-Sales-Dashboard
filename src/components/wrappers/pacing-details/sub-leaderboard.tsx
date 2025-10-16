@@ -19,3 +19,4 @@ const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
           leaders.map((leaderboard) => (
             <Section title={leaderboard.type} key={leaderboard.type}>
               {leaderboard.values.map((leader) => (
+                <MemberItem

@@ -59,3 +59,5 @@ const IndicatorBarChart = ({
         .data(data)
         .enter()
         .append('path')
+        .attr('class', 'bar')
+        .attr('fill', '#1ABB96')

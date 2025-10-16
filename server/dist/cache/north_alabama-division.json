@@ -2413,6 +2413,7 @@
                   "goal_value": 75,
                   "percent_value": 92.31
                 },
+                "appts_missed": 0,
                 "appts_set": 0,
                 "appts_set_percent_change": 0,
                 "beback_with_follow_up": {
@@ -4268,7 +4269,6 @@
                   "percent_value": 100
                 }
               },
-              "summary": "1 gross sale"
             }
           ],
           "QTD": [
@@ -15237,3 +15237,662 @@
                   {
                     "x_axis": "Oct 02",
                     "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 10,
+                "gross_sales_national_rank": 738,
+                "incentive_rate": 0,
+                "net_revenue": 370041,
+                "net_revenue_division_rank": 10,
+                "net_revenue_national_rank": 807,
+                "net_revenue_percent_change": 0,
+                "net_sales": 1,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 13,
+                "realtor_attachment_rate_national_rank": 738,
+                "realtor_commission_rate": 3.1
+              },
+              "summary": "1 net sale"
+            },
+            {
+              "cohort_rank": 9,
+              "division_name": "North Alabama",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_teairra_harrislr_jpg",
+              "name": "Teairra Harris",
+              "national_rank": 699,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 1,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 10,
+                "gross_sales_national_rank": 738,
+                "incentive_rate": 0,
+                "net_revenue": 378745,
+                "net_revenue_division_rank": 9,
+                "net_revenue_national_rank": 796,
+                "net_revenue_percent_change": 19,
+                "net_sales": 1,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 13,
+                "realtor_attachment_rate_national_rank": 738,
+                "realtor_commission_rate": 6.8
+              },
+              "summary": "1 net sale"
+            },
+            {
+              "cohort_rank": 12,
+              "division_name": "North Alabama",
+              "image_url": "",
+              "name": "Debbie Briner",
+              "national_rank": 879,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 9,
+                "gross_sales_national_rank": 653,
+                "incentive_rate": 9.8,
+                "net_revenue": 255030,
+                "net_revenue_division_rank": 12,
+                "net_revenue_national_rank": 902,
+                "net_revenue_percent_change": 0,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 1,
+                "realtor_attachment_rate_national_rank": 68,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0 net sales"
+            },
+            {
+              "cohort_rank": 13,
+              "division_name": "North Alabama",
+              "image_url": "",
+              "name": "Nancy Lee Chapman",
+              "national_rank": 922,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 12,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 13,
+                "gross_sales_national_rank": 932,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 13,
+                "net_revenue_national_rank": 932,
+                "net_revenue_percent_change": -100,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 2,
+                "realtor_attachment_rate_national_rank": 932,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0 net sales"
+            },
+            {
+              "cohort_rank": 13,
+              "division_name": "North Alabama",
+              "image_url": "",
+              "name": "Tina Brooks",
+              "national_rank": 922,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 25,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 13,
+                "gross_sales_national_rank": 932,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 13,
+                "net_revenue_national_rank": 932,
+                "net_revenue_percent_change": -100,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 2,
+                "realtor_attachment_rate_national_rank": 932,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0 net sales"
+            },
+            {
+              "cohort_rank": 13,
+              "division_name": "North Alabama",
+              "image_url": "",
+              "name": "JoAnn Reeves",
+              "national_rank": 922,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 0,
+                "graph_data": [
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 13,
+                "gross_sales_national_rank": 932,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 13,
+                "net_revenue_national_rank": 932,
+                "net_revenue_percent_change": 0,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 2,
+                "realtor_attachment_rate_national_rank": 932,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0 net sales"
+            }
+          ],
+          "QTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "North Alabama",
+              "image_url": "",
+              "name": "Austin Rook",
+              "national_rank": 122,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 1,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 2
+                  }
+                ],
+                "gross_sales": 13,
+                "gross_sales_division_rank": 1,
+                "gross_sales_national_rank": 177,
+                "incentive_rate": 4.8,
+                "net_revenue": 5053417,
+                "net_revenue_division_rank": 1,
+                "net_revenue_national_rank": 206,
+                "net_revenue_percent_change": 0,
+                "net_sales": 13,
+                "realtor_attachment_rate": 85,
+                "realtor_attachment_rate_division_rank": 12,
+                "realtor_attachment_rate_national_rank": 743,
+                "realtor_commission": 215365.71,
+                "realtor_commission_rate": 4.3
+              },
+              "summary": "13 net sales"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "North Alabama",
+              "image_url": "",
+              "name": "Royce Archer",
+              "national_rank": 244,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 2,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 10,
+                "gross_sales_division_rank": 2,
+                "gross_sales_national_rank": 304,
+                "incentive_rate": 1.9,
+                "net_revenue": 3290689,
+                "net_revenue_division_rank": 2,
+                "net_revenue_national_rank": 492,
+                "net_revenue_percent_change": 0,
+                "net_sales": 10,
+                "realtor_attachment_rate": 40,
+                "realtor_attachment_rate_division_rank": 4,
+                "realtor_attachment_rate_national_rank": 181,
+                "realtor_commission": 79230.25,
+                "realtor_commission_rate": 2.4
+              },
+              "summary": "10 net sales"
+            },
+            {
+              "cohort_rank": 3,
+              "division_name": "North Alabama",
+              "image_url": "",
+              "name": "Katherine Steadman",
+              "national_rank": 377,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 7
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 5
+                  }
+                ],
+                "gross_sales": 9,
+                "gross_sales_division_rank": 3,
+                "gross_sales_national_rank": 398,
+                "incentive_rate": 0.3,
+                "net_revenue": 2939343,
+                "net_revenue_division_rank": 3,
+                "net_revenue_national_rank": 558,
+                "net_revenue_percent_change": 343,
+                "net_sales": 8,
+                "realtor_attachment_rate": 67,
+                "realtor_attachment_rate_division_rank": 7,
+                "realtor_attachment_rate_national_rank": 428,
+                "realtor_commission": 88779.4,
+                "realtor_commission_rate": 3
+              },
+              "summary": "8 net sales"
+            },
+            {
+              "cohort_rank": 4,
+              "division_name": "North Alabama",
+              "image_url": "",
+              "name": "Scott Robinson",
+              "national_rank": 746,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 6,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 5,
+                "gross_sales_division_rank": 6,
+                "gross_sales_national_rank": 809,
+                "incentive_rate": 0.2,
+                "net_revenue": 1531119,
+                "net_revenue_division_rank": 6,
+                "net_revenue_national_rank": 896,
+                "net_revenue_percent_change": -56,
+                "net_sales": 5,
+                "realtor_attachment_rate": 80,
+                "realtor_attachment_rate_division_rank": 10,
+                "realtor_attachment_rate_national_rank": 665,
+                "realtor_commission": 50384.4,

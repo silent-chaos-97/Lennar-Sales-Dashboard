@@ -40,3 +40,4 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
         .enter()
         .append('path')
         .attr('class', 'bar')
+        .attr('fill', '#1ABB96')

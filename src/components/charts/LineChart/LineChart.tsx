@@ -12,7 +12,6 @@ interface LineChartProps {
   width?: number
   height?: number
   data: Ticker[]
-  showCurrentFully: boolean
 }
 
 const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: LineChartProps) => {
@@ -51,3 +50,6 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         .x((d, i) => xScale(i))
         .y((d) => yScale(d))
       const curentLine = d3
+        .line()
+        .curve(d3.curveBasis)
+        .x((d, i) => xScale(i))

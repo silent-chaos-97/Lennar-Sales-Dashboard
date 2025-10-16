@@ -19,3 +19,4 @@ const RightPane = () => {
       resale_prices: pricingState?.RESALE_PRICES || {}
     }
   }, [pricingState])
+

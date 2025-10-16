@@ -63,3 +63,5 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
           diffPercent={salesState?.GROSS_SALES?.percent_change || 0}
           graphData={salesState?.GROSS_SALES?.graph}
         />
+        <CustomDailyAnalyticsBox
+          title="retail"

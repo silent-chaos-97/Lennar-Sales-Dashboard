@@ -84,3 +84,6 @@ const List = ({ list, choose, showList }: ListProps) => {
                       px: 1,
                       borderRadius: 4
                     }}
+                    variant="body1"
+                    fontWeight={700}
+                  >

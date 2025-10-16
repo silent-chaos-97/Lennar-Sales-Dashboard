@@ -45,6 +45,7 @@ const InnerScreen = styled('div')({
   position: 'absolute',
   width: '100%',
   height: '100%',
+  top: 0,
   left: 0,
   padding: '0 46px',
   display: 'flex'
@@ -143,3 +144,9 @@ const Header = () => {
             zIndex: 1000,
             height: '104px'
           }}
+        >
+          <Typography variant="h3">Data connection is down.</Typography>
+          <Typography variant="h5">We are working to fix it right now.</Typography>
+        </Alert>
+      )}
+      <Box

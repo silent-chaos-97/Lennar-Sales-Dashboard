@@ -37,3 +37,4 @@ const icons = {
 const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
   const colors = {
     black: '#909498',
+    blue: '#33A3FF',

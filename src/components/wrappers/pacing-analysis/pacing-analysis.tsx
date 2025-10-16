@@ -27,3 +27,4 @@ const PacingAnalysis = () => {
         <Stack direction="row" justifyContent="space-between" sx={{ mb: 4 }}>
           <Box flex={1}>
             <CustomTooltip elementName="pacing-past-3w-sales">
+              <Typography variant="caption" color="text.secondary" fontWeight={500}>
