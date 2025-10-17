@@ -38,3 +38,6 @@ const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
   const colors = {
     black: '#909498',
     blue: '#33A3FF',
+    purple: '#AE78D7',
+    red: '#E44D4D',
+    green: '#1ABB96'

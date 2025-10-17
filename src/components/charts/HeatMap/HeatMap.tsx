@@ -16,7 +16,6 @@ type HeatmapProps = {
   ref?: OneRefChangeTime
 }
 
-const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapProps) => {
   const width = cWidth || (size + spacing) * nCol - spacing
   const height = 87 || (size + spacing) * nRow - 1 // 87 is the height of the ActivityChart
   // bounds = area inside the axis
@@ -44,3 +43,6 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
   const today = data[0]?.activity_time ? parseTime(data[0].activity_time) : new Date()
   const startOfDay = new Date(today.getFullYear(), today.getMonth(), today.getDate(), 7, 0, 0) // Set the start time to 9am
   const endOfDay = new Date(today.getFullYear(), today.getMonth(), today.getDate(), 19, 0, 0) // Set the end time to 9pm
+
+  const xScale = useMemo(() => {
+    return d3

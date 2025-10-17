@@ -23,3 +23,4 @@ const Track = styled('span', {
 })(({ color, percent }: TrackProps) => ({
   height: 12,
   borderRadius: '0 8px 8px 0',
+  background: color || '#fff',

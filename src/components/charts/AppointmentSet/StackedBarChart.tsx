@@ -57,3 +57,6 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
 
   const drawChart = () => {
     const containerWidth = (svgRef.current?.parentNode as HTMLElement).clientWidth
+    const containerHeight = (svgRef.current?.parentNode as HTMLElement).clientHeight
+    const width = containerWidth
+    const height = containerHeight

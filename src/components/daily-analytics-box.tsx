@@ -47,3 +47,5 @@ const DailyAnalyticsBox = ({
       if (unit !== '%') {
         return `${unit}${value.toLocaleString()}`
       } else {
+        return `${value}${unit}`
+      }

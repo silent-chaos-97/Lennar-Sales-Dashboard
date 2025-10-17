@@ -28,3 +28,5 @@ const PacingAnalysis = () => {
           <Box flex={1}>
             <CustomTooltip elementName="pacing-past-3w-sales">
               <Typography variant="caption" color="text.secondary" fontWeight={500}>
+                <DataAlert elementName="pacing-past-3w-sales">Past 3W sales</DataAlert>
+              </Typography>

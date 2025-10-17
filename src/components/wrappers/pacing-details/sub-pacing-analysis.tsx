@@ -31,3 +31,5 @@ const SubPacingAnalysis = ({
         currentCohort?.type !== 'division' && (
           <Stack direction="row" alignItems="center" spacing={0.5}>
             <Box width={24} height={4} borderRadius={2} bgcolor="#1ABB96" />
+            <Typography variant="caption" color="textSecondary">
+              Prediction

@@ -32,3 +32,4 @@ const LeftPane = () => {
 
   return (
     <Box width={1888} position="relative">
+      <Grid container spacing={8} pt={4}>

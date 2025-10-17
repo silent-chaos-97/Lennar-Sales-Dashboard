@@ -46,3 +46,5 @@ const run = async () => {
           name: sub_region.name,
           type: sub_region.type,
           latitude: sub_region.latitude,
+          longitude: sub_region.longitude,
+          timezone: sub_region.timezone

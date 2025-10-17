@@ -27,3 +27,5 @@ export const ZOOM_LEVELS = {
   division: 8.5
 }
 
+export const PACING_ZOOM_LEVEL = {
+  all: 2.5,

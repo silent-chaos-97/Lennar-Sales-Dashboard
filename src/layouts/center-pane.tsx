@@ -46,7 +46,6 @@ const CenterPane = () => {
     height: number
     x: number
     y: number
-  } | null>(null)
   const [mapViewState, setMapViewState] = useState({
     latitude: currentCohort.latitude,
     longitude: currentCohort.longitude - LONGITUDE_DELTA[currentCohort.type],
@@ -163,3 +162,12 @@ const CenterPane = () => {
             maxLat = Math.max(maxLat, lat)
           }
 
+          if (lng !== undefined) {
+            minLng = Math.min(minLng, lng)
+            maxLng = Math.max(maxLng, lng)
+          }
+        })
+
+        const coordinates: mapboxgl.LngLatBoundsLike = [
+          { lat: minLat, lng: minLng },
+          { lat: maxLat, lng: maxLng }

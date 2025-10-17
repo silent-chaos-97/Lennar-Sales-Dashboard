@@ -36,3 +36,5 @@ const MemberItem = ({
       role="button"
       tabIndex={-1}
       sx={{
+        cursor: onOpenDetail ? 'pointer' : 'default',
+        color: active ? '#AF0' : '#fff'

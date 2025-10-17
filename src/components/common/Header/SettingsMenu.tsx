@@ -25,6 +25,7 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
   const { currentCohort } = useAppState()
 
   const [cycleTimeValue, setCycleTimeValue] = useState(cycleTimeout)
+  const [idleTimeValue, setIdleTimeValue] = useState(idleTimeout)
 
   const handleDisableRotation = (value: number) => {
     setDisableRotation(value)
@@ -87,7 +88,6 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
               <option value={60}>1 min</option>
               <option value={120}>2 min</option>
               <option value={180}>3 min</option>
-              <option value={240}>4 min</option>
               <option value={300}>5 min</option>
               <option value={360}>6 min</option>
               <option value={420}>7 min</option>
@@ -105,3 +105,7 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
           <Select
             native={true}
             defaultValue={disableRotation}
+            onChange={(e) => {
+              handleDisableRotation(+e.target.value)
+            }}
+            variant="outlined"

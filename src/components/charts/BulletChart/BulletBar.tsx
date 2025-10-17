@@ -42,3 +42,4 @@ const BulletBar = ({
               sx={{
                 position: 'absolute',
                 height: 8,
+                borderRadius: 1,

@@ -87,3 +87,8 @@ const List = ({ list, choose, showList }: ListProps) => {
                     variant="body1"
                     fontWeight={700}
                   >
+                    {STATUS_TEXT_BY_KEY[el.status]}
+                  </Typography>
+                </Stack>
+              </Stack>
+            </Stack>

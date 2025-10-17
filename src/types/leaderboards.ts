@@ -48,3 +48,6 @@ export interface LeaderboardNHCMemberDetail {
   realtor_commission_rate: number
   graph_data: []
 }
+
+export interface LeaderboardMemberDetail
+  extends LeaderboardISCMemberDetail,

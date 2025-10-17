@@ -25,3 +25,5 @@ export interface PricingData {
 
 export interface SubCohortItem {
   latitude: number
+  longitude: number
+  name: string

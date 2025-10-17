@@ -97,3 +97,7 @@ const SalesDetails = ({
           </Stack>
         </Stack>
         <Grid container spacing={5}>
+          <Grid item lg={6}>
+            <Box
+              borderRadius={1}
+              sx={{

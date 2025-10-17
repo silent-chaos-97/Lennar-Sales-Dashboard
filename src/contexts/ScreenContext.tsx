@@ -21,3 +21,4 @@ interface ScreenContextValues {
   setShowTooltips: React.Dispatch<React.SetStateAction<boolean>>
 }
 
+const ScreenContext = createContext<ScreenContextValues>({

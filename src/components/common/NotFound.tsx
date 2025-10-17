@@ -13,3 +13,4 @@ const NotFound = () => {
             height: '76px',
             padding: '25px',
             marginTop: 0
+          }}

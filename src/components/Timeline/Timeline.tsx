@@ -34,7 +34,8 @@ const Timeline = ({ journeyData }: TimelineProps) => {
   }
 
   const journeyDays = useMemo(() => {
-    const startDate = DateTime.fromFormat(journeyData[0].activity_date, 'yyyy-MM-dd')
     const endDate = DateTime.fromFormat(
       journeyData[journeyData.length - 1].activity_date,
       'yyyy-MM-dd'
+    )
+

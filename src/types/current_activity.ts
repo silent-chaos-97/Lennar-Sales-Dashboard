@@ -22,3 +22,4 @@ export interface CurrentActivityState {
   DBT_UPDATED_AT: string
   APPOINTMENT_SET_TICKER_ARRAY: TickerItem[]
   PRIOR_WEEK_APPOINTMENT_SET_TICKER_ARRAY: TickerItem[]
+  CALLS_TICKER_ARRAY: TickerItem[] | null

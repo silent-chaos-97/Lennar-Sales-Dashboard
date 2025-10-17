@@ -17,6 +17,7 @@ app.get('/api/cohorts', async (req, res) => {
 
   res.json(result)
 })
+
 app.get('/api/metrics', async (req, res) => {
   const result = await SnowflakeService.getMetrics()
 
@@ -32,3 +33,5 @@ if (!fs.existsSync(CACHE_DIRECTORY)) {
 
 function sanitizeFilename(filename: string) {
   // Replace unsafe characters with underscores
+  return filename.replace(/[^a-zA-Z0-9-_]/g, '_')
+}

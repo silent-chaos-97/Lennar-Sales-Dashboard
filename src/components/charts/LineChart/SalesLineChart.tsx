@@ -50,3 +50,6 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
 
       // Append the xAxis to your svg
       svg
+        .append('g')
+        .attr('transform', `translate(0,${chartHeight})`)
+        .style('font-size', '12px')

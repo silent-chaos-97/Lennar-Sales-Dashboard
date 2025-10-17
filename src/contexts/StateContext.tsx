@@ -97,3 +97,8 @@ export const StateProvider = (props: PropsWithChildren) => {
         timezone: 'US/Eastern'
       }
     ]
+
+    locations.forEach((region) => {
+      cohorts.push({
+        name: region.name,
+        type: region.type,

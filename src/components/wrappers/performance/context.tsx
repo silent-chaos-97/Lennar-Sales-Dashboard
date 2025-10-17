@@ -11,3 +11,5 @@ export const PerformanceContext = createContext<PerformanceContextValues>({
   performanceState: {} as IscPerformanceState
 })
 
+interface PerformanceProviderProps {
+  timeframe: string

@@ -20,3 +20,4 @@ const RightPane = () => {
     }
   }, [pricingState])
 
+  return (

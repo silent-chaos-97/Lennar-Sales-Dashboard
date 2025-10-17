@@ -27,6 +27,7 @@ export interface JourneyArrayItem {
 export interface SalesItem {
   bed_bath: string
   days_from_completion: string
+  home_size: string
   homesite_image_url: string
   incentive_percent: string
   key_attribute: string
@@ -36,3 +37,4 @@ export interface SalesItem {
   realtor_commission: number
   sale_price: number
   sale_title: string
+  web_content_score: number

@@ -17,7 +17,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       return [
         data?.[key]?.percentile_5 || 0,
         data?.[key]?.percentile_25 || 0,
-        data?.[key]?.percentile_50 || 0,
         data?.[key]?.percentile_75 || 0,
         data?.[key]?.percentile_95 || 0
       ]
@@ -79,3 +78,8 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       .attr(
         'x',
         // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+        (d, i) => xScale(['LEN', 'New Contruction', 'Resale'][i])! + xScale.bandwidth() / 2
+      )
+      .attr('y', height + 20)
+      .attr('text-anchor', 'middle')
+      .text((d, i) => ['LEN', 'New Contruction', 'Resale'][i])

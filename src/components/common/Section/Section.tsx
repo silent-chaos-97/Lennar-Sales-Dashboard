@@ -72,3 +72,7 @@ export const Section = ({
                 alignItems="center"
                 onClick={() => setShowCategoryDropdown(true)}
                 sx={{
+                  cursor: categoryList ? 'pointer' : 'default',
+                  pointerEvents: categoryList ? 'auto' : 'none'
+                }}
+              >

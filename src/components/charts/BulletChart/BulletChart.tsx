@@ -1,6 +1,5 @@
 import { CSSProperties, useMemo } from 'react'
 import Stack from '@mui/material/Stack'
-import BulletBar from './BulletBar'
 import { useAppState } from '@/contexts/StateContext'
 import { PacingBulletBarColors } from '@/types/pacing'
 
@@ -28,3 +27,5 @@ const BulletChart = ({ height = '100%', width = '100%' }: BulletChartProps) => {
       height={height}
       width={width}
       direction="row"
+      sx={{
+        borderBottom: '1px solid rgba(255,255,255,0.18)',

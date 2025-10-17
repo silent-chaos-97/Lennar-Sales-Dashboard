@@ -72,3 +72,7 @@ const AppointmentSet = ({
             }
           }
         }
+      })
+
+      let currentDay = DateTime.now()
+      if (activityTimeframe === 'yesterday') {

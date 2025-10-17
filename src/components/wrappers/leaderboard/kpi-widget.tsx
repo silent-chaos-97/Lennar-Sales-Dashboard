@@ -22,3 +22,5 @@ const KPIWidget = ({
   thirdValue,
   thirdLabel
 }: KPIWidgetProps) => {
+  return (
+    <Box>

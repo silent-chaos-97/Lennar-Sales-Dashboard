@@ -99,3 +99,8 @@ const Performance = () => {
                 100,
               100
             )
+          }
+        ]
+      },
+      {
+        id: 'LEADS_WITH_FOLLOWUP',

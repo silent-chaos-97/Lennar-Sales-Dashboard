@@ -33,7 +33,6 @@ const IndicatorBarChart = ({
     d3.select(`#${id} > *`).remove()
     const svg = d3
       .select(`#${id}`)
-      .attr('width', width + MARGIN.left + MARGIN.right)
       .attr('height', height + MARGIN.top + MARGIN.bottom)
       .append('g')
       .attr('transform', 'translate(' + MARGIN.left + ',' + MARGIN.top + ')')
@@ -61,3 +60,7 @@ const IndicatorBarChart = ({
         .append('path')
         .attr('class', 'bar')
         .attr('fill', '#1ABB96')
+        .attr('d', function (d) {
+          const xVal = x(d.x_axis)
+          const yVal = y(d.gross_sales)
+          const barWidth = x.bandwidth()

@@ -19,6 +19,7 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
   return (
     <Box>
       <Stack direction="row" gap={2} mb={6}>
+        <Stack sx={{ width: 160 }}>
           <CustomTooltip elementName="label-activity-calls">
             <Typography
               variant="body1"
@@ -58,3 +59,6 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
           <CustomTooltip elementName="label-activity-chat-text">
             <Typography
               variant="body1"
+              fontWeight={700}
+              mb={-1.5}
+              color="rgba(255, 255, 255, 0.67)"

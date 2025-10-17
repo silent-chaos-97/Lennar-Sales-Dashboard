@@ -4,7 +4,6 @@ import LMap from '@/components/common/LMap'
 import Stack from '@mui/material/Stack'
 import Typography from '@mui/material/Typography'
 import BulletChart from '@/components/charts/BulletChart'
-import Box from '@mui/material/Box'
 import { styled } from '@mui/material/styles'
 import { useState, useMemo, useEffect, useRef } from 'react'
 import PacingDetails from '../pacing-details/pacing-details'
@@ -26,6 +25,7 @@ const MarkerIcon = styled('div', {
   height: 20,
   width: 20,
   borderWidth: 1,
+  borderStyle: 'solid',
   borderColor: `rbga(255, 255, 255, 0.7)`,
   opacity: props.active ? 1 : 0.3
 }))
@@ -122,3 +122,8 @@ const PacingStatus = ({ mapWrapperRef }) => {
     }
   }, [activePieName])
 
+  const isNonSelected = !activeDots.length
+
+  const handleClickMarker = (dot: SubCohortItem, idx: number) => () => {
+    if (mapWrapperRef.current) {
+      setIdleTimerProgress(0)

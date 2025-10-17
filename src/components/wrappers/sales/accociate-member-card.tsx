@@ -34,3 +34,5 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
             fontWeight={300}
             sx={{ width: 44, textAlign: 'center' }}
             color="grey.300"
+          >
+            {member.national_rank}

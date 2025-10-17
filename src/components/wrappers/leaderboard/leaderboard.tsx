@@ -10,7 +10,6 @@ import { LEADERBOARD_TIMEFRAMES } from '@/types/leaderboards'
 interface IscLeaderBoardProps {
   leaderboardData: LeaderboardObj
   categoryList: Record<string, string>
-}
 
 const LeaderboardItems = ({
   leaderboardItems,
@@ -57,3 +56,36 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
 
     return leaderboardData[activeCategory][activeTimestamp]
   }, [leaderboardData, categoryList, activeTimestamp, activeCategory])
+
+  useEffect(() => {
+    setDisablePrevNext([!activeIdx, activeIdx === leaderboardItems.length - 1])
+  }, [activeIdx, leaderboardItems])
+
+  const handleClickPrev = () => {
+    setActiveIdx((prev) => Math.max(0, (prev || 0) - 1))
+  }
+
+  const handleClickNext = useCallback(() => {
+    setActiveIdx((prev) => Math.min(leaderboardItems.length - 1, (prev || 0) + 1))
+  }, [leaderboardItems])
+
+  const handleSelectTimestamp = (timestamp: string) => {
+    setActiveTimestamp(timestamp)
+  }
+
+  const handleSelectCategory = (category: string) => {
+    setActiveCategory(category)
+  }
+
+  return (
+    <>
+      <Section
+        title={leaderboardData.type}
+        timestamp={activeTimestamp}
+        category={activeCategory}
+        timestampList={LEADERBOARD_TIMEFRAMES}
+        categoryList={categoryList}
+        onSelectTimestamp={handleSelectTimestamp}
+        onSelectCategory={handleSelectCategory}
+      >
+        {currentCohort.type === 'division' ? (

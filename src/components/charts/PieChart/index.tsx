@@ -58,3 +58,6 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
       .outerRadius(radius * 0.6)
 
     svg
+      .selectAll('allSlices')
+      .data(data_ready)
+      .enter()
