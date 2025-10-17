@@ -36,3 +36,5 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
             color="grey.300"
           >
             {member.national_rank}
+          </Typography>
+        </Stack>

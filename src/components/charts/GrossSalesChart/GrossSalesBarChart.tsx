@@ -37,9 +37,12 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
       svg
         .selectAll('.bar')
         .data(data)
+        .enter()
         .append('path')
         .attr('class', 'bar')
         .attr('fill', '#1ABB96')
         .attr('d', (d) => {
           const xVal = x(d.x_axis)
           const yVal = y(d.y_axis)
+          const barWidth = x.bandwidth()
+          const barHeight = height - y(d.y_axis)

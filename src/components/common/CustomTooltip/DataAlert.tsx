@@ -9,7 +9,6 @@ interface DataAlertProps {
   elementName: string
   truncateSize?: number
   isSvg?: boolean
-  children: string
 }
 
 const DataAlert = ({ elementName, truncateSize = 0, isSvg = false, children }: DataAlertProps) => {

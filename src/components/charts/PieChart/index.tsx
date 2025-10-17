@@ -61,3 +61,6 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
       .selectAll('allSlices')
       .data(data_ready)
       .enter()
+      .append('path')
+      .attr('d', arc)
+      .attr('fill', function (d) {

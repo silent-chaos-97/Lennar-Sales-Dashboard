@@ -16,3 +16,4 @@ export function getRandomColor(name: string) {
   const randomIndex = seed % colors.length
   return colors[randomIndex]
 }
+

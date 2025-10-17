@@ -1,6 +1,7 @@
 import CustomTooltip from '@/components/common/CustomTooltip'
 import DataAlert from '@/components/common/CustomTooltip/DataAlert'
 import Box from '@mui/material/Box'
+import Stack from '@mui/material/Stack'
 import Typography from '@mui/material/Typography'
 import SouthEastIcon from '@mui/icons-material/SouthEast'
 import NorthEastIcon from '@mui/icons-material/NorthEast'
@@ -27,3 +28,5 @@ const HourlyActivity = ({
     .toLowerCase()
     .replaceAll(' ', '-')
     .replace(/[^a-zA-Z-]/g, '')
+
+  return (

@@ -70,7 +70,6 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
           </Typography>
           <Stack direction="row" alignItems="center" spacing={3}>
             <Select
-              native={true}
               defaultValue={cycleTimeout}
               onChange={(evt) => {
                 setCycleTimeValue(+evt.target.value)
@@ -88,6 +87,7 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
               <option value={60}>1 min</option>
               <option value={120}>2 min</option>
               <option value={180}>3 min</option>
+              <option value={240}>4 min</option>
               <option value={300}>5 min</option>
               <option value={360}>6 min</option>
               <option value={420}>7 min</option>
@@ -109,3 +109,6 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
               handleDisableRotation(+e.target.value)
             }}
             variant="outlined"
+            sx={{
+              background: '#F2F2F2',
+              color: '#000',

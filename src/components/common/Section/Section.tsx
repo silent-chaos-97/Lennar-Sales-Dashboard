@@ -22,7 +22,6 @@ export const Section = ({
   timestamp,
   category,
   more,
-  timestampList,
   categoryList,
   onSelectTimestamp,
   onSelectCategory,
@@ -76,3 +75,6 @@ export const Section = ({
                   pointerEvents: categoryList ? 'auto' : 'none'
                 }}
               >
+                <Typography variant="caption" color="textSecondary" lineHeight="28px">
+                  {categoryList[category]}
+                </Typography>

@@ -18,7 +18,6 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
   const { currentCohort } = useAppState()
 
   // Get the current date and time in the local time zone
-  const now = DateTime.local().setZone(TIMEZONE[currentCohort.timezone])
 
   // Set the time to 7am today
   const startOfDay = now.startOf('day').set({ hour: 7 })
@@ -28,3 +27,5 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
 
   const filteredData = useMemo(
     () =>
+      data.filter((event) => {
+        const activityTime = DateTime.fromFormat(event.activity_time, 'yyyy-MM-dd HH:mm:ss.SSS')

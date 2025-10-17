@@ -4,6 +4,7 @@ import LMap from '@/components/common/LMap'
 import Stack from '@mui/material/Stack'
 import Typography from '@mui/material/Typography'
 import BulletChart from '@/components/charts/BulletChart'
+import Box from '@mui/material/Box'
 import { styled } from '@mui/material/styles'
 import { useState, useMemo, useEffect, useRef } from 'react'
 import PacingDetails from '../pacing-details/pacing-details'
@@ -127,3 +128,8 @@ const PacingStatus = ({ mapWrapperRef }) => {
   const handleClickMarker = (dot: SubCohortItem, idx: number) => () => {
     if (mapWrapperRef.current) {
       setIdleTimerProgress(0)
+      setPlaying(false)
+
+      setActiveDots([idx])
+      setActivePieName(dot.status)
+      setSelectedPacingItem(dot)

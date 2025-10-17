@@ -38,3 +38,4 @@ export interface SalesItem {
   sale_price: number
   sale_title: string
   web_content_score: number
+  associate_array: AssociateArrayItem[]

@@ -51,3 +51,6 @@ export interface LeaderboardNHCMemberDetail {
 
 export interface LeaderboardMemberDetail
   extends LeaderboardISCMemberDetail,
+    LeaderboardNHCMemberDetail {}
+
+export interface LeaderboardItemValue {

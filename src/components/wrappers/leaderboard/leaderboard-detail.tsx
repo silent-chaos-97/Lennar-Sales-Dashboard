@@ -6,6 +6,7 @@ export interface LeaderboardDetailProps {
   open: boolean
   name: string
   imageUrl: string
+  cohortRank: number
   nationalRank: number
   data?: LeaderboardMemberDetail
   onClose: () => void
@@ -28,3 +29,5 @@ const LeaderboardDetail = ({
   nationalRank,
   disablePrevNext,
   type,
+  activeTimestamp
+}: LeaderboardDetailProps) => {

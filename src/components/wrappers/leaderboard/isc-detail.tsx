@@ -10,6 +10,7 @@ import Section from '@/components/common/Section/Section'
 import PercentValueText from '@/components/common/PercentValueText'
 import ChevronLeftIcon from '@mui/icons-material/ChevronLeft'
 import ChevronRightIcon from '@mui/icons-material/ChevronRight'
+import CloseIcon from '@mui/icons-material/Close'
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward'
 import PerformanceBar from '@/components/charts/PerformanceBar'
 import { MemberDetailValue } from '@/types/leaderboards'
@@ -170,3 +171,11 @@ const ISCDetail = ({
               <IconButton onClick={onPrev}>
                 <ChevronLeftIcon htmlColor="#dde3f6" opacity={disablePrevNext[0] ? 0.25 : 1} />
               </IconButton>
+              <IconButton onClick={onNext}>
+                <ChevronRightIcon htmlColor="#dde3f6" opacity={disablePrevNext[1] ? 0.25 : 1} />
+              </IconButton>
+              <IconButton size="large" onClick={onClose}>
+                <CloseIcon htmlColor="#dde3f6" />
+              </IconButton>
+            </Stack>
+          </Stack>

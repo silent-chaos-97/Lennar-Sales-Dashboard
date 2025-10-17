@@ -27,3 +27,4 @@ export interface SubCohortItem {
   latitude: number
   longitude: number
   name: string
+  next_3w_pace: number

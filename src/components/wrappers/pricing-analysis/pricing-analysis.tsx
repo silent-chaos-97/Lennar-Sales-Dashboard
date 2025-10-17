@@ -36,6 +36,7 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
     return 'error'
   }
 
+  return (
     <Section
       title="Pricing Analysis"
       timestamp="Last 1W"
@@ -74,3 +75,5 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
                   )}
                 </>
               )}
+              <Typography
+                variant="subtitle1"

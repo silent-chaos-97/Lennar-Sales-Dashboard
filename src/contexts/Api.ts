@@ -18,3 +18,4 @@ export const fetchMetrics = async () => {
 export const fetchRegions = async () => {
   try {
     const res = await axios.get(API_URL + '/api/cohorts')
+    return res.data

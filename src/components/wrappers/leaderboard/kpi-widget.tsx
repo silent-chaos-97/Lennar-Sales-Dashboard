@@ -24,3 +24,4 @@ const KPIWidget = ({
 }: KPIWidgetProps) => {
   return (
     <Box>
+      <Typography variant="caption" color="text.secondary">

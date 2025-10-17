@@ -53,3 +53,6 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .append('g')
         .attr('transform', `translate(0,${chartHeight})`)
         .style('font-size', '12px')
+        .call(xAxis)
+        .call((g) => g.select('.domain').remove())
+        .selectAll('.tick') // select all ticks

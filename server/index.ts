@@ -35,3 +35,5 @@ function sanitizeFilename(filename: string) {
   // Replace unsafe characters with underscores
   return filename.replace(/[^a-zA-Z0-9-_]/g, '_')
 }
+
+app.get('/api/data', async (req, res) => {

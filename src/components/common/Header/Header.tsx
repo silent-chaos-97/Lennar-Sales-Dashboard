@@ -157,3 +157,10 @@ const Header = () => {
             '[left-start] 67fr [left-end center-start] 80fr [center-end right-start] 67fr [right-end]',
           placeContent: isDesktop || isTriple ? 'unset' : 'center',
           margin: '0 auto'
+        }}
+      >
+        <ScreenWrapper justifyContent={isDesktop || isTriple ? 'center' : 'flex-end'}>
+          <Box
+            display="flex"
+            alignItems="center"
+            justifyContent="center"

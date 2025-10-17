@@ -29,6 +29,7 @@ const Screen = styled('div')({
   height: 0,
   paddingTop: 1350,
   position: 'relative'
+})
 
 const InnerScreen = styled('div')({
   position: 'absolute',
@@ -83,3 +84,40 @@ const MainLayout = () => {
         setScreenMode(ScreenMode.desktop)
         break
     }
+
+    switch (searchParams.get('pane')) {
+      case 'sales':
+        setCurrentScreen(ScreenPanes.sales)
+        break
+      case 'pacing':
+        setCurrentScreen(ScreenPanes.pacing)
+        break
+      default:
+        setCurrentScreen(ScreenPanes.leads)
+        break
+    }
+  }
+
+  useEffect(() => {
+    const conhortName = searchParams.get('cohort')
+    if (conhortName) {
+      const cohortObject = cohorts.find((cohort) => cohort.name === conhortName)
+      if (cohortObject) {
+        setPlaying(false)
+        setCurrentCohort(cohortObject)
+        setPrevSelectedDivisionType('')
+      }
+    }
+    adjustMode()
+    document.addEventListener('resize', adjustMode)
+    return () => {
+      document.removeEventListener('resize', adjustMode)
+    }
+  }, [cohorts])
+
+  const calculateZoomRate = useCallback(() => {
+    if (width) {
+      const standardWidth =
+        mode === ScreenMode.desktop ? 2400 : mode === ScreenMode.triple_monitor ? 7200 : 6420
+      const zoom = width <= standardWidth ? width / standardWidth : 1
+      const standardHeight = 1350

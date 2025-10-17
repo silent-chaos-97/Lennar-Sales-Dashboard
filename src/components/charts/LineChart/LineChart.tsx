@@ -57,3 +57,6 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         .y((d) => yScale(d))
 
       // Define the gradient area
+      svg
+        .append('defs')
+        .append('linearGradient')

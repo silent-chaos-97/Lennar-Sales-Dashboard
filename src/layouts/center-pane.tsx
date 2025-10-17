@@ -46,6 +46,7 @@ const CenterPane = () => {
     height: number
     x: number
     y: number
+  } | null>(null)
   const [mapViewState, setMapViewState] = useState({
     latitude: currentCohort.latitude,
     longitude: currentCohort.longitude - LONGITUDE_DELTA[currentCohort.type],
@@ -171,3 +172,11 @@ const CenterPane = () => {
         const coordinates: mapboxgl.LngLatBoundsLike = [
           { lat: minLat, lng: minLng },
           { lat: maxLat, lng: maxLng }
+        ]
+
+        // padding is in pixels. we can assign the left and right to be the pixel sizes of the existing elements
+        mapRef.current.fitBounds(coordinates, options)
+
+        mapRef.current.getMap().on('moveend', () => {
+          if (firstMarkerRef.current) {
+            handleClickMarker(

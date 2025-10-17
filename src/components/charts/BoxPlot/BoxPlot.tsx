@@ -17,6 +17,7 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       return [
         data?.[key]?.percentile_5 || 0,
         data?.[key]?.percentile_25 || 0,
+        data?.[key]?.percentile_50 || 0,
         data?.[key]?.percentile_75 || 0,
         data?.[key]?.percentile_95 || 0
       ]
@@ -83,3 +84,7 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       .attr('y', height + 20)
       .attr('text-anchor', 'middle')
       .text((d, i) => ['LEN', 'New Contruction', 'Resale'][i])
+
+    const boxWidth = 44
+
+    function showTooltip(d: d3.NumberValue, boxCenter: number, idx: number) {

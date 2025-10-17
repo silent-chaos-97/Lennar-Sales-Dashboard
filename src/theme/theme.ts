@@ -178,3 +178,12 @@ export const theme = createTheme({
         padding: 6px;
         border-radius: 4px;
         white-space: pre-line;
+        font-size: 16px;
+        font-weight: 700;
+        font-family: mabry-pro;
+        background-color: #191d26d9;
+        box-shadow: 2px 4px 8px 0 rgba(0,0,0,0.25);
+        line-height: 1.3;
+        &:after {
+          content: "";
+          position: absolute;

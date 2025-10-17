@@ -8,6 +8,7 @@ interface LMapProps {
   mapViewState: {
     latitude: number
     longitude: number
+    zoom: number
   }
   padding?: {
     top: number
@@ -23,6 +24,6 @@ interface LMapProps {
 }
 
 const LMap: React.FC<LMapProps> = ({
-  mapViewState,
   padding,
   style,
+  setMapViewState,

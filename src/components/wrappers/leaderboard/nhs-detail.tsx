@@ -118,3 +118,9 @@ const NHSDetail = ({
                       <Typography fontSize={28} fontWeight={700}>
                         {name.split(' ')[0][0] + name.split(' ')[1][0]}
                       </Typography>
+                    </Avatar>
+                  </Stack>
+                </Grid>
+                <Grid item xs={4.65} sx={{ ml: 8 }}>
+                  <CustomTooltip elementName="label-nhc-net-revenue">
+                    <Typography variant="caption" color="text.secondary" fontWeight={500}>

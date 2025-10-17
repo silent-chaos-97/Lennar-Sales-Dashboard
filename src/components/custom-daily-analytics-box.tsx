@@ -17,3 +17,4 @@ const CustomDailyAnalyticsBox = ({
   unit = '',
   isDecreaseBenefit = false
 }: CustomDailyAnalyticsBoxProps) => {
+  const diffColor = useMemo(() => {

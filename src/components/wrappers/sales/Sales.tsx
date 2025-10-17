@@ -42,6 +42,7 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
     <Wrapper>
       <Section
         title="Sales"
+        timestamp={SALES_TIMEFRAMES[salesTimeframe]}
         onSelectTimestamp={setSalesTimeframe}
         timestampList={SALES_TIMEFRAMES}
         more={
@@ -68,3 +69,6 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
           diffPercent={salesState?.RETAIL_SALES?.percent_change || 0}
         />
         <DailyAnalyticsBox
+          title="Net sales"
+          value={salesState?.NET_SALES?.value || 0}
+          grossValue={salesState?.GROSS_SALES?.value || 0}

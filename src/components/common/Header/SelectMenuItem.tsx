@@ -1,4 +1,5 @@
 import List from '@mui/material/List'
+import ListItem from '@mui/material/ListItem'
 import ListItemText from '@mui/material/ListItemText'
 import ListItemButton from '@mui/material/ListItemButton'
 import ListItemIcon from '@mui/material/ListItemIcon'
@@ -8,7 +9,6 @@ import { SubRegion } from '@/types/cohort'
 interface SelectMenuItemProps {
   item: SubRegion
   onSelectMenu: (menu: SubRegion) => void
-}
 
 const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
   const hasSubItems = item?.divisions && !!item.divisions?.length
@@ -28,3 +28,4 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
             lineHeight: 2,
             color: 'grey.300',
             cursor: 'pointer',
+            '&:hover': {

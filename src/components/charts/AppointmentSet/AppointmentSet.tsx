@@ -76,3 +76,7 @@ const AppointmentSet = ({
 
       let currentDay = DateTime.now()
       if (activityTimeframe === 'yesterday') {
+        currentDay = currentDay.minus({ days: 1 })
+      } else if (activityTimeframe === 'prev_week') {
+        currentDay = currentDay.minus({ days: 7 })
+      }

@@ -12,7 +12,6 @@ interface BarProps {
   color?: string
   change: number
 }
-
 interface TrackProps {
   color?: string
   percent: number
@@ -24,3 +23,4 @@ const Track = styled('span', {
   height: 12,
   borderRadius: '0 8px 8px 0',
   background: color || '#fff',
+  width: `${percent}%`,

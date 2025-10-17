@@ -82,6 +82,7 @@ class SnowflakeService {
                       .map((sub_division) => ({
                         type: sub_division.COHORT_TYPE,
                         name: sub_division.COHORT,
+                        latitude: sub_division.LATITUDE,
                         longitude: sub_division.LONGITUDE,
                         timezone: sub_division.TIME_ZONE
                       }))
@@ -97,3 +98,8 @@ class SnowflakeService {
 
                 return {
                   type: rRow.COHORT_TYPE,
+                  name: rRow.COHORT,
+                  latitude: rRow.LATITUDE,
+                  longitude: rRow.LONGITUDE,
+                  timezone: rRow.TIME_ZONE,
+                  divisions: [...divisions, ...subRegions]

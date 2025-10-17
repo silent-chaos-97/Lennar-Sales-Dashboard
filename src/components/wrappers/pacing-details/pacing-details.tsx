@@ -92,3 +92,7 @@ const List = ({ list, choose, showList }: ListProps) => {
                 </Stack>
               </Stack>
             </Stack>
+          ))}
+        </Scrollbar>
+      </Stack>
+    </Box>

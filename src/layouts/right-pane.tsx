@@ -21,3 +21,4 @@ const RightPane = () => {
   }, [pricingState])
 
   return (
+    <Box width={1888}>

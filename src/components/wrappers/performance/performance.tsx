@@ -104,3 +104,7 @@ const Performance = () => {
       },
       {
         id: 'LEADS_WITH_FOLLOWUP',
+        data: [
+          {
+            x: 'Leads with follow-up',
+            y: Math.min(

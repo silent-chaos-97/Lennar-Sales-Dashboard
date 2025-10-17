@@ -30,3 +30,4 @@ const PacingAnalysis = () => {
               <Typography variant="caption" color="text.secondary" fontWeight={500}>
                 <DataAlert elementName="pacing-past-3w-sales">Past 3W sales</DataAlert>
               </Typography>
+            </CustomTooltip>

@@ -102,3 +102,8 @@ export const StateProvider = (props: PropsWithChildren) => {
       cohorts.push({
         name: region.name,
         type: region.type,
+        latitude: region.latitude,
+        longitude: region.longitude,
+        timezone: region.timezone
+      })
+

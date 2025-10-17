@@ -118,6 +118,7 @@ class SnowflakeService {
             current_activity_timeframe: `select * from homebase.corp_hub_timeframe_current_activity_json WHERE COHORT = '${cohort}' AND COHORT_TYPE = '${cohort_type}';`,
             sales_timeframe: `select * from homebase.corp_hub_timeframe_sales_json WHERE COHORT = '${cohort}' AND COHORT_TYPE = '${cohort_type}';`,
             pacing: `select * from homebase.corp_hub_pacing_json WHERE COHORT = '${cohort}' AND COHORT_TYPE = '${cohort_type}';`,
+// Temp comment
             pricing: `select * from homebase.corp_hub_pricing_json WHERE COHORT = '${cohort}' AND COHORT_TYPE = '${cohort_type}';`,
             insights: `select * from homebase.corp_hub_insights_json WHERE COHORT = '${cohort}' AND COHORT_TYPE = '${cohort_type}';`
         };

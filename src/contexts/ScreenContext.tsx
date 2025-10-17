@@ -22,3 +22,4 @@ interface ScreenContextValues {
 }
 
 const ScreenContext = createContext<ScreenContextValues>({
+  mode: ScreenMode.triple_monitor,

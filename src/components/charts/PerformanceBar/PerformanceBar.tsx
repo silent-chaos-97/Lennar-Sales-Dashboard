@@ -24,6 +24,7 @@ const Track = styled('div', {
   background: color || '#fff',
   height: `${percent}%`,
   transform: 'height 0.2s ease-in'
+}))
 
 const GoalLine = styled('div', {
   shouldForwardProp: (prop) => !['color', 'percent', 'goal'].includes(prop as string)
@@ -54,3 +55,5 @@ interface PerformanceBarProps {
   missed?: number
 }
 
+const PerformanceBar = ({
+  color = 'red',

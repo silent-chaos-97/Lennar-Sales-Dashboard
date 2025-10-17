@@ -29,6 +29,8 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
       <Stack direction="row" spacing={4}>
         <HourlyActivity
           title="Web visitors"
+          tickers={data?.HOURLY_WEB_VISITORS_ARRAY || []}
           total={data?.WEB_VISITORS || 0}
           change={data?.WEB_VISITORS_PERCENT_CHANGE || 0}
           activityTimeframe={activityTimeframe}
+        />

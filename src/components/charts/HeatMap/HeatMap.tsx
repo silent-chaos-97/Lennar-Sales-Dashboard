@@ -16,6 +16,7 @@ type HeatmapProps = {
   ref?: OneRefChangeTime
 }
 
+const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapProps) => {
   const width = cWidth || (size + spacing) * nCol - spacing
   const height = 87 || (size + spacing) * nRow - 1 // 87 is the height of the ActivityChart
   // bounds = area inside the axis
@@ -46,3 +47,5 @@ type HeatmapProps = {
 
   const xScale = useMemo(() => {
     return d3
+      .scaleTime()
+      .range([0, boundsWidth])
