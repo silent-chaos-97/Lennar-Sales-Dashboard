@@ -64,3 +64,4 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
       .append('path')
       .attr('d', arc)
       .attr('fill', function (d) {
+        return color(d.data[0])

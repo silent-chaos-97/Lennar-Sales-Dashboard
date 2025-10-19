@@ -187,3 +187,6 @@ export const theme = createTheme({
         &:after {
           content: "";
           position: absolute;
+          top: 50%;
+          left: 100%;
+          transform: translateY(-50%);

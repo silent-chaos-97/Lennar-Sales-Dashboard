@@ -29,6 +29,7 @@ interface SalesDetailsProps {
   onNext: () => void
   scrollProgress: [boolean, boolean]
 }
+
 const SalesDetails = ({
   svgSize,
   onClose,
@@ -105,3 +106,4 @@ const SalesDetails = ({
                 height: '218px',
                 overflow: 'hidden',
                 mb: 5
+              }}

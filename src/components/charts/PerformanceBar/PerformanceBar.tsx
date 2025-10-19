@@ -57,3 +57,4 @@ interface PerformanceBarProps {
 
 const PerformanceBar = ({
   color = 'red',
+  title,

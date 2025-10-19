@@ -17,3 +17,4 @@ export function getRandomColor(name: string) {
   return colors[randomIndex]
 }
 
+export function getValueChangeTextColor(num: number) {

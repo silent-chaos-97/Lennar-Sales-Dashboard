@@ -88,3 +88,4 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
     const boxWidth = 44
 
     function showTooltip(d: d3.NumberValue, boxCenter: number, idx: number) {
+      const xPos = boxCenter - boxWidth / 2 - 80 // Adjust position as needed

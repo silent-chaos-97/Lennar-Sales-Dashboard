@@ -164,3 +164,5 @@ const Header = () => {
             display="flex"
             alignItems="center"
             justifyContent="center"
+            position="relative"
+            width={isDesktop || isTriple ? '100%' : 2010}

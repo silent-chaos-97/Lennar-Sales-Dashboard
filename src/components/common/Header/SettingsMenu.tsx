@@ -70,6 +70,7 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
           </Typography>
           <Stack direction="row" alignItems="center" spacing={3}>
             <Select
+              native={true}
               defaultValue={cycleTimeout}
               onChange={(evt) => {
                 setCycleTimeValue(+evt.target.value)
@@ -112,3 +113,4 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
             sx={{
               background: '#F2F2F2',
               color: '#000',
+              height: 32,

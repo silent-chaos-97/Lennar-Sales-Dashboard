@@ -179,3 +179,6 @@ const ISCDetail = ({
               </IconButton>
             </Stack>
           </Stack>
+          <Box sx={{ mb: 5 }}>
+            <Section
+              title="Activity"

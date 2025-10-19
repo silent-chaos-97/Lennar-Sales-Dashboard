@@ -133,3 +133,4 @@ const PacingStatus = ({ mapWrapperRef }) => {
       setActiveDots([idx])
       setActivePieName(dot.status)
       setSelectedPacingItem(dot)
+    }

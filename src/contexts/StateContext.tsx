@@ -35,7 +35,6 @@ const StateContext = createContext<StateContextValues>({
   refreshData: () => null,
   cohorts: [],
   locations: [],
-  currentCohort: {
     name: 'National',
     type: 'all',
     latitude: 35.86,
@@ -107,3 +106,5 @@ export const StateProvider = (props: PropsWithChildren) => {
         timezone: region.timezone
       })
 
+      if (region.divisions) {
+        region.divisions.forEach((sub_region) => {

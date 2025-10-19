@@ -80,3 +80,4 @@ const AppointmentSet = ({
       } else if (activityTimeframe === 'prev_week') {
         currentDay = currentDay.minus({ days: 7 })
       }
+

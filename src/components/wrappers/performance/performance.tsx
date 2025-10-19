@@ -108,3 +108,5 @@ const Performance = () => {
           {
             x: 'Leads with follow-up',
             y: Math.min(
+              100,
+              ((performanceState?.LEADS_WITH_FOLLOWUP.percent_value || 0) /

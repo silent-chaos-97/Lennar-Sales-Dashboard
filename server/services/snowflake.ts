@@ -103,3 +103,5 @@ class SnowflakeService {
                   longitude: rRow.LONGITUDE,
                   timezone: rRow.TIME_ZONE,
                   divisions: [...divisions, ...subRegions]
+                }
+              })

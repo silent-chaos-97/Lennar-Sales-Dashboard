@@ -11,6 +11,7 @@ export const PERFORMANCE_COLORS = {
   green: '#009D4F',
   yellow: '#EC9628'
 }
+
 export const STATUS_TEXT_BY_KEY = {
   very_ahead_of_pace: 'Very ahead',
   ahead_of_pace: 'Ahead',
@@ -29,3 +30,4 @@ export const ZOOM_LEVELS = {
 export const PACING_ZOOM_LEVEL = {
   all: 2.5,
   region: 3.3,
+  sub_region: 4,

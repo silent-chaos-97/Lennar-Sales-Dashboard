@@ -34,3 +34,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
           change={data?.WEB_VISITORS_PERCENT_CHANGE || 0}
           activityTimeframe={activityTimeframe}
         />
+        <HourlyActivity

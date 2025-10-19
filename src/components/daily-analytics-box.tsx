@@ -52,3 +52,4 @@ const DailyAnalyticsBox = ({
     } else {
       if (title === 'Gross sales' || grossValue !== 0) {
         return 0
+      } else {

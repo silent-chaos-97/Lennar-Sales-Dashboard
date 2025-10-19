@@ -22,3 +22,4 @@ const RightPane = () => {
 
   return (
     <Box width={1888}>
+      <Grid container spacing={8} pt={4} ref={wrapperRef} sx={{ position: 'relative' }}>

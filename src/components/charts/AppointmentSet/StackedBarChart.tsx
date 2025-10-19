@@ -63,3 +63,4 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
 
     const svg = d3.select(svgRef.current)
     svg.selectAll('*').remove()
+

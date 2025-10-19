@@ -60,3 +60,4 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
       svg
         .append('defs')
         .append('linearGradient')
+        .attr('id', 'gradient')

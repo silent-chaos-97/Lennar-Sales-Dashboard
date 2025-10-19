@@ -24,6 +24,8 @@ interface LMapProps {
 }
 
 const LMap: React.FC<LMapProps> = ({
+  mapViewState,
   padding,
   style,
   setMapViewState,
+  mapRef,

@@ -180,3 +180,6 @@ const CenterPane = () => {
         mapRef.current.getMap().on('moveend', () => {
           if (firstMarkerRef.current) {
             handleClickMarker(
+              clusters[lId],
+              lId
+            )({ currentTarget: firstMarkerRef.current } as React.MouseEvent<HTMLDivElement>)

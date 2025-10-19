@@ -6,7 +6,6 @@ export interface PerformanceItem {
 }
 
 export interface IscPerformanceState {
-  COHORT: string
   COHORT_TYPE: string
   DBT_UPDATED_AT: string
   APPOINTMENTS_KEPT: PerformanceItem

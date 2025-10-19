@@ -256,7 +256,6 @@
             "minzoom": 8,
             "layout": {
                 "line-cap": ["step", ["zoom"], "butt", 11, "round"],
-                "line-join": ["step", ["zoom"], "miter", 11, "round"]
             },
             "paint": {
                 "line-color": "#191d26",
@@ -1269,3 +1268,24 @@
                 "mapbox:group": "Walking, cycling, etc., barriers-bridges"
             },
             "source": "composite",
+            "source-layer": "road",
+            "minzoom": 14,
+            "filter": [
+                "all",
+                ["==", ["get", "type"], "steps"],
+                ["==", ["get", "structure"], "bridge"],
+                ["==", ["geometry-type"], "LineString"]
+            ],
+            "paint": {
+                "line-width": [
+                    "interpolate",
+                    ["exponential", 1.5],
+                    ["zoom"],
+                    15,
+                    1,
+                    16,
+                    1.6,
+                    18,
+                    6
+                ],
+                "line-color": "rgb(54, 67, 90)",

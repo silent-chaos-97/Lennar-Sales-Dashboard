@@ -14,3 +14,4 @@ const NotFound = () => {
             padding: '25px',
             marginTop: 0
           }}
+          width="100%"

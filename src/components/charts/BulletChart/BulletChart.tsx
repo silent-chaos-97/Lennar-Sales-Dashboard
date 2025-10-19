@@ -31,3 +31,4 @@ const BulletChart = ({ height = '100%', width = '100%' }: BulletChartProps) => {
       sx={{
         borderBottom: '1px solid rgba(255,255,255,0.18)',
         flex: 1,
+        width: '100%',

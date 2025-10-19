@@ -22,6 +22,7 @@ export const Section = ({
   timestamp,
   category,
   more,
+  timestampList,
   categoryList,
   onSelectTimestamp,
   onSelectCategory,
@@ -55,7 +56,6 @@ export const Section = ({
 
   return (
     <Box>
-      <Stack
         direction="row"
         alignItems={categoryList ? 'flex-end' : 'baseline'}
         justifyContent="space-between"
@@ -78,3 +78,5 @@ export const Section = ({
                 <Typography variant="caption" color="textSecondary" lineHeight="28px">
                   {categoryList[category]}
                 </Typography>
+                <ArrowDropDownIcon htmlColor="#dde3f6" />
+              </Stack>

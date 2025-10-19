@@ -15,6 +15,7 @@ interface MemberItemProps {
   active?: boolean
   type?: string
 }
+
 const MemberItem = ({
   cohort_rank,
   national_rank,
@@ -39,3 +40,4 @@ const MemberItem = ({
         color: active ? '#AF0' : '#fff'
       }}
       onClick={onOpenDetail && onOpenDetail}
+    >

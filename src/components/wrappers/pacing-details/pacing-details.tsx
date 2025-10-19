@@ -96,3 +96,5 @@ const List = ({ list, choose, showList }: ListProps) => {
         </Scrollbar>
       </Stack>
     </Box>
+  )
+}

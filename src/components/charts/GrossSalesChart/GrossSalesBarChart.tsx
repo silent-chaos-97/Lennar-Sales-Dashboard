@@ -46,3 +46,4 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
           const yVal = y(d.y_axis)
           const barWidth = x.bandwidth()
           const barHeight = height - y(d.y_axis)
+          return barHeight > 0

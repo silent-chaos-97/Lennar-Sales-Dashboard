@@ -28,3 +28,4 @@ export interface SubCohortItem {
   longitude: number
   name: string
   next_3w_pace: number
+  past_3w_sales: number

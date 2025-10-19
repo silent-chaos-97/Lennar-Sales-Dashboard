@@ -124,3 +124,5 @@ const NHSDetail = ({
                 <Grid item xs={4.65} sx={{ ml: 8 }}>
                   <CustomTooltip elementName="label-nhc-net-revenue">
                     <Typography variant="caption" color="text.secondary" fontWeight={500}>
+                      Net revenue
+                    </Typography>
