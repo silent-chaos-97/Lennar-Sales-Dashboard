@@ -42,3 +42,5 @@ const Timeline = ({ journeyData }: TimelineProps) => {
 
     const diffInDays = endDate.diff(startDate, 'days').days
     return diffInDays + 1
+  }, [journeyData])
+

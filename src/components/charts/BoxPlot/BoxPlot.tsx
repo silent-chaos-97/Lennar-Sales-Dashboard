@@ -89,3 +89,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
 
     function showTooltip(d: d3.NumberValue, boxCenter: number, idx: number) {
       const xPos = boxCenter - boxWidth / 2 - 80 // Adjust position as needed
+      const yPos = y(d) - 21
+      const label = boxPlotData[0][2] - Number(d) > 0 ? 'Lower' : 'Higher'
+

@@ -69,3 +69,5 @@ const IndicatorBarChart = ({
           return barHeight > 0
             ? `M ${xVal},${yVal + borderRadius}
                 L ${xVal},${yVal + barHeight}
+                L ${xVal + barWidth},${yVal + barHeight}
+                L ${xVal + barWidth},${yVal + borderRadius}

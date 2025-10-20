@@ -29,3 +29,4 @@ const LMap: React.FC<LMapProps> = ({
   style,
   setMapViewState,
   mapRef,
+  children

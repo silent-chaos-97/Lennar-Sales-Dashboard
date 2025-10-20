@@ -30,3 +30,4 @@ const HourlyActivity = ({
     .replace(/[^a-zA-Z-]/g, '')
 
   return (
+    <Box sx={{ mb: 2 }}>

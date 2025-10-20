@@ -58,3 +58,19 @@ interface PerformanceBarProps {
 const PerformanceBar = ({
   color = 'red',
   title,
+  value = 0,
+  goal = 0,
+  missed = 0
+}: PerformanceBarProps) => {
+  const colors = {
+    red: '#DF5347',
+    green: '#009D4F',
+    yellow: '#EC9628'
+  }
+
+  // Align Goal line with Value text
+  const max = Math.min(goal * 1.35, 105)
+
+  return (
+    <Stack
+      direction="row"

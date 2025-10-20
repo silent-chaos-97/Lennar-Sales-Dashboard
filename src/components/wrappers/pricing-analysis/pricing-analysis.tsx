@@ -77,3 +77,4 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
               )}
               <Typography
                 variant="subtitle1"
+                color={diffColor(priceChanges.lennar)}

@@ -50,3 +50,4 @@ const run = async () => {
           timezone: sub_region.timezone
         })
 
+        if (sub_region.divisions) {

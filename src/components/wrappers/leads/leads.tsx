@@ -35,3 +35,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
           activityTimeframe={activityTimeframe}
         />
         <HourlyActivity
+          title="Total leads"

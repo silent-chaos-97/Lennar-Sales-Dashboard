@@ -114,3 +114,5 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
               background: '#F2F2F2',
               color: '#000',
               height: 32,
+              padding: 0,
+              px: 1,

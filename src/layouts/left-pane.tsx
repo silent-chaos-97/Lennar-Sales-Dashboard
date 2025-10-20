@@ -35,3 +35,4 @@ const LeftPane = () => {
       <Grid container spacing={8} pt={4}>
         <Grid item lg={9}>
           <Section
+            title="Current activity"

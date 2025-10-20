@@ -43,3 +43,5 @@ const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
     green: '#1ABB96'
   }
 
+  const formattedDate = useMemo(() => {
+    const currentDate = DateTime.now()

@@ -77,3 +77,6 @@ export const TimerProvider = (props: PropsWithChildren) => {
               fetchRegionDivisions()
               break
             case Rotate.not:
+              refreshData(false)
+              break
+          }

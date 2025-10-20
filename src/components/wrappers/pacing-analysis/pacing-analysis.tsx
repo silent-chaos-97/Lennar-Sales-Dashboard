@@ -32,3 +32,4 @@ const PacingAnalysis = () => {
               </Typography>
             </CustomTooltip>
 
+            <Typography variant="h1" color="success.light">

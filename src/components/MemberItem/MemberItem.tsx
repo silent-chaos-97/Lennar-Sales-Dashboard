@@ -20,7 +20,6 @@ const MemberItem = ({
   cohort_rank,
   national_rank,
   imageSrc,
-  name,
   divisionName,
   summary,
   onOpenDetail,
@@ -41,3 +40,4 @@ const MemberItem = ({
       }}
       onClick={onOpenDetail && onOpenDetail}
     >
+      <Stack alignItems="center" sx={{ width: 44 }}>

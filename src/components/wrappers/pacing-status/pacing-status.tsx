@@ -134,3 +134,6 @@ const PacingStatus = ({ mapWrapperRef }) => {
       setActivePieName(dot.status)
       setSelectedPacingItem(dot)
     }
+  }
+
+  const handleCloseTooltip = () => {

@@ -48,3 +48,4 @@ const LogoSvg = () => (
       </g>
     </g>
   </svg>
+)

@@ -14,6 +14,7 @@ interface IscActivityProps {
   data: CurrentActivityState
   activityTimeframe: string
 }
+
 const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
   return (
     <Box>
@@ -65,3 +66,5 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
               <DataAlert elementName="label-activity-chat-text" truncateSize={10}>
                 Chats and texts
               </DataAlert>
+            </Typography>
+          </CustomTooltip>

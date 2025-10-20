@@ -182,3 +182,9 @@ const ISCDetail = ({
           <Box sx={{ mb: 5 }}>
             <Section
               title="Activity"
+              timestamp="Today"
+              more={
+                <Stack direction="row" alignItems="center" spacing={1} color="text.secondary">
+                  <ArrowForwardIcon color="inherit" />
+                  <Typography variant="caption" color="text.secondary">
+                    vs same day and time last week

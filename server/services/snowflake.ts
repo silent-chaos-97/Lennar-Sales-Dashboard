@@ -105,3 +105,6 @@ class SnowflakeService {
                   divisions: [...divisions, ...subRegions]
                 }
               })
+
+            connection.destroy(() => {
+              console.log('Cohort Division fetching is finished')

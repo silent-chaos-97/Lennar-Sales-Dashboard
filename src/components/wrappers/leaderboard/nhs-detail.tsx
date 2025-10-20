@@ -126,3 +126,6 @@ const NHSDetail = ({
                     <Typography variant="caption" color="text.secondary" fontWeight={500}>
                       Net revenue
                     </Typography>
+                  </CustomTooltip>
+                  <PercentValueText
+                    value={data?.net_revenue || 0}

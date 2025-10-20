@@ -107,3 +107,6 @@ const SalesDetails = ({
                 overflow: 'hidden',
                 mb: 5
               }}
+            >
+              <img
+                src={salesDetail.homesite_image_url || PhotoHouseImg}

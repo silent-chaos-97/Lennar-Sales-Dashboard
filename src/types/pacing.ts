@@ -29,3 +29,4 @@ export interface SubCohortItem {
   name: string
   next_3w_pace: number
   past_3w_sales: number
+  status: string

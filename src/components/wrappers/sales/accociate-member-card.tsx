@@ -39,3 +39,4 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
           </Typography>
         </Stack>
       ) : (
+        <Stack spacing={0.5} mt={2}>

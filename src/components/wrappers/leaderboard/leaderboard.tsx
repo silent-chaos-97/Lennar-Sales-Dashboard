@@ -27,6 +27,7 @@ const LeaderboardItems = ({
         imageSrc={leader.image_url}
         name={leader.name}
         national_rank={leader.national_rank}
+        summary={leader.summary}
         divisionName={currentCohort.type === 'division' ? undefined : leader.division_name}
         onOpenDetail={() => handleClickDetail(idx)}
         active={activeIdx === idx}

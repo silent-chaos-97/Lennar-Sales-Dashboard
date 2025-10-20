@@ -5,8 +5,8 @@ export interface TickerItem {
 }
 
 export interface HourlyTicker {
+  prev: number
   current: number
-  hour: number
 }
 
 export interface CurrentActivityState {
@@ -22,3 +22,4 @@ export interface CurrentActivityState {
   APPOINTMENT_SET_TICKER_ARRAY: TickerItem[]
   PRIOR_WEEK_APPOINTMENT_SET_TICKER_ARRAY: TickerItem[]
   CALLS_TICKER_ARRAY: TickerItem[] | null
+  CHATS_TEXTS_TICKER_ARRAY: null | TickerItem[]

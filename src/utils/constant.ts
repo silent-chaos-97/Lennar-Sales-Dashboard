@@ -31,3 +31,4 @@ export const PACING_ZOOM_LEVEL = {
   all: 2.5,
   region: 3.3,
   sub_region: 4,
+  division: 22

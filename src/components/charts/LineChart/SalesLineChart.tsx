@@ -46,6 +46,7 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         })
 
       // After defining your xScale and yScale
+      const xAxis = d3.axisBottom(xScale).tickSize(0).tickPadding(30)
 
       // Append the xAxis to your svg
       svg
@@ -56,3 +57,5 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .call((g) => g.select('.domain').remove())
         .selectAll('.tick') // select all ticks
         .select('text') // select the text of each tick
+        .style('fill', (d, i, nodes) => (i === nodes.length - 1 ? '#FFF' : '#70747A')) // change the color based on the condition
+

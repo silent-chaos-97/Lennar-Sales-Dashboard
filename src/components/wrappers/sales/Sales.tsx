@@ -23,6 +23,7 @@ const Wrapper = styled(Box)({
 const StrongText = styled('span')({
   fontWeight: 700
 })
+
 interface SalesProps {
   data: SalesState
   salesTimeframe: string
@@ -72,3 +73,5 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
           value={salesState?.NET_SALES?.value || 0}
           grossValue={salesState?.GROSS_SALES?.value || 0}
           diffPercent={salesState?.NET_SALES?.percent_change || 0}
+          graphData={salesState?.NET_SALES?.graph}
+        />

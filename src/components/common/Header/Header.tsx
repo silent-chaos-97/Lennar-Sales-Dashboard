@@ -37,7 +37,6 @@ const Wrapper = styled('header')(({ theme }) => ({
 }))
 
 const Screen = styled('div')({
-  position: 'relative',
   paddingTop: 104
 })
 
@@ -166,3 +165,8 @@ const Header = () => {
             justifyContent="center"
             position="relative"
             width={isDesktop || isTriple ? '100%' : 2010}
+          >
+            {!isDesktop && <img src="/logo.svg" alt="Lennar" width="144" />}
+            <Stack
+              sx={{ position: 'absolute', left: 56 }}
+              alignItems="center"

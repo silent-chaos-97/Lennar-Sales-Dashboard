@@ -44,3 +44,5 @@ Follow these steps to set up the frontend:
 
 1. Connect the servers using the credentials provided by DSS Team.
   - Dev Server: `ssh {username}@10.252.15.19`
+  - Prod Server: `ssh {username}@10.76.137.10`
+

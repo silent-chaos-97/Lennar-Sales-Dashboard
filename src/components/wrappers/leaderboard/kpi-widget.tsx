@@ -16,7 +16,6 @@ interface KPIWidgetProps {
 const KPIWidget = ({
   title,
   firstValue,
-  firstLabel,
   secondValue,
   secondLabel,
   thirdValue,
@@ -25,3 +24,4 @@ const KPIWidget = ({
   return (
     <Box>
       <Typography variant="caption" color="text.secondary">
+        {title}

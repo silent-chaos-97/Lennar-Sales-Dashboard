@@ -23,7 +23,6 @@ interface SalesDetailsProps {
 }
 interface SalesDetailsListProps {
   idx: number
-  name: string
   status: string
 }
 interface ListProps {
@@ -98,3 +97,6 @@ const List = ({ list, choose, showList }: ListProps) => {
     </Box>
   )
 }
+
+const PacingDetails = ({
+  subPacingData,

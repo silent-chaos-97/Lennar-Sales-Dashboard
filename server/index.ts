@@ -6,6 +6,7 @@ import path from 'path'
 import express, { Express } from 'express'
 import cors from 'cors'
 
+import SnowflakeService from './services/snowflake'
 
 const app: Express = express()
 const port = process.env.PORT
@@ -36,3 +37,4 @@ function sanitizeFilename(filename: string) {
 }
 
 app.get('/api/data', async (req, res) => {
+  const { cohort, cohort_type } = req.query

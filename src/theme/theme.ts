@@ -190,3 +190,9 @@ export const theme = createTheme({
           top: 50%;
           left: 100%;
           transform: translateY(-50%);
+          border-width: 20px;
+          border-style: solid;
+          border-color: transparent transparent transparent #191d26d9;
+          filter: drop-shadow(2px 0px 0px #191d26d9);
+        }
+      }
