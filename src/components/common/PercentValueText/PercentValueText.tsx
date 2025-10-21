@@ -11,7 +11,6 @@ interface PercentValueTextProps {
   prefix?: string
   suffix?: string
   fontWeight?: string
-}
 
 const PercentValueText = ({
   value,

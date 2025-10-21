@@ -87,6 +87,7 @@ const Performance = () => {
   const performanceState = performanceTimeframeState[performanceTimeframe]
 
   const radialData = useMemo(() => {
+    return [
       {
         id: 'BEBACKS_WITH_FOLLOWUP',
         data: [
@@ -112,3 +113,5 @@ const Performance = () => {
                 (performanceState?.LEADS_WITH_FOLLOWUP.goal_value || 100)) *
                 100
             )
+          }
+        ]

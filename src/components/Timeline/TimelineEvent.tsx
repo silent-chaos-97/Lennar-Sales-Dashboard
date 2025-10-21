@@ -45,3 +45,4 @@ const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
 
   const formattedDate = useMemo(() => {
     const currentDate = DateTime.now()
+    const eventDate = DateTime.fromFormat(event.activity_date, 'yyyy-MM-dd')

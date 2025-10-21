@@ -1,5 +1,6 @@
 export interface PerformanceItem {
   color: string
+  goal_value: number
   percent_value: number
   missed?: number
 }
@@ -9,3 +10,4 @@ export interface IscPerformanceState {
   COHORT_TYPE: string
   DBT_UPDATED_AT: string
   APPOINTMENTS_KEPT: PerformanceItem
+  BEBACKS_WITH_FOLLOWUP: PerformanceItem

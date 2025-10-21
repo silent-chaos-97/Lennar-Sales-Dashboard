@@ -56,3 +56,4 @@ export interface LeaderboardMemberDetail
 export interface LeaderboardItemValue {
   cohort_rank: number
   image_url: string
+  name: string

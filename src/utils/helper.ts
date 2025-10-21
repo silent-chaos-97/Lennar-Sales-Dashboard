@@ -1,4 +1,3 @@
-const colors = [
   '#F3722C',
   '#EC9628',
   '#F9C750',
@@ -18,3 +17,4 @@ export function getRandomColor(name: string) {
 }
 
 export function getValueChangeTextColor(num: number) {
+  if (num === 0) return '#ffffff'

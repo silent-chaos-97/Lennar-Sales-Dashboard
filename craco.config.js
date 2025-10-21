@@ -1,4 +1,3 @@
-// Temp comment
 const path = require('path')
 
 module.exports = {
@@ -6,3 +5,4 @@ module.exports = {
     alias: {
       '@': path.resolve(__dirname, 'src/')
     }
+  },

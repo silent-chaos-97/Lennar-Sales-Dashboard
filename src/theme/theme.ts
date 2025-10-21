@@ -196,3 +196,6 @@ export const theme = createTheme({
           filter: drop-shadow(2px 0px 0px #191d26d9);
         }
       }
+
+      .MuiButtonBase-root.MuiButton-root.Mui-disabled {
+        background: #E8E8ED;

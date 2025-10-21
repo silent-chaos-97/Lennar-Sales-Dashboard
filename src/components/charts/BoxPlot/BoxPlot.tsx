@@ -92,3 +92,5 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       const yPos = y(d) - 21
       const label = boxPlotData[0][2] - Number(d) > 0 ? 'Lower' : 'Higher'
 
+      // Show tooltip and position it
+      d3.select(`#${id}-tooltip-${idx}`)

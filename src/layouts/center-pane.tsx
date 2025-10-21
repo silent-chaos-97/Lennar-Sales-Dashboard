@@ -65,6 +65,7 @@ const CenterPane = () => {
     }
   }, [isBetween7and11, salesTimeframeState])
 
+  const [selectedSalesItem, setSelectedSalesItem] = useState<SalesItem | null>(null)
   const [selectedSalesItems, setSelectedSalesItems] = useState<DetailSalesItems[]>([])
   const [clusterIndex, setClusterIndex] = useState<number>(0)
   const [activeDot, setActiveDot] = useState<null | number>(null)
@@ -187,3 +188,6 @@ const CenterPane = () => {
       } else {
         const { latitude, longitude } = currentCohort
         const coordinates: mapboxgl.LngLatBoundsLike = [
+          { lat: latitude, lng: longitude },
+          { lat: latitude, lng: longitude }
+        ]

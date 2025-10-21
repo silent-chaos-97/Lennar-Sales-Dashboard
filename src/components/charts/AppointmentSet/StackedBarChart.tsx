@@ -66,3 +66,4 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
 
     if (!data) {
       return
+    }

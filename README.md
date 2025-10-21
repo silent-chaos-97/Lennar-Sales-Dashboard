@@ -46,3 +46,4 @@ Follow these steps to set up the frontend:
   - Dev Server: `ssh {username}@10.252.15.19`
   - Prod Server: `ssh {username}@10.76.137.10`
 
+    **Note:**

@@ -5,7 +5,6 @@ import Typography from '@mui/material/Typography'
 import IndicatorBarChart from '@/components/charts/IndicatorBarChart/IndicatorBarChart'
 import { useAppState } from '@/contexts/StateContext'
 import CustomTooltip from '@/components/common/CustomTooltip'
-import DataAlert from '@/components/common/CustomTooltip/DataAlert'
 
 const PacingAnalysis = () => {
   const { pacingState } = useAppState()
@@ -33,3 +32,4 @@ const PacingAnalysis = () => {
             </CustomTooltip>
 
             <Typography variant="h1" color="success.light">
+              {Math.round(pacingState?.PAST_3W_SALES || 0).toLocaleString()}/week

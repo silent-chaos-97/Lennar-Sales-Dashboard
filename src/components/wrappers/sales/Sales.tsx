@@ -75,3 +75,4 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
           diffPercent={salesState?.NET_SALES?.percent_change || 0}
           graphData={salesState?.NET_SALES?.graph}
         />
+        <DailyAnalyticsBox

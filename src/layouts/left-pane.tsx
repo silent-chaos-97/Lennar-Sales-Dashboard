@@ -36,3 +36,4 @@ const LeftPane = () => {
         <Grid item lg={9}>
           <Section
             title="Current activity"
+            more={

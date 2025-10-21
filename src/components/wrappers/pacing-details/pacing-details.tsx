@@ -5,7 +5,6 @@ import { useRef, useState } from 'react'
 import { SubCohortItem } from '@/types/pacing'
 import Typography from '@mui/material/Typography'
 import Stack from '@mui/material/Stack'
-import IconButton from '@mui/material/IconButton'
 import CloseIcon from '@mui/icons-material/Close'
 import { STATUS_COLORS, STATUS_TEXT_BY_KEY } from '@/utils/constant'
 import SubPacingLeaderBoard from './sub-leaderboard'
@@ -23,6 +22,7 @@ interface SalesDetailsProps {
 }
 interface SalesDetailsListProps {
   idx: number
+  name: string
   status: string
 }
 interface ListProps {
@@ -100,3 +100,4 @@ const List = ({ list, choose, showList }: ListProps) => {
 
 const PacingDetails = ({
   subPacingData,
+  pacingCohortsList,

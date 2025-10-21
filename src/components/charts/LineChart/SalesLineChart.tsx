@@ -10,7 +10,6 @@ interface LineChartProps {
   height?: number
   data: SalesDetailObject['graph']
 }
-
 const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) => {
   useEffect(() => {
     d3.select(`#${id}`).selectAll('*').remove()
@@ -59,3 +58,4 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .select('text') // select the text of each tick
         .style('fill', (d, i, nodes) => (i === nodes.length - 1 ? '#FFF' : '#70747A')) // change the color based on the condition
 
+      // Define the gradient area

@@ -22,3 +22,4 @@ const CustomTooltip = ({ elementName, children }: CustomTooltipProps) => {
   return (
     <Tooltip
       title={<Typography sx={{ fontSize: '12px' }}>{metric?.definition_tooltip}</Typography>}
+      followCursor

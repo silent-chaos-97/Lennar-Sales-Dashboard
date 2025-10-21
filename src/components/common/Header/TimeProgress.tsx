@@ -8,3 +8,4 @@ const TimeProgress = () => {
 
   const handleToggle = () => {
     setPlaying(!playing)
+  }

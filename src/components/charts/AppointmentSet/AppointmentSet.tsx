@@ -84,3 +84,4 @@ const AppointmentSet = ({
       let monday = currentDay.startOf('week')
       if (isPrevWeek) monday = monday.minus({ days: 7 })
       const weekdays: { weekday: string | null; date: string; total: number; byFrame: number[] }[] =
+        []

@@ -40,3 +40,4 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
         </Stack>
       ) : (
         <Stack spacing={0.5} mt={2}>
+          <Typography

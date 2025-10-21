@@ -188,3 +188,6 @@ const ISCDetail = ({
                   <ArrowForwardIcon color="inherit" />
                   <Typography variant="caption" color="text.secondary">
                     vs same day and time last week
+                  </Typography>
+                </Stack>
+              }

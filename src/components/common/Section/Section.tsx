@@ -54,7 +54,6 @@ export const Section = ({
     return { right: 0 }
   }, [dropdownAlignment])
 
-  return (
     <Box>
       <Stack
         direction="row"
@@ -76,9 +75,12 @@ export const Section = ({
                   pointerEvents: categoryList ? 'auto' : 'none'
                 }}
               >
+                <Typography variant="caption" color="textSecondary" lineHeight="28px">
                   {categoryList[category]}
                 </Typography>
                 <ArrowDropDownIcon htmlColor="#dde3f6" />
               </Stack>
               {showCategoryDropdown && (
                 <ClickAwayListener onClickAway={() => setShowCategoryDropdown(false)}>
+                  <Box
+                    sx={{

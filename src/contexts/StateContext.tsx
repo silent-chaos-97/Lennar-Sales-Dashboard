@@ -10,6 +10,7 @@ import { PricingState } from '@/types/pricing'
 import { InsightState } from '@/types/insights'
 import { MetricsState } from '@/types/metrics'
 import { HTTP_STATUS_CODES } from '@/utils/constant'
+
 interface StateContextValues {
   leaderboards?: LeaderboardsState
   performanceTimeframeState: Record<string, IscPerformanceState>
@@ -111,3 +112,5 @@ export const StateProvider = (props: PropsWithChildren) => {
           cohorts.push({
             name: sub_region.name,
             type: sub_region.type,
+            latitude: sub_region.latitude,
+            longitude: sub_region.longitude,

@@ -43,6 +43,7 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
     const arc = d3
       .arc()
       .innerRadius(0) // This is the size of the donut hole
+      .outerRadius(function (d) {
         if (d.value) {
           radiusFactor -= 0.05
         }
@@ -66,3 +67,4 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
         return color(d.data[0])
       })
       .attr('stroke-width', '2px')
+      .attr('stroke', function (d) {

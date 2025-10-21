@@ -110,3 +110,4 @@ const SalesDetails = ({
             >
               <img
                 src={salesDetail.homesite_image_url || PhotoHouseImg}
+                alt={salesDetail.sale_title}

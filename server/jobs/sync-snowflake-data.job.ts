@@ -51,3 +51,4 @@ const run = async () => {
         })
 
         if (sub_region.divisions) {
+          sub_region.divisions.forEach((division) => {

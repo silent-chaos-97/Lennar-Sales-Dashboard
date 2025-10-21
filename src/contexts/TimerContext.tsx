@@ -80,3 +80,4 @@ export const TimerProvider = (props: PropsWithChildren) => {
               refreshData(false)
               break
           }
+        } else {

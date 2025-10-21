@@ -37,6 +37,7 @@ const Wrapper = styled('header')(({ theme }) => ({
 }))
 
 const Screen = styled('div')({
+  position: 'relative',
   paddingTop: 104
 })
 
@@ -101,7 +102,6 @@ const Header = () => {
 
   const handleTabChange = (event: React.SyntheticEvent, newValue: number) => {
     setCurrentScreen(newValue)
-  }
 
   const isDesktop = mode === ScreenMode.desktop
   const isTriple = mode === ScreenMode.triple_monitor
@@ -170,3 +170,6 @@ const Header = () => {
             <Stack
               sx={{ position: 'absolute', left: 56 }}
               alignItems="center"
+              spacing={2}
+              direction="row"
+            >

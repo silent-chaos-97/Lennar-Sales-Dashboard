@@ -124,7 +124,6 @@ const PacingStatus = ({ mapWrapperRef }) => {
   }, [activePieName])
 
   const isNonSelected = !activeDots.length
-
   const handleClickMarker = (dot: SubCohortItem, idx: number) => () => {
     if (mapWrapperRef.current) {
       setIdleTimerProgress(0)
@@ -137,3 +136,4 @@ const PacingStatus = ({ mapWrapperRef }) => {
   }
 
   const handleCloseTooltip = () => {
+    setActiveDots([])

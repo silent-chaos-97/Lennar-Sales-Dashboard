@@ -8,6 +8,7 @@ import { useMemo, useRef } from 'react'
 import { useAppState } from '@/contexts/StateContext'
 import { NHC_LEADERBOARD_CATEGORIES } from '@/types/leaderboards'
 
+const RightPane = () => {
   const { pricingState, leaderboards } = useAppState()
   const wrapperRef = useRef<HTMLDivElement>(null)
 
@@ -22,3 +23,4 @@ import { NHC_LEADERBOARD_CATEGORIES } from '@/types/leaderboards'
   return (
     <Box width={1888}>
       <Grid container spacing={8} pt={4} ref={wrapperRef} sx={{ position: 'relative' }}>
+        <Grid item lg={3}>

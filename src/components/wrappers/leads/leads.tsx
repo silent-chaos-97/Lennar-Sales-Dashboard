@@ -36,3 +36,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
         />
         <HourlyActivity
           title="Total leads"
+          tickers={data?.HOURLY_LEADS_ARRAY || []}

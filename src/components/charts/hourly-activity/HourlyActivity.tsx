@@ -31,3 +31,4 @@ const HourlyActivity = ({
 
   return (
     <Box sx={{ mb: 2 }}>
+      <CustomTooltip elementName={`label-${id}`}>
