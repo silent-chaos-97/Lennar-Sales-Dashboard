@@ -16,3 +16,4 @@ const TimerProgress = ({ value, playing, onToggle }: TimerProgressProps) => {
       <CircularProgress variant="determinate" value={value} sx={{ color: '#939BA8' }} />
       <Box
         sx={{
+          top: 0,

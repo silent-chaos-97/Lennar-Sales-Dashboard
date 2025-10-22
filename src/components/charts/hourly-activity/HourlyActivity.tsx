@@ -29,6 +29,7 @@ const HourlyActivity = ({
     .replaceAll(' ', '-')
     .replace(/[^a-zA-Z-]/g, '')
 
-  return (
     <Box sx={{ mb: 2 }}>
       <CustomTooltip elementName={`label-${id}`}>
+        <Typography variant="caption" color="text.secondary" sx={{ display: 'block', mb: 1.5 }}>
+          <DataAlert elementName={`label-${id}`} truncateSize={20}>

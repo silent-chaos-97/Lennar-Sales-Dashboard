@@ -6,7 +6,6 @@ import SouthEastIcon from '@mui/icons-material/SouthEast'
 import { getValueChangeTextColor } from '@/utils/helper'
 
 interface BarProps {
-  label: string
   percent?: number
   value: number
   color?: string
@@ -28,3 +27,4 @@ const Track = styled('span', {
   transition: 'width 0.2s ease-in'
 }))
 
+const Bar = ({ label, percent = 0, value, change }: BarProps) => {

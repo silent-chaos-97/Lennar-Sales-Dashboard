@@ -37,7 +37,6 @@ const NHSDetail = ({
   useClickAway(wrapperRef, () => onClose())
 
   return (
-    <Fade in={open}>
       <Box
         sx={{
           position: 'absolute',
@@ -134,3 +133,7 @@ const NHSDetail = ({
                   />
                 </Grid>
                 <Grid item xs={2.45}>
+                  <CustomTooltip elementName="label-nhc-incentives">
+                    <Typography variant="caption" color="text.secondary" fontWeight={500}>
+                      Incentives
+                    </Typography>

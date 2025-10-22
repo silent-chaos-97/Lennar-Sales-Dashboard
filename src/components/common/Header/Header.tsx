@@ -177,3 +177,9 @@ const Header = () => {
               <TimeProgress />
               {!isDesktop && <CurrentTime />}
 
+              {isDesktop && (
+                <Stack
+                  alignItems="center"
+                  sx={{ py: 2 }}
+                  position="relative"
+                  width={isDesktop ? '100%' : 2400}

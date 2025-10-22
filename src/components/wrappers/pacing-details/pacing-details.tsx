@@ -104,3 +104,7 @@ const PacingDetails = ({
   pacingCohortsList,
   onClose,
   onSelect
+}: SalesDetailsProps) => {
+  const wrapperRef = useRef<HTMLDivElement>(null)
+  useClickAway(wrapperRef, () => onClose())
+  const [showList, setShowList] = useState(false)

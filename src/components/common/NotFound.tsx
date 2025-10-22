@@ -16,3 +16,4 @@ const NotFound = () => {
           }}
           width="100%"
         >
+          <img src="/logo.svg" alt="Lennar" width="144" />

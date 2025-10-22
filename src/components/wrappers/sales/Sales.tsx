@@ -77,3 +77,6 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
         />
         <DailyAnalyticsBox
           title="Average net price"
+          value={salesState?.AVG_PRICE?.value || 0}
+          grossValue={salesState?.GROSS_SALES?.value || 0}
+          diffPercent={salesState?.AVG_PRICE?.percent_change || 0}

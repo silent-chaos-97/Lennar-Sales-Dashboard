@@ -102,6 +102,7 @@ const SalesDetails = ({
               borderRadius={1}
               sx={{
                 boxShadow: '6px 2px 4px 0 rgba(0,0,0,0.25)',
+                width: '100%',
                 height: '218px',
                 overflow: 'hidden',
                 mb: 5
@@ -112,3 +113,7 @@ const SalesDetails = ({
                 alt={salesDetail.sale_title}
                 width="100%"
                 height="218px"
+                loading="lazy"
+                style={{
+                  objectFit: 'cover'
+                }}

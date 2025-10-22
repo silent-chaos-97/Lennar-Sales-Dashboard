@@ -61,3 +61,5 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
 
       // Define the gradient area
       svg
+        .append('defs')
+        .append('linearGradient')

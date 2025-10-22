@@ -7,9 +7,9 @@ import { Scrollbar } from 'react-scrollbars-custom'
 interface SubPacingLeaderBoardProps {
   leaders: LeaderboardObj[] | LeaderboardObj
 }
+
 const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
   return (
-    <Stack spacing={2}>
       <Scrollbar
         style={{ height: 1040, width: '100%', paddingRight: 24 }}
         contentProps={{ style: { paddingRight: '25px' } }}
@@ -23,3 +23,4 @@ const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
                   cohort_rank={leader.cohort_rank}
                   imageSrc={leader.image_url}
                   name={leader.name}
+                  national_rank={leader.national_rank}

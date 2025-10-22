@@ -141,3 +141,7 @@ const PacingStatus = ({ mapWrapperRef }) => {
     setActivePieName('')
     setSelectedPacingItem(null)
   }
+
+  const handleClickSlice = (slice: (string | number)[]) => {
+    setActivePieName(slice[0] as string)
+  }

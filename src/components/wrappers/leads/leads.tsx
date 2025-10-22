@@ -1,6 +1,7 @@
 import Stack from '@mui/material/Stack'
 import Box from '@mui/material/Box'
 import Bar from '@/components/charts/Bar/Bar'
+import HourlyActivity from '@/components/charts/hourly-activity'
 import { Typography } from '@mui/material'
 import { useMemo } from 'react'
 import CustomTooltip from '@/components/common/CustomTooltip'
@@ -26,7 +27,6 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
   return (
     <Box width="100%">
       <Stack direction="row" spacing={4}>
-        <HourlyActivity
           title="Web visitors"
           tickers={data?.HOURLY_WEB_VISITORS_ARRAY || []}
           total={data?.WEB_VISITORS || 0}
@@ -37,3 +37,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
           title="Total leads"
           tickers={data?.HOURLY_LEADS_ARRAY || []}
           total={data?.LEADS || 0}
+          change={data?.LEADS_PERCENT_CHANGE || 0}

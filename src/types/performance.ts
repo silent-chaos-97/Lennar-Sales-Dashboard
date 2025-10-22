@@ -3,6 +3,7 @@ export interface PerformanceItem {
   goal_value: number
   percent_value: number
   missed?: number
+}
 
 export interface IscPerformanceState {
   COHORT: string

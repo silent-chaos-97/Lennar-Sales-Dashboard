@@ -56,3 +56,5 @@ const DailyAnalyticsBox = ({
         return ''
       }
     }
+  }, [value, unit, title, grossValue])
+  const displayArrows = useMemo(() => {

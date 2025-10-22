@@ -17,7 +17,6 @@ const PercentValueText = ({
   value,
   change = 0,
   hideChange = false,
-  prefix = '',
   suffix = '',
   fontWeight = ''
 }: PercentValueTextProps) => {

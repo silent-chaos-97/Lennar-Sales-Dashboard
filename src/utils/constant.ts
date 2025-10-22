@@ -33,3 +33,5 @@ export const PACING_ZOOM_LEVEL = {
   sub_region: 4,
   division: 22
 }
+
+export const PACING_MAP_OFFSETS = {

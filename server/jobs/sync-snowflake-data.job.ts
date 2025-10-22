@@ -1,4 +1,5 @@
 import dotenv from 'dotenv'
+dotenv.config()
 import cron from 'node-cron'
 import path from 'path'
 import fs from 'fs'
@@ -52,3 +53,4 @@ const run = async () => {
         if (sub_region.divisions) {
           sub_region.divisions.forEach((division) => {
             sortedCohortList.push({
+              name: division.name,

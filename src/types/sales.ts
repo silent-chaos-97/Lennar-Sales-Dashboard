@@ -40,3 +40,4 @@ export interface SalesItem {
   web_content_score: number
   associate_array: AssociateArrayItem[]
   journey_array?: JourneyArrayItem[]
+  sale_cohort_rank: number

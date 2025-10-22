@@ -45,6 +45,7 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps) => {
           </DataAlert>
         </text>
       </CustomTooltip>
+      <text
         dx={props.textX}
         textAnchor={props.textAnchor}
         dy={22}
@@ -116,3 +117,7 @@ const Performance = () => {
         ]
       },
       {
+        id: 'LEADS_WITH_TRIFECTA',
+        data: [
+          {
+            x: 'Leads with trifecta',

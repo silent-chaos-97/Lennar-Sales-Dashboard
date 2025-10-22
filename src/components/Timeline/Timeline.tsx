@@ -45,3 +45,5 @@ const Timeline = ({ journeyData }: TimelineProps) => {
   }, [journeyData])
 
   const firstTextBody = useMemo(() => {
+    let idx: number | null = null
+    for (let i = 0; i < journeyData.length; i++) {

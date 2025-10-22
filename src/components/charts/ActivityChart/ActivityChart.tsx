@@ -1,4 +1,5 @@
 import Stack from '@mui/material/Stack'
+import Box from '@mui/material/Box'
 import Typography from '@mui/material/Typography'
 import HeatMap from '../HeatMap'
 import { TickerItem } from '@/types/current_activity'
@@ -31,3 +32,5 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
         const activityTime = DateTime.fromFormat(event.activity_time, 'yyyy-MM-dd HH:mm:ss.SSS')
         const activityTimeInMinutes = activityTime.hour * 60 + activityTime.minute
 
+        const startOfDayInMinutes = startOfDay.hour * 60 + startOfDay.minute
+        const endOfDayInMinutes = endOfDay.hour * 60 + endOfDay.minute

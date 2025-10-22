@@ -117,3 +117,7 @@ export const StateProvider = (props: PropsWithChildren) => {
             timezone: sub_region.timezone
           })
 
+          if (sub_region.divisions) {
+            sub_region.divisions.forEach((division) => {
+              cohorts.push({
+                name: division.name,

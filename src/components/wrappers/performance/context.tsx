@@ -15,3 +15,4 @@ interface PerformanceProviderProps {
   timeframe: string
 }
 
+// Create a provider for the new context

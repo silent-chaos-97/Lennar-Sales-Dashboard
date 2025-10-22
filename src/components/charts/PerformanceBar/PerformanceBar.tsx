@@ -32,6 +32,7 @@ const GoalLine = styled('div', {
   width: 48,
   background: color || '#fff',
   height: 4,
+  position: 'absolute',
   top: `${100 - percent}%`,
   transform: `translateY(-${100 - percent}%)`,
   borderRadius: 2,
@@ -73,3 +74,4 @@ const PerformanceBar = ({
   return (
     <Stack
       direction="row"
+      borderBottom={1}

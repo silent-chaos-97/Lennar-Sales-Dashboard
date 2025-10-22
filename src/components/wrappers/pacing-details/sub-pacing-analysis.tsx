@@ -35,5 +35,7 @@ const SubPacingAnalysis = ({
               Prediction
             </Typography>
           </Stack>
+        )
       }
     >
+      <Stack sx={{ mb: 10 }}>

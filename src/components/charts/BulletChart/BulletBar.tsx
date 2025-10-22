@@ -43,3 +43,4 @@ const BulletBar = ({
                 position: 'absolute',
                 height: 8,
                 borderRadius: 1,
+                background: color,

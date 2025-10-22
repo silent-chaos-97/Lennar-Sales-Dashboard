@@ -10,3 +10,4 @@ import { ScreenContextProvider } from './contexts/ScreenContext'
 function App() {
   return (
     <ThemeProvider theme={theme}>
+      <CssBaseline />

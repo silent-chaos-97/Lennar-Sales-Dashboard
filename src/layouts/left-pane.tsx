@@ -37,3 +37,5 @@ const LeftPane = () => {
           <Section
             title="Current activity"
             more={
+              <Stack direction="row" alignItems="center" spacing={1} color="text.secondary">
+                <ArrowForwardIcon color="inherit" />

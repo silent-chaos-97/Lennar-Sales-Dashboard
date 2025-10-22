@@ -132,6 +132,7 @@ class SnowflakeService {
                 connection.execute({
                     sqlText: sqlText,
                     parameters: { MULTI_STATEMENT_COUNT: 7 },
+                    complete: (err, stmt, rows) => {
                         if (err) {
                             console.error('1 Failed to execute statement due to the following error: ' + err.message);
                             return reject(err);
@@ -145,7 +146,6 @@ class SnowflakeService {
                         else if (rows.length === 1) {
                             result[statsKeys[statIdx]] = rows[0];
                         }
-                        else {
                             result[statsKeys[statIdx]] = null;
                         }
                         if (stmt.hasNext()) {

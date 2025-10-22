@@ -32,3 +32,4 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
             '&:hover': {
               color: 'white',
               textDecoration: 'underline'
+            }

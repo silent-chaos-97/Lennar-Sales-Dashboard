@@ -27,3 +27,4 @@ const KPIWidget = ({
       <Typography variant="caption" color="text.secondary">
         {title}
       </Typography>
+      <Grid container direction="row">

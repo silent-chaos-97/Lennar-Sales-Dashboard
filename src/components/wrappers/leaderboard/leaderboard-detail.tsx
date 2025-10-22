@@ -34,3 +34,4 @@ const LeaderboardDetail = ({
   const isISC = type === 'isc-leaderboard'
 
   if (isISC) {
+    return (

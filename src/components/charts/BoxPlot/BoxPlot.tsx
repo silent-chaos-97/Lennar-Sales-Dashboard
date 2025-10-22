@@ -14,7 +14,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
   useEffect(() => {
     // Calculate the domain for the x and y scales
     const boxPlotData = Object.keys(data).map((key: string) => {
-      return [
         data?.[key]?.percentile_5 || 0,
         data?.[key]?.percentile_25 || 0,
         data?.[key]?.percentile_50 || 0,
@@ -96,3 +95,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       d3.select(`#${id}-tooltip-${idx}`)
         .style('display', 'block')
         .style('left', xPos + 'px')
+        .style('top', yPos + 'px')
+        .text(`$${Math.abs(boxPlotData[0][2] - Number(d)).toLocaleString()}\n`)
+        .append('tspan')

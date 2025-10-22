@@ -112,3 +112,7 @@ class SnowflakeService {
 
             resolve(regions)
           }
+        })
+      })
+    })
+  }

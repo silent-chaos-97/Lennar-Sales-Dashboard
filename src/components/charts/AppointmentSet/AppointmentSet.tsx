@@ -30,6 +30,7 @@ const AppointmentSet = ({
       const nWeekdayEvents: Record<string, { total: number; byTimeframe: number[] }> = {}
       data.forEach((event) => {
         if (event.activity_time) {
+          const eventDateTime = DateTime.fromISO(event.activity_time.replace(' ', 'T') + 'Z')
           const weekdate = eventDateTime.toFormat('yyyy-MM-dd')
           const weekday = eventDateTime.weekdayShort
           const hour = eventDateTime.hour
@@ -82,7 +83,9 @@ const AppointmentSet = ({
 
       let monday = currentDay.startOf('week')
       if (isPrevWeek) monday = monday.minus({ days: 7 })
-      const weekdays: { weekday: string | null; date: string; total: number; byFrame: number[] }[] =
         []
       for (let i = 0; i <= 6; i++) {
         const nextWeekday = monday.plus({ days: i }).weekdayShort
+        const nextWeekdayDate = monday.plus({ days: i }).toFormat('yyyy-MM-dd')
+        weekdays.push({
+          weekday: nextWeekday,

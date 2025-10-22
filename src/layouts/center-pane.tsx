@@ -196,3 +196,10 @@ const CenterPane = () => {
     }
   }, [mapRef.current, clusters, currentCohort, points, lId])
 
+  const handleClickMarker =
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    (dot: any, idx: number, manualTrigger?: boolean) => (evt: React.MouseEvent<HTMLDivElement>) => {
+      if (mapWrapperRef.current) {
+        if (manualTrigger) {
+          setIdleTimerProgress(0)
+          setPlaying(false)

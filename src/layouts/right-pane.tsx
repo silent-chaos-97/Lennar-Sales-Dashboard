@@ -24,3 +24,4 @@ const RightPane = () => {
     <Box width={1888}>
       <Grid container spacing={8} pt={4} ref={wrapperRef} sx={{ position: 'relative' }}>
         <Grid item lg={3}>
+          <PacingStatus mapWrapperRef={wrapperRef} />

@@ -79,7 +79,6 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
   }
 
   return (
-    <>
       <Section
         title={leaderboardData.type}
         timestamp={activeTimestamp}

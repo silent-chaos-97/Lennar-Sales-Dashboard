@@ -51,3 +51,5 @@ const LogoSvg = () => (
 )
 
 const RegionSelectMenu = ({ onSelectMenu }: RegionSelectMenuProps) => {
+  const { locations } = useAppState()
+

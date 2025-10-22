@@ -80,3 +80,5 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
                 color={diffColor(priceChanges.lennar)}
                 fontWeight={700}
               >
+                {priceChanges.lennar}%
+              </Typography>

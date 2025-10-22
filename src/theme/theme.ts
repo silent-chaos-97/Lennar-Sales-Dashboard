@@ -204,3 +204,10 @@ export const theme = createTheme({
 
       .pulsatingDot {
         background-color: rgba(28,209,161,0.85);
+        border-radius: 50%;
+        box-sizing: border-box;
+        height: 32px;
+        width: 32px;
+        opacity: 0.85;
+        &.running {
+          background-color: #1ABB96;

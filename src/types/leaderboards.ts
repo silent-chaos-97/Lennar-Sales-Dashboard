@@ -3,6 +3,7 @@ export interface MemberDetailValue {
   goal_value: number
   percent_value: number
 }
+
 export interface LeaderboardISCMemberDetail {
   appt_kept_division_rank: number
   appt_kept_national_rank: number
@@ -56,5 +57,6 @@ export interface LeaderboardItemValue {
   cohort_rank: number
   image_url: string
   name: string
-  division_name: string
   national_rank: number
+  summary: string
+  pop_out_details?: LeaderboardMemberDetail

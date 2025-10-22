@@ -18,3 +18,4 @@ const DataAlert = ({ elementName, truncateSize = 0, isSvg = false, children }: D
   const dataStatus = useMemo(() => {
     if (!metrics?.METRICS) return
     const metric = metrics?.METRICS?.find((m) => m.element_name === elementName)
+    return metric?.data_status

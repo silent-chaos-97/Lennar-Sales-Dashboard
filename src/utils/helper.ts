@@ -19,3 +19,4 @@ export function getRandomColor(name: string) {
 
 export function getValueChangeTextColor(num: number) {
   if (num === 0) return '#ffffff'
+  else if (num > 0) return '#009d4e'

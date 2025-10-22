@@ -65,3 +65,6 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         .attr('y1', '0%')
         .attr('x2', '0%')
         .attr('y2', '100%')
+        .selectAll('stop')
+        .data([
+          { offset: '0%', color: 'rgba(20,122,214,0.5)' },

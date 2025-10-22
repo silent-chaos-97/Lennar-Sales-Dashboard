@@ -121,3 +121,4 @@ const MainLayout = () => {
         mode === ScreenMode.desktop ? 2400 : mode === ScreenMode.triple_monitor ? 7200 : 6420
       const zoom = width <= standardWidth ? width / standardWidth : 1
       const standardHeight = 1350
+      const height = standardHeight * zoom

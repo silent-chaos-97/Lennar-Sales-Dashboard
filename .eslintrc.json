@@ -1,5 +1,6 @@
 {
   "env": {
+    "browser": true,
     "es2021": true,
     "node": true
   },
@@ -16,3 +17,4 @@
     "ecmaFeatures": {
       "jsx": true
     },
+    "ecmaVersion": "latest",

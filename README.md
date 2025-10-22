@@ -5,6 +5,7 @@ This project is a sales dashboard for Lennar, a leading homebuilder in the US. I
 The project is divided into two main parts: the backend and the frontend. The backend is responsible for fetching, processing, and serving data from the Snowflake database. The frontend is a web application that presents the data in a user-friendly format.
 
 
+## Requirements
 
 - `node` 18.x
   - It's recommended to use [nvm](https://github.com/nvm-sh/nvm) for this.
@@ -47,3 +48,5 @@ Follow these steps to set up the frontend:
 
     **Note:**
     - The repository is cloned in `/opt/node/projects` folder.
+    - DNS Certificates are located in `/opt/node/projects/cert_files`.
+    - We use hosting service - Nginx and pm2 for Node.js Process Manager

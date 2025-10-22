@@ -40,3 +40,5 @@ app.get('/api/data', async (req, res) => {
   const { cohort, cohort_type } = req.query
 
   // Sanitize and validate input values
+  const sanitizedCohort = sanitizeFilename(cohort as string)
+  const sanitizedCohortType = sanitizeFilename(cohort_type as string)
