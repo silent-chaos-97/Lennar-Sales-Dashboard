@@ -51,3 +51,4 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
       .range([0, boundsWidth])
       .domain([startOfDay, endOfDay])
       .nice(d3.timeMinute.every(5))
+      .clamp(true)

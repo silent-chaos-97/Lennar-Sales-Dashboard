@@ -81,3 +81,5 @@ export const TimerProvider = (props: PropsWithChildren) => {
               break
           }
         } else {
+          setCycleTimerProgress((prevProgress) => prevProgress + 1)
+        }

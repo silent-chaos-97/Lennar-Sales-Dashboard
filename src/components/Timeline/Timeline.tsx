@@ -9,6 +9,7 @@ import Button from '@mui/material/Button'
 import Stack from '@mui/material/Stack'
 import { styled } from '@mui/material/styles'
 import TimelineEvent from './TimelineEvent'
+import { JourneyArrayItem } from '@/types/sales'
 import { DateTime } from 'luxon'
 import { Scrollbar } from 'react-scrollbars-custom'
 
@@ -43,3 +44,4 @@ const Timeline = ({ journeyData }: TimelineProps) => {
     return diffInDays + 1
   }, [journeyData])
 
+  const firstTextBody = useMemo(() => {

@@ -12,6 +12,7 @@ interface SubPacingAnalysisProps {
   past3WSales: number
   changeNeeded: number
   currentWeekPrediction: number
+}
 
 const SubPacingAnalysis = ({
   weeklyData,
@@ -34,5 +35,5 @@ const SubPacingAnalysis = ({
               Prediction
             </Typography>
           </Stack>
-        )
       }
+    >

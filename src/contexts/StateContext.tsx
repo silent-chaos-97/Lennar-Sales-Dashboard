@@ -114,3 +114,6 @@ export const StateProvider = (props: PropsWithChildren) => {
             type: sub_region.type,
             latitude: sub_region.latitude,
             longitude: sub_region.longitude,
+            timezone: sub_region.timezone
+          })
+

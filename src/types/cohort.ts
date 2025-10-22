@@ -9,3 +9,4 @@ export interface Division {
   type: string
   name: string
   latitude: number
+  longitude: number

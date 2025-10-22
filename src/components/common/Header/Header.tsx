@@ -102,6 +102,7 @@ const Header = () => {
 
   const handleTabChange = (event: React.SyntheticEvent, newValue: number) => {
     setCurrentScreen(newValue)
+  }
 
   const isDesktop = mode === ScreenMode.desktop
   const isTriple = mode === ScreenMode.triple_monitor
@@ -173,3 +174,6 @@ const Header = () => {
               spacing={2}
               direction="row"
             >
+              <TimeProgress />
+              {!isDesktop && <CurrentTime />}
+

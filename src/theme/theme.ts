@@ -199,3 +199,8 @@ export const theme = createTheme({
 
       .MuiButtonBase-root.MuiButton-root.Mui-disabled {
         background: #E8E8ED;
+        border-color: #E8E8ED;
+      }
+
+      .pulsatingDot {
+        background-color: rgba(28,209,161,0.85);

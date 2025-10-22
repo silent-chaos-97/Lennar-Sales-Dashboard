@@ -50,3 +50,4 @@ const LogoSvg = () => (
   </svg>
 )
 
+const RegionSelectMenu = ({ onSelectMenu }: RegionSelectMenuProps) => {

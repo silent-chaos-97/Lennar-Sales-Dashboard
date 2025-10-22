@@ -45,7 +45,6 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps) => {
           </DataAlert>
         </text>
       </CustomTooltip>
-      <text
         dx={props.textX}
         textAnchor={props.textAnchor}
         dy={22}
@@ -115,3 +114,5 @@ const Performance = () => {
             )
           }
         ]
+      },
+      {

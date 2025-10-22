@@ -42,3 +42,4 @@
     "build": "craco build",
     "test": "craco test",
     "lint": "npx eslint src",
+    "lint:fix": "npm run lint -- --fix",

@@ -64,3 +64,4 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         .attr('x1', '0%')
         .attr('y1', '0%')
         .attr('x2', '0%')
+        .attr('y2', '100%')

@@ -76,3 +76,4 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
           graphData={salesState?.NET_SALES?.graph}
         />
         <DailyAnalyticsBox
+          title="Average net price"

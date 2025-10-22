@@ -42,6 +42,7 @@ const IndicatorBarChart = ({
       // Scale the range of the data in the domains
       x.domain(
         data.map((d) => {
+          return d.x_axis
         })
       )
       y.domain([
@@ -71,3 +72,5 @@ const IndicatorBarChart = ({
                 L ${xVal + barWidth},${yVal + barHeight}
                 L ${xVal + barWidth},${yVal + borderRadius}
                 Q ${xVal + barWidth},${yVal} ${xVal + barWidth - borderRadius},${yVal}
+                L ${xVal + borderRadius},${yVal}
+                Q ${xVal},${yVal} ${xVal},${yVal + borderRadius}

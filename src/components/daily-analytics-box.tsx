@@ -55,3 +55,4 @@ const DailyAnalyticsBox = ({
       } else {
         return ''
       }
+    }

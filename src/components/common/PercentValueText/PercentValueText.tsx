@@ -11,6 +11,7 @@ interface PercentValueTextProps {
   prefix?: string
   suffix?: string
   fontWeight?: string
+}
 
 const PercentValueText = ({
   value,
@@ -20,3 +21,4 @@ const PercentValueText = ({
   suffix = '',
   fontWeight = ''
 }: PercentValueTextProps) => {
+  return (

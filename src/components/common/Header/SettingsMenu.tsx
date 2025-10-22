@@ -95,6 +95,7 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
               <option value={480}>8 min</option>
               <option value={540}>9 min</option>
               <option value={600}>10 min</option>
+            </Select>
           </Stack>
         </Stack>
 
@@ -116,3 +117,5 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
               padding: 0,
               px: 1,
               width: '100%'
+            }}
+          >

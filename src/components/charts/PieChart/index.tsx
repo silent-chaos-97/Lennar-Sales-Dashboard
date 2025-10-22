@@ -68,3 +68,5 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
       })
       .attr('stroke-width', '2px')
       .attr('stroke', function (d) {
+        return d.data[0] === activeName ? 'white' : 'none'
+      })

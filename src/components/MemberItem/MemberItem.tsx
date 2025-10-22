@@ -43,3 +43,4 @@ const MemberItem = ({
     >
       <Stack alignItems="center" sx={{ width: 44 }}>
         <Typography variant="h4" fontWeight={700} color="#A5CFEF">
+          {currentCohort.type === 'all' ? national_rank : cohort_rank}

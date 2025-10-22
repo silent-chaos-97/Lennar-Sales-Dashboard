@@ -191,3 +191,8 @@ const CenterPane = () => {
           { lat: latitude, lng: longitude },
           { lat: latitude, lng: longitude }
         ]
+        mapRef.current.fitBounds(coordinates, options)
+      }
+    }
+  }, [mapRef.current, clusters, currentCohort, points, lId])
+

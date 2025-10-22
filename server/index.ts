@@ -28,6 +28,7 @@ const CACHE_DIRECTORY = path.join(__dirname, 'cache')
 
 // Create the cache directory if it doesn't exist
 if (!fs.existsSync(CACHE_DIRECTORY)) {
+  fs.mkdirSync(CACHE_DIRECTORY)
 }
 
 function sanitizeFilename(filename: string) {
@@ -38,3 +39,4 @@ function sanitizeFilename(filename: string) {
 app.get('/api/data', async (req, res) => {
   const { cohort, cohort_type } = req.query
 
+  // Sanitize and validate input values

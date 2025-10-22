@@ -69,3 +69,5 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
             </Typography>
           </CustomTooltip>
           <Stack direction="row" alignItems="flex-end" spacing={1}>
+            <Typography variant="h1">{(data?.TOTAL_CHATS_TEXTS || 0).toLocaleString()}</Typography>
+            <Stack sx={{ pb: 0.75 }}>

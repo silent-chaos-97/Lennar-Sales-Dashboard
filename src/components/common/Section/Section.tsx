@@ -54,6 +54,7 @@ export const Section = ({
     return { right: 0 }
   }, [dropdownAlignment])
 
+  return (
     <Box>
       <Stack
         direction="row"
@@ -84,3 +85,5 @@ export const Section = ({
                 <ClickAwayListener onClickAway={() => setShowCategoryDropdown(false)}>
                   <Box
                     sx={{
+                      position: 'absolute',
+                      px: 2,

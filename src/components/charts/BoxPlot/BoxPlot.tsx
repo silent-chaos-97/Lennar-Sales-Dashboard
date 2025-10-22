@@ -94,3 +94,5 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
 
       // Show tooltip and position it
       d3.select(`#${id}-tooltip-${idx}`)
+        .style('display', 'block')
+        .style('left', xPos + 'px')

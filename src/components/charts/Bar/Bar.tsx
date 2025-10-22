@@ -27,3 +27,4 @@ const Track = styled('span', {
   width: `${percent}%`,
   transition: 'width 0.2s ease-in'
 }))
+
