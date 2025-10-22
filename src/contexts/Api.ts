@@ -21,3 +21,4 @@ export const fetchRegions = async () => {
     return res.data
   } catch (error) {
     console.log('#### Request Error:', (error as Error).message)
+  }

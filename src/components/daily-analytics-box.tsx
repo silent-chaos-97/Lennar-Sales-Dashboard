@@ -57,4 +57,7 @@ const DailyAnalyticsBox = ({
       }
     }
   }, [value, unit, title, grossValue])
+
   const displayArrows = useMemo(() => {
+    if (value !== 0 && diffPercent !== 0) {
+      if (diffPercent > 0) {

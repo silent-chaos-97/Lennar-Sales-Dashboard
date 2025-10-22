@@ -53,3 +53,5 @@ const LogoSvg = () => (
 const RegionSelectMenu = ({ onSelectMenu }: RegionSelectMenuProps) => {
   const { locations } = useAppState()
 
+  return (
+    <Stack sx={{ width: 1260, backgroundColor: 'background.paper', p: 4 }} alignItems="center">

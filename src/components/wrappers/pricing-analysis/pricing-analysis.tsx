@@ -82,3 +82,6 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
               >
                 {priceChanges.lennar}%
               </Typography>
+            </Stack>
+          </Box>
+          <Box flex={1}>

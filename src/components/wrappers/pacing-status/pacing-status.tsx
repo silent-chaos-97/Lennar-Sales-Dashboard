@@ -145,3 +145,8 @@ const PacingStatus = ({ mapWrapperRef }) => {
   const handleClickSlice = (slice: (string | number)[]) => {
     setActivePieName(slice[0] as string)
   }
+
+  const pacingCohortArrayCloned = useMemo(
+    () =>
+      [...pacingCohortArray].sort((a, b) => {
+        const nameA = a.name

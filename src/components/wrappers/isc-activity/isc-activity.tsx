@@ -73,3 +73,6 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
             <Stack sx={{ pb: 0.75 }}>
               {(data?.TOTAL_CHATS_TEXTS_PERCENT_CHANGE || 0) !== 0 &&
                 ((data?.TOTAL_CHATS_TEXTS_PERCENT_CHANGE || 0) > 0 ? (
+                  <NorthEastIcon color="success" />
+                ) : (
+                  <SouthEastIcon color="error" />

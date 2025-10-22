@@ -35,3 +35,4 @@ const LeaderboardDetail = ({
 
   if (isISC) {
     return (
+      <ISCDetail

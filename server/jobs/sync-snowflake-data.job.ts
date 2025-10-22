@@ -13,7 +13,6 @@ if (!fs.existsSync(CACHE_DIRECTORY)) {
   fs.mkdirSync(CACHE_DIRECTORY)
 }
 
-function sanitizeFilename(filename: string) {
   // Replace unsafe characters with underscores
   return filename.replace(/[^a-zA-Z0-9-_]/g, '_')
 }
@@ -54,3 +53,5 @@ const run = async () => {
           sub_region.divisions.forEach((division) => {
             sortedCohortList.push({
               name: division.name,
+              type: division.type,
+              latitude: division.latitude,

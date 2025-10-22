@@ -203,3 +203,11 @@ const CenterPane = () => {
         if (manualTrigger) {
           setIdleTimerProgress(0)
           setPlaying(false)
+        }
+        const offsetTop = Math.round(
+          evt.currentTarget.getBoundingClientRect().top -
+            mapWrapperRef.current.getBoundingClientRect().top
+        )
+
+        const offsetRight = Math.round(
+          mapWrapperRef.current.getBoundingClientRect().right -

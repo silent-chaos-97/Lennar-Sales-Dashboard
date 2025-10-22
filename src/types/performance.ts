@@ -11,3 +11,4 @@ export interface IscPerformanceState {
   DBT_UPDATED_AT: string
   APPOINTMENTS_KEPT: PerformanceItem
   BEBACKS_WITH_FOLLOWUP: PerformanceItem
+  INBOUND_CALLS_ANSWERED: PerformanceItem

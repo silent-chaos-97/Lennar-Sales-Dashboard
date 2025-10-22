@@ -72,3 +72,6 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
       })
       .style('opacity', 0.8)
       .on('click', function (event, d) {
+        onClickSlice(d.data)
+      })
+

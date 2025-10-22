@@ -21,7 +21,6 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps) => {
   const labels = {
     BEBACKS_WITH_FOLLOWUP: 'Be-backs with follow-up',
     LEADS_WITH_FOLLOWUP: 'Leads with follow-up',
-    LEADS_WITH_TRIFECTA: 'Leads with trifecta'
   }
 
   return (
@@ -121,3 +120,8 @@ const Performance = () => {
         data: [
           {
             x: 'Leads with trifecta',
+            y: Math.min(
+              ((performanceState?.LEADS_WITH_TRIFECTA.percent_value || 0) /
+                (performanceState?.LEADS_WITH_TRIFECTA.goal_value || 100)) *
+                100,
+              100

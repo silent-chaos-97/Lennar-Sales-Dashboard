@@ -25,7 +25,6 @@ Follow these steps to set up the backend:
 1. Clone the repository using `git clone`.
 2. Navigate to the server directory and copy the example environment file to a new `.env` file: `cd server && cp .env.example .env`.
 3. Update the environment variables in `.env` with your Snowflake credentials.
-4. Install the necessary dependencies with `npm i`.
 5. Build the project with `npm run build`.
 6. Fetch the cache data from Snowflake with `npm run start-cron:now`.
 7. Start the backend server with `npm start`.
@@ -50,3 +49,5 @@ Follow these steps to set up the frontend:
     - The repository is cloned in `/opt/node/projects` folder.
     - DNS Certificates are located in `/opt/node/projects/cert_files`.
     - We use hosting service - Nginx and pm2 for Node.js Process Manager
+
+2. To update the project, navigate to the project folder and pull the latest changes (you can skip this step if only restarting processes is required).

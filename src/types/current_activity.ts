@@ -25,3 +25,4 @@ export interface CurrentActivityState {
   CALLS_TICKER_ARRAY: TickerItem[] | null
   CHATS_TEXTS_TICKER_ARRAY: null | TickerItem[]
   LEADS_BY_CHANNEL: {
+    paid: number

@@ -122,3 +122,4 @@ const MainLayout = () => {
       const zoom = width <= standardWidth ? width / standardWidth : 1
       const standardHeight = 1350
       const height = standardHeight * zoom
+      if (standardHeight * zoom > window.innerHeight) {

@@ -189,7 +189,6 @@ export const theme = createTheme({
           position: absolute;
           top: 50%;
           left: 100%;
-          transform: translateY(-50%);
           border-width: 20px;
           border-style: solid;
           border-color: transparent transparent transparent #191d26d9;
@@ -211,3 +210,11 @@ export const theme = createTheme({
         opacity: 0.85;
         &.running {
           background-color: #1ABB96;
+          box-shadow: 0 4px 12px 0 rgba(0,0,0,0.5);
+          border: 4px solid #FFFFFF;
+          opacity: 1;
+          padding: 4px;
+        }
+      }
+
+      .dot {

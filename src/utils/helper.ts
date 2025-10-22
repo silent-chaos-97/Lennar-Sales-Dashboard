@@ -15,8 +15,8 @@ export function getRandomColor(name: string) {
   const seed = name.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0)
   const randomIndex = seed % colors.length
   return colors[randomIndex]
-}
 
 export function getValueChangeTextColor(num: number) {
   if (num === 0) return '#ffffff'
   else if (num > 0) return '#009d4e'
+  return '#e44d4d'

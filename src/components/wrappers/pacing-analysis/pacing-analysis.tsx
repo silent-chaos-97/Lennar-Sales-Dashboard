@@ -9,7 +9,6 @@ import DataAlert from '@/components/common/CustomTooltip/DataAlert'
 
 const PacingAnalysis = () => {
   const { pacingState } = useAppState()
-
   return (
     <Section
       title="Pacing Analysis"
@@ -17,6 +16,7 @@ const PacingAnalysis = () => {
       more={
         <Stack direction="row" alignItems="center" spacing={0.5}>
           <Box width={24} height={4} borderRadius={2} bgcolor="#1ABB96" />
+          <Typography variant="caption" color="textSecondary">
             Prediction
           </Typography>
         </Stack>
@@ -35,3 +35,4 @@ const PacingAnalysis = () => {
               {Math.round(pacingState?.PAST_3W_SALES || 0).toLocaleString()}/week
             </Typography>
           </Box>
+          <Box flex={1}>

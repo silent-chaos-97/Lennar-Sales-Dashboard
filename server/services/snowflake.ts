@@ -55,7 +55,6 @@ class SnowflakeService {
                 const divisions = rows
                   .filter(
                     (dRow) =>
-                      dRow.COHORT_TYPE === 'division' &&
                       dRow.REGION === rRow.REGION &&
                       !dRow.SUB_REGION
                   )
@@ -116,3 +115,8 @@ class SnowflakeService {
       })
     })
   }
+
+  getCohortData(cohort: string, cohort_type: string) {
+    const result: Record<string, unknown> = {}
+    let statIdx = 0
+    const statsKeys = [

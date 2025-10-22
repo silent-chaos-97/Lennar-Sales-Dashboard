@@ -36,3 +36,4 @@ const BulletChart = ({ height = '100%', width = '100%' }: BulletChartProps) => {
         mb: 3
       }}
       justifyContent="space-between"
+    >

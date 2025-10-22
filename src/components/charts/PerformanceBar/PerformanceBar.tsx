@@ -75,3 +75,4 @@ const PerformanceBar = ({
     <Stack
       direction="row"
       borderBottom={1}
+      flex={1}

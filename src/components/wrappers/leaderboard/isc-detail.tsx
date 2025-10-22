@@ -184,7 +184,6 @@ const ISCDetail = ({
               title="Activity"
               timestamp="Today"
               more={
-                <Stack direction="row" alignItems="center" spacing={1} color="text.secondary">
                   <ArrowForwardIcon color="inherit" />
                   <Typography variant="caption" color="text.secondary">
                     vs same day and time last week
@@ -202,3 +201,11 @@ const ISCDetail = ({
                       <Typography variant="body1" color="#A5CFEF">
                         {nationalRank}
                       </Typography>
+                    </Stack>
+                    <Avatar
+                      sx={{
+                        width: 96,
+                        height: 96,
+                        bgcolor: getRandomColor(name),
+                        color: 'primary.contrastText'
+                      }}

@@ -63,3 +63,6 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
       svg
         .append('defs')
         .append('linearGradient')
+        .attr('id', 'gradient')
+        .attr('x1', '0%')
+        .attr('y1', '0%')

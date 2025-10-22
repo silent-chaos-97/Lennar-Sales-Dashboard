@@ -54,7 +54,6 @@ export const Section = ({
     return { right: 0 }
   }, [dropdownAlignment])
 
-  return (
     <Box>
       <Stack
         direction="row"
@@ -90,3 +89,6 @@ export const Section = ({
                       pt: 2,
                       left: 0,
                       zIndex: 100,
+                      borderRadius: '8px',
+                      backgroundColor: '#212936',
+                      boxShadow: '0 8px 16px 0 rgba(0,0,0,0.80)',

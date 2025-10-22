@@ -41,3 +41,4 @@ export interface SalesItem {
   associate_array: AssociateArrayItem[]
   journey_array?: JourneyArrayItem[]
   sale_cohort_rank: number
+}

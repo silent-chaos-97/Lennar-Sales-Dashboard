@@ -65,6 +65,7 @@
           "percent_value": 0
         },
         "LEADS_WITH_APPOINTMENT_SET": {
+          "color": "red",
           "goal_value": 13,
           "percent_value": 0
         },
@@ -887,3 +888,29 @@
       "MTD": {
         "COHORT": "Bay Area Urban",
         "COHORT_TYPE": "division",
+        "TIMEFRAME": "MTD",
+        "DETAIL_SALES_ARRAY": [],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 6
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 6
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 2
+            }
+          ],
+          "percent_change": -66.7,

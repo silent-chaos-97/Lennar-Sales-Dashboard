@@ -8,6 +8,7 @@ export interface WeeklyPacingItem {
   x_axis: string
   sort: number
 }
+
 interface AvailableHomes {
   black_homes: number
   green_homes: number
@@ -31,3 +32,4 @@ export interface SubCohortItem {
   status: string
   color: string
   current_week_prediction?: number
+  change_needed_to_meet_pace: number

@@ -22,7 +22,6 @@ import CustomTooltip from '@/components/common/CustomTooltip'
 
 const NHSDetail = ({
   open,
-  name,
   onPrev,
   onNext,
   onClose,
@@ -37,6 +36,7 @@ const NHSDetail = ({
   useClickAway(wrapperRef, () => onClose())
 
   return (
+    <Fade in={open}>
       <Box
         sx={{
           position: 'absolute',
@@ -137,3 +137,9 @@ const NHSDetail = ({
                     <Typography variant="caption" color="text.secondary" fontWeight={500}>
                       Incentives
                     </Typography>
+                  </CustomTooltip>
+                  <PercentValueText value={data?.incentive_rate || 0} hideChange suffix="%" />
+                </Grid>
+                <Grid item xs={1.5}>
+                  <CustomTooltip elementName="label-nhc-realtor-commission">
+                    <Typography variant="caption" color="text.secondary" fontWeight={500}>

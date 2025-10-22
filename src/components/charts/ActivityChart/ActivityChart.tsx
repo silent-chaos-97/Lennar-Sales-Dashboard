@@ -34,3 +34,4 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
 
         const startOfDayInMinutes = startOfDay.hour * 60 + startOfDay.minute
         const endOfDayInMinutes = endOfDay.hour * 60 + endOfDay.minute
+

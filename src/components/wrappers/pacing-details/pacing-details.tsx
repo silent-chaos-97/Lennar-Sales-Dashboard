@@ -53,7 +53,6 @@ const List = ({ list, choose, showList }: ListProps) => {
         color: '#ddd'
       }}
     >
-      <Stack>
         <Scrollbar
           style={{
             maxHeight: 1040,
@@ -108,3 +107,46 @@ const PacingDetails = ({
   const wrapperRef = useRef<HTMLDivElement>(null)
   useClickAway(wrapperRef, () => onClose())
   const [showList, setShowList] = useState(false)
+
+  return (
+    <Fade in={true}>
+      <Box
+        sx={{
+          position: 'absolute',
+          left: 0,
+          top: 0,
+          bottom: 0,
+          right: 0,
+          bgcolor: 'rgba(33,41,54,0.67)',
+          zIndex: 99
+        }}
+      >
+        <Box
+          sx={{
+            position: 'absolute',
+            top: 80,
+            width: 1500,
+            left: '50%',
+            transform: 'translate(-50%)',
+            bgcolor: 'background.paper',
+            zIndex: 20,
+            px: 3,
+            py: 2.5,
+            borderRadius: 2,
+            boxShadow: '0 8px 16px 0 rgba(0,0,0,0.5)'
+          }}
+          ref={wrapperRef}
+        >
+          <Stack direction="row" sx={{ mb: 5 }} alignItems="center" justifyContent="space-between">
+            <Stack>
+              <Stack
+                onClick={() => setShowList((prev) => !prev)}
+                direction="row"
+                alignItems="center"
+                spacing={1}
+                sx={{
+                  cursor: 'pointer',
+                  zIndex: 100
+                }}
+              >
+                <Typography variant="h3" fontWeight={700}>

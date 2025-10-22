@@ -28,3 +28,4 @@ const KPIWidget = ({
         {title}
       </Typography>
       <Grid container direction="row">
+        <Grid item minWidth={75}>

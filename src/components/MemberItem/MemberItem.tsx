@@ -27,7 +27,6 @@ const MemberItem = ({
   active
 }: MemberItemProps) => {
   const { currentCohort } = useAppState()
-  return (
     <Stack
       direction="row"
       spacing={1.5}
@@ -45,3 +44,5 @@ const MemberItem = ({
         <Typography variant="h4" fontWeight={700} color="#A5CFEF">
           {currentCohort.type === 'all' ? national_rank : cohort_rank}
         </Typography>
+        {currentCohort.type !== 'all' && (
+          <Typography variant="body1" color="#A5CFEF">

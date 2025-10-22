@@ -2,6 +2,7 @@
 // @ts-nocheck
 import { useEffect } from 'react'
 import * as d3 from 'd3'
+import { DateTime } from 'luxon'
 import { Typography } from '@mui/material'
 
 interface GrossSalesBarChartProps {
@@ -51,3 +52,5 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
                 L ${xVal + barWidth},${yVal + barHeight}
                 L ${xVal + barWidth},${yVal + borderRadius}
                 Q ${xVal + barWidth},${yVal} ${xVal + barWidth - borderRadius},${yVal}
+                L ${xVal + borderRadius},${yVal}
+                Q ${xVal},${yVal} ${xVal},${yVal + borderRadius}

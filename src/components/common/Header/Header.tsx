@@ -101,7 +101,6 @@ const Header = () => {
   }
 
   const handleTabChange = (event: React.SyntheticEvent, newValue: number) => {
-    setCurrentScreen(newValue)
   }
 
   const isDesktop = mode === ScreenMode.desktop
@@ -183,3 +182,10 @@ const Header = () => {
                   sx={{ py: 2 }}
                   position="relative"
                   width={isDesktop ? '100%' : 2400}
+                >
+                  <Button
+                    sx={{
+                      fontSize: 48,
+                      color: '#fff',
+                      lineHeight: '56px',
+                      fontFamily: 'reckless',

@@ -11,3 +11,4 @@
     "noImplicitAny": false,
     "noFallthroughCasesInSwitch": true,
     "module": "esnext",
+    "moduleResolution": "node",

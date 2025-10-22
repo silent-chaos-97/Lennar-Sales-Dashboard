@@ -53,7 +53,6 @@ class SnowflakeService {
                                 dRow.REGION === rRow.REGION &&
                                 !dRow.SUB_REGION)
                                 .map((dRow) => ({
-                                type: dRow.COHORT_TYPE,
                                 name: dRow.COHORT,
                                 latitude: dRow.LATITUDE,
                                 longitude: dRow.LONGITUDE,
@@ -146,6 +145,7 @@ class SnowflakeService {
                         else if (rows.length === 1) {
                             result[statsKeys[statIdx]] = rows[0];
                         }
+                        else {
                             result[statsKeys[statIdx]] = null;
                         }
                         if (stmt.hasNext()) {

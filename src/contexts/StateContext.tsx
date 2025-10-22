@@ -121,3 +121,8 @@ export const StateProvider = (props: PropsWithChildren) => {
             sub_region.divisions.forEach((division) => {
               cohorts.push({
                 name: division.name,
+                type: division.type,
+                latitude: division.latitude,
+                longitude: division.longitude,
+                timezone: division.timezone
+              })

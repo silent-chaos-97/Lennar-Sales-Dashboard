@@ -71,3 +71,6 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
     const stackedData = stackData()
     const xScale = d3.scaleLinear().domain([0, maxValue]).range([height, 0]).nice()
     const color = d3.scaleOrdinal().domain(['cur', 'prv']).range(['#33A3FF', '#000000'])
+
+    const curData = stackedData.map((entry) => ({
+      key: entry.key,

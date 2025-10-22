@@ -122,3 +122,7 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
             <option value={Rotate.locations}>Rotate locations</option>
             {currentCohort.type === 'region' || currentCohort.type === 'sub_region' ? (
               <option value={Rotate.within_region}>
+                Rotate locations within current region (subregion)
+              </option>
+            ) : null}
+            <option value={Rotate.not}>Do not rotate locations</option>

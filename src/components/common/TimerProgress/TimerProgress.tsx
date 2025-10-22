@@ -17,3 +17,4 @@ const TimerProgress = ({ value, playing, onToggle }: TimerProgressProps) => {
       <Box
         sx={{
           top: 0,
+          left: 0,
