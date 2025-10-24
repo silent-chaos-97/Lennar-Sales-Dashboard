@@ -26,3 +26,4 @@ const RightPane = () => {
         <Grid item lg={3}>
           <PacingStatus mapWrapperRef={wrapperRef} />
         </Grid>
+        <Grid item lg={9}>

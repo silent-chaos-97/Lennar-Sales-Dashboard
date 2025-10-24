@@ -80,7 +80,6 @@ const MainLayout = () => {
       case '3tvs':
         setScreenMode(ScreenMode.triple_monitor)
         break
-      default:
         setScreenMode(ScreenMode.desktop)
         break
     }
@@ -123,3 +122,4 @@ const MainLayout = () => {
       const standardHeight = 1350
       const height = standardHeight * zoom
       if (standardHeight * zoom > window.innerHeight) {
+        const nextZoom = window.innerHeight / height

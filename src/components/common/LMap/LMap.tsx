@@ -26,9 +26,11 @@ interface LMapProps {
 const LMap: React.FC<LMapProps> = ({
   mapViewState,
   padding,
+  style,
   setMapViewState,
   mapRef,
   children
 }) => {
   const debouncedHandleMoveMap = debounce((e: ViewStateChangeEvent) => {
     setMapViewState({
+      latitude: e.viewState.latitude,

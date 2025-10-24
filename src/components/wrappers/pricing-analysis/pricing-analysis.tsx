@@ -85,3 +85,5 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
             </Stack>
           </Box>
           <Box flex={1}>
+            <CustomTooltip elementName="pacing-new-construction-median-price">
+              <Typography variant="caption" color="text.secondary" fontWeight={500}>

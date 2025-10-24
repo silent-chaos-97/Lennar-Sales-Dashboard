@@ -56,3 +56,5 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
 
   useMemo(() => {
     return d3.axisBottom(xScale).ticks(d3.timeMinute.every(5)).tickFormat(d3.timeFormat('%H:%M'))
+  }, [xScale])
+

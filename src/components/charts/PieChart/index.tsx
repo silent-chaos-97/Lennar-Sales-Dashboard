@@ -75,3 +75,6 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
         onClickSlice(d.data)
       })
 
+    // Add the polylines between chart and labels:
+    let yThreshold = 0
+    svg

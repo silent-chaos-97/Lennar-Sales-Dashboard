@@ -76,3 +76,4 @@ const PerformanceBar = ({
       direction="row"
       borderBottom={1}
       flex={1}
+      borderColor="rgba(255, 255, 255, 0.18)"

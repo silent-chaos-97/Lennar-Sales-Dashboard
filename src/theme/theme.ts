@@ -189,6 +189,7 @@ export const theme = createTheme({
           position: absolute;
           top: 50%;
           left: 100%;
+          transform: translateY(-50%);
           border-width: 20px;
           border-style: solid;
           border-color: transparent transparent transparent #191d26d9;
@@ -218,3 +219,10 @@ export const theme = createTheme({
       }
 
       .dot {
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        background-color: black;
+        border-radius: 50%;
+        z-index: 2;
+      }

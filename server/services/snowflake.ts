@@ -55,6 +55,7 @@ class SnowflakeService {
                 const divisions = rows
                   .filter(
                     (dRow) =>
+                      dRow.COHORT_TYPE === 'division' &&
                       dRow.REGION === rRow.REGION &&
                       !dRow.SUB_REGION
                   )
@@ -120,3 +121,7 @@ class SnowflakeService {
     const result: Record<string, unknown> = {}
     let statIdx = 0
     const statsKeys = [
+      'leaderboards',
+      'isc_performance_timeframe',
+      'current_activity_timeframe',
+      'sales_timeframe',

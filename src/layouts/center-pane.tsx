@@ -28,7 +28,6 @@ const MarkerIcon = styled('div', {
   borderRadius: '50%',
   boxSizing: 'border-box',
   height: props.radius,
-  width: props.radius,
   display: 'flex',
   justifyContent: 'center',
   alignItems: 'center',
@@ -211,3 +210,10 @@ const CenterPane = () => {
 
         const offsetRight = Math.round(
           mapWrapperRef.current.getBoundingClientRect().right -
+            evt.currentTarget.getBoundingClientRect().right
+        )
+
+        const svgWidth = offsetRight - 872
+
+        setSvgSize({
+          width: svgWidth,

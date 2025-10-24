@@ -34,3 +34,4 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
               textDecoration: 'underline'
             }
           }}
+          onClick={() => onSelectMenu(item)}

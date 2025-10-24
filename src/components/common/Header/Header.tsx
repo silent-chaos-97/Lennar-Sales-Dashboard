@@ -101,6 +101,7 @@ const Header = () => {
   }
 
   const handleTabChange = (event: React.SyntheticEvent, newValue: number) => {
+    setCurrentScreen(newValue)
   }
 
   const isDesktop = mode === ScreenMode.desktop
@@ -189,3 +190,9 @@ const Header = () => {
                       color: '#fff',
                       lineHeight: '56px',
                       fontFamily: 'reckless',
+                      fontWeight: 500,
+                      borderRadius: 2
+                    }}
+                    endIcon={<KeyboardArrowDownIcon sx={{ width: 40, height: 40 }} />}
+                    onClick={handleMenuClick}
+                  >

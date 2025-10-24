@@ -126,7 +126,6 @@
             },
             "components": {
                 "road-network": "16.0.0",
-                "natural-features": "16.0.0",
                 "place-labels": "16.0.0",
                 "admin-boundaries": "16.0.0",
                 "point-of-interest-labels": "16.0.0",
@@ -1092,6 +1091,7 @@
                             "street",
                             "street_limited"
                         ],
+                        10.799999999999999,
                         6
                     ],
                     22,
@@ -1486,3 +1486,49 @@
                         ["motorway", "trunk"],
                         true,
                         false
+                    ],
+                    13,
+                    [
+                        "match",
+                        ["get", "class"],
+                        [
+                            "motorway",
+                            "motorway_link",
+                            "trunk",
+                            "trunk_link",
+                            "primary",
+                            "secondary",
+                            "tertiary",
+                            "street",
+                            "street_limited",
+                            "primary_link",
+                            "track"
+                        ],
+                        true,
+                        false
+                    ],
+                    14,
+                    [
+                        "match",
+                        ["get", "class"],
+                        [
+                            "motorway",
+                            "motorway_link",
+                            "trunk",
+                            "trunk_link",
+                            "primary",
+                            "primary_link",
+                            "secondary",
+                            "secondary_link",
+                            "tertiary",
+                            "tertiary_link",
+                            "street",
+                            "street_limited",
+                            "service",
+                            "track"
+                        ],
+                        true,
+                        false
+                    ]
+                ],
+                ["==", ["geometry-type"], "LineString"]

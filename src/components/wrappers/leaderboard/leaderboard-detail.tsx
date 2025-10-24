@@ -36,3 +36,4 @@ const LeaderboardDetail = ({
   if (isISC) {
     return (
       <ISCDetail
+        open={open}

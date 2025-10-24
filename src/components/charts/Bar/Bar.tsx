@@ -30,3 +30,4 @@ const Track = styled('span', {
 
 const Bar = ({ label, percent = 0, value, change }: BarProps) => {
   return (
+    <Stack className="ln-bar" sx={{ width: `100%` }}>

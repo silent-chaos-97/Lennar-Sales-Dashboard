@@ -26,3 +26,4 @@ export interface CurrentActivityState {
   CHATS_TEXTS_TICKER_ARRAY: null | TickerItem[]
   LEADS_BY_CHANNEL: {
     paid: number
+    paid_pct_change: number

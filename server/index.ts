@@ -43,3 +43,5 @@ app.get('/api/data', async (req, res) => {
   const sanitizedCohort = sanitizeFilename(cohort as string)
   const sanitizedCohortType = sanitizeFilename(cohort_type as string)
 
+  const cacheFilename = `${sanitizedCohort.toLowerCase()}-${sanitizedCohortType}.json`
+  const cacheFilePath = path.join(__dirname, 'cache', cacheFilename)

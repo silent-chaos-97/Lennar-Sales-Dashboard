@@ -126,3 +126,6 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
               </option>
             ) : null}
             <option value={Rotate.not}>Do not rotate locations</option>
+          </Select>
+        </Stack>
+        <Stack sx={{ display: 'flex', flexDirection: 'row' }}>

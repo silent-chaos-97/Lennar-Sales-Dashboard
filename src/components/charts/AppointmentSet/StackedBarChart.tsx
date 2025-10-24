@@ -34,7 +34,6 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
   useEffect(() => {
     drawChart()
     window.addEventListener('resize', drawChart)
-    return () => {
       window.removeEventListener('resize', drawChart)
     }
   }, [data])
@@ -74,3 +73,6 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
 
     const curData = stackedData.map((entry) => ({
       key: entry.key,
+      value: entry.cur
+    }))
+

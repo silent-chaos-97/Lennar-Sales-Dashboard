@@ -83,3 +83,6 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
           unit="$"
           graphData={salesState?.AVG_PRICE?.graph}
         />
+        <DailyAnalyticsBox
+          title="Average incentives as percent of price"
+          value={salesState?.AVG_INCENTIVE?.value || 0}

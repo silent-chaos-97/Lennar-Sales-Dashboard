@@ -35,3 +35,5 @@ export const PACING_ZOOM_LEVEL = {
 }
 
 export const PACING_MAP_OFFSETS = {
+  all: 40,
+  region: 30,

@@ -2,7 +2,6 @@ import { useState } from 'react'
 import Section from '@/components/common/Section/Section'
 import Grid from '@mui/material/Grid'
 import Box from '@mui/material/Box'
-import Typography from '@mui/material/Typography'
 import Stack from '@mui/material/Stack'
 import { ResponsiveRadialBar } from '@nivo/radial-bar'
 import { RadialAxisTickProps } from '@nivo/polar-axes'
@@ -21,6 +20,7 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps) => {
   const labels = {
     BEBACKS_WITH_FOLLOWUP: 'Be-backs with follow-up',
     LEADS_WITH_FOLLOWUP: 'Leads with follow-up',
+    LEADS_WITH_TRIFECTA: 'Leads with trifecta'
   }
 
   return (
@@ -125,3 +125,7 @@ const Performance = () => {
                 (performanceState?.LEADS_WITH_TRIFECTA.goal_value || 100)) *
                 100,
               100
+            )
+          }
+        ]
+      }

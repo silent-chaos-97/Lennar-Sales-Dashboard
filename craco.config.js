@@ -1,3 +1,4 @@
+const path = require('path')
 
 module.exports = {
   webpack: {
@@ -5,3 +6,4 @@ module.exports = {
       '@': path.resolve(__dirname, 'src/')
     }
   },
+  jest: {

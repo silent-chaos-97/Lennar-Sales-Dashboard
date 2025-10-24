@@ -50,3 +50,5 @@ const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
     const formattedDate =
       currentDate.year === eventDate.year
         ? eventDate.toFormat('MMM d')
+        : eventDate.toFormat('MMM d, yyyy')
+

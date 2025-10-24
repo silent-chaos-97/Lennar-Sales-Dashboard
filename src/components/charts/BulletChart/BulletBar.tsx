@@ -45,3 +45,4 @@ const BulletBar = ({
                 borderRadius: 1,
                 background: color,
                 border: '2px solid #fff',
+                top: 0,

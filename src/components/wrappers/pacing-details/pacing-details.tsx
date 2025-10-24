@@ -9,7 +9,6 @@ import IconButton from '@mui/material/IconButton'
 import CloseIcon from '@mui/icons-material/Close'
 import { STATUS_COLORS, STATUS_TEXT_BY_KEY } from '@/utils/constant'
 import SubPacingLeaderBoard from './sub-leaderboard'
-import SubPacingAnalysis from './sub-pacing-analysis'
 import PricingAnalysis from '../pricing-analysis/pricing-analysis'
 import Fade from '@mui/material/Fade'
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown'
@@ -53,6 +52,7 @@ const List = ({ list, choose, showList }: ListProps) => {
         color: '#ddd'
       }}
     >
+      <Stack>
         <Scrollbar
           style={{
             maxHeight: 1040,

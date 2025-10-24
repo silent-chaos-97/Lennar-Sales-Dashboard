@@ -10,3 +10,4 @@ export interface Division {
   name: string
   latitude: number
   longitude: number
+  timezone: string

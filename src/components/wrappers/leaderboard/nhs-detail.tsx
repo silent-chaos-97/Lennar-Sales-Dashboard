@@ -22,6 +22,7 @@ import CustomTooltip from '@/components/common/CustomTooltip'
 
 const NHSDetail = ({
   open,
+  name,
   onPrev,
   onNext,
   onClose,
@@ -143,3 +144,7 @@ const NHSDetail = ({
                 <Grid item xs={1.5}>
                   <CustomTooltip elementName="label-nhc-realtor-commission">
                     <Typography variant="caption" color="text.secondary" fontWeight={500}>
+                      Realtor commisions
+                    </Typography>
+                  </CustomTooltip>
+                  <PercentValueText

@@ -271,7 +271,6 @@
           },
           {
             "current": 43,
-            "hour": 13,
             "prev": 37
           },
           {
@@ -914,3 +913,24 @@
             }
           ],
           "percent_change": -66.7,
+          "value": 2
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 6
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 6
+            },
+            {
+              "sort": 4,

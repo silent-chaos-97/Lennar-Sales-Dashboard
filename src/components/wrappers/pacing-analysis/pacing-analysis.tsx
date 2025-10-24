@@ -9,12 +9,12 @@ import DataAlert from '@/components/common/CustomTooltip/DataAlert'
 
 const PacingAnalysis = () => {
   const { pacingState } = useAppState()
+
   return (
     <Section
       title="Pacing Analysis"
       timestamp="WTD"
       more={
-        <Stack direction="row" alignItems="center" spacing={0.5}>
           <Box width={24} height={4} borderRadius={2} bgcolor="#1ABB96" />
           <Typography variant="caption" color="textSecondary">
             Prediction
@@ -36,3 +36,4 @@ const PacingAnalysis = () => {
             </Typography>
           </Box>
           <Box flex={1}>
+            <CustomTooltip elementName="pacing-next-3w-sales">

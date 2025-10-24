@@ -94,3 +94,6 @@ const AppointmentSet = ({
           total: nWeekdayEvents[nextWeekdayDate]?.total || 0,
           byFrame: nWeekdayEvents[nextWeekdayDate]?.byTimeframe || [0, 0, 0, 0]
         })
+      }
+      return weekdays
+    },

@@ -61,3 +61,5 @@ const DailyAnalyticsBox = ({
   const displayArrows = useMemo(() => {
     if (value !== 0 && diffPercent !== 0) {
       if (diffPercent > 0) {
+        return <NorthEastIcon color={isDecreaseBenefit ? 'error' : 'success'} />
+      } else {

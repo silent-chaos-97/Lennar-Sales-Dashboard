@@ -18,3 +18,4 @@ const TimerProgress = ({ value, playing, onToggle }: TimerProgressProps) => {
         sx={{
           top: 0,
           left: 0,
+          bottom: 0,

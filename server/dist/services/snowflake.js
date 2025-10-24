@@ -53,11 +53,13 @@ class SnowflakeService {
                                 dRow.REGION === rRow.REGION &&
                                 !dRow.SUB_REGION)
                                 .map((dRow) => ({
+                                type: dRow.COHORT_TYPE,
                                 name: dRow.COHORT,
                                 latitude: dRow.LATITUDE,
                                 longitude: dRow.LONGITUDE,
                                 timezone: dRow.TIME_ZONE
                             }));
+// Temp comment
                             const subRegions = rows
                                 .filter((dRow) => dRow.COHORT_TYPE === 'sub_region' && dRow.REGION === rRow.REGION)
                                 .map((dRow) => {

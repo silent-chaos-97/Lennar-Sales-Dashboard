@@ -71,6 +71,7 @@ const SalesDetails = ({
           height: 1180,
           zIndex: 2,
           px: 2.5,
+          py: 2,
           borderRadius: '8px',
           backgroundColor: 'rgba(38,54,81,0.85)',
           boxShadow: '16px 8px 16px 0 rgba(0,0,0,0.5)'
@@ -120,3 +121,7 @@ const SalesDetails = ({
             </Box>
             <Grid container columnSpacing={2} rowSpacing={'21px'}>
               <Grid item lg={6} mb={2}>
+                <Typography variant="caption" color="text.secondary">
+                  Sale price
+                </Typography>
+                <Typography variant="h3">${salesDetail.sale_price.toLocaleString()}</Typography>

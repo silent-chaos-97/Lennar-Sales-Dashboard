@@ -50,7 +50,6 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
 
   const handleClickDetail = (idx: number) => {
     setActiveIdx(idx)
-  }
 
   const leaderboardItems: LeaderboardItemValue[] = useMemo(() => {
     if (!leaderboardData) return []

@@ -22,3 +22,4 @@ export const fetchRegions = async () => {
   } catch (error) {
     console.log('#### Request Error:', (error as Error).message)
   }
+}

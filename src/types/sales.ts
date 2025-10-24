@@ -42,3 +42,4 @@ export interface SalesItem {
   journey_array?: JourneyArrayItem[]
   sale_cohort_rank: number
 }
+

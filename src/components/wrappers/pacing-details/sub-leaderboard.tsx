@@ -12,6 +12,7 @@ const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
   return (
     <Stack spacing={2}>
       <Scrollbar
+        style={{ height: 1040, width: '100%', paddingRight: 24 }}
         contentProps={{ style: { paddingRight: '25px' } }}
       >
         {Array.isArray(leaders) ? (
@@ -25,3 +26,4 @@ const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
                   name={leader.name}
                   national_rank={leader.national_rank}
                   summary={leader.summary}
+                />

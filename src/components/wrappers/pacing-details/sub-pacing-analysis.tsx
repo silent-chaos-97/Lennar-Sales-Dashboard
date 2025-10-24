@@ -29,7 +29,6 @@ const SubPacingAnalysis = ({
       timestamp="WTD"
       more={
         currentCohort?.type !== 'division' && (
-          <Stack direction="row" alignItems="center" spacing={0.5}>
             <Box width={24} height={4} borderRadius={2} bgcolor="#1ABB96" />
             <Typography variant="caption" color="textSecondary">
               Prediction
@@ -41,3 +40,4 @@ const SubPacingAnalysis = ({
       <Stack sx={{ mb: 10 }}>
         <Stack direction="row" justifyContent="space-between" sx={{ mb: 4 }}>
           <Box flex={1}>
+            <Typography variant="caption" color="text.secondary" fontWeight={500}>

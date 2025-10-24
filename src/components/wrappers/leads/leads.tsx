@@ -41,3 +41,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
           change={data?.LEADS_PERCENT_CHANGE || 0}
           activityTimeframe={activityTimeframe}
         />
+      </Stack>

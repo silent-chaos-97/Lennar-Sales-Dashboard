@@ -51,7 +51,6 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
       // Append the xAxis to your svg
       svg
         .append('g')
-        .attr('transform', `translate(0,${chartHeight})`)
         .style('font-size', '12px')
         .call(xAxis)
         .call((g) => g.select('.domain').remove())
@@ -66,3 +65,5 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .attr('id', 'gradient')
         .attr('x1', '0%')
         .attr('y1', '0%')
+        .attr('x2', '0%')
+        .attr('y2', '100%')

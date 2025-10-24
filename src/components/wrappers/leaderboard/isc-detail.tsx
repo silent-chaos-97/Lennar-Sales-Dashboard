@@ -85,7 +85,6 @@ const ISCDetail = ({
   onNext,
   onClose,
   data,
-  imageUrl,
   cohortRank,
   nationalRank,
   disablePrevNext
@@ -184,6 +183,7 @@ const ISCDetail = ({
               title="Activity"
               timestamp="Today"
               more={
+                <Stack direction="row" alignItems="center" spacing={1} color="text.secondary">
                   <ArrowForwardIcon color="inherit" />
                   <Typography variant="caption" color="text.secondary">
                     vs same day and time last week
@@ -209,3 +209,10 @@ const ISCDetail = ({
                         bgcolor: getRandomColor(name),
                         color: 'primary.contrastText'
                       }}
+                      imgProps={{ width: 300, height: 300 }}
+                      alt={name}
+                      src={imageUrl}
+                    >
+                      <Typography fontSize={28} fontWeight={700}>
+                        {name.split(' ')[0][0] + name.split(' ')[1][0]}
+                      </Typography>

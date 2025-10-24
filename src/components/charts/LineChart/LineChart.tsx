@@ -54,6 +54,7 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         .line()
         .curve(d3.curveBasis)
         .x((d, i) => xScale(i))
+        .y((d) => yScale(d))
 
       // Define the gradient area
       svg
@@ -69,3 +70,6 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
           { offset: '0%', color: 'rgba(20,122,214,0.5)' },
           { offset: '100%', color: 'rgba(0,93,170,0)' }
         ])
+        .enter()
+        .append('stop')
+        .attr('offset', function (d) {

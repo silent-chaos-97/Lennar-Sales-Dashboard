@@ -10,6 +10,7 @@ const MARGIN = { top: 0, right: 0, bottom: 26, left: 40 }
 interface IndicatorBarChartProps {
   width: number
   height: number
+  data: WeeklyPacingItem[]
   id: string
   currentWeekPrediction: number
   hidePredictionBar?: boolean
@@ -54,7 +55,6 @@ const IndicatorBarChart = ({
       // Append rectangles for bar chart
       const borderRadius = 8
       svg
-        .selectAll('.bar')
         .data(data)
         .enter()
         .append('path')
@@ -79,3 +79,5 @@ const IndicatorBarChart = ({
       svg
         .selectAll('.bar-overlay')
         .data(data)
+        .enter()
+        .append('path')

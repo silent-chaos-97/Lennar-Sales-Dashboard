@@ -16,3 +16,4 @@ interface PerformanceProviderProps {
 }
 
 // Create a provider for the new context
+export const PerformanceProvider = ({

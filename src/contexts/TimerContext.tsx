@@ -89,3 +89,6 @@ export const TimerProvider = (props: PropsWithChildren) => {
     return () => {
       clearInterval(cycleTimer)
     }
+  }, [playing, cycleTimerProgress, cycleTimeout, disableRotation])
+
+  useEffect(() => {
