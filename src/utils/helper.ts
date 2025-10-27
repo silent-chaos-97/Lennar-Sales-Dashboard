@@ -22,3 +22,4 @@ export function getValueChangeTextColor(num: number) {
   else if (num > 0) return '#009d4e'
   return '#e44d4d'
 }
+

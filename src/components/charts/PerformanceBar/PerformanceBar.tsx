@@ -28,6 +28,7 @@ const Track = styled('div', {
 
 const GoalLine = styled('div', {
   shouldForwardProp: (prop) => !['color', 'percent', 'goal'].includes(prop as string)
+})(({ color, percent, goal }: GoalLineProps) => ({
   width: 48,
   background: color || '#fff',
   height: 4,
@@ -77,3 +78,4 @@ const PerformanceBar = ({
       flex={1}
       borderColor="rgba(255, 255, 255, 0.18)"
       spacing={2}
+      position="relative"

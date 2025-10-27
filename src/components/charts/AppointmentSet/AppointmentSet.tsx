@@ -87,6 +87,7 @@ const AppointmentSet = ({
         []
       for (let i = 0; i <= 6; i++) {
         const nextWeekday = monday.plus({ days: i }).weekdayShort
+        const nextWeekdayDate = monday.plus({ days: i }).toFormat('yyyy-MM-dd')
         weekdays.push({
           weekday: nextWeekday,
           date: nextWeekdayDate,

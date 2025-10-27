@@ -85,3 +85,4 @@ const IndicatorBarChart = ({
         .attr('class', 'bar-overlay')
         .attr('fill', '#028090')
         .attr('style', 'opacity: 0.5;')
+        .attr('d', function (d) {

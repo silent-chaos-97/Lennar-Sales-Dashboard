@@ -50,3 +50,4 @@ const MemberItem = ({
             {national_rank}
           </Typography>
         )}
+      </Stack>

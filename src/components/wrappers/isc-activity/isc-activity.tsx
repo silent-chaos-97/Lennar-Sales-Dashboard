@@ -32,6 +32,7 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
           </CustomTooltip>
           <Stack direction="row" alignItems="flex-end" spacing={1}>
             <Typography variant="h1">{(data?.TOTAL_CALLS || 0).toLocaleString()}</Typography>
+            <Stack sx={{ pb: 0.75 }}>
               {(data?.TOTAL_CALLS_PERCENT_CHANGE || 0) !== 0 &&
                 ((data?.TOTAL_CALLS_PERCENT_CHANGE || 0) > 0 ? (
                   <NorthEastIcon color="success" />
@@ -80,3 +81,5 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
                 <Typography
                   component="span"
                   color={getValueChangeTextColor(data?.TOTAL_CHATS_TEXTS_PERCENT_CHANGE || 0)}
+                  variant="h6"
+                  sx={{ ml: 1 }}

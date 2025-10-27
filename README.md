@@ -55,3 +55,4 @@ Follow these steps to set up the frontend:
     ```bash
     cd /opt/node/projects/corp_hub
     git pull
+    ```

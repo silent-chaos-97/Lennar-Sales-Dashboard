@@ -110,3 +110,5 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       // const interQuantileRange = q3 - q1
       // const min = q1 - 1.5 * interQuantileRange
       // const max = q1 + 1.5 * interQuantileRange
+      const min = botPlot[0]
+      const max = botPlot[4]

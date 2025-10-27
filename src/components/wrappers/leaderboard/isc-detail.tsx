@@ -223,3 +223,8 @@ const ISCDetail = ({
                 <Grid item xs={2}>
                   <CustomTooltip elementName={`label-isc-calls`}>
                     <Typography variant="caption" color="text.secondary" fontWeight={500}>
+                      {pluralize('Call', data?.total_calls || 0)}
+                    </Typography>
+                  </CustomTooltip>
+                  <PercentValueText
+                    value={data?.total_calls || 0}

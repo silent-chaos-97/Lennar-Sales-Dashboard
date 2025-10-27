@@ -149,6 +149,8 @@ const NHSDetail = ({
                   </CustomTooltip>
                   <PercentValueText
                     value={data?.realtor_commission_rate || 0}
-                    hideChange
                     suffix="%"
                   />
+                </Grid>
+              </Grid>
+            </Section>

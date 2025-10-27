@@ -46,3 +46,4 @@ app.get('/api/data', async (req, res) => {
   const cacheFilename = `${sanitizedCohort.toLowerCase()}-${sanitizedCohortType}.json`
   const cacheFilePath = path.join(__dirname, 'cache', cacheFilename)
 
+  if (fs.existsSync(cacheFilePath)) {

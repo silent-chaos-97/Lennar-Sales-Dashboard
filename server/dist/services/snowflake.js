@@ -95,7 +95,6 @@ class SnowflakeService {
                             console.log('Cohort Division fetching is finished');
                         });
                         resolve(regions);
-// Temp comment
                     }
                 });
             });

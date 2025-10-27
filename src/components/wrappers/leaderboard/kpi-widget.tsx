@@ -31,3 +31,4 @@ const KPIWidget = ({
         <Grid item minWidth={75}>
           <Typography variant="h5" lineHeight={2} fontWeight={700} color="grey.300">
             {suffixTheNumber(firstValue)}
+          </Typography>

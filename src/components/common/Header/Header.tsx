@@ -118,7 +118,6 @@ const Header = () => {
       if (timeoutRef.current) {
         timeoutRef.current && clearTimeout(timeoutRef.current)
         timeoutRef.current = window.setTimeout(() => {
-          setAlert(dataStatus !== HTTP_STATUS_CODES.OK)
         }, 20000)
       }
     }
@@ -201,3 +200,7 @@ const Header = () => {
                   <Fade in={openRegionSelectMenu} timeout={500} mountOnEnter unmountOnExit>
                     <Box sx={{ position: 'relative' }}>
                       <Box
+                        sx={{
+                          position: 'absolute',
+                          left: -225,
+                          top: 20,

@@ -78,6 +78,7 @@ export const Section = ({
               >
                 <Typography variant="caption" color="textSecondary" lineHeight="28px">
                   {categoryList[category]}
+                </Typography>
                 <ArrowDropDownIcon htmlColor="#dde3f6" />
               </Stack>
               {showCategoryDropdown && (
@@ -98,3 +99,5 @@ export const Section = ({
                   >
                     {Object.entries(categoryList).map(([key, name]) => (
                       <Typography
+                        key={key}
+                        variant="h6"

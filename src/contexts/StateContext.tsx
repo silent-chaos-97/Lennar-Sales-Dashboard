@@ -133,3 +133,7 @@ export const StateProvider = (props: PropsWithChildren) => {
     })
 
     return cohorts
+  }, [locations])
+
+  const refreshData = async (reset = true) => {
+    if (reset) {

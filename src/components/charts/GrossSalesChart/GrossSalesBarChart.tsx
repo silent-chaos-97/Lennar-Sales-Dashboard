@@ -58,3 +58,4 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
             : ''
         })
 
+      const xAxis = d3

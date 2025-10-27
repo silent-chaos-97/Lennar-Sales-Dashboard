@@ -124,6 +124,7 @@ const CenterPane = () => {
     if (clusters.length === 0) return
     const { idx } = clusters.reduce(
       (acc, cluster, id) => {
+        const leaves = cluster.properties.cluster
           ? supercluster.getLeaves(cluster.id, Infinity)
           : [cluster]
         leaves.forEach((leaf) => {
@@ -222,3 +223,8 @@ const CenterPane = () => {
               ? arrowBottomThreshold - offsetTop
               : offsetTop < arrowBottomThreshold
               ? offsetTop - 5
+              : offsetTop - arrowTopThreshold,
+          x: popupRight,
+          y: offsetTop < arrowTopThreshold ? offsetTop : arrowTopThreshold
+        })
+

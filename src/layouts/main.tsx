@@ -10,6 +10,7 @@ import { ScreenMode, ScreenPanes, useScreen } from '@/contexts/ScreenContext'
 import { useSearchParams } from 'react-router-dom'
 import { useAppState } from '@/contexts/StateContext'
 import { useAppTimerSetters } from '@/contexts/TimerContext'
+
 const Main = styled('main')({
   width: '100%'
 })

@@ -17,7 +17,6 @@ export interface LeaderboardDetailProps {
   activeTimestamp?: string
 }
 
-const LeaderboardDetail = ({
   open,
   name,
   onPrev,
@@ -38,3 +37,4 @@ const LeaderboardDetail = ({
       <ISCDetail
         open={open}
         name={name}
+        onPrev={onPrev}

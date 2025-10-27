@@ -1,6 +1,5 @@
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-nocheck
-import { useMemo } from 'react'
 import * as d3 from 'd3'
 import { TickerItem } from '@/types/current_activity'
 
@@ -15,6 +14,7 @@ type HeatmapProps = {
   data: TickerItem[]
   ref?: OneRefChangeTime
 }
+
 const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapProps) => {
   const width = cWidth || (size + spacing) * nCol - spacing
   const height = 87 || (size + spacing) * nRow - 1 // 87 is the height of the ActivityChart
@@ -58,3 +58,5 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
   }, [xScale])
 
   const yScale = useMemo(() => {
+    return d3.scaleBand().range([boundsHeight, 0]).domain(allYGroups) //.padding(0.01)
+  }, [boundsHeight, allYGroups])

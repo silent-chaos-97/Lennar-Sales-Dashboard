@@ -52,3 +52,4 @@ const Timeline = ({ journeyData }: TimelineProps) => {
         break
       }
     }
+

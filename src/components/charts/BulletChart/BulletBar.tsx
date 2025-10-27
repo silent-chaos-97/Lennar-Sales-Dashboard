@@ -11,7 +11,6 @@ interface BulletBarProps {
   maxValue?: number
   color?: PacingBulletBarColors
 }
-
 const BulletBar = ({
   id,
   value,
@@ -46,3 +45,4 @@ const BulletBar = ({
                 background: color,
                 border: '2px solid #fff',
                 top: 0,
+                left: 0,

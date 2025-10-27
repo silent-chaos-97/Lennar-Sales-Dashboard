@@ -119,7 +119,6 @@ const PacingDetails = ({
           bottom: 0,
           right: 0,
           bgcolor: 'rgba(33,41,54,0.67)',
-          zIndex: 99
         }}
       >
         <Box

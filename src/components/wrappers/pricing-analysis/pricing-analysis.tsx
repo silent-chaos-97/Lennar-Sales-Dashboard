@@ -89,3 +89,4 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
               <Typography variant="caption" color="text.secondary" fontWeight={500}>
                 <DataAlert elementName="pacing-new-construction-median-price">
                   New construction median price
+                </DataAlert>

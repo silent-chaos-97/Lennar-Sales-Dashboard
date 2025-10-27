@@ -1,4 +1,5 @@
 import dotenv from 'dotenv'
+dotenv.config()
 import cron from 'node-cron'
 import path from 'path'
 import fs from 'fs'
@@ -58,3 +59,4 @@ const run = async () => {
               longitude: division.longitude,
               timezone: division.timezone
             })
+          })

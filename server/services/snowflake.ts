@@ -128,3 +128,33 @@ class SnowflakeService {
       'pacing',
       'pricing',
       'insights'
+    ]
+
+    const sqls = {
+      leaderboards: `select * from homebase.corp_hub_leaderboards_json WHERE COHORT = '${cohort}' AND COHORT_TYPE = '${cohort_type}';`,
+      isc_performance_timeframe: `select * from homebase.corp_hub_timeframe_isc_performance_json WHERE COHORT = '${cohort}' AND COHORT_TYPE = '${cohort_type}';`,
+      current_activity_timeframe: `select * from homebase.corp_hub_timeframe_current_activity_json WHERE COHORT = '${cohort}' AND COHORT_TYPE = '${cohort_type}';`,
+      sales_timeframe: `select * from homebase.corp_hub_timeframe_sales_json WHERE COHORT = '${cohort}' AND COHORT_TYPE = '${cohort_type}';`,
+      pacing: `select * from homebase.corp_hub_pacing_json WHERE COHORT = '${cohort}' AND COHORT_TYPE = '${cohort_type}';`,
+      pricing: `select * from homebase.corp_hub_pricing_json WHERE COHORT = '${cohort}' AND COHORT_TYPE = '${cohort_type}';`,
+      insights: `select * from homebase.corp_hub_insights_json WHERE COHORT = '${cohort}' AND COHORT_TYPE = '${cohort_type}';`
+    }
+
+    const sqlText = Object.values(sqls).join(' ')
+
+    const connection = this.createConnection()
+
+    return new Promise((resolve, reject) => {
+      connection.connect((err) => {
+        if (err) {
+          console.error('Error connecting to Snowflake:', err)
+          return reject(err)
+        }
+
+        connection.execute({
+          sqlText: sqlText,
+          parameters: { MULTI_STATEMENT_COUNT: 7 },
+          complete: (err, stmt, rows) => {
+            if (err) {
+              console.error(
+                '1 Failed to execute statement due to the following error: ' + err.message

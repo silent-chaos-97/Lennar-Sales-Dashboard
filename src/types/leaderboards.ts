@@ -67,3 +67,5 @@ export interface LeaderboardFilterObj {
   MTD: LeaderboardItemValue[]
   QTD: LeaderboardItemValue[]
   WTD: LeaderboardItemValue[]
+}
+

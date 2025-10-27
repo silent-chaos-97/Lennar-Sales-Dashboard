@@ -37,3 +37,4 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
 
         return (
           activityTimeInMinutes >= startOfDayInMinutes && activityTimeInMinutes <= endOfDayInMinutes
+        )

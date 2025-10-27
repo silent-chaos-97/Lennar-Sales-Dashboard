@@ -20,7 +20,6 @@ interface TimerContextVariables {
   cycleTimeout: number
   idleTimeout: number
   disableRotation: number
-}
 
 const TimerVariablesContext = createContext<TimerContextVariables>({
   cycleTimeout: 180,
@@ -94,3 +93,5 @@ export const TimerProvider = (props: PropsWithChildren) => {
   useEffect(() => {
     const idleTimer = setInterval(() => {
       setCurrentTime(
+        DateTime.now().setZone(TIMEZONE[currentCohort.timezone]).toLocaleString({
+          hour: 'numeric',

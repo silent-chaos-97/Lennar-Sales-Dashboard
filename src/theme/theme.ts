@@ -21,6 +21,7 @@ declare module '@mui/material/styles' {
   }
 
   // allow configuration using `createTheme`
+  interface TypographyVariantsOptions {
     title?: React.CSSProperties
   }
 
@@ -231,3 +232,8 @@ export const theme = createTheme({
         border: 1px solid black;
         z-index: 2;
       }
+      `
+    },
+    MuiContainer: {
+      styleOverrides: {
+        maxWidthXl: {

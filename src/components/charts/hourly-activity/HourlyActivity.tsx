@@ -37,3 +37,4 @@ const HourlyActivity = ({
             {title}
           </DataAlert>
         </Typography>
+      </CustomTooltip>

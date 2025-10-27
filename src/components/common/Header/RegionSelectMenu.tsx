@@ -59,3 +59,4 @@ const RegionSelectMenu = ({ onSelectMenu }: RegionSelectMenuProps) => {
         onClick={() => onSelectMenu(NATIONAL_DIVISION)}
         role="button"
         tabIndex={-1}
+        sx={{

@@ -42,3 +42,4 @@ const LeftPane = () => {
                 <Typography variant="caption" color="text.secondary">
                   vs same day and time previous week
                 </Typography>
+              </Stack>
