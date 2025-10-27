@@ -6,3 +6,5 @@ const CurrentTime = () => {
 
   return (
     <Typography variant="caption" color="grey.500">
+      {currentTime}
+    </Typography>

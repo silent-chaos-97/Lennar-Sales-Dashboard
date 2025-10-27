@@ -29,3 +29,4 @@ const RightPane = () => {
         <Grid item lg={9}>
           <Box>
             <Grid container spacing={8}>
+              <Grid item lg={8}>

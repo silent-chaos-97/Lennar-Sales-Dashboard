@@ -13,3 +13,4 @@ export interface IscPerformanceState {
   BEBACKS_WITH_FOLLOWUP: PerformanceItem
   INBOUND_CALLS_ANSWERED: PerformanceItem
   INBOUND_CHATS_ANSWERED: PerformanceItem
+  LEADS_WITH_APPOINTMENT_SET: PerformanceItem

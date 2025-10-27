@@ -143,7 +143,6 @@ class SnowflakeService {
                                 return acc;
                             }, {});
                         }
-                        else if (rows.length === 1) {
                             result[statsKeys[statIdx]] = rows[0];
                         }
                         else {

@@ -43,7 +43,6 @@ const SalesDetails = ({
   useClickAway(wrapperRef, (event) => {
     if (mapWrapperRef.current && mapWrapperRef.current.contains(event.target as Node)) {
       onClose()
-    }
   })
 
   return (
@@ -131,3 +130,7 @@ const SalesDetails = ({
                   Price vs model avg.
                 </Typography>
                 <Typography
+                  variant="h3"
+                  color={salesDetail.price_vs_model_avg < 0 ? 'error' : 'text.tertiary'}
+                >
+                  {salesDetail.price_vs_model_avg <= 0

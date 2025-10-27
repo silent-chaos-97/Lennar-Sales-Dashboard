@@ -49,3 +49,4 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
             {member.national_rank}
           </Typography>
         </Stack>
+      )}

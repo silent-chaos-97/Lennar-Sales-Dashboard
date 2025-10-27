@@ -22,7 +22,6 @@ The project is divided into two main parts: the backend and the frontend. The ba
 
 Follow these steps to set up the backend:
 
-1. Clone the repository using `git clone`.
 2. Navigate to the server directory and copy the example environment file to a new `.env` file: `cd server && cp .env.example .env`.
 3. Update the environment variables in `.env` with your Snowflake credentials.
 4. Install the necessary dependencies with `npm i`.
@@ -56,3 +55,5 @@ Follow these steps to set up the frontend:
     cd /opt/node/projects/corp_hub
     git pull
     ```
+
+3. If you need to rebuild server bundles (you can skip this step if only restarting processes is needed):

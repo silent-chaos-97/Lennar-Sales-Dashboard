@@ -28,3 +28,4 @@ export interface CurrentActivityState {
     paid: number
     paid_pct_change: number
     non_paid: number
+    non_paid_pct_change: number

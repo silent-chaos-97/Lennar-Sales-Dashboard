@@ -17,6 +17,7 @@ export interface LeaderboardDetailProps {
   activeTimestamp?: string
 }
 
+const LeaderboardDetail = ({
   open,
   name,
   onPrev,
@@ -38,3 +39,5 @@ export interface LeaderboardDetailProps {
         open={open}
         name={name}
         onPrev={onPrev}
+        onNext={onNext}
+        onClose={onClose}

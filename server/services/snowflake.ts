@@ -158,3 +158,4 @@ class SnowflakeService {
             if (err) {
               console.error(
                 '1 Failed to execute statement due to the following error: ' + err.message
+              )

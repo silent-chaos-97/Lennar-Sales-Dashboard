@@ -135,3 +135,6 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
                 Idle time prior to reset
               </Typography>
               <Select
+                native={true}
+                variant="outlined"
+                defaultValue={idleTimeout}

@@ -44,6 +44,7 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
     const keys = Object.keys(data.cur)
     keys.forEach((key) => {
       if (key !== 'date' && key !== 'total') {
+        const stackedEntry = {
           key: key,
           cur: data.cur[key],
           prv: data.prv[key]
@@ -79,3 +80,6 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
     const prvData = stackedData.map((entry) => ({
       key: entry.key,
       value: entry.prv
+    }))
+
+    const yScaleCur = d3

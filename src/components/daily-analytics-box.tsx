@@ -66,3 +66,5 @@ const DailyAnalyticsBox = ({
         return <SouthEastIcon color={isDecreaseBenefit ? 'success' : 'error'} />
       }
     }
+  }, [value, diffPercent, isDecreaseBenefit])
+

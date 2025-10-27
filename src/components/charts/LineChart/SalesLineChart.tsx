@@ -71,3 +71,6 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .selectAll('stop')
         .data([
           { offset: '0%', color: 'rgba(20,122,214,0.5)' },
+          { offset: '100%', color: 'rgba(0,93,170,0)' }
+        ])
+        .enter()

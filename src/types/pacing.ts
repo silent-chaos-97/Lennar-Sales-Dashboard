@@ -33,6 +33,6 @@ export interface SubCohortItem {
   color: string
   current_week_prediction?: number
   change_needed_to_meet_pace: number
-  available_homes: AvailableHomes
   weekly_pacing_graph: WeeklyPacingItem[]
   pricing_data: PricingData
+  leaderboard: LeaderboardObj[] | LeaderboardObj

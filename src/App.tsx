@@ -12,3 +12,4 @@ function App() {
     <ThemeProvider theme={theme}>
       <CssBaseline />
       <ScreenContextProvider>
+        <StateProvider>

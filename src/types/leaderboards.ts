@@ -42,7 +42,6 @@ export interface LeaderboardNHCMemberDetail {
   net_revenue_national_rank: number
   net_revenue_percent_change: number
   net_sales: number
-  realtor_attachment_rate: number
   realtor_attachment_rate_division_rank: number
   realtor_attachment_rate_national_rank: number
   realtor_commission_rate: number
@@ -69,3 +68,5 @@ export interface LeaderboardFilterObj {
   WTD: LeaderboardItemValue[]
 }
 
+export interface LeaderboardObj {
+  type: string

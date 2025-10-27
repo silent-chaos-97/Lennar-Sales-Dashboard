@@ -44,3 +44,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
       </Stack>
       <Stack spacing={0.5} sx={{ width: '100%' }}>
         <CustomTooltip elementName="label-leads-by-channel">
+          <Typography variant="caption" color="text.secondary">

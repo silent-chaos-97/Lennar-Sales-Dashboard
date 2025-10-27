@@ -1,4 +1,3 @@
-import Stack from '@mui/material/Stack'
 import Section from '@/components/common/Section'
 import Box from '@mui/material/Box'
 import Typography from '@mui/material/Typography'
@@ -90,3 +89,6 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
                 <DataAlert elementName="pacing-new-construction-median-price">
                   New construction median price
                 </DataAlert>
+              </Typography>
+            </CustomTooltip>
+            <Stack direction="row" alignItems="flex-end" spacing={0.5}>

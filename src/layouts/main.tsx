@@ -108,7 +108,6 @@ const MainLayout = () => {
         setPrevSelectedDivisionType('')
       }
     }
-    adjustMode()
     document.addEventListener('resize', adjustMode)
     return () => {
       document.removeEventListener('resize', adjustMode)
@@ -125,3 +124,5 @@ const MainLayout = () => {
       if (standardHeight * zoom > window.innerHeight) {
         const nextZoom = window.innerHeight / height
 
+        setZoomRate(Math.min(zoom * nextZoom, 1))
+        setWrapperWidth(mode !== ScreenMode.panorama ? 2400 / nextZoom : 2400)

@@ -67,6 +67,7 @@ const PacingStatus = ({ mapWrapperRef }) => {
         status[item.status]++
       }
     })
+
     return status
   }, [pacingCohortArray])
 
@@ -159,3 +160,8 @@ const PacingStatus = ({ mapWrapperRef }) => {
 
   const pacingCohortsList = useMemo(
     () => pacingCohortArrayCloned.map((c, i) => ({ idx: i, name: c.name, status: c.status })),
+    [pacingCohortArrayCloned]
+  )
+
+  const handleSelect = (idx: number) => {
+    setSelectedPacingItem(pacingCohortArrayCloned[idx])

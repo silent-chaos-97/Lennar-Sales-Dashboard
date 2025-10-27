@@ -228,3 +228,10 @@ const ISCDetail = ({
                   </CustomTooltip>
                   <PercentValueText
                     value={data?.total_calls || 0}
+                    change={data?.total_calls_percent_change || 0}
+                  />
+                </Grid>
+                <Grid item xs={3}>
+                  <CustomTooltip elementName={`label-isc-chats-texts`}>
+                    <Typography variant="caption" color="text.secondary" fontWeight={500}>
+                      {pluralize('Chat', data?.total_chats_texts || 0)} and{' '}

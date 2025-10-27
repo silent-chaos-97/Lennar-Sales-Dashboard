@@ -1,5 +1,6 @@
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-nocheck
+import { useMemo } from 'react'
 import * as d3 from 'd3'
 import { TickerItem } from '@/types/current_activity'
 
@@ -60,3 +61,5 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
   const yScale = useMemo(() => {
     return d3.scaleBand().range([boundsHeight, 0]).domain(allYGroups) //.padding(0.01)
   }, [boundsHeight, allYGroups])
+
+  const dotColors = {

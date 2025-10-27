@@ -55,3 +55,5 @@ const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
     return formattedDate
   }, [event.activity_date])
 
+  return (
+    <Stack direction="row">

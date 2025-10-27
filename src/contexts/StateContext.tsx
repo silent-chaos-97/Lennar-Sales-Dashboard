@@ -137,3 +137,7 @@ export const StateProvider = (props: PropsWithChildren) => {
 
   const refreshData = async (reset = true) => {
     if (reset) {
+      setLeaderboards(undefined)
+      setPerformanceTimeframeState({})
+      setActivityTimeframeState({})
+      setPacingState(undefined)

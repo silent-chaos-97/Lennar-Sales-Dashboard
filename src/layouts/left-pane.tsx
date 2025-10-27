@@ -43,3 +43,5 @@ const LeftPane = () => {
                   vs same day and time previous week
                 </Typography>
               </Stack>
+            }
+            timestamp={ACTIVITY_TIMEFRAMES[activityTimeframe]}

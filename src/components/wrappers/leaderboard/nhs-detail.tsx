@@ -149,8 +149,14 @@ const NHSDetail = ({
                   </CustomTooltip>
                   <PercentValueText
                     value={data?.realtor_commission_rate || 0}
+                    hideChange
                     suffix="%"
                   />
                 </Grid>
               </Grid>
             </Section>
+          </Box>
+
+          <Grid container wrap="nowrap" direction="row">
+            <Grid container item xl={3} sx={{ mr: 2 }}>
+              <Stack sx={{ height: '100%' }} spacing={10}>

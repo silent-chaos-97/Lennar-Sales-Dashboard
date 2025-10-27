@@ -4,6 +4,7 @@ import { styled } from '@mui/material/styles'
 import NorthEastIcon from '@mui/icons-material/NorthEast'
 import SouthEastIcon from '@mui/icons-material/SouthEast'
 import { getValueChangeTextColor } from '@/utils/helper'
+
 interface BarProps {
   label: string
   percent?: number
@@ -32,3 +33,4 @@ const Bar = ({ label, percent = 0, value, change }: BarProps) => {
     <Stack className="ln-bar" sx={{ width: `100%` }}>
       <Typography variant="body1" whiteSpace="nowrap">
         {label}
+      </Typography>

@@ -1211,6 +1211,7 @@
                 },
                 "appts_missed": 3,
                 "appts_set": 2,
+                "appts_set_percent_change": 0,
                 "beback_with_follow_up": {
                   "color": "green",
                   "goal_value": 90,
@@ -45609,3 +45610,1399 @@
                     "y_axis": 1
                   },
                   {
+                    "x_axis": "Oct 02",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 5,
+                "gross_sales_division_rank": 1,
+                "gross_sales_national_rank": 97,
+                "incentive_rate": 11.8,
+                "net_revenue": 2449066,
+                "net_revenue_division_rank": 1,
+                "net_revenue_national_rank": 62,
+                "net_revenue_percent_change": 0,
+                "net_sales": 5,
+                "realtor_attachment_rate": 80,
+                "realtor_attachment_rate_division_rank": 23,
+                "realtor_attachment_rate_national_rank": 449,
+                "realtor_commission_rate": 0.7
+              },
+              "summary": "0.7% realtor commission"
+            },
+            {
+              "cohort_rank": 15,
+              "division_name": "Palm Atlantic",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_kris_shanahan_lr_jpg",
+              "name": "Kris Shanahan",
+              "national_rank": 447,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 3,
+                "gross_sales_division_rank": 3,
+                "gross_sales_national_rank": 261,
+                "incentive_rate": 1,
+                "net_revenue": 1079007,
+                "net_revenue_division_rank": 4,
+                "net_revenue_national_rank": 383,
+                "net_revenue_percent_change": 209,
+                "net_sales": 2,
+                "realtor_attachment_rate": 33,
+                "realtor_attachment_rate_division_rank": 16,
+                "realtor_attachment_rate_national_rank": 171,
+                "realtor_commission_rate": 1.4
+              },
+              "summary": "1.4% realtor commission"
+            },
+            {
+              "cohort_rank": 16,
+              "division_name": "Palm Atlantic",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_carol_ellis_lr_jpg",
+              "name": "Carol Ellis",
+              "national_rank": 475,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 2,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 2
+                  }
+                ],
+                "gross_sales": 3,
+                "gross_sales_division_rank": 4,
+                "gross_sales_national_rank": 301,
+                "incentive_rate": 8.9,
+                "net_revenue": 1565560,
+                "net_revenue_division_rank": 2,
+                "net_revenue_national_rank": 195,
+                "net_revenue_percent_change": -38,
+                "net_sales": 3,
+                "realtor_attachment_rate": 67,
+                "realtor_attachment_rate_division_rank": 22,
+                "realtor_attachment_rate_national_rank": 359,
+                "realtor_commission_rate": 1.6
+              },
+              "summary": "1.6% realtor commission"
+            },
+            {
+              "cohort_rank": 17,
+              "division_name": "Palm Atlantic",
+              "image_url": "",
+              "name": "Bonnie Robertson",
+              "national_rank": 577,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 4,
+                "gross_sales_division_rank": 2,
+                "gross_sales_national_rank": 144,
+                "incentive_rate": 9.8,
+                "net_revenue": 1488210.5,
+                "net_revenue_division_rank": 3,
+                "net_revenue_national_rank": 226,
+                "net_revenue_percent_change": 102,
+                "net_sales": 4,
+                "realtor_attachment_rate": 50,
+                "realtor_attachment_rate_division_rank": 17,
+                "realtor_attachment_rate_national_rank": 222,
+                "realtor_commission_rate": 2.3
+              },
+              "summary": "2.3% realtor commission"
+            },
+            {
+              "cohort_rank": 18,
+              "division_name": "Palm Atlantic",
+              "image_url": "",
+              "name": "Gilberto Perez-Gonzalez",
+              "national_rank": 862,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 11,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 15,
+                "gross_sales_national_rank": 738,
+                "incentive_rate": 1.3,
+                "net_revenue": 502895,
+                "net_revenue_division_rank": 14,
+                "net_revenue_national_rank": 705,
+                "net_revenue_percent_change": -77,
+                "net_sales": 0,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 25,
+                "realtor_attachment_rate_national_rank": 738,
+                "realtor_commission_rate": 4.3
+              },
+              "summary": "4.3% realtor commission"
+            },
+            {
+              "cohort_rank": 19,
+              "division_name": "Palm Atlantic",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jackie_jackson_lr_jpg",
+              "name": "Jackie Jackson",
+              "national_rank": 866,
+              "pop_out_details": {
+                "appointments_kept_rate": 25,
+                "days_since_last_sale": 8,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 15,
+                "gross_sales_national_rank": 738,
+                "incentive_rate": 7.9,
+                "net_revenue": 378544,
+                "net_revenue_division_rank": 17,
+                "net_revenue_national_rank": 797,
+                "net_revenue_percent_change": 0,
+                "net_sales": 1,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 25,
+                "realtor_attachment_rate_national_rank": 738,
+                "realtor_commission_rate": 4.4
+              },
+              "summary": "4.4% realtor commission"
+            },
+            {
+              "cohort_rank": 20,
+              "division_name": "Palm Atlantic",
+              "image_url": "",
+              "name": "Michelle Maheuron",
+              "national_rank": 904,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 15,
+                "gross_sales_national_rank": 738,
+                "incentive_rate": 0,
+                "net_revenue": 354830,
+                "net_revenue_division_rank": 18,
+                "net_revenue_national_rank": 821,
+                "net_revenue_percent_change": 0,
+                "net_sales": 1,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 25,
+                "realtor_attachment_rate_national_rank": 738,
+                "realtor_commission_rate": 5.3
+              },
+              "summary": "5.3% realtor commission"
+            },
+            {
+              "cohort_rank": 21,
+              "division_name": "Palm Atlantic",
+              "image_url": "",
+              "name": "Tara Kelly",
+              "national_rank": 932,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 25,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 21,
+                "gross_sales_national_rank": 932,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 21,
+                "net_revenue_national_rank": 932,
+                "net_revenue_percent_change": -100,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 6,
+                "realtor_attachment_rate_national_rank": 932,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 21,
+              "division_name": "Palm Atlantic",
+              "image_url": "",
+              "name": "Richard Rylott",
+              "national_rank": 932,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 18,
+                "graph_data": [
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 21,
+                "gross_sales_national_rank": 932,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 21,
+                "net_revenue_national_rank": 932,
+                "net_revenue_percent_change": -100,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 6,
+                "realtor_attachment_rate_national_rank": 932,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 21,
+              "division_name": "Palm Atlantic",
+              "image_url": "",
+              "name": "George Cruz",
+              "national_rank": 932,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 25,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 21,
+                "gross_sales_national_rank": 932,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 21,
+                "net_revenue_national_rank": 932,
+                "net_revenue_percent_change": -100,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 6,
+                "realtor_attachment_rate_national_rank": 932,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 21,
+              "division_name": "Palm Atlantic",
+              "image_url": "",
+              "name": "Gina Mutz",
+              "national_rank": 932,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 0,
+                "graph_data": [
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 21,
+                "gross_sales_national_rank": 932,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 21,
+                "net_revenue_national_rank": 932,
+                "net_revenue_percent_change": 0,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 6,
+                "realtor_attachment_rate_national_rank": 932,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 21,
+              "division_name": "Palm Atlantic",
+              "image_url": "",
+              "name": "Anaie Amorim",
+              "national_rank": 932,
+              "pop_out_details": {
+                "appointments_kept_rate": 50,
+                "days_since_last_sale": 0,
+                "graph_data": [
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 21,
+                "gross_sales_national_rank": 932,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 21,
+                "net_revenue_national_rank": 932,
+                "net_revenue_percent_change": 0,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 6,
+                "realtor_attachment_rate_national_rank": 932,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 21,
+              "division_name": "Palm Atlantic",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jill_millerlr_jpg",
+              "name": "Jill Miller",
+              "national_rank": 932,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 24,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 21,
+                "gross_sales_national_rank": 932,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 21,
+                "net_revenue_national_rank": 932,
+                "net_revenue_percent_change": -100,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 6,
+                "realtor_attachment_rate_national_rank": 932,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 21,
+              "division_name": "Palm Atlantic",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_niyi_gomezlr_jpg",
+              "name": "Niyi Gomez",
+              "national_rank": 932,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 26,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 21,
+                "gross_sales_national_rank": 932,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 21,
+                "net_revenue_national_rank": 932,
+                "net_revenue_percent_change": -100,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 6,
+                "realtor_attachment_rate_national_rank": 932,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 21,
+              "division_name": "Palm Atlantic",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ken_gow_jpg",
+              "name": "Ken Gow",
+              "national_rank": 932,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 13,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 21,
+                "gross_sales_national_rank": 932,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 21,
+                "net_revenue_national_rank": 932,
+                "net_revenue_percent_change": -100,
+                "net_sales": -3,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 6,
+                "realtor_attachment_rate_national_rank": 932,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 21,
+              "division_name": "Palm Atlantic",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_eric_lemmo_lr_jpg",
+              "name": "Eric Lemmo",
+              "national_rank": 932,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 12,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 21,
+                "gross_sales_national_rank": 932,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 21,
+                "net_revenue_national_rank": 932,
+                "net_revenue_percent_change": -100,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 6,
+                "realtor_attachment_rate_national_rank": 932,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 21,
+              "division_name": "Palm Atlantic",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_niyi_gomez_lr_jpg",
+              "name": "Niyi Gomez",
+              "national_rank": 932,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 26,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 21,
+                "gross_sales_national_rank": 932,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 21,
+                "net_revenue_national_rank": 932,
+                "net_revenue_percent_change": -100,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 6,
+                "realtor_attachment_rate_national_rank": 932,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            }
+          ],
+          "QTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Palm Atlantic",
+              "image_url": "",
+              "name": "Amy Sears",
+              "national_rank": 71,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 3,
+                "gross_sales_division_rank": 21,
+                "gross_sales_national_rank": 959,
+                "incentive_rate": 5.2,
+                "net_revenue": 1288046,
+                "net_revenue_division_rank": 23,
+                "net_revenue_national_rank": 952,
+                "net_revenue_percent_change": -4,
+                "net_sales": 3,
+                "realtor_attachment_rate": 33,
+                "realtor_attachment_rate_division_rank": 7,
+                "realtor_attachment_rate_national_rank": 147,
+                "realtor_commission": 0,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Palm Atlantic",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_niyi_gomez_lr_jpg",
+              "name": "Niyi Gomez",
+              "national_rank": 72,
+              "pop_out_details": {
+                "appointments_kept_rate": 14,
+                "days_since_last_sale": 26,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 2,
+                "gross_sales_division_rank": 25,
+                "gross_sales_national_rank": 1017,
+                "incentive_rate": 1,
+                "net_revenue": 969215,
+                "net_revenue_division_rank": 25,
+                "net_revenue_national_rank": 1017,
+                "net_revenue_percent_change": -58,
+                "net_sales": 2,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 1,
+                "realtor_attachment_rate_national_rank": 40,
+                "realtor_commission": 0,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 2,

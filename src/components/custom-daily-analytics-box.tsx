@@ -24,3 +24,4 @@ const CustomDailyAnalyticsBox = ({
   }, [diffPercent, isDecreaseBenefit])
 
   return (
+    <Stack direction="row" sx={{ height: 15, mb: 5 }} alignItems="flex-end" spacing={1}>

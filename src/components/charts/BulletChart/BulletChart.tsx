@@ -6,7 +6,6 @@ import { PacingBulletBarColors } from '@/types/pacing'
 
 interface BulletChartProps {
   height?: CSSProperties['height']
-  width?: CSSProperties['width']
 }
 
 const BulletChart = ({ height = '100%', width = '100%' }: BulletChartProps) => {
@@ -40,3 +39,5 @@ const BulletChart = ({ height = '100%', width = '100%' }: BulletChartProps) => {
       <BulletBar
         id="pacing-homes-less-0"
         value={homes.black}
+        label="Black"
+        maxValue={maxLimit}

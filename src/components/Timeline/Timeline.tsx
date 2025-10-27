@@ -53,3 +53,4 @@ const Timeline = ({ journeyData }: TimelineProps) => {
       }
     }
 
+    return idx

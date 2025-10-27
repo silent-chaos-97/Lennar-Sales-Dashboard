@@ -21,3 +21,4 @@ const DataAlert = ({ elementName, truncateSize = 0, isSvg = false, children }: D
     return metric?.data_status
   }, [metrics?.METRICS, elementName])
 
+  const Tag = isSvg ? 'tspan' : 'span'

@@ -39,3 +39,5 @@ export const PACING_MAP_OFFSETS = {
   region: 30,
   sub_region: 30,
   division: 0
+}
+

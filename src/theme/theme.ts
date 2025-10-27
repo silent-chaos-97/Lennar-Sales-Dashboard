@@ -27,7 +27,6 @@ declare module '@mui/material/styles' {
 
   interface TypeBackground {
     secondary: string
-    tertiary: string
   }
 
   interface TypeText {
@@ -237,3 +236,11 @@ export const theme = createTheme({
     MuiContainer: {
       styleOverrides: {
         maxWidthXl: {
+          maxWidth: 1440
+        }
+      }
+    },
+    MuiButton: {
+      defaultProps: {
+        disableElevation: true
+      },

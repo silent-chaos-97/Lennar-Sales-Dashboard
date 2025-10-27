@@ -26,3 +26,4 @@ const CustomTooltip = ({ elementName, children }: CustomTooltipProps) => {
       componentsProps={{
         tooltip: {
           sx: {
+            bgcolor: '#191D26',

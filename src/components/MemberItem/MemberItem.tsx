@@ -51,3 +51,5 @@ const MemberItem = ({
           </Typography>
         )}
       </Stack>
+      <Avatar
+        sx={{

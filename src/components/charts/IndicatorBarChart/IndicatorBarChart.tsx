@@ -86,3 +86,6 @@ const IndicatorBarChart = ({
         .attr('fill', '#028090')
         .attr('style', 'opacity: 0.5;')
         .attr('d', function (d) {
+          const xVal = x(d.x_axis)
+          const yVal = y(d.future_pace)
+          const barWidth = x.bandwidth()

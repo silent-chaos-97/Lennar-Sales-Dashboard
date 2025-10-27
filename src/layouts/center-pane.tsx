@@ -145,7 +145,6 @@ const CenterPane = () => {
       maxZoom: ZOOM_LEVELS[currentCohort.type],
       padding: { top: 80, bottom: 80, left: 650, right: 900 },
       bearing: 0,
-      linear: true
     }
     if (mapRef.current) {
       if (points.length && lId !== undefined) {
@@ -228,3 +227,10 @@ const CenterPane = () => {
           y: offsetTop < arrowTopThreshold ? offsetTop : arrowTopThreshold
         })
 
+        if (dot?.properties?.cluster) {
+          const leaves = supercluster
+            .getLeaves(dot.id, Infinity)
+            .sort(
+              (a, b) => a.properties.sales.sale_cohort_rank - b.properties.sales.sale_cohort_rank
+            )
+          setSelectedSalesItems(leaves)

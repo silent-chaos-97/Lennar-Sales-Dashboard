@@ -118,6 +118,7 @@ const Header = () => {
       if (timeoutRef.current) {
         timeoutRef.current && clearTimeout(timeoutRef.current)
         timeoutRef.current = window.setTimeout(() => {
+          setAlert(dataStatus !== HTTP_STATUS_CODES.OK)
         }, 20000)
       }
     }
@@ -204,3 +205,10 @@ const Header = () => {
                           position: 'absolute',
                           left: -225,
                           top: 20,
+                          overflow: 'hidden'
+                        }}
+                        boxShadow={1}
+                        borderRadius={1}
+                        ref={menuRef}
+                      >
+                        <RegionSelectMenu onSelectMenu={handleSelectMenu} />

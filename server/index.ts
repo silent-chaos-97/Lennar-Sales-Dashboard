@@ -47,3 +47,5 @@ app.get('/api/data', async (req, res) => {
   const cacheFilePath = path.join(__dirname, 'cache', cacheFilename)
 
   if (fs.existsSync(cacheFilePath)) {
+    try {
+      console.log('## Date is fetched from cache: ', cacheFilePath)

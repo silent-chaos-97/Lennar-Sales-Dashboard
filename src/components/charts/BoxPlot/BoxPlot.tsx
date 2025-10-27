@@ -109,6 +109,9 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       const q3 = botPlot[3]
       // const interQuantileRange = q3 - q1
       // const min = q1 - 1.5 * interQuantileRange
-      // const max = q1 + 1.5 * interQuantileRange
       const min = botPlot[0]
       const max = botPlot[4]
+
+      const boxCenter = idx * ((width - 200) / (boxPlotData.length - 1)) + 100
+
+      // Show the main vertical line

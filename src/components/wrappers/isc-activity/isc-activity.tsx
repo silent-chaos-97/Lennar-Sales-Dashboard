@@ -83,3 +83,5 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
                   color={getValueChangeTextColor(data?.TOTAL_CHATS_TEXTS_PERCENT_CHANGE || 0)}
                   variant="h6"
                   sx={{ ml: 1 }}
+                >
+                  {data?.TOTAL_CHATS_TEXTS_PERCENT_CHANGE || 0}%

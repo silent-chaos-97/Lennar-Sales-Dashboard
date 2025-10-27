@@ -70,7 +70,6 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
     setActiveIdx((prev) => Math.min(leaderboardItems.length - 1, (prev || 0) + 1))
   }, [leaderboardItems])
 
-  const handleSelectTimestamp = (timestamp: string) => {
     setActiveTimestamp(timestamp)
   }
 
@@ -93,3 +92,5 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
           <Scrollbar
             style={{
               height: 1040,
+              width: '100%'
+            }}

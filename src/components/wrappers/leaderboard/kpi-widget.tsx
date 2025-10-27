@@ -32,3 +32,4 @@ const KPIWidget = ({
           <Typography variant="h5" lineHeight={2} fontWeight={700} color="grey.300">
             {suffixTheNumber(firstValue)}
           </Typography>
+          <Typography variant="h5" lineHeight={2} fontWeight={700} color="grey.300">

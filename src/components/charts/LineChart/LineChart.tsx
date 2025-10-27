@@ -76,3 +76,6 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
           return d.offset
         })
         .attr('stop-color', function (d) {
+          return d.color
+        })
+

@@ -101,3 +101,7 @@ export const Section = ({
                       <Typography
                         key={key}
                         variant="h6"
+                        fontWeight={400}
+                        sx={{ mb: 1.5, whiteSpace: 'nowrap', '&:hover': { color: '#fff' } }}
+                        onClick={() => handleClickCategoryItem(key)}
+                      >
