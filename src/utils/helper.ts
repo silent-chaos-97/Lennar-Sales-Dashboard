@@ -7,6 +7,7 @@ const colors = [
   '#00763B',
   '#577591',
   '#77C1FF',
+  '#005DAA',
   '#AE78D7'
 ]
 
@@ -20,3 +21,4 @@ export function getValueChangeTextColor(num: number) {
   if (num === 0) return '#ffffff'
   else if (num > 0) return '#009d4e'
   return '#e44d4d'
+}

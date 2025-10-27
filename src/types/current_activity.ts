@@ -20,7 +20,6 @@ export interface CurrentActivityState {
   COHORT: string
   COHORT_TYPE: string
   DBT_UPDATED_AT: string
-  APPOINTMENT_SET_TICKER_ARRAY: TickerItem[]
   PRIOR_WEEK_APPOINTMENT_SET_TICKER_ARRAY: TickerItem[]
   CALLS_TICKER_ARRAY: TickerItem[] | null
   CHATS_TEXTS_TICKER_ARRAY: null | TickerItem[]

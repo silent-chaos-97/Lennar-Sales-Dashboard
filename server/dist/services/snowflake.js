@@ -59,7 +59,6 @@ class SnowflakeService {
                                 longitude: dRow.LONGITUDE,
                                 timezone: dRow.TIME_ZONE
                             }));
-// Temp comment
                             const subRegions = rows
                                 .filter((dRow) => dRow.COHORT_TYPE === 'sub_region' && dRow.REGION === rRow.REGION)
                                 .map((dRow) => {
@@ -96,6 +95,7 @@ class SnowflakeService {
                             console.log('Cohort Division fetching is finished');
                         });
                         resolve(regions);
+// Temp comment
                     }
                 });
             });

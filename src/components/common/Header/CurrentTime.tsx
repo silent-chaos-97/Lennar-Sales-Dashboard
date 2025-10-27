@@ -5,3 +5,4 @@ const CurrentTime = () => {
   const { currentTime } = useAppTimer()
 
   return (
+    <Typography variant="caption" color="grey.500">

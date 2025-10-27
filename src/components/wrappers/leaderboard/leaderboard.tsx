@@ -48,8 +48,8 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
     setActiveIdx(null)
   }, [currentCohort])
 
-  const handleClickDetail = (idx: number) => {
     setActiveIdx(idx)
+  }
 
   const leaderboardItems: LeaderboardItemValue[] = useMemo(() => {
     if (!leaderboardData) return []
@@ -91,3 +91,4 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
         {currentCohort.type === 'division' ? (
           <Scrollbar
             style={{
+              height: 1040,

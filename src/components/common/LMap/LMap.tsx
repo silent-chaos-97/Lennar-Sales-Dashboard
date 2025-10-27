@@ -34,3 +34,4 @@ const LMap: React.FC<LMapProps> = ({
   const debouncedHandleMoveMap = debounce((e: ViewStateChangeEvent) => {
     setMapViewState({
       latitude: e.viewState.latitude,
+      longitude: e.viewState.longitude,

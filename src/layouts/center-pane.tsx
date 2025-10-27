@@ -28,6 +28,7 @@ const MarkerIcon = styled('div', {
   borderRadius: '50%',
   boxSizing: 'border-box',
   height: props.radius,
+  width: props.radius,
   display: 'flex',
   justifyContent: 'center',
   alignItems: 'center',
@@ -123,7 +124,6 @@ const CenterPane = () => {
     if (clusters.length === 0) return
     const { idx } = clusters.reduce(
       (acc, cluster, id) => {
-        const leaves = cluster.properties.cluster
           ? supercluster.getLeaves(cluster.id, Infinity)
           : [cluster]
         leaves.forEach((leaf) => {
@@ -217,3 +217,8 @@ const CenterPane = () => {
 
         setSvgSize({
           width: svgWidth,
+          height:
+            offsetTop < arrowTopThreshold
+              ? arrowBottomThreshold - offsetTop
+              : offsetTop < arrowBottomThreshold
+              ? offsetTop - 5

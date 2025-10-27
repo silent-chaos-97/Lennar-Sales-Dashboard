@@ -57,3 +57,5 @@ const RegionSelectMenu = ({ onSelectMenu }: RegionSelectMenuProps) => {
     <Stack sx={{ width: 1260, backgroundColor: 'background.paper', p: 4 }} alignItems="center">
       <Box
         onClick={() => onSelectMenu(NATIONAL_DIVISION)}
+        role="button"
+        tabIndex={-1}

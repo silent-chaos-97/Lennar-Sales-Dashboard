@@ -63,3 +63,5 @@ const DailyAnalyticsBox = ({
       if (diffPercent > 0) {
         return <NorthEastIcon color={isDecreaseBenefit ? 'error' : 'success'} />
       } else {
+        return <SouthEastIcon color={isDecreaseBenefit ? 'success' : 'error'} />
+      }

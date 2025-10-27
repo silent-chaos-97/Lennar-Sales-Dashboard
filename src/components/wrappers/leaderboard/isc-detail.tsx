@@ -85,6 +85,7 @@ const ISCDetail = ({
   onNext,
   onClose,
   data,
+  imageUrl,
   cohortRank,
   nationalRank,
   disablePrevNext
@@ -216,3 +217,9 @@ const ISCDetail = ({
                       <Typography fontSize={28} fontWeight={700}>
                         {name.split(' ')[0][0] + name.split(' ')[1][0]}
                       </Typography>
+                    </Avatar>
+                  </Stack>
+                </Grid>
+                <Grid item xs={2}>
+                  <CustomTooltip elementName={`label-isc-calls`}>
+                    <Typography variant="caption" color="text.secondary" fontWeight={500}>

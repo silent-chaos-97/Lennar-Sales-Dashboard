@@ -40,7 +40,6 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         .scaleLinear()
         .domain([0, currentTickers.length - 1])
         .range([0, chartWidth])
-
       const yScale = d3
         .scaleLinear()
         .domain([0, d3.max([...currentTickers, ...previousTickers])])
@@ -73,3 +72,5 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         .enter()
         .append('stop')
         .attr('offset', function (d) {
+          return d.offset
+        })

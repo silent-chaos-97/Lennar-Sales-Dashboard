@@ -1,6 +1,5 @@
 import { useMemo } from 'react'
 import { useAppState } from '@/contexts/StateContext'
-import Icon from '@mui/material/Icon'
 import WarningRoundIcon from '@mui/icons-material/WarningRounded'
 import { DataStatus } from '@/types/metrics'
 import { truncateText } from '@/utils/helper'
@@ -20,3 +19,4 @@ const DataAlert = ({ elementName, truncateSize = 0, isSvg = false, children }: D
     const metric = metrics?.METRICS?.find((m) => m.element_name === elementName)
     return metric?.data_status
   }, [metrics?.METRICS, elementName])
+

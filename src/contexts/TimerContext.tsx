@@ -92,3 +92,5 @@ export const TimerProvider = (props: PropsWithChildren) => {
   }, [playing, cycleTimerProgress, cycleTimeout, disableRotation])
 
   useEffect(() => {
+    const idleTimer = setInterval(() => {
+      setCurrentTime(

@@ -27,3 +27,4 @@ const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
                   national_rank={leader.national_rank}
                   summary={leader.summary}
                 />
+              ))}

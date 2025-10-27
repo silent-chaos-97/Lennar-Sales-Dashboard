@@ -61,6 +61,7 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       .range([0, width])
       .paddingInner(0.4)
       .paddingOuter(0)
+
     const xAxisGroup = svg
       .append('g')
       .attr('transform', `translate(0, ${height})`)
@@ -106,3 +107,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       const q1 = botPlot[1]
       const median = botPlot[2]
       const q3 = botPlot[3]
+      // const interQuantileRange = q3 - q1
+      // const min = q1 - 1.5 * interQuantileRange
+      // const max = q1 + 1.5 * interQuantileRange

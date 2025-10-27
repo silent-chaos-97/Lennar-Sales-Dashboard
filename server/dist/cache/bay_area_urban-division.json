@@ -271,6 +271,7 @@
           },
           {
             "current": 43,
+            "hour": 13,
             "prev": 37
           },
           {
@@ -934,3 +935,20 @@
             },
             {
               "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 2
+            }
+          ],
+          "percent_change": -66.7,
+          "value": 2
+        },
+        "RETAIL_SALES": {
+          "percent_change": -66.7,
+          "value": 2
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 0

@@ -48,4 +48,7 @@ const Timeline = ({ journeyData }: TimelineProps) => {
     let idx: number | null = null
     for (let i = 0; i < journeyData.length; i++) {
       if (journeyData[i]?.body) {
+        idx = i
         break
+      }
+    }

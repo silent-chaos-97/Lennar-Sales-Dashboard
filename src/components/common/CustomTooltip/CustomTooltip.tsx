@@ -4,7 +4,6 @@ import { useAppState } from '@/contexts/StateContext'
 import { useScreen } from '@/contexts/ScreenContext'
 
 export interface CustomTooltipProps {
-  elementName: string
   children: ReactElement
 }
 
@@ -25,3 +24,4 @@ const CustomTooltip = ({ elementName, children }: CustomTooltipProps) => {
       followCursor
       componentsProps={{
         tooltip: {
+          sx: {

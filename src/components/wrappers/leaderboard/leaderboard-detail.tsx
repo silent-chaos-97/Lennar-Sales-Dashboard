@@ -37,3 +37,4 @@ const LeaderboardDetail = ({
     return (
       <ISCDetail
         open={open}
+        name={name}

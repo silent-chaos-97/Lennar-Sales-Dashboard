@@ -43,3 +43,4 @@ export interface SalesItem {
   sale_cohort_rank: number
 }
 
+export interface DetailSalesItems {

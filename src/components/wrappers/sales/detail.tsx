@@ -125,3 +125,6 @@ const SalesDetails = ({
                   Sale price
                 </Typography>
                 <Typography variant="h3">${salesDetail.sale_price.toLocaleString()}</Typography>
+              </Grid>
+              <Grid item lg={6} mb={2}>
+                <Typography variant="caption" color="text.secondary">

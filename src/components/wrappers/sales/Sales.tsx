@@ -86,3 +86,5 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
         <DailyAnalyticsBox
           title="Average incentives as percent of price"
           value={salesState?.AVG_INCENTIVE?.value || 0}
+          grossValue={salesState?.GROSS_SALES?.value || 0}
+          diffPercent={salesState?.AVG_INCENTIVE?.percent_change || 0}

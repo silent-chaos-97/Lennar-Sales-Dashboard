@@ -37,3 +37,6 @@ const BulletChart = ({ height = '100%', width = '100%' }: BulletChartProps) => {
       }}
       justifyContent="space-between"
     >
+      <BulletBar
+        id="pacing-homes-less-0"
+        value={homes.black}

@@ -48,7 +48,6 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
           radiusFactor -= 0.05
         }
         return radius * 0.7 * radiusFactor
-      })
 
     // Another arc that won't be drawn. Just for labels positioning
     // let outerRadiusFactor = 1
@@ -78,3 +77,5 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
     // Add the polylines between chart and labels:
     let yThreshold = 0
     svg
+      .selectAll('allPolylines')
+      .data(data_ready)

@@ -42,3 +42,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
           activityTimeframe={activityTimeframe}
         />
       </Stack>
+      <Stack spacing={0.5} sx={{ width: '100%' }}>

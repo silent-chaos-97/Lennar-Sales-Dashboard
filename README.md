@@ -53,3 +53,5 @@ Follow these steps to set up the frontend:
 
 2. To update the project, navigate to the project folder and pull the latest changes (you can skip this step if only restarting processes is required).
     ```bash
+    cd /opt/node/projects/corp_hub
+    git pull

@@ -87,7 +87,6 @@ const AppointmentSet = ({
         []
       for (let i = 0; i <= 6; i++) {
         const nextWeekday = monday.plus({ days: i }).weekdayShort
-        const nextWeekdayDate = monday.plus({ days: i }).toFormat('yyyy-MM-dd')
         weekdays.push({
           weekday: nextWeekday,
           date: nextWeekdayDate,
@@ -97,3 +96,28 @@ const AppointmentSet = ({
       }
       return weekdays
     },
+    [activityTimeframe]
+  )
+
+  const [appointmentData, maxValue] = useMemo(() => {
+    const weekDays = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+    let maxValue = 0
+    return [
+      weekDays.map((weekDay) => {
+        const day = aggregateWeekData(currentWeekData).find((day) => day.weekday === weekDay)
+        const dayPrv = aggregateWeekData(prevWeekData, true).find((day) => day.weekday === weekDay)
+
+        const maxDay = Math.max(...(day?.byFrame as []))
+        const maxDayPrv = Math.max(...(dayPrv?.byFrame as []))
+        const max = Math.max(maxDay, maxDayPrv)
+        if (max > maxValue) maxValue = max
+
+        return {
+          weekday: weekDay,
+          cur: {
+            date: day?.date,
+            total: day?.total,
+            f0: day?.byFrame[0],
+            f1: day?.byFrame[1],
+            f2: day?.byFrame[2],
+            f3: day?.byFrame[3]

@@ -4,7 +4,6 @@ import { PriceDetailItem } from './pricing'
 
 export interface WeeklyPacingItem {
   future_pace: number
-  gross_sales: number
   x_axis: string
   sort: number
 }
@@ -34,3 +33,4 @@ export interface SubCohortItem {
   current_week_prediction?: number
   change_needed_to_meet_pace: number
   available_homes: AvailableHomes
+  weekly_pacing_graph: WeeklyPacingItem[]

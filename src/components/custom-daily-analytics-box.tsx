@@ -17,7 +17,6 @@ const CustomDailyAnalyticsBox = ({
   unit = '',
   isDecreaseBenefit = false
 }: CustomDailyAnalyticsBoxProps) => {
-  const diffColor = useMemo(() => {
     if (diffPercent === 0) return 'text.primary'
     else if (diffPercent > 0) return isDecreaseBenefit ? 'error' : 'success.main'
     return isDecreaseBenefit ? 'success.main' : 'error'

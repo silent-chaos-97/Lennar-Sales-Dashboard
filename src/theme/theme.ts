@@ -21,7 +21,6 @@ declare module '@mui/material/styles' {
   }
 
   // allow configuration using `createTheme`
-  interface TypographyVariantsOptions {
     title?: React.CSSProperties
   }
 
@@ -224,5 +223,11 @@ export const theme = createTheme({
         height: 10px;
         background-color: black;
         border-radius: 50%;
+        z-index: 2;
+      }
+      
+      .line {
+        position: absolute;
+        border: 1px solid black;
         z-index: 2;
       }

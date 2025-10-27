@@ -48,3 +48,4 @@
     "format": "npm run prettier:fix && npm run lint:fix"
   },
   "eslintConfig": {
+    "extends": [

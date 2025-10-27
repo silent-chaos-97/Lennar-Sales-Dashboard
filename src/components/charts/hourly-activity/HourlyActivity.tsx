@@ -36,3 +36,4 @@ const HourlyActivity = ({
           <DataAlert elementName={`label-${id}`} truncateSize={20}>
             {title}
           </DataAlert>
+        </Typography>

@@ -15,6 +15,7 @@ const PacingAnalysis = () => {
       title="Pacing Analysis"
       timestamp="WTD"
       more={
+        <Stack direction="row" alignItems="center" spacing={0.5}>
           <Box width={24} height={4} borderRadius={2} bgcolor="#1ABB96" />
           <Typography variant="caption" color="textSecondary">
             Prediction
@@ -37,3 +38,5 @@ const PacingAnalysis = () => {
           </Box>
           <Box flex={1}>
             <CustomTooltip elementName="pacing-next-3w-sales">
+              <Typography variant="caption" color="text.secondary" fontWeight={500}>
+                <DataAlert elementName="pacing-next-3w-sales">Next 3W pace</DataAlert>

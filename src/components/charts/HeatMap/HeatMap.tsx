@@ -15,7 +15,6 @@ type HeatmapProps = {
   data: TickerItem[]
   ref?: OneRefChangeTime
 }
-
 const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapProps) => {
   const width = cWidth || (size + spacing) * nCol - spacing
   const height = 87 || (size + spacing) * nRow - 1 // 87 is the height of the ActivityChart
@@ -58,3 +57,4 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
     return d3.axisBottom(xScale).ticks(d3.timeMinute.every(5)).tickFormat(d3.timeFormat('%H:%M'))
   }, [xScale])
 
+  const yScale = useMemo(() => {

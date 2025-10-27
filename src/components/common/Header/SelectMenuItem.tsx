@@ -35,3 +35,4 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
             }
           }}
           onClick={() => onSelectMenu(item)}
+        />

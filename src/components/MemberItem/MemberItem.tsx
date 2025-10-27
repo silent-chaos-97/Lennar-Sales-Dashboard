@@ -49,3 +49,4 @@ const MemberItem = ({
           <Typography variant="body1" color="#A5CFEF">
             {national_rank}
           </Typography>
+        )}

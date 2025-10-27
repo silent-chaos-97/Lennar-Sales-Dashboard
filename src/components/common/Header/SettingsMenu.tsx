@@ -129,3 +129,6 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
           </Select>
         </Stack>
         <Stack sx={{ display: 'flex', flexDirection: 'row' }}>
+          <Box flex={1} mr={1}>
+            <Stack alignItems="flex-start" spacing={1} mb={3.5}>
+              <Typography variant="caption" color="text.secondary">

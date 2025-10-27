@@ -58,9 +58,12 @@ export interface LeaderboardItemValue {
   image_url: string
   name: string
   division_name: string
+  national_rank: number
   summary: string
   pop_out_details?: LeaderboardMemberDetail
 }
 
 export interface LeaderboardFilterObj {
   MTD: LeaderboardItemValue[]
+  QTD: LeaderboardItemValue[]
+  WTD: LeaderboardItemValue[]

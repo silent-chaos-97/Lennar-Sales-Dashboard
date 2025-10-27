@@ -27035,6 +27035,7 @@
                 "net_revenue": 0,
                 "net_revenue_division_rank": 8,
                 "net_revenue_national_rank": 364,
+                "net_revenue_percent_change": 0,
                 "net_sales": 0,
                 "realtor_attachment_rate": 0,
                 "realtor_attachment_rate_division_rank": 4,
@@ -43162,4 +43163,984 @@
                   {
                     "x_axis": "Oct 02",
                     "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 8,
+                "gross_sales_division_rank": 13,
+                "gross_sales_national_rank": 495,
+                "incentive_rate": 0,
+                "net_revenue": 5910132,
+                "net_revenue_division_rank": 19,
+                "net_revenue_national_rank": 136,
+                "net_revenue_percent_change": 8,
+                "net_sales": 8,
+                "realtor_attachment_rate": 75,
+                "realtor_attachment_rate_division_rank": 23,
+                "realtor_attachment_rate_national_rank": 553,
+                "realtor_commission": 100000,
+                "realtor_commission_rate": 1.7
+              },
+              "summary": "1.7% realtor commission"
+            },
+            {
+              "cohort_rank": 24,
+              "division_name": "Cal Coastal",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_deborah_chiang_lr_jpg",
+              "name": "Deborah Chiang",
+              "national_rank": 1111,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 0,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 24,
+                "gross_sales_national_rank": 1111,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 24,
+                "net_revenue_national_rank": 1111,
+                "net_revenue_percent_change": 0,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 24,
+                "realtor_attachment_rate_national_rank": 1111,
+                "realtor_commission": 0,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            }
+          ],
+          "WTD": [
+            {
+              "cohort_rank": 1,
+              "division_name": "Cal Coastal",
+              "image_url": "",
+              "name": "Esther Chen",
+              "national_rank": 18,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 2,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 6
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 2
+                  }
+                ],
+                "gross_sales": 2,
+                "gross_sales_division_rank": 1,
+                "gross_sales_national_rank": 35,
+                "incentive_rate": 0,
+                "net_revenue": 2698980,
+                "net_revenue_division_rank": 1,
+                "net_revenue_national_rank": 1,
+                "net_revenue_percent_change": 0,
+                "net_sales": 2,
+                "realtor_attachment_rate": 50,
+                "realtor_attachment_rate_division_rank": 21,
+                "realtor_attachment_rate_national_rank": 107,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Cal Coastal",
+              "image_url": "",
+              "name": "Julie Hodges",
+              "national_rank": 30,
+              "pop_out_details": {
+                "appointments_kept_rate": 100,
+                "days_since_last_sale": 2,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 2,
+                "gross_sales_national_rank": 93,
+                "incentive_rate": 0,
+                "net_revenue": 1474990,
+                "net_revenue_division_rank": 2,
+                "net_revenue_national_rank": 8,
+                "net_revenue_percent_change": -22,
+                "net_sales": 1,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 1,
+                "realtor_attachment_rate_national_rank": 16,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Cal Coastal",
+              "image_url": "",
+              "name": "Rhonda Lopez",
+              "national_rank": 30,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 3,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 2,
+                "gross_sales_national_rank": 93,
+                "incentive_rate": 0,
+                "net_revenue": 1329990,
+                "net_revenue_division_rank": 3,
+                "net_revenue_national_rank": 17,
+                "net_revenue_percent_change": 0,
+                "net_sales": 1,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 1,
+                "realtor_attachment_rate_national_rank": 16,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 2,
+              "division_name": "Cal Coastal",
+              "image_url": "",
+              "name": "Zoya Sattar",
+              "national_rank": 30,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 2,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 2,
+                "gross_sales_national_rank": 93,
+                "incentive_rate": 0,
+                "net_revenue": 444990,
+                "net_revenue_division_rank": 7,
+                "net_revenue_national_rank": 186,
+                "net_revenue_percent_change": 0,
+                "net_sales": 1,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 1,
+                "realtor_attachment_rate_national_rank": 16,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Cal Coastal",
+              "image_url": "",
+              "name": "Kurt Ree",
+              "national_rank": 118,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 2,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 5,
+                "gross_sales_national_rank": 181,
+                "incentive_rate": 0,
+                "net_revenue": 1014990,
+                "net_revenue_division_rank": 5,
+                "net_revenue_national_rank": 37,
+                "net_revenue_percent_change": 0,
+                "net_sales": 1,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 22,
+                "realtor_attachment_rate_national_rank": 181,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Cal Coastal",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lourdes_wright_lr_jpg",
+              "name": "Lourdes Wright",
+              "national_rank": 118,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 1,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 5,
+                "gross_sales_national_rank": 181,
+                "incentive_rate": 0,
+                "net_revenue": 1179990,
+                "net_revenue_division_rank": 4,
+                "net_revenue_national_rank": 23,
+                "net_revenue_percent_change": 0,
+                "net_sales": 1,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 22,
+                "realtor_attachment_rate_national_rank": 181,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 5,
+              "division_name": "Cal Coastal",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_dion_rottmanlr_jpg",
+              "name": "Dion Rottman",
+              "national_rank": 118,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 3,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 5
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 1
+                  }
+                ],
+                "gross_sales": 1,
+                "gross_sales_division_rank": 5,
+                "gross_sales_national_rank": 181,
+                "incentive_rate": 0,
+                "net_revenue": 879390,
+                "net_revenue_division_rank": 6,
+                "net_revenue_national_rank": 48,
+                "net_revenue_percent_change": 0,
+                "net_sales": 1,
+                "realtor_attachment_rate": 100,
+                "realtor_attachment_rate_division_rank": 22,
+                "realtor_attachment_rate_national_rank": 181,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Cal Coastal",
+              "image_url": "",
+              "name": "James Lin",
+              "national_rank": 364,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 4,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 8,
+                "gross_sales_national_rank": 364,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 8,
+                "net_revenue_national_rank": 364,
+                "net_revenue_percent_change": 0,
+                "net_sales": -1,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 4,
+                "realtor_attachment_rate_national_rank": 364,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Cal Coastal",
+              "image_url": "",
+              "name": "Joel Spinosi",
+              "national_rank": 364,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 8,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 8
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 8,
+                "gross_sales_national_rank": 364,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 8,
+                "net_revenue_national_rank": 364,
+                "net_revenue_percent_change": -100,
+                "net_sales": -4,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 4,
+                "realtor_attachment_rate_national_rank": 364,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Cal Coastal",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_karen_soistman_lr_jpg",
+              "name": "Karen Soistman",
+              "national_rank": 364,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 5,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 1
+                  },
+                  {
+                    "x_axis": "Sep 04",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Sep 11",
+                    "y_axis": 4
+                  },
+                  {
+                    "x_axis": "Sep 18",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Sep 25",
+                    "y_axis": 3
+                  },
+                  {
+                    "x_axis": "Oct 02",
+                    "y_axis": 2
+                  },
+                  {
+                    "x_axis": "Oct 09",
+                    "y_axis": 0
+                  }
+                ],
+                "gross_sales": 0,
+                "gross_sales_division_rank": 8,
+                "gross_sales_national_rank": 364,
+                "incentive_rate": 0,
+                "net_revenue": 0,
+                "net_revenue_division_rank": 8,
+                "net_revenue_national_rank": 364,
+                "net_revenue_percent_change": 0,
+                "net_sales": 0,
+                "realtor_attachment_rate": 0,
+                "realtor_attachment_rate_division_rank": 4,
+                "realtor_attachment_rate_national_rank": 364,
+                "realtor_commission_rate": 0
+              },
+              "summary": "0.0% realtor commission"
+            },
+            {
+              "cohort_rank": 8,
+              "division_name": "Cal Coastal",
+              "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_deborah_chiang_lr_jpg",
+              "name": "Deborah Chiang",
+              "national_rank": 364,
+              "pop_out_details": {
+                "appointments_kept_rate": 0,
+                "days_since_last_sale": 0,
+                "graph_data": [
+                  {
+                    "x_axis": "Jul 10",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 17",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 24",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Jul 31",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 07",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 14",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 21",
+                    "y_axis": 0
+                  },
+                  {
+                    "x_axis": "Aug 28",
+                    "y_axis": 0
                   },

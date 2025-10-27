@@ -125,3 +125,6 @@ class SnowflakeService {
       'isc_performance_timeframe',
       'current_activity_timeframe',
       'sales_timeframe',
+      'pacing',
+      'pricing',
+      'insights'

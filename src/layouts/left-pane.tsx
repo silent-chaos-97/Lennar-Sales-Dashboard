@@ -41,3 +41,4 @@ const LeftPane = () => {
                 <ArrowForwardIcon color="inherit" />
                 <Typography variant="caption" color="text.secondary">
                   vs same day and time previous week
+                </Typography>

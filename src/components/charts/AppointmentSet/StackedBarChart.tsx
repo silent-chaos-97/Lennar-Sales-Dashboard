@@ -24,7 +24,6 @@ interface StackedBarChartProps {
 
 interface StackedData {
   key: string
-  cur?: string | number
   prv?: string | number
 }
 
@@ -34,6 +33,7 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
   useEffect(() => {
     drawChart()
     window.addEventListener('resize', drawChart)
+    return () => {
       window.removeEventListener('resize', drawChart)
     }
   }, [data])
@@ -76,3 +76,5 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
       value: entry.cur
     }))
 
+    const prvData = stackedData.map((entry) => ({
+      key: entry.key,

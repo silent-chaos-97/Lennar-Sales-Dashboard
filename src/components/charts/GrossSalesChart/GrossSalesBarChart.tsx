@@ -56,3 +56,5 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
                 Q ${xVal},${yVal} ${xVal},${yVal + borderRadius}
                 Z`
             : ''
+        })
+

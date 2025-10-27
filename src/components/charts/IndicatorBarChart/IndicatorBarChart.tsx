@@ -55,6 +55,7 @@ const IndicatorBarChart = ({
       // Append rectangles for bar chart
       const borderRadius = 8
       svg
+        .selectAll('.bar')
         .data(data)
         .enter()
         .append('path')
@@ -81,3 +82,6 @@ const IndicatorBarChart = ({
         .data(data)
         .enter()
         .append('path')
+        .attr('class', 'bar-overlay')
+        .attr('fill', '#028090')
+        .attr('style', 'opacity: 0.5;')

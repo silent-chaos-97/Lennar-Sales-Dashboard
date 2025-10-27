@@ -52,3 +52,5 @@ const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
         ? eventDate.toFormat('MMM d')
         : eventDate.toFormat('MMM d, yyyy')
 
+    return formattedDate
+  }, [event.activity_date])

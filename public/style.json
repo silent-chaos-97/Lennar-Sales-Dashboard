@@ -126,6 +126,7 @@
             },
             "components": {
                 "road-network": "16.0.0",
+                "natural-features": "16.0.0",
                 "place-labels": "16.0.0",
                 "admin-boundaries": "16.0.0",
                 "point-of-interest-labels": "16.0.0",
@@ -1532,3 +1533,43 @@
                     ]
                 ],
                 ["==", ["geometry-type"], "LineString"]
+            ],
+            "layout": {"line-cap": ["step", ["zoom"], "butt", 14, "round"]},
+            "paint": {
+                "line-width": [
+                    "interpolate",
+                    ["exponential", 1.5],
+                    ["zoom"],
+                    13,
+                    [
+                        "match",
+                        ["get", "class"],
+                        ["motorway", "trunk", "primary"],
+                        2.4,
+                        ["secondary", "tertiary"],
+                        1.5,
+                        [
+                            "motorway_link",
+                            "trunk_link",
+                            "street",
+                            "street_limited",
+                            "primary_link"
+                        ],
+                        0.6,
+                        0.5
+                    ],
+                    18,
+                    [
+                        "match",
+                        ["get", "class"],
+                        ["motorway", "trunk", "primary"],
+                        19.2,
+                        ["secondary", "tertiary"],
+                        15.6,
+                        [
+                            "motorway_link",
+                            "trunk_link",
+                            "street",
+                            "street_limited",
+                            "primary_link"
+                        ],

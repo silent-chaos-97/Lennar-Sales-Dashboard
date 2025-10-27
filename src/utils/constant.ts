@@ -5,7 +5,6 @@ export const STATUS_COLORS = {
   behind_pace: '#e76161',
   very_behind_pace: '#dc3030'
 }
-
 export const PERFORMANCE_COLORS = {
   red: '#DF5347',
   green: '#009D4F',
@@ -37,3 +36,4 @@ export const PACING_ZOOM_LEVEL = {
 export const PACING_MAP_OFFSETS = {
   all: 40,
   region: 30,
+  sub_region: 30,
