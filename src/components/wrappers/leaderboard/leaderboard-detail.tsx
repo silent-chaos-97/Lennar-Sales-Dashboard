@@ -32,7 +32,6 @@ const LeaderboardDetail = ({
   activeTimestamp
 }: LeaderboardDetailProps) => {
   const isISC = type === 'isc-leaderboard'
-
   if (isISC) {
     return (
       <ISCDetail

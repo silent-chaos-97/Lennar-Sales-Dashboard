@@ -37,3 +37,4 @@ const LMap: React.FC<LMapProps> = ({
       longitude: e.viewState.longitude,
       zoom: e.viewState.zoom
     })
+  }, 100)

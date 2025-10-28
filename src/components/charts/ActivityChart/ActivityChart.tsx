@@ -9,9 +9,9 @@ import { useAppState } from '@/contexts/StateContext'
 import { TIMEZONE, TIMEZONE_VALUE } from '@/utils/constant'
 import { useMemo } from 'react'
 
+interface ActivityChartProps {
   data: TickerItem[]
 }
-
 const ActivityChart = ({ data }: ActivityChartProps) => {
   const { width, ref } = useResizeDetector()
   const { currentCohort } = useAppState()
@@ -38,3 +38,4 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
           activityTimeInMinutes >= startOfDayInMinutes && activityTimeInMinutes <= endOfDayInMinutes
         )
       }),
+    [data, startOfDay, endOfDay]

@@ -11,6 +11,7 @@ if (!process.env.SNOWFLAKE_ACCOUNT ||
     !process.env.SNOWFLAKE_PASSWORD ||
     !process.env.SNOWFLAKE_ROLE ||
     !process.env.SNOWFLAKE_WAREHOUSE ||
+// Temp comment
     !process.env.SNOWFLAKE_DATABASE ||
     !process.env.SNOWFLAKE_DMT) {
     console.error('Please set the env vars properly!');
@@ -143,6 +144,7 @@ class SnowflakeService {
                                 return acc;
                             }, {});
                         }
+                        else if (rows.length === 1) {
                             result[statsKeys[statIdx]] = rows[0];
                         }
                         else {

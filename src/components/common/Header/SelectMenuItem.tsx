@@ -21,6 +21,7 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
             <ListItemIcon sx={{ color: 'grey.300', minWidth: 'auto' }} />
           </IconButton>
         )}
+        <ListItemText
           primary={item.name}
           color="grey.300"
           sx={{

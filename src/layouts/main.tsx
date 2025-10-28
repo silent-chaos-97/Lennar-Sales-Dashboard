@@ -108,6 +108,7 @@ const MainLayout = () => {
         setPrevSelectedDivisionType('')
       }
     }
+    adjustMode()
     document.addEventListener('resize', adjustMode)
     return () => {
       document.removeEventListener('resize', adjustMode)

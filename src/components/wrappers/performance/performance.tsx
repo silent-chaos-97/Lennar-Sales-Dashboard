@@ -140,3 +140,4 @@ const Performance = () => {
         timestamp={PERFORMANCE_TIMEFRAMES[performanceTimeframe]}
         timestampList={PERFORMANCE_TIMEFRAMES}
         onSelectTimestamp={setPerformanceTimeframe}
+        more={

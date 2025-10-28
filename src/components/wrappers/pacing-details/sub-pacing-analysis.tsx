@@ -23,6 +23,7 @@ const SubPacingAnalysis = ({
 }: SubPacingAnalysisProps) => {
   const { currentCohort } = useAppState()
 
+  return (
     <Section
       title="Pacing Analysis"
       timestamp="WTD"

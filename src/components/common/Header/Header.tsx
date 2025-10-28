@@ -59,7 +59,6 @@ const ScreenWrapper = ({ children, padding = 0, justifyContent = 'flex-start' })
         width:
           mode === ScreenMode.desktop ? 'auto' : mode === ScreenMode.triple_monitor ? '100%' : 2400
       }}
-    >
       <InnerScreen style={{ padding, justifyContent }}>{children}</InnerScreen>
     </Screen>
   )
@@ -212,3 +211,4 @@ const Header = () => {
                         ref={menuRef}
                       >
                         <RegionSelectMenu onSelectMenu={handleSelectMenu} />
+                      </Box>

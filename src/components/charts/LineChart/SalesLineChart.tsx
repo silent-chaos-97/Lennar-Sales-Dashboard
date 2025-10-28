@@ -56,7 +56,6 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .call(xAxis)
         .call((g) => g.select('.domain').remove())
         .selectAll('.tick') // select all ticks
-        .select('text') // select the text of each tick
         .style('fill', (d, i, nodes) => (i === nodes.length - 1 ? '#FFF' : '#70747A')) // change the color based on the condition
 
       // Define the gradient area

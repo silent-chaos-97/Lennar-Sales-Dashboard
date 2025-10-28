@@ -23,3 +23,4 @@ export function getValueChangeTextColor(num: number) {
   return '#e44d4d'
 }
 
+export const suffixTheNumber = (n: number) =>

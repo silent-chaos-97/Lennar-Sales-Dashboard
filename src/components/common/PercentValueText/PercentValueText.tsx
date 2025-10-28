@@ -26,3 +26,4 @@ const PercentValueText = ({
       <Typography variant="h1" sx={{ fontWeight: { fontWeight } }}>
         {prefix} {value.toLocaleString()} {suffix}
       </Typography>
+      {!hideChange && (

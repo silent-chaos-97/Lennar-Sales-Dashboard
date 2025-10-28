@@ -160,3 +160,4 @@ const NHSDetail = ({
           <Grid container wrap="nowrap" direction="row">
             <Grid container item xl={3} sx={{ mr: 2 }}>
               <Stack sx={{ height: '100%' }} spacing={10}>
+                <KPIWidget

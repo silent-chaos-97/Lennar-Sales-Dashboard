@@ -54,6 +54,7 @@ const RegionSelectMenu = ({ onSelectMenu }: RegionSelectMenuProps) => {
   const { locations } = useAppState()
 
   return (
+    <Stack sx={{ width: 1260, backgroundColor: 'background.paper', p: 4 }} alignItems="center">
       <Box
         onClick={() => onSelectMenu(NATIONAL_DIVISION)}
         role="button"
@@ -61,3 +62,4 @@ const RegionSelectMenu = ({ onSelectMenu }: RegionSelectMenuProps) => {
         sx={{
           cursor: 'pointer',
           borderBottom: '1px solid transparent',
+          '&:hover': {

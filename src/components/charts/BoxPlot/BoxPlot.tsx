@@ -26,7 +26,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
     const margin = { top: 10, right: 30, bottom: 50, left: 50 },
       width = nWidth - margin.left - margin.right,
       height = nHeight - margin.top - margin.bottom
-
     // append the svg object to the body of the page
     d3.select(`#${id} > *`).remove()
     const svg = d3
@@ -109,9 +108,11 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       const q3 = botPlot[3]
       // const interQuantileRange = q3 - q1
       // const min = q1 - 1.5 * interQuantileRange
+      // const max = q1 + 1.5 * interQuantileRange
       const min = botPlot[0]
       const max = botPlot[4]
 
       const boxCenter = idx * ((width - 200) / (boxPlotData.length - 1)) + 100
 
       // Show the main vertical line
+      svg

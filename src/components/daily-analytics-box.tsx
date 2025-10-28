@@ -1,5 +1,4 @@
 import Box from '@mui/material/Box'
-import Stack from '@mui/material/Stack'
 import Typography from '@mui/material/Typography'
 import SouthEastIcon from '@mui/icons-material/SouthEast'
 import NorthEastIcon from '@mui/icons-material/NorthEast'
@@ -68,3 +67,4 @@ const DailyAnalyticsBox = ({
     }
   }, [value, diffPercent, isDecreaseBenefit])
 
+  const displayPercentChange = useMemo(() => {

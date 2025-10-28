@@ -95,7 +95,6 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
               <option value={480}>8 min</option>
               <option value={540}>9 min</option>
               <option value={600}>10 min</option>
-            </Select>
           </Stack>
         </Stack>
 
@@ -138,3 +137,4 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
                 native={true}
                 variant="outlined"
                 defaultValue={idleTimeout}
+                onChange={(evt) => {

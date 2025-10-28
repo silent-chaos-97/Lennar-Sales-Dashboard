@@ -84,3 +84,4 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
       .append('polyline')
       .attr('stroke', 'rgba(255,255,255,0.5)')
       .style('fill', 'none')
+      .attr('stroke-width', 1)

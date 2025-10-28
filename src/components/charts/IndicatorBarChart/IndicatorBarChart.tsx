@@ -29,7 +29,6 @@ const IndicatorBarChart = ({
     const now = DateTime.now()
     const currentMonday = now.startOf('week').startOf('day').toFormat('MMM dd')
     const x = d3.scaleBand().range([0, width]).padding(0.1)
-    const y = d3.scaleLinear().range([height, 0])
     d3.select(`#${id} > *`).remove()
     const svg = d3
       .select(`#${id}`)
@@ -89,3 +88,4 @@ const IndicatorBarChart = ({
           const xVal = x(d.x_axis)
           const yVal = y(d.future_pace)
           const barWidth = x.bandwidth()
+          const barHeight = height - y(d.future_pace)

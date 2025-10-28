@@ -83,3 +83,4 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
     }))
 
     const yScaleCur = d3
+      .scaleBand()

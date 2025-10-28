@@ -11,7 +11,6 @@ interface IscLeaderBoardProps {
   leaderboardData: LeaderboardObj
   categoryList: Record<string, string>
 }
-
 const LeaderboardItems = ({
   leaderboardItems,
   leaderboardData,
@@ -70,6 +69,7 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
     setActiveIdx((prev) => Math.min(leaderboardItems.length - 1, (prev || 0) + 1))
   }, [leaderboardItems])
 
+  const handleSelectTimestamp = (timestamp: string) => {
     setActiveTimestamp(timestamp)
   }
 

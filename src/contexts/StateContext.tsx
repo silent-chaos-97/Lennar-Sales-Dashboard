@@ -141,3 +141,4 @@ export const StateProvider = (props: PropsWithChildren) => {
       setPerformanceTimeframeState({})
       setActivityTimeframeState({})
       setPacingState(undefined)
+      setSalesTimeframeState({})

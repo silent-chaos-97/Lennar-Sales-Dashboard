@@ -235,3 +235,5 @@ const ISCDetail = ({
                   <CustomTooltip elementName={`label-isc-chats-texts`}>
                     <Typography variant="caption" color="text.secondary" fontWeight={500}>
                       {pluralize('Chat', data?.total_chats_texts || 0)} and{' '}
+                      {pluralize('text', data?.total_chats_texts || 0)}
+                    </Typography>

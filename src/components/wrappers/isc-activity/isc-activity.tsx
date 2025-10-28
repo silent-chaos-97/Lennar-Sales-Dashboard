@@ -85,3 +85,4 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
                   sx={{ ml: 1 }}
                 >
                   {data?.TOTAL_CHATS_TEXTS_PERCENT_CHANGE || 0}%
+                </Typography>

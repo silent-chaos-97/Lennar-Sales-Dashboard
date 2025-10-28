@@ -17,6 +17,7 @@ interface GoalLineProps {
 }
 
 const Track = styled('div', {
+  shouldForwardProp: (prop) => !['color', 'percent'].includes(prop as string)
 })(({ color, percent }: TrackProps) => ({
   width: 48,
   borderRadius: '4px 4px 0 0',

@@ -27,6 +27,7 @@ declare module '@mui/material/styles' {
 
   interface TypeBackground {
     secondary: string
+    tertiary: string
   }
 
   interface TypeText {
@@ -244,3 +245,5 @@ export const theme = createTheme({
       defaultProps: {
         disableElevation: true
       },
+      styleOverrides: {
+        sizeLarge: {
