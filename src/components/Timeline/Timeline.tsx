@@ -7,6 +7,7 @@ import Box from '@mui/material/Box'
 import PersonIcon from '@mui/icons-material/Person'
 import Button from '@mui/material/Button'
 import Stack from '@mui/material/Stack'
+import { styled } from '@mui/material/styles'
 import TimelineEvent from './TimelineEvent'
 import { JourneyArrayItem } from '@/types/sales'
 import { DateTime } from 'luxon'
@@ -54,3 +55,4 @@ const Timeline = ({ journeyData }: TimelineProps) => {
 
     return idx
   }, [journeyData])
+  return (

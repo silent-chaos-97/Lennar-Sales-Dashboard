@@ -31,3 +31,4 @@ const ScreenContext = createContext<ScreenContextValues>({
 })
 
 export const ScreenContextProvider = (props: PropsWithChildren) => {
+  const [screenMode, setScreenMode] = useState(ScreenMode.desktop)

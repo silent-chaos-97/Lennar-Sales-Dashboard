@@ -148,6 +148,7 @@ const PacingStatus = ({ mapWrapperRef }) => {
 
   const pacingCohortArrayCloned = useMemo(
     () =>
+      [...pacingCohortArray].sort((a, b) => {
         const nameA = a.name
         const nameB = b.name
         if (nameA < nameB) return -1
@@ -165,3 +166,7 @@ const PacingStatus = ({ mapWrapperRef }) => {
   const handleSelect = (idx: number) => {
     setSelectedPacingItem(pacingCohortArrayCloned[idx])
     setActiveDots([idx])
+    setActivePieName(pacingCohortArrayCloned[idx]?.status)
+  }
+
+  const markers = useMemo(

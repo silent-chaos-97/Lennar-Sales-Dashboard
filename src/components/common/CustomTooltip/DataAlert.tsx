@@ -22,3 +22,4 @@ const DataAlert = ({ elementName, truncateSize = 0, isSvg = false, children }: D
   }, [metrics?.METRICS, elementName])
 
   const Tag = isSvg ? 'tspan' : 'span'
+

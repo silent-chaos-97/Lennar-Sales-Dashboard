@@ -237,3 +237,8 @@ const ISCDetail = ({
                       {pluralize('Chat', data?.total_chats_texts || 0)} and{' '}
                       {pluralize('text', data?.total_chats_texts || 0)}
                     </Typography>
+                  </CustomTooltip>
+                  <PercentValueText
+                    value={data?.total_chats_texts || 0}
+                    change={data?.total_chats_texts_percent_change || 0}
+                  />

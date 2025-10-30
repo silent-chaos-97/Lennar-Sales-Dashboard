@@ -16,7 +16,6 @@ const MARGIN = { top: 10, right: 0, bottom: 40, left: 20 }
 
 const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps) => {
   const now = DateTime.now()
-  const currentMonday = now.startOf('week').startOf('day').toFormat('MMM dd')
 
   useEffect(() => {
     const x = d3.scaleBand().range([0, width]).padding(0.5)
@@ -61,3 +60,5 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
       const xAxis = d3
         .axisBottom(x)
         .tickFormat((d) => {
+          return d
+        })

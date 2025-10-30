@@ -25,3 +25,4 @@ export const fetchRegions = async () => {
 }
 
 export const fetchChartData = async (location: Division) => {
+  abortController.abort()

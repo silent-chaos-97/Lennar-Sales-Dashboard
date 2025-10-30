@@ -46,3 +46,4 @@ export interface SalesItem {
 export interface DetailSalesItems {
   type: string
   id: number
+  geometry: {

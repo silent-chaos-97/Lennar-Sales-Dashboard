@@ -6,6 +6,7 @@ export interface Cohort {
   LATITUDE: number
   LONGITUDE: number
   TIME_ZONE: string
+}
 
 export interface Division {
   type: string

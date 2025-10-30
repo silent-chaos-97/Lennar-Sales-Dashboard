@@ -202,7 +202,6 @@ export const theme = createTheme({
         border-color: #E8E8ED;
       }
 
-      .pulsatingDot {
         background-color: rgba(28,209,161,0.85);
         border-radius: 50%;
         box-sizing: border-box;
@@ -247,3 +246,9 @@ export const theme = createTheme({
       },
       styleOverrides: {
         sizeLarge: {
+          borderRadius: 20,
+          fontSize: 14,
+          lineHeight: '24px',
+          fontWeight: 700
+        },
+        sizeSmall: {

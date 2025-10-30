@@ -40,3 +40,4 @@ const HourlyActivity = ({
       </CustomTooltip>
       <Box sx={{ borderBottom: '1px solid rgba(255,255,255,0.18)', mb: 2 }}>
         <LineChart
+          id={id}

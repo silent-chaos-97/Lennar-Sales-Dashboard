@@ -44,9 +44,11 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
             variant="h4"
             fontWeight={700}
             sx={{ width: 44, textAlign: 'center' }}
+            color="grey.300"
           >
             {member.national_rank}
           </Typography>
         </Stack>
       )}
       <Stack spacing={1.5} mt={1.5} alignItems="center">
+        <Avatar

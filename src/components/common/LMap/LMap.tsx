@@ -38,3 +38,4 @@ const LMap: React.FC<LMapProps> = ({
       zoom: e.viewState.zoom
     })
   }, 100)
+

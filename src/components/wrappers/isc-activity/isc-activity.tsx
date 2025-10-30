@@ -86,3 +86,5 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
                 >
                   {data?.TOTAL_CHATS_TEXTS_PERCENT_CHANGE || 0}%
                 </Typography>
+              </CustomTooltip>
+            </Stack>

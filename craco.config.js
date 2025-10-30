@@ -1,4 +1,3 @@
-// Temp comment
 const path = require('path')
 
 module.exports = {

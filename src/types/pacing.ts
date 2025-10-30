@@ -38,3 +38,4 @@ export interface SubCohortItem {
   pricing_data: PricingData
   leaderboard: LeaderboardObj[] | LeaderboardObj
 }
+

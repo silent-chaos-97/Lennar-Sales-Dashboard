@@ -40,6 +40,7 @@
   "scripts": {
     "start": "craco start",
     "build": "craco build",
+    "test": "craco test",
     "lint": "npx eslint src",
     "lint:fix": "npm run lint -- --fix",
     "prettier": "npx prettier src --check",
@@ -51,3 +52,4 @@
       "react-app",
       "react-app/jest"
     ]
+  },

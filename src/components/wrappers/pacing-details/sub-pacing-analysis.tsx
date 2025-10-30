@@ -46,3 +46,5 @@ const SubPacingAnalysis = ({
             </Typography>
             <Typography variant="h1" color="success.light">
               {past3WSales.toFixed(1)}/wk
+            </Typography>
+          </Box>

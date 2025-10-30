@@ -84870,3 +84870,258 @@
                   },
                   {
                     "activity_date": "2023-05-06",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Alexis, This is Leanne with Lennar reaching out regarding your online inquiry! Let's narrow down your price point and preferred cities within the Dallas area and I can send over community specific information. Please reply to this text message for personal assistance! Thank you! - Leanne Blaney, ...",
+                    "sort": 10,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 16,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 13,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 14,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 47,
+                "sale_price": 217999,
+                "sale_title": "Bristol just sold in Ferris Springs",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "Houston",
+            "division_coordinates": [
+              -95.508826877,
+              29.876363839
+            ],
+            "geometry": {
+              "coordinates": [
+                -95.776968667,
+                29.9756685
+              ],
+              "type": "Point"
+            },
+            "id": 280,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 160,
+                    "image_url": "",
+                    "name": "Steven Renshaw",
+                    "national_rank": 687,
+                    "summary": "           $1,382,850 in sales QTD<br/>12.7% incentives QTD<br/>67% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "20 days prior",
+                "home_size": "       1,906 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7174/60773/60773_eleQB_lg.jpg",
+                "incentive_percent": 10,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 46,
+                "sale_price": 305000,
+                "sale_title": "Bagby II just sold in Bridgeland 28'",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "San Antonio",
+            "division_coordinates": [
+              -98.427076386,
+              29.430584066
+            ],
+            "geometry": {
+              "coordinates": [
+                -98.2300666,
+                29.4585836
+              ],
+              "type": "Point"
+            },
+            "id": 274,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 21,
+                    "image_url": "",
+                    "name": "Philip Mercer",
+                    "national_rank": 39,
+                    "summary": "           $5,221,997 in sales QTD<br/>8% incentives QTD<br/>86% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "17 days prior",
+                "home_size": "       1,230 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7465/63078/63078_eleD_lg.jpg",
+                "incentive_percent": 17,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -11,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 45,
+                "sale_price": 173499,
+                "sale_title": "Montour just sold in Spring Grove-Stonehill",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "Houston",
+            "division_coordinates": [
+              -95.508826877,
+              29.876363839
+            ],
+            "geometry": {
+              "coordinates": [
+                -95.780706943,
+                29.51711176
+              ],
+              "type": "Point"
+            },
+            "id": 269,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 37,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_stephen_reamer_2_lr_jpg",
+                    "name": "Stephen Reamer",
+                    "national_rank": 76,
+                    "summary": "           $4,819,599 in sales QTD<br/>12% incentives QTD<br/>82% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "48 days prior",
+                "home_size": "       1,922 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5838/55882/55882_eleB_lg.jpg",
+                "incentive_percent": 7,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",

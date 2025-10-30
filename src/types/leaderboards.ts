@@ -71,3 +71,5 @@ export interface LeaderboardFilterObj {
 
 export interface LeaderboardObj {
   type: string
+  values: LeaderboardItemValue[]
+  appointments_kept: LeaderboardFilterObj

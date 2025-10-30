@@ -32,6 +32,7 @@ const LeaderboardDetail = ({
   activeTimestamp
 }: LeaderboardDetailProps) => {
   const isISC = type === 'isc-leaderboard'
+
   if (isISC) {
     return (
       <ISCDetail
@@ -40,3 +41,4 @@ const LeaderboardDetail = ({
         onPrev={onPrev}
         onNext={onNext}
         onClose={onClose}
+        data={data}

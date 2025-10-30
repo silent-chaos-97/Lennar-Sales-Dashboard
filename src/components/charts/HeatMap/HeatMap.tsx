@@ -63,3 +63,5 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
   }, [boundsHeight, allYGroups])
 
   const dotColors = {
+    Active: '#33A3FF',
+    Missed: '#DF4747',

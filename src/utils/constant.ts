@@ -16,7 +16,6 @@ export const STATUS_TEXT_BY_KEY = {
   very_ahead_of_pace: 'Very ahead',
   ahead_of_pace: 'Ahead',
   on_pace: 'On pace',
-  behind_pace: 'Behind',
   very_behind_pace: 'Very behind'
 }
 
@@ -41,3 +40,4 @@ export const PACING_MAP_OFFSETS = {
   division: 0
 }
 
+export const LONGITUDE_DELTA = {

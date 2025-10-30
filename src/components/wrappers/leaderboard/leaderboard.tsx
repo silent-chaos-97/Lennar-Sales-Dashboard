@@ -11,6 +11,7 @@ interface IscLeaderBoardProps {
   leaderboardData: LeaderboardObj
   categoryList: Record<string, string>
 }
+
 const LeaderboardItems = ({
   leaderboardItems,
   leaderboardData,
@@ -20,7 +21,6 @@ const LeaderboardItems = ({
 }) => (
   <>
     {leaderboardItems.map((leader, idx) => (
-      <MemberItem
         key={`${leader.name.split(' ').join('-').toLowerCase()}-${idx}`}
         cohort_rank={leader.cohort_rank}
         imageSrc={leader.image_url}
@@ -94,3 +94,4 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
               height: 1040,
               width: '100%'
             }}
+            noScrollX={true}

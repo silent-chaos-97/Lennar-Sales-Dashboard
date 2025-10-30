@@ -30,3 +30,4 @@ const RightPane = () => {
           <Box>
             <Grid container spacing={8}>
               <Grid item lg={8}>
+                <PacingAnalysis />

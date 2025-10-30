@@ -136,3 +136,6 @@ const SalesDetails = ({
                 >
                   {salesDetail.price_vs_model_avg <= 0
                     ? salesDetail.price_vs_model_avg
+                    : `+ ${salesDetail.price_vs_model_avg}`}
+                  %
+                </Typography>

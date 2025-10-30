@@ -79,3 +79,5 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
           return d.color
         })
 
+      // Draw area for current ticker
+      const area = d3

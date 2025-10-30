@@ -23,7 +23,6 @@ interface StateContextValues {
   locations: CohortListItem[]
   refreshData: (reset: boolean) => void
   currentCohort: Division
-  setCurrentCohort: (value: Division) => void
   fetchNextDivision: () => void
   fetchRegionDivisions: () => void
   setPrevSelectedDivisionType: (value: string) => void
@@ -142,3 +141,6 @@ export const StateProvider = (props: PropsWithChildren) => {
       setActivityTimeframeState({})
       setPacingState(undefined)
       setSalesTimeframeState({})
+      setPricingState(undefined)
+      setInsightState(undefined)
+    }

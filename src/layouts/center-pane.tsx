@@ -237,3 +237,9 @@ const CenterPane = () => {
           setSelectedSalesItems(leaves)
           setScroolProgress([true, false])
         } else {
+          setSelectedSalesItems([dot])
+          setScroolProgress([true, true])
+        }
+        setClusterIndex(0)
+
+        setTimeout(() => {

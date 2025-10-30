@@ -40,7 +40,6 @@ Follow these steps to set up the frontend:
 3. Install the necessary dependencies with `npm i`.
 4. Start the local development server with `npm start`.
 
-## Deployment
 
 1. Connect the servers using the credentials provided by DSS Team.
   - Dev Server: `ssh {username}@10.252.15.19`
@@ -58,3 +57,5 @@ Follow these steps to set up the frontend:
     ```
 
 3. If you need to rebuild server bundles (you can skip this step if only restarting processes is needed):
+      ```bash
+      cd server

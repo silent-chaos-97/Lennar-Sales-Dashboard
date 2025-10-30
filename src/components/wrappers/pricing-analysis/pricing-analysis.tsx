@@ -93,3 +93,5 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
               </Typography>
             </CustomTooltip>
             <Stack direction="row" alignItems="flex-end" spacing={0.5}>
+              <Typography variant="h3" fontWeight={700}>
+                ${(data?.new_construction_prices?.percentile_50 || 0).toLocaleString()}

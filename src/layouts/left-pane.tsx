@@ -45,3 +45,4 @@ const LeftPane = () => {
               </Stack>
             }
             timestamp={ACTIVITY_TIMEFRAMES[activityTimeframe]}
+            timestampList={ACTIVITY_TIMEFRAMES}

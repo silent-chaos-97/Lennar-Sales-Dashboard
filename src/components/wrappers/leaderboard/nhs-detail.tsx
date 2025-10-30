@@ -120,7 +120,6 @@ const NHSDetail = ({
                       </Typography>
                     </Avatar>
                   </Stack>
-                </Grid>
                 <Grid item xs={4.65} sx={{ ml: 8 }}>
                   <CustomTooltip elementName="label-nhc-net-revenue">
                     <Typography variant="caption" color="text.secondary" fontWeight={500}>
@@ -161,3 +160,7 @@ const NHSDetail = ({
             <Grid container item xl={3} sx={{ mr: 2 }}>
               <Stack sx={{ height: '100%' }} spacing={10}>
                 <KPIWidget
+                  title="Division KPI rank QTD"
+                  firstValue={data?.gross_sales_division_rank || 0}
+                  firstLabel="Gross sales"
+                  secondValue={data?.net_revenue_division_rank || 0}

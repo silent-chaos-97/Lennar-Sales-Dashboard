@@ -48,7 +48,6 @@ const TimerSetterContext = createContext<TimerContextSetters>({
 
 export enum Rotate {
   locations = 1,
-  within_region,
   not
 }
 
@@ -100,3 +99,5 @@ export const TimerProvider = (props: PropsWithChildren) => {
           second: '2-digit',
           timeZoneName: 'short'
         })
+      )
+      if (!playing) {

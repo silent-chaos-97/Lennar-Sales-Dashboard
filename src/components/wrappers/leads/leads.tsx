@@ -35,7 +35,6 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
           activityTimeframe={activityTimeframe}
         />
         <HourlyActivity
-          title="Total leads"
           tickers={data?.HOURLY_LEADS_ARRAY || []}
           total={data?.LEADS || 0}
           change={data?.LEADS_PERCENT_CHANGE || 0}
@@ -46,3 +45,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
         <CustomTooltip elementName="label-leads-by-channel">
           <Typography variant="caption" color="text.secondary">
             <DataAlert elementName="label-leads-by-channel">Leads by source</DataAlert>
+          </Typography>

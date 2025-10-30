@@ -62,3 +62,17 @@ const run = async () => {
           })
         }
       })
+    }
+  })
+
+  for (let i = 0; i < sortedCohortList.length; i++) {
+    console.log(
+      `[${i + 1} / ${sortedCohortList.length}] Fetching Cohort Data ${
+        sortedCohortList[i].name
+      } is started `
+    )
+    const cohortData = await SnowflakeService.getCohortData(
+      sortedCohortList[i].name,
+      sortedCohortList[i].type
+    )
+

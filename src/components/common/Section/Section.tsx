@@ -105,3 +105,6 @@ export const Section = ({
                         sx={{ mb: 1.5, whiteSpace: 'nowrap', '&:hover': { color: '#fff' } }}
                         onClick={() => handleClickCategoryItem(key)}
                       >
+                        {name}
+                      </Typography>
+                    ))}

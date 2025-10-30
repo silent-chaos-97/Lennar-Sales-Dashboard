@@ -26,6 +26,7 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
     const margin = { top: 10, right: 30, bottom: 50, left: 50 },
       width = nWidth - margin.left - margin.right,
       height = nHeight - margin.top - margin.bottom
+
     // append the svg object to the body of the page
     d3.select(`#${id} > *`).remove()
     const svg = d3
@@ -116,3 +117,5 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
 
       // Show the main vertical line
       svg
+        .append('line')
+        .attr('x1', boxCenter)

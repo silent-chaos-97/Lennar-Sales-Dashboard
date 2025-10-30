@@ -49,3 +49,4 @@ app.get('/api/data', async (req, res) => {
   if (fs.existsSync(cacheFilePath)) {
     try {
       console.log('## Date is fetched from cache: ', cacheFilePath)
+      const fileContents = fs.readFileSync(cacheFilePath, 'utf8')

@@ -80,3 +80,4 @@ const PerformanceBar = ({
       spacing={2}
       position="relative"
     >
+      <Stack justifyContent="space-between" sx={{ height: '100%' }}>
