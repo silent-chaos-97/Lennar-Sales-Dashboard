@@ -31,3 +31,4 @@ const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
             </Section>
           ))
         ) : (
+          <Section title={leaders.type} timestamp="QTD">

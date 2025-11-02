@@ -57,3 +57,4 @@ const Timeline = ({ journeyData }: TimelineProps) => {
   }, [journeyData])
   return (
     <Accordion expanded={true} disableGutters sx={{ border: 'none', background: 'transparent' }}>
+      <AccordionSummary sx={{ padding: 0 }}>

@@ -14,7 +14,6 @@ import useSupercluster from 'use-supercluster'
 import { Typography } from '@mui/material'
 import { styled } from '@mui/material/styles'
 import LMap from '@/components/common/LMap'
-import { DateTime } from 'luxon'
 import { TIMEZONE } from '@/utils/constant'
 
 const popupRight = 871
@@ -247,3 +246,9 @@ const CenterPane = () => {
             const svg = document.getElementById('triangleSvg')
             if (svg) {
               svg.innerHTML = ''
+              const dotY =
+                offsetTop < arrowTopThreshold
+                  ? 16
+                  : offsetTop < arrowBottomThreshold
+                  ? offsetTop - arrowTopThreshold + 14
+                  : offsetTop - arrowTopThreshold

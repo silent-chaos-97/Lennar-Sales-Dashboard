@@ -34,9 +34,9 @@ const MemberItem = ({
       alignItems="center"
       py={2}
       role="button"
+      tabIndex={-1}
       sx={{
         cursor: onOpenDetail ? 'pointer' : 'default',
-        color: active ? '#AF0' : '#fff'
       }}
       onClick={onOpenDetail && onOpenDetail}
     >
@@ -55,3 +55,4 @@ const MemberItem = ({
           width: 72,
           height: 72,
           bgcolor: getRandomColor(name),
+          color: 'primary.contrastText'

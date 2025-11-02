@@ -89,4 +89,5 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
               </CustomTooltip>
             </Stack>
           </Stack>
-        </Stack>
+        {data?.CHATS_TEXTS_TICKER_ARRAY && (
+          <ActivityChart data={data?.CHATS_TEXTS_TICKER_ARRAY || []} />

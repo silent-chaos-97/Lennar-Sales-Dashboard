@@ -195,6 +195,7 @@ export const theme = createTheme({
           border-color: transparent transparent transparent #191d26d9;
           filter: drop-shadow(2px 0px 0px #191d26d9);
         }
+      }
 
       .MuiButtonBase-root.MuiButton-root.Mui-disabled {
         background: #E8E8ED;
@@ -256,3 +257,9 @@ export const theme = createTheme({
           fontSize: 14,
           lineHeight: '24px',
           fontWeight: 700,
+          padding: '4px 12px'
+        },
+        contained: {
+          color: '#fff !important'
+        }
+      }

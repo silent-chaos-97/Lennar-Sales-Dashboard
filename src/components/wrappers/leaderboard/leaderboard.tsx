@@ -96,3 +96,4 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
               width: '100%'
             }}
             noScrollX={true}
+          >

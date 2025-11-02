@@ -13,7 +13,6 @@ interface HourlyActivityProps {
   title: string
   tickers: HourlyTicker[]
   total: number
-  change: number
   activityTimeframe: string
 }
 
@@ -41,3 +40,4 @@ const HourlyActivity = ({
       <Box sx={{ borderBottom: '1px solid rgba(255,255,255,0.18)', mb: 2 }}>
         <LineChart
           id={id}
+          data={tickers}

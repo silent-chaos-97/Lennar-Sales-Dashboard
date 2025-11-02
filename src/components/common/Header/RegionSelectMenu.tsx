@@ -65,3 +65,5 @@ const RegionSelectMenu = ({ onSelectMenu }: RegionSelectMenuProps) => {
           '&:hover': {
             borderBottom: '1px solid #fff',
             '#menu-logo': {
+              fill: '#fff'
+            }

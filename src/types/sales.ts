@@ -48,3 +48,4 @@ export interface DetailSalesItems {
   id: number
   geometry: {
     type: string
+    coordinates: [number, number]

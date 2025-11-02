@@ -246,3 +246,9 @@ const ISCDetail = ({
                 <Grid item xs={3}>
                   <CustomTooltip elementName={`label-isc-appts-set`}>
                     <Typography variant="caption" color="text.secondary" fontWeight={500}>
+                      {pluralize('Appointment', data?.appts_set || 0)} set
+                    </Typography>
+                  </CustomTooltip>
+                  <PercentValueText
+                    value={data?.appts_set || 0}
+                    change={data?.appts_set_percent_change || 0}

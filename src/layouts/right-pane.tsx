@@ -31,3 +31,4 @@ const RightPane = () => {
             <Grid container spacing={8}>
               <Grid item lg={8}>
                 <PacingAnalysis />
+                <PricingAnalysis data={pricingData} chartId="pricing-analysis" />

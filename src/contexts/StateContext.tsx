@@ -148,3 +148,6 @@ export const StateProvider = (props: PropsWithChildren) => {
     const response = await fetchChartData(currentCohort)
     if (response) {
       const { data, status } = response
+      setLeaderboards(data.leaderboards)
+      setPerformanceTimeframeState(data.isc_performance_timeframe)
+      setActivityTimeframeState(data.current_activity_timeframe)

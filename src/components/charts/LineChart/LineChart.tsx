@@ -75,10 +75,12 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         .attr('offset', function (d) {
           return d.offset
         })
+        .attr('stop-color', function (d) {
           return d.color
         })
 
-      // Draw area for current ticker
       const area = d3
         .area()
         .x((d, i) => xScale(i))
+        .y0(height)
+        .y1((d) => yScale(d))

@@ -129,3 +129,5 @@ const MainLayout = () => {
         setWrapperWidth(mode !== ScreenMode.panorama ? 2400 / nextZoom : 2400)
         return
       }
+
+      setZoomRate(Math.min(zoom, 1))

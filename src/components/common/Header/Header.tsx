@@ -222,3 +222,8 @@ const Header = () => {
         </ScreenWrapper>
         <ScreenWrapper>
           {!isDesktop && (
+            <Stack
+              alignItems="center"
+              sx={{ py: 2 }}
+              position="relative"
+              width={isTriple ? '100%' : 2400}

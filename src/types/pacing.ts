@@ -39,3 +39,4 @@ export interface SubCohortItem {
   leaderboard: LeaderboardObj[] | LeaderboardObj
 }
 
+interface SubCohortMap {

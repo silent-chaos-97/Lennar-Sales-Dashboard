@@ -160,3 +160,5 @@ class SnowflakeService {
                 '1 Failed to execute statement due to the following error: ' + err.message
               )
 
+              return reject(err)
+            }

@@ -129,7 +129,6 @@ class SnowflakeService {
                     console.error('Error connecting to Snowflake:', err);
                     return reject(err);
                 }
-// Temp comment
                 connection.execute({
                     sqlText: sqlText,
                     parameters: { MULTI_STATEMENT_COUNT: 7 },

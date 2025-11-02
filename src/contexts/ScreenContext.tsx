@@ -18,12 +18,12 @@ interface ScreenContextValues {
   setScreenMode: (mode: ScreenMode) => void
   setCurrentScreen: (current: number) => void
   showTooltips: boolean
-  setShowTooltips: React.Dispatch<React.SetStateAction<boolean>>
 }
 
 const ScreenContext = createContext<ScreenContextValues>({
   mode: ScreenMode.triple_monitor,
   currentScreen: 0,
+  setScreenMode: () => null,
   setCurrentScreen: () => null,
   showTooltips: true,
   setShowTooltips: () => null
@@ -31,3 +31,4 @@ const ScreenContext = createContext<ScreenContextValues>({
 
 export const ScreenContextProvider = (props: PropsWithChildren) => {
   const [screenMode, setScreenMode] = useState(ScreenMode.desktop)
+  const [currentScreen, setCurrentScreen] = useState(0)

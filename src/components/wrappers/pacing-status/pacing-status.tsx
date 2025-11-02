@@ -172,3 +172,7 @@ const PacingStatus = ({ mapWrapperRef }) => {
   const markers = useMemo(
     () =>
       pacingCohortArray.map((dot, idx) => {
+        const statusKey = dot.status
+        const color = STATUS_COLORS[statusKey]
+        return (
+          <Marker key={`pm-${idx}`} latitude={dot.latitude} longitude={dot.longitude}>

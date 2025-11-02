@@ -24,7 +24,6 @@ export const ZOOM_LEVELS = {
   all: 4,
   region: 6,
   sub_region: 7.5,
-  division: 8.5
 }
 
 export const PACING_ZOOM_LEVEL = {
@@ -43,3 +42,4 @@ export const PACING_MAP_OFFSETS = {
 
 export const LONGITUDE_DELTA = {
   all: 3,
+  region: 1.5,

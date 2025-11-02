@@ -13,6 +13,7 @@ export interface DailyAnalyticsBoxProps {
   isLargeSize?: boolean
   title: string
   value: number
+  grossValue: number
   diffPercent: number
   color?: string
   unit?: string
@@ -71,3 +72,4 @@ const DailyAnalyticsBox = ({
     if (value !== 0) {
       return `${diffPercent}%`
     } else {
+      return ''

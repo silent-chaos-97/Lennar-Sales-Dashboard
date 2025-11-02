@@ -26,6 +26,7 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
 
   return (
     <Box width="100%">
+      <Stack direction="row" spacing={4}>
         <HourlyActivity
           title="Web visitors"
           tickers={data?.HOURLY_WEB_VISITORS_ARRAY || []}
@@ -47,3 +48,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
             <DataAlert elementName="label-leads-by-channel">Leads by source</DataAlert>
           </Typography>
         </CustomTooltip>
+

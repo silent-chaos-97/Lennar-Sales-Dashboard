@@ -25,6 +25,7 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps) => {
   }
 
   return (
+    <g transform={`translate(${props.y}, 0) rotate(${props.rotation})`}>
       <CustomTooltip elementName={`label-${props.label.toString().toLowerCase()}`}>
         <text
           dx={props.textX}
@@ -146,3 +147,6 @@ const Performance = () => {
               Goal
             </Typography>
           </Stack>
+        }
+        dropdownAlignment="left"
+      >

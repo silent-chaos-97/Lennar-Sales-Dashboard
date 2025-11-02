@@ -16,7 +16,6 @@ type HeatmapProps = {
   ref?: OneRefChangeTime
 }
 
-const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapProps) => {
   const width = cWidth || (size + spacing) * nCol - spacing
   const height = 87 || (size + spacing) * nRow - 1 // 87 is the height of the ActivityChart
   // bounds = area inside the axis
@@ -66,3 +65,4 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
     Active: '#33A3FF',
     Missed: '#DF4747',
     Connected: 'rgba(255,255,255,0.33)'
+  }

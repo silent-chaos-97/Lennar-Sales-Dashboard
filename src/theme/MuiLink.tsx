@@ -8,3 +8,4 @@ const LinkBehavior = React.forwardRef<
   const { href, ...other } = props
   const isExternal = (href as string).startsWith('http')
   // eslint-disable-next-line jsx-a11y/anchor-has-content
+  if (isExternal) return <a href={href as string} ref={ref} {...other} />

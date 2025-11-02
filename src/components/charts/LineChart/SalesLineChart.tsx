@@ -29,6 +29,7 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .append('g')
         .attr('transform', `translate(${margin.left},${margin.top})`)
       const xScale = d3.scalePoint().domain(xValues).range([0, chartWidth])
+
       const yScale = d3
         .scaleLinear()
         .domain([d3.min(yValues), d3.max(yValues)])
@@ -88,3 +89,4 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .y0(height)
         .y1((d) => yScale(d.y_axis))
         .curve(d3.curveCardinal)
+        .defined((d, i, data) => {

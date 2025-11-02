@@ -41,7 +41,6 @@ export interface LeaderboardNHCMemberDetail {
   net_revenue_division_rank: number
   net_revenue_national_rank: number
   net_revenue_percent_change: number
-  net_sales: number
   realtor_attachment_rate: number
   realtor_attachment_rate_division_rank: number
   realtor_attachment_rate_national_rank: number
@@ -74,3 +73,5 @@ export interface LeaderboardObj {
   values: LeaderboardItemValue[]
   appointments_kept: LeaderboardFilterObj
   bebacks_with_followup: LeaderboardFilterObj
+  calls: LeaderboardFilterObj
+  chats_texts: LeaderboardFilterObj

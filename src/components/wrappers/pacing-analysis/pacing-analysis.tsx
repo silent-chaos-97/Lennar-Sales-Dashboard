@@ -44,3 +44,4 @@ const PacingAnalysis = () => {
             </CustomTooltip>
             <Typography variant="h1" color="success.dark">
               {Math.round(pacingState?.NEXT_3W_PACE || 0).toLocaleString()}/week
+            </Typography>

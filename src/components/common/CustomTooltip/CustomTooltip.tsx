@@ -16,6 +16,7 @@ const CustomTooltip = ({ elementName, children }: CustomTooltipProps) => {
     if (!metrics?.METRICS) return
     return metrics?.METRICS?.find((m) => m.element_name === elementName)
   }, [metrics?.METRICS, elementName])
+
   if (!showTooltips) return children
 
   return (
@@ -27,3 +28,4 @@ const CustomTooltip = ({ elementName, children }: CustomTooltipProps) => {
           sx: {
             bgcolor: '#191D26',
             color: '#fff',
+            borderRadius: '8px',

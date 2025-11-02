@@ -84,7 +84,6 @@ const SalesDetails = ({
               {truncateText(salesDetail.sale_title, 44)}
             </Typography>
           </Stack>
-          <Stack direction="row">
             <IconButton onClick={onPrev}>
               <ChevronLeftIcon htmlColor="#dde3f6" opacity={scrollProgress[0] ? 0.25 : 1} />
             </IconButton>
@@ -160,3 +159,5 @@ const SalesDetails = ({
                 </Typography>
                 <Typography variant="h3">{salesDetail.bed_bath}</Typography>
               </Grid>
+              <Grid item lg={6} mb={2}>
+                <Typography variant="caption" color="text.secondary">

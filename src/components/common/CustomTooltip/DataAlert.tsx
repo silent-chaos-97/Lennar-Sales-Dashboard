@@ -6,6 +6,7 @@ import { DataStatus } from '@/types/metrics'
 import { truncateText } from '@/utils/helper'
 
 interface DataAlertProps {
+  elementName: string
   truncateSize?: number
   isSvg?: boolean
   children: string
@@ -22,3 +23,4 @@ const DataAlert = ({ elementName, truncateSize = 0, isSvg = false, children }: D
 
   const Tag = isSvg ? 'tspan' : 'span'
 
+  if (dataStatus !== DataStatus.issue) {

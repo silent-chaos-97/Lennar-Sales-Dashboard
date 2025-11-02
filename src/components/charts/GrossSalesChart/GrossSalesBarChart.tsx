@@ -64,3 +64,4 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
           return d
         })
         .tickSize(0)
+        .tickPadding(12)

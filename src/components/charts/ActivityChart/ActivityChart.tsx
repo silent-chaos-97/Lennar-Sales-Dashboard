@@ -24,6 +24,7 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
   const startOfDay = now.startOf('day').set({ hour: 7 })
 
   // Set the time to 7pm today
+  const endOfDay = now.startOf('day').set({ hour: 19 })
 
   const filteredData = useMemo(
     () =>
@@ -40,3 +41,4 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
       }),
     [data, startOfDay, endOfDay]
   )
+

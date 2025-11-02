@@ -21,3 +21,4 @@ const TimerProgress = ({ value, playing, onToggle }: TimerProgressProps) => {
           bottom: 0,
           right: 0,
           position: 'absolute',
+          display: 'flex',

@@ -53,3 +53,4 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
       <Stack spacing={1.5} mt={1.5} alignItems="center">
         <Avatar
           sx={{ width: 72, height: 72, bgcolor: getRandomColor(member.name) }}
+          alt={member.name}

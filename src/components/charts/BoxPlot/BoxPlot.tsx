@@ -86,6 +86,7 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       .text((d, i) => ['LEN', 'New Contruction', 'Resale'][i])
 
     const boxWidth = 44
+
     function showTooltip(d: d3.NumberValue, boxCenter: number, idx: number) {
       const xPos = boxCenter - boxWidth / 2 - 80 // Adjust position as needed
       const yPos = y(d) - 21
@@ -110,7 +111,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       // const min = q1 - 1.5 * interQuantileRange
       // const max = q1 + 1.5 * interQuantileRange
       const min = botPlot[0]
-      const max = botPlot[4]
 
       const boxCenter = idx * ((width - 200) / (boxPlotData.length - 1)) + 100
 
@@ -120,3 +120,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
         .attr('x1', boxCenter)
         .attr('x2', boxCenter)
         .attr('y1', y(min))
+        .attr('y2', y(max))
+        .attr('stroke', idx === 0 ? '#33A3FF' : 'rgba(242,242,242,0.33)')
+        .attr('stroke-width', 2)
