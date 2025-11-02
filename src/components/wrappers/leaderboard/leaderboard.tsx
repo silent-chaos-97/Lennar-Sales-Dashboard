@@ -21,6 +21,7 @@ const LeaderboardItems = ({
 }) => (
   <>
     {leaderboardItems.map((leader, idx) => (
+      <MemberItem
         key={`${leader.name.split(' ').join('-').toLowerCase()}-${idx}`}
         cohort_rank={leader.cohort_rank}
         imageSrc={leader.image_url}

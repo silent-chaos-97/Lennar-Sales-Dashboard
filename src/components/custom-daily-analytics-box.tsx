@@ -25,3 +25,4 @@ const CustomDailyAnalyticsBox = ({
 
   return (
     <Stack direction="row" sx={{ height: 15, mb: 5 }} alignItems="flex-end" spacing={1}>
+      <Typography variant="caption">

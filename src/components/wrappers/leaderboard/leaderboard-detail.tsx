@@ -42,3 +42,4 @@ const LeaderboardDetail = ({
         onNext={onNext}
         onClose={onClose}
         data={data}
+        imageUrl={imageUrl}

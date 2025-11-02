@@ -88,3 +88,5 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
                 </Typography>
               </CustomTooltip>
             </Stack>
+          </Stack>
+        </Stack>

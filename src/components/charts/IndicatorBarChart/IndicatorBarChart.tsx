@@ -92,3 +92,5 @@ const IndicatorBarChart = ({
           const barHeight = height - y(d.future_pace)
           return barHeight > 0
             ? `M ${xVal},${yVal + borderRadius}
+                L ${xVal},${yVal + barHeight}
+                L ${xVal + barWidth},${yVal + barHeight}

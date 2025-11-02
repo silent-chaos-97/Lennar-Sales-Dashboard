@@ -48,6 +48,7 @@ const TimerSetterContext = createContext<TimerContextSetters>({
 
 export enum Rotate {
   locations = 1,
+  within_region,
   not
 }
 
@@ -101,3 +102,5 @@ export const TimerProvider = (props: PropsWithChildren) => {
         })
       )
       if (!playing) {
+        if ((idleTimerProgress / idleTimeout) * 100 >= 100) {
+          setPlaying(true)

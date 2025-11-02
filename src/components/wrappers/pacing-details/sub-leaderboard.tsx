@@ -30,3 +30,4 @@ const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
               ))}
             </Section>
           ))
+        ) : (

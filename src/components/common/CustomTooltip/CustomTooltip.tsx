@@ -16,7 +16,6 @@ const CustomTooltip = ({ elementName, children }: CustomTooltipProps) => {
     if (!metrics?.METRICS) return
     return metrics?.METRICS?.find((m) => m.element_name === elementName)
   }, [metrics?.METRICS, elementName])
-
   if (!showTooltips) return children
 
   return (

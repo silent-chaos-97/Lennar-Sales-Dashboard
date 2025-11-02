@@ -73,3 +73,4 @@ export interface LeaderboardObj {
   type: string
   values: LeaderboardItemValue[]
   appointments_kept: LeaderboardFilterObj
+  bebacks_with_followup: LeaderboardFilterObj

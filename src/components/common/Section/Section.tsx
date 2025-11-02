@@ -108,3 +108,5 @@ export const Section = ({
                         {name}
                       </Typography>
                     ))}
+                  </Box>
+                </ClickAwayListener>

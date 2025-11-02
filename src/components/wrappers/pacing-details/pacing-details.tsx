@@ -150,5 +150,4 @@ const PacingDetails = ({
                   zIndex: 100
                 }}
               >
-                <Typography variant="h3" fontWeight={700}>
                   {subPacingData.name}

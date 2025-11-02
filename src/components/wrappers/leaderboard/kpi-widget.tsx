@@ -25,11 +25,12 @@ const KPIWidget = ({
   return (
     <Box>
       <Typography variant="caption" color="text.secondary">
-        {title}
       </Typography>
       <Grid container direction="row">
         <Grid item minWidth={75}>
           <Typography variant="h5" lineHeight={2} fontWeight={700} color="grey.300">
             {suffixTheNumber(firstValue)}
+          </Typography>
           <Typography variant="h5" lineHeight={2} fontWeight={700} color="grey.300">
             {suffixTheNumber(secondValue)}
+          </Typography>

@@ -25,7 +25,6 @@ const AxisXStartTickComponent = (props: RadialAxisTickProps) => {
   }
 
   return (
-    <g transform={`translate(${props.y}, 0) rotate(${props.rotation})`}>
       <CustomTooltip elementName={`label-${props.label.toString().toLowerCase()}`}>
         <text
           dx={props.textX}
@@ -145,3 +144,5 @@ const Performance = () => {
             <Box width={24} height={4} borderRadius={2} bgcolor="rgba(255,255,255,0.5)" />
             <Typography variant="caption" color="textSecondary">
               Goal
+            </Typography>
+          </Stack>

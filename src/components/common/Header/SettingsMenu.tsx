@@ -142,3 +142,4 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
                   setIdleTimeValue(+evt.target.value)
                 }}
                 sx={{
+                  background: '#F2F2F2',

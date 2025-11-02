@@ -287,6 +287,7 @@
                 "mapbox:featureComponent": "land-and-water",
                 "mapbox:group": "Land & water, water"
             },
+            "source": "composite",
             "source-layer": "water",
             "layout": {},
             "paint": {"fill-color": "#191d26"}
@@ -1710,3 +1711,31 @@
                 "line-blur": [
                     "interpolate",
                     ["linear"],
+                    ["zoom"],
+                    3,
+                    0,
+                    12,
+                    2.6
+                ]
+            }
+        },
+        {
+            "id": "admin-1-boundary",
+            "type": "line",
+            "metadata": {
+                "mapbox:featureComponent": "admin-boundaries",
+                "mapbox:group": "Administrative boundaries, admin"
+            },
+            "source": "composite",
+            "source-layer": "admin",
+            "minzoom": 2,
+            "filter": [
+                "all",
+                ["==", ["get", "admin_level"], 1],
+                ["==", ["get", "maritime"], "false"],
+                ["match", ["get", "worldview"], ["all", "US"], true, false]
+            ],
+            "layout": {},
+            "paint": {
+                "line-dasharray": [
+                    "step",

@@ -242,3 +242,7 @@ const ISCDetail = ({
                     value={data?.total_chats_texts || 0}
                     change={data?.total_chats_texts_percent_change || 0}
                   />
+                </Grid>
+                <Grid item xs={3}>
+                  <CustomTooltip elementName={`label-isc-appts-set`}>
+                    <Typography variant="caption" color="text.secondary" fontWeight={500}>

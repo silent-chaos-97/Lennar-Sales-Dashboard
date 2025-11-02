@@ -35,3 +35,4 @@ const Bar = ({ label, percent = 0, value, change }: BarProps) => {
         {label}
       </Typography>
       <Stack direction="row" alignItems="center" gap={1}>
+        <Track color={getValueChangeTextColor(change)} percent={percent} />

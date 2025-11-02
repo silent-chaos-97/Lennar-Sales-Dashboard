@@ -170,3 +170,5 @@ const PacingStatus = ({ mapWrapperRef }) => {
   }
 
   const markers = useMemo(
+    () =>
+      pacingCohortArray.map((dot, idx) => {

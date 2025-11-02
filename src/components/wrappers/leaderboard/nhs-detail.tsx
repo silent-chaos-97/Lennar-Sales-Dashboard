@@ -120,6 +120,7 @@ const NHSDetail = ({
                       </Typography>
                     </Avatar>
                   </Stack>
+                </Grid>
                 <Grid item xs={4.65} sx={{ ml: 8 }}>
                   <CustomTooltip elementName="label-nhc-net-revenue">
                     <Typography variant="caption" color="text.secondary" fontWeight={500}>
@@ -164,3 +165,6 @@ const NHSDetail = ({
                   firstValue={data?.gross_sales_division_rank || 0}
                   firstLabel="Gross sales"
                   secondValue={data?.net_revenue_division_rank || 0}
+                  secondLabel="Net revenue"
+                  thirdValue={data?.realtor_attachment_rate_division_rank || 0}
+                  thirdLabel="Realtor attachment"

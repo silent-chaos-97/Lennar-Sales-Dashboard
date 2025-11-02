@@ -87,3 +87,4 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
       .attr('stroke-width', 1)
       .attr('points', function (d) {
         if (d.value) {
+          const posA = arc.centroid(d) // line insertion in the slice

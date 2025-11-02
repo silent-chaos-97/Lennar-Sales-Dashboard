@@ -218,3 +218,7 @@ const Header = () => {
                 </Stack>
               )}
             </Stack>
+          </Box>
+        </ScreenWrapper>
+        <ScreenWrapper>
+          {!isDesktop && (

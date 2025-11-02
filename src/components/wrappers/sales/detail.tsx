@@ -139,3 +139,24 @@ const SalesDetails = ({
                     : `+ ${salesDetail.price_vs_model_avg}`}
                   %
                 </Typography>
+              </Grid>
+              <Grid item lg={6} mb={2}>
+                <Typography variant="caption" color="text.secondary">
+                  Incentives
+                </Typography>
+                <Typography variant="h3">{salesDetail.incentive_percent}%</Typography>
+              </Grid>
+              <Grid item lg={6} mb={2}>
+                <Typography variant="caption" color="text.secondary">
+                  Realtor commission
+                </Typography>
+                <Typography variant="h3" color="text.tertiary">
+                  {salesDetail.realtor_commission}%
+                </Typography>
+              </Grid>
+              <Grid item lg={6} mb={2}>
+                <Typography variant="caption" color="text.secondary">
+                  {salesDetail.home_type}
+                </Typography>
+                <Typography variant="h3">{salesDetail.bed_bath}</Typography>
+              </Grid>

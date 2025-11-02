@@ -26,7 +26,6 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
 
   return (
     <Box width="100%">
-      <Stack direction="row" spacing={4}>
         <HourlyActivity
           title="Web visitors"
           tickers={data?.HOURLY_WEB_VISITORS_ARRAY || []}
@@ -35,6 +34,7 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
           activityTimeframe={activityTimeframe}
         />
         <HourlyActivity
+          title="Total leads"
           tickers={data?.HOURLY_LEADS_ARRAY || []}
           total={data?.LEADS || 0}
           change={data?.LEADS_PERCENT_CHANGE || 0}
@@ -46,3 +46,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
           <Typography variant="caption" color="text.secondary">
             <DataAlert elementName="label-leads-by-channel">Leads by source</DataAlert>
           </Typography>
+        </CustomTooltip>

@@ -29,7 +29,6 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .append('g')
         .attr('transform', `translate(${margin.left},${margin.top})`)
       const xScale = d3.scalePoint().domain(xValues).range([0, chartWidth])
-
       const yScale = d3
         .scaleLinear()
         .domain([d3.min(yValues), d3.max(yValues)])
@@ -76,3 +75,16 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .enter()
         .append('stop')
         .attr('offset', function (d) {
+          return d.offset
+        })
+        .attr('stop-color', function (d) {
+          return d.color
+        })
+
+      // Draw area for current ticker
+      const area = d3
+        .area()
+        .x((d) => xScale(d.x_axis))
+        .y0(height)
+        .y1((d) => yScale(d.y_axis))
+        .curve(d3.curveCardinal)

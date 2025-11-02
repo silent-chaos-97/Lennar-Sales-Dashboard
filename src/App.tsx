@@ -13,3 +13,4 @@ function App() {
       <CssBaseline />
       <ScreenContextProvider>
         <StateProvider>
+          <TimerProvider>

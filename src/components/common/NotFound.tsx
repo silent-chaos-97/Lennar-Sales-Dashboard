@@ -20,3 +20,4 @@ const NotFound = () => {
         </Stack>
         <WarningRoundIcon sx={{ fontSize: '60px', marginTop: '144px', marginBottom: '50px' }} />
         <Typography sx={{ fontSize: '32px', lineHeight: '38px' }}>
+          Hmm, no one seems to be home at the moment.

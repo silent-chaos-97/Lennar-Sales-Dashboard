@@ -23,6 +23,7 @@ interface StateContextValues {
   locations: CohortListItem[]
   refreshData: (reset: boolean) => void
   currentCohort: Division
+  setCurrentCohort: (value: Division) => void
   fetchNextDivision: () => void
   fetchRegionDivisions: () => void
   setPrevSelectedDivisionType: (value: string) => void
@@ -144,3 +145,6 @@ export const StateProvider = (props: PropsWithChildren) => {
       setPricingState(undefined)
       setInsightState(undefined)
     }
+    const response = await fetchChartData(currentCohort)
+    if (response) {
+      const { data, status } = response

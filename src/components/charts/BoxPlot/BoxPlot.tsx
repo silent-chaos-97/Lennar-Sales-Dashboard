@@ -86,7 +86,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       .text((d, i) => ['LEN', 'New Contruction', 'Resale'][i])
 
     const boxWidth = 44
-
     function showTooltip(d: d3.NumberValue, boxCenter: number, idx: number) {
       const xPos = boxCenter - boxWidth / 2 - 80 // Adjust position as needed
       const yPos = y(d) - 21
@@ -119,3 +118,5 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       svg
         .append('line')
         .attr('x1', boxCenter)
+        .attr('x2', boxCenter)
+        .attr('y1', y(min))

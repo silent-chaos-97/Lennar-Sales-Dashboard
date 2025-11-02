@@ -11,7 +11,6 @@ const colors = [
   '#AE78D7'
 ]
 
-export function getRandomColor(name: string) {
   const seed = name.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0)
   const randomIndex = seed % colors.length
   return colors[randomIndex]
@@ -24,3 +23,4 @@ export function getValueChangeTextColor(num: number) {
 }
 
 export const suffixTheNumber = (n: number) =>
+  n +

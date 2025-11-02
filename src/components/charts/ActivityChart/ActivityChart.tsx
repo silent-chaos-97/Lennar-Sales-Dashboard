@@ -1,5 +1,6 @@
 import Stack from '@mui/material/Stack'
 import Box from '@mui/material/Box'
+import Typography from '@mui/material/Typography'
 import HeatMap from '../HeatMap'
 import { TickerItem } from '@/types/current_activity'
 import { useResizeDetector } from 'react-resize-detector'
@@ -23,7 +24,6 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
   const startOfDay = now.startOf('day').set({ hour: 7 })
 
   // Set the time to 7pm today
-  const endOfDay = now.startOf('day').set({ hour: 19 })
 
   const filteredData = useMemo(
     () =>

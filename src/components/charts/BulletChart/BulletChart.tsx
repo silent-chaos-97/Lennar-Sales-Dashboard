@@ -43,3 +43,4 @@ const BulletChart = ({ height = '100%', width = '100%' }: BulletChartProps) => {
         label="Black"
         maxValue={maxLimit}
         color={PacingBulletBarColors.black}
+      />

@@ -35,7 +35,6 @@ const BulletBar = ({
               variant="caption"
               fontWeight={500}
               sx={{ position: 'absolute', top: -24, left: '50%', transform: 'translateX(-50%)' }}
-            >
               {value.toLocaleString()}
             </Typography>
             <Box

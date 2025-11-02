@@ -16,7 +16,6 @@ interface PercentValueTextProps {
 const PercentValueText = ({
   value,
   change = 0,
-  hideChange = false,
   prefix = '',
   suffix = '',
   fontWeight = ''
@@ -27,3 +26,4 @@ const PercentValueText = ({
         {prefix} {value.toLocaleString()} {suffix}
       </Typography>
       {!hideChange && (
+        <Stack sx={{ pb: 0.75 }}>

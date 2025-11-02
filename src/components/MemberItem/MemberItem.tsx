@@ -8,6 +8,7 @@ interface MemberItemProps {
   cohort_rank: number
   national_rank: number
   divisionName?: string
+  imageSrc: string
   name: string
   summary: string
   onOpenDetail?: () => void
@@ -33,7 +34,6 @@ const MemberItem = ({
       alignItems="center"
       py={2}
       role="button"
-      tabIndex={-1}
       sx={{
         cursor: onOpenDetail ? 'pointer' : 'default',
         color: active ? '#AF0' : '#fff'
@@ -54,3 +54,4 @@ const MemberItem = ({
         sx={{
           width: 72,
           height: 72,
+          bgcolor: getRandomColor(name),

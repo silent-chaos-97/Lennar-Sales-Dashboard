@@ -65,3 +65,4 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
   const dotColors = {
     Active: '#33A3FF',
     Missed: '#DF4747',
+    Connected: 'rgba(255,255,255,0.33)'

@@ -243,3 +243,7 @@ const CenterPane = () => {
         setClusterIndex(0)
 
         setTimeout(() => {
+          window.requestAnimationFrame(() => {
+            const svg = document.getElementById('triangleSvg')
+            if (svg) {
+              svg.innerHTML = ''

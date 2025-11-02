@@ -195,13 +195,13 @@ export const theme = createTheme({
           border-color: transparent transparent transparent #191d26d9;
           filter: drop-shadow(2px 0px 0px #191d26d9);
         }
-      }
 
       .MuiButtonBase-root.MuiButton-root.Mui-disabled {
         background: #E8E8ED;
         border-color: #E8E8ED;
       }
 
+      .pulsatingDot {
         background-color: rgba(28,209,161,0.85);
         border-radius: 50%;
         box-sizing: border-box;
@@ -252,3 +252,7 @@ export const theme = createTheme({
           fontWeight: 700
         },
         sizeSmall: {
+          borderRadius: 16,
+          fontSize: 14,
+          lineHeight: '24px',
+          fontWeight: 700,
