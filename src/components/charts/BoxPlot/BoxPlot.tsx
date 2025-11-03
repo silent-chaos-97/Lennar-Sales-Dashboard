@@ -111,6 +111,7 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       // const min = q1 - 1.5 * interQuantileRange
       // const max = q1 + 1.5 * interQuantileRange
       const min = botPlot[0]
+      const max = botPlot[4]
 
       const boxCenter = idx * ((width - 200) / (boxPlotData.length - 1)) + 100
 
@@ -123,3 +124,7 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
         .attr('y2', y(max))
         .attr('stroke', idx === 0 ? '#33A3FF' : 'rgba(242,242,242,0.33)')
         .attr('stroke-width', 2)
+        .attr('opacity', idx === 0 ? 0.75 : 1)
+
+      // Show the box
+      svg

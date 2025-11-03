@@ -151,3 +151,8 @@ export const StateProvider = (props: PropsWithChildren) => {
       setLeaderboards(data.leaderboards)
       setPerformanceTimeframeState(data.isc_performance_timeframe)
       setActivityTimeframeState(data.current_activity_timeframe)
+      setPacingState(data.pacing)
+      setSalesTimeframeState(data.sales_timeframe)
+      setPricingState(data.pricing)
+      setInsightState(data.insights)
+      setDataStatus(status)

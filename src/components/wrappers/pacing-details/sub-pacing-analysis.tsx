@@ -10,6 +10,7 @@ interface SubPacingAnalysisProps {
   weeklyData: WeeklyPacingItem[]
   next3WPace: number
   past3WSales: number
+  changeNeeded: number
   currentWeekPrediction: number
 }
 
@@ -49,3 +50,4 @@ const SubPacingAnalysis = ({
           </Box>
           <Box flex={1}>
             <Typography variant="caption" color="text.secondary" fontWeight={500}>
+              Next 3W pace

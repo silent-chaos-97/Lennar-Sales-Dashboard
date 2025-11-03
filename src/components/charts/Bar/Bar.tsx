@@ -3,7 +3,6 @@ import Stack from '@mui/material/Stack'
 import { styled } from '@mui/material/styles'
 import NorthEastIcon from '@mui/icons-material/NorthEast'
 import SouthEastIcon from '@mui/icons-material/SouthEast'
-import { getValueChangeTextColor } from '@/utils/helper'
 
 interface BarProps {
   label: string
@@ -36,3 +35,5 @@ const Bar = ({ label, percent = 0, value, change }: BarProps) => {
       </Typography>
       <Stack direction="row" alignItems="center" gap={1}>
         <Track color={getValueChangeTextColor(change)} percent={percent} />
+        <Stack direction="row" alignItems="flex-end" spacing={1}>
+          <Typography>{value.toLocaleString()}</Typography>

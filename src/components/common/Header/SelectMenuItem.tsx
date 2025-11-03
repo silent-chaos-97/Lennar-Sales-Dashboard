@@ -16,6 +16,7 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
   return (
     <>
       <ListItem sx={{ p: 0, pl: hasSubItems ? 0 : 3 }}>
+        {hasSubItems && (
           <IconButton sx={{ p: 0 }}>
             <ListItemIcon sx={{ color: 'grey.300', minWidth: 'auto' }} />
           </IconButton>
@@ -39,3 +40,5 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
       {hasSubItems && (
         <List component="div" disablePadding>
           {(item?.divisions || []).map((d) => (
+            <ListItemButton key={d.name} sx={{ p: 0, pl: 3 }} onClick={() => onSelectMenu(d)}>
+              <ListItemText

@@ -49,3 +49,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
           </Typography>
         </CustomTooltip>
 
+        <Bar

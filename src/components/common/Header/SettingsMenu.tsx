@@ -147,3 +147,7 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
                   height: 32,
                   padding: 0,
                   px: 1,
+                  width: 112
+                }}
+              >
+                <option value={60}>1 min</option>

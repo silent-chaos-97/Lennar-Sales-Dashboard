@@ -40,7 +40,6 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         .scaleLinear()
         .domain([0, currentTickers.length - 1])
         .range([0, chartWidth])
-
       const yScale = d3
         .scaleLinear()
         .domain([0, d3.max([...currentTickers, ...previousTickers])])
@@ -79,8 +78,11 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
           return d.color
         })
 
+      // Draw area for current ticker
       const area = d3
         .area()
         .x((d, i) => xScale(i))
         .y0(height)
         .y1((d) => yScale(d))
+        .curve(d3.curveBasis)
+

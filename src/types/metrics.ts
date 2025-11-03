@@ -8,3 +8,4 @@ export interface Metric {
   element_name: string
   hover_element: string
   kpi: string
+  pane: string

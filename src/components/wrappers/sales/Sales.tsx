@@ -94,8 +94,10 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
         />
         <DailyAnalyticsBox
           title="Average realtor commission as percent of price"
-          value={salesState?.AVG_REALTOR_COMMISSION?.value || 0}
           grossValue={salesState?.GROSS_SALES?.value || 0}
           diffPercent={salesState?.AVG_REALTOR_COMMISSION?.percent_change || 0}
           unit="%"
           graphData={salesState?.AVG_REALTOR_COMMISSION?.graph}
+          isDecreaseBenefit
+        />
+      </Section>

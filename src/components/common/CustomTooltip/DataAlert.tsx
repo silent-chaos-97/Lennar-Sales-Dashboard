@@ -24,3 +24,4 @@ const DataAlert = ({ elementName, truncateSize = 0, isSvg = false, children }: D
   const Tag = isSvg ? 'tspan' : 'span'
 
   if (dataStatus !== DataStatus.issue) {
+    return <Tag style={{ cursor: 'help' }}>{children}</Tag>

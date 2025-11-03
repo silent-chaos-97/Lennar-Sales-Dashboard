@@ -29,3 +29,4 @@ const CustomTooltip = ({ elementName, children }: CustomTooltipProps) => {
             bgcolor: '#191D26',
             color: '#fff',
             borderRadius: '8px',
+            boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)',

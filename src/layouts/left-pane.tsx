@@ -48,3 +48,4 @@ const LeftPane = () => {
             timestampList={ACTIVITY_TIMEFRAMES}
             onSelectTimestamp={setActivityFrame}
             dropdownAlignment="left"
+          >

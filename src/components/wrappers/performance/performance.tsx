@@ -150,3 +150,8 @@ const Performance = () => {
         }
         dropdownAlignment="left"
       >
+        <Grid container>
+          <Grid item lg={3}>
+            <Stack sx={{ height: '100%', justifyContent: 'space-between' }} spacing={8}>
+              <PerformanceBar
+                title="Inbound calls answered"

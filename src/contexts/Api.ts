@@ -23,6 +23,8 @@ export const fetchRegions = async () => {
     console.log('#### Request Error:', (error as Error).message)
   }
 }
+
 export const fetchChartData = async (location: Division) => {
   abortController.abort()
   abortController = new AbortController()
+  signal = abortController.signal

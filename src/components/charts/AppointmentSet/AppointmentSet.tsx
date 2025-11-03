@@ -125,3 +125,5 @@ const AppointmentSet = ({
           },
           prv: {
             date: dayPrv?.date,
+            total: dayPrv?.total,
+            f0: dayPrv?.byFrame[0],

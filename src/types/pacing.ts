@@ -40,3 +40,5 @@ export interface SubCohortItem {
 }
 
 interface SubCohortMap {
+  map_summary: string
+  map_title: string

@@ -151,7 +151,6 @@ const PacingStatus = ({ mapWrapperRef }) => {
       [...pacingCohortArray].sort((a, b) => {
         const nameA = a.name
         const nameB = b.name
-        if (nameA < nameB) return -1
         if (nameA > nameB) return 1
         return 0
       }),
@@ -176,3 +175,8 @@ const PacingStatus = ({ mapWrapperRef }) => {
         const color = STATUS_COLORS[statusKey]
         return (
           <Marker key={`pm-${idx}`} latitude={dot.latitude} longitude={dot.longitude}>
+            <MarkerIcon
+              color={color}
+              active={activeDots.includes(idx) || isNonSelected}
+              onClick={handleClickMarker(dot, idx)}
+            />

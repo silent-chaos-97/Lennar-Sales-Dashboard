@@ -1,5 +1,4 @@
 import { useState, useRef, useMemo } from 'react'
-import { Marker, MapRef } from 'react-map-gl'
 import Box from '@mui/material/Box'
 import Sales from '@/components/wrappers/sales'
 import SalesDetails from '@/components/wrappers/sales/detail'
@@ -14,6 +13,7 @@ import useSupercluster from 'use-supercluster'
 import { Typography } from '@mui/material'
 import { styled } from '@mui/material/styles'
 import LMap from '@/components/common/LMap'
+import { DateTime } from 'luxon'
 import { TIMEZONE } from '@/utils/constant'
 
 const popupRight = 871
@@ -252,3 +252,10 @@ const CenterPane = () => {
                   : offsetTop < arrowBottomThreshold
                   ? offsetTop - arrowTopThreshold + 14
                   : offsetTop - arrowTopThreshold
+
+              const dot1 = { x: 4, y: dotY }
+              const dot2 = { x: svgWidth, y: 0 }
+              const dot3 = { x: svgWidth, y: 176 }
+
+              const polygon = document.createElementNS('http://www.w3.org/2000/svg', 'polygon')
+              polygon.setAttribute(

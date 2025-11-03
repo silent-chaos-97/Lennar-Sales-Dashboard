@@ -3,6 +3,7 @@ import DataAlert from '@/components/common/CustomTooltip/DataAlert'
 import Box from '@mui/material/Box'
 import Stack from '@mui/material/Stack'
 import Typography from '@mui/material/Typography'
+import { styled } from '@mui/material/styles'
 
 interface TrackProps {
   color?: string
@@ -82,3 +83,5 @@ const PerformanceBar = ({
       <Stack justifyContent="space-between" sx={{ height: '100%' }}>
         <Box>
           <CustomTooltip elementName={`label-${title.replaceAll(' ', '-').toLowerCase()}`}>
+            <Typography typography="caption" color="rgba(255, 255, 255, 0.67)">
+              <DataAlert elementName={`label-${title.replaceAll(' ', '-').toLowerCase()}`}>

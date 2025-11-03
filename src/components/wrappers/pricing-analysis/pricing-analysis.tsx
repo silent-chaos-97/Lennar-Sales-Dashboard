@@ -29,6 +29,7 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
     new: data?.new_construction_prices?.percentile_50_percent_change || 0,
     resale: data?.resale_prices?.percentile_50_percent_change || 0
   }
+
   const diffColor = (diffPercent: number) => {
     if (diffPercent === 0) return 'text.primary'
     else if (diffPercent > 0) return 'success.main'
@@ -84,7 +85,6 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
             </Stack>
           </Box>
           <Box flex={1}>
-            <CustomTooltip elementName="pacing-new-construction-median-price">
               <Typography variant="caption" color="text.secondary" fontWeight={500}>
                 <DataAlert elementName="pacing-new-construction-median-price">
                   New construction median price
@@ -97,3 +97,6 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
               </Typography>
               {priceChanges.new !== 0 && (
                 <>
+                  {priceChanges.new > 0 ? (
+                    <NorthEastIcon color="success" />
+                  ) : (

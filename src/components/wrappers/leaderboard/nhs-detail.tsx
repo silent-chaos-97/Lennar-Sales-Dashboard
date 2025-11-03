@@ -131,6 +131,7 @@ const NHSDetail = ({
                     value={data?.net_revenue || 0}
                     change={data?.net_revenue_percent_change || 0}
                     prefix="$"
+                  />
                 </Grid>
                 <Grid item xs={2.45}>
                   <CustomTooltip elementName="label-nhc-incentives">
@@ -171,3 +172,8 @@ const NHSDetail = ({
                 <KPIWidget
                   title="National KPI rank QTD"
                   firstValue={data?.gross_sales_national_rank || 0}
+                  firstLabel="Gross sales"
+                  secondValue={data?.net_revenue_national_rank || 0}
+                  secondLabel="Net revenue"
+                  thirdValue={data?.realtor_attachment_rate_national_rank || 0}
+                  thirdLabel="Realtor attachment"

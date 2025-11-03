@@ -11,6 +11,7 @@ The project is divided into two main parts: the backend and the frontend. The ba
   - It's recommended to use [nvm](https://github.com/nvm-sh/nvm) for this.
     Install with `brew install nvm` and then run `nvm use` in the root directory
     of this repo.
+- `npm` 8.x
   - If you used `nvm`, this should be set up for you after running `nvm use`.
 - `git`
 
@@ -51,7 +52,6 @@ Follow these steps to set up the frontend:
     - We use hosting service - Nginx and pm2 for Node.js Process Manager
 
 2. To update the project, navigate to the project folder and pull the latest changes (you can skip this step if only restarting processes is required).
-    ```bash
     cd /opt/node/projects/corp_hub
     git pull
     ```
@@ -61,3 +61,5 @@ Follow these steps to set up the frontend:
       cd server
       npm run build
       cd ..
+      npm run build
+      ```

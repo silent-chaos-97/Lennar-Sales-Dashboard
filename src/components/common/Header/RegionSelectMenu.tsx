@@ -67,3 +67,5 @@ const RegionSelectMenu = ({ onSelectMenu }: RegionSelectMenuProps) => {
             '#menu-logo': {
               fill: '#fff'
             }
+          }
+        }}

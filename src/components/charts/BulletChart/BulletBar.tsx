@@ -50,3 +50,4 @@ const BulletBar = ({
                 width: '100%'
               }}
             />
+            {label && (

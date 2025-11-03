@@ -54,3 +54,5 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
         <Avatar
           sx={{ width: 72, height: 72, bgcolor: getRandomColor(member.name) }}
           alt={member.name}
+          src={member.image_url}
+        >

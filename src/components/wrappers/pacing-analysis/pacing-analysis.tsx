@@ -19,7 +19,6 @@ const PacingAnalysis = () => {
           <Box width={24} height={4} borderRadius={2} bgcolor="#1ABB96" />
           <Typography variant="caption" color="textSecondary">
             Prediction
-          </Typography>
         </Stack>
       }
     >
@@ -45,3 +44,4 @@ const PacingAnalysis = () => {
             <Typography variant="h1" color="success.dark">
               {Math.round(pacingState?.NEXT_3W_PACE || 0).toLocaleString()}/week
             </Typography>
+          </Box>

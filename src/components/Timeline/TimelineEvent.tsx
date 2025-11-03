@@ -1,3 +1,4 @@
+import Stack from '@mui/material/Stack'
 import Box from '@mui/material/Box'
 import Typography from '@mui/material/Typography'
 import PublicIcon from '@mui/icons-material/Public'
@@ -60,3 +61,5 @@ const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
         sx={{
           width: 40,
           height: 40,
+          p: 1,
+          borderRadius: '50%',

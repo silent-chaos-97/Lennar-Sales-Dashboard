@@ -6,6 +6,7 @@ dist
 /.pnp
 .pnp.js
 
+# testing
 /coverage
 
 # production
@@ -15,3 +16,4 @@ dist
 .DS_Store
 .env
 .env.local
+.env.development.local

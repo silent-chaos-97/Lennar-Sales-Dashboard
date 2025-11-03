@@ -18,6 +18,7 @@ interface ScreenContextValues {
   setScreenMode: (mode: ScreenMode) => void
   setCurrentScreen: (current: number) => void
   showTooltips: boolean
+  setShowTooltips: React.Dispatch<React.SetStateAction<boolean>>
 }
 
 const ScreenContext = createContext<ScreenContextValues>({
@@ -32,3 +33,4 @@ const ScreenContext = createContext<ScreenContextValues>({
 export const ScreenContextProvider = (props: PropsWithChildren) => {
   const [screenMode, setScreenMode] = useState(ScreenMode.desktop)
   const [currentScreen, setCurrentScreen] = useState(0)
+  const [showTooltips, setShowTooltips] = useState<boolean>(true)

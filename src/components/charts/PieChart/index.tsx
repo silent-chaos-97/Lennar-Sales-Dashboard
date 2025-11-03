@@ -91,3 +91,5 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
           const posB = outerArc.centroid(d) // line break: we use the other arc generator that has been built only for that
           const posC = outerArc.centroid(d) // Label position = almost the same as posB
           const midangle = d.startAngle + (d.endAngle - d.startAngle) / 2 // we need the angle to see if the X position will be at the extreme right or extreme left
+          posB[1] =
+            posB[1] - yThreshold * (midangle < Math.PI / 2 && midangle > (Math.PI * 3) / 2 ? 1 : -1)

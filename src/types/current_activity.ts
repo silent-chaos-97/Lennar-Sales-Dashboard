@@ -3,6 +3,7 @@ export interface TickerItem {
   activity_status: string
   sort: number
 }
+
 export interface HourlyTicker {
   prev: number
   current: number
@@ -29,3 +30,4 @@ export interface CurrentActivityState {
     non_paid: number
     non_paid_pct_change: number
     third_party: number
+    third_party_pct_change: number

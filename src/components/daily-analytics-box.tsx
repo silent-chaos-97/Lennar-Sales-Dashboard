@@ -73,3 +73,6 @@ const DailyAnalyticsBox = ({
       return `${diffPercent}%`
     } else {
       return ''
+    }
+  }, [value, diffPercent])
+

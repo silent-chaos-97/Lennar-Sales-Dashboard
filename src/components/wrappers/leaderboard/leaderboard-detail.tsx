@@ -44,3 +44,4 @@ const LeaderboardDetail = ({
         data={data}
         imageUrl={imageUrl}
         cohortRank={cohortRank}
+        nationalRank={nationalRank}

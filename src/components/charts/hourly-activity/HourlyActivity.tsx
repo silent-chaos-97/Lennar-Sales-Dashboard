@@ -13,6 +13,7 @@ interface HourlyActivityProps {
   title: string
   tickers: HourlyTicker[]
   total: number
+  change: number
   activityTimeframe: string
 }
 
@@ -41,3 +42,5 @@ const HourlyActivity = ({
         <LineChart
           id={id}
           data={tickers}
+          width={210}
+          showCurrentFully={activityTimeframe !== 'today'}

@@ -96,3 +96,6 @@ const IndicatorBarChart = ({
                 L ${xVal + barWidth},${yVal + barHeight}
                 L ${xVal + barWidth},${yVal + borderRadius}
                 Q ${xVal + barWidth},${yVal} ${xVal + barWidth - borderRadius},${yVal}
+                L ${xVal + borderRadius},${yVal}
+                Q ${xVal},${yVal} ${xVal},${yVal + borderRadius}
+                Z`

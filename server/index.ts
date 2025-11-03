@@ -8,7 +8,6 @@ import cors from 'cors'
 
 import SnowflakeService from './services/snowflake'
 
-const app: Express = express()
 const port = process.env.PORT
 
 app.use(cors())
@@ -52,3 +51,5 @@ app.get('/api/data', async (req, res) => {
       const fileContents = fs.readFileSync(cacheFilePath, 'utf8')
       const cachedData = JSON.parse(fileContents)
 
+      // Return the cached data
+      res.json(cachedData.data)

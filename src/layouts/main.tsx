@@ -131,3 +131,4 @@ const MainLayout = () => {
       }
 
       setZoomRate(Math.min(zoom, 1))
+    }

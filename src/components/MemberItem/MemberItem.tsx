@@ -37,6 +37,7 @@ const MemberItem = ({
       tabIndex={-1}
       sx={{
         cursor: onOpenDetail ? 'pointer' : 'default',
+        color: active ? '#AF0' : '#fff'
       }}
       onClick={onOpenDetail && onOpenDetail}
     >
@@ -56,3 +57,5 @@ const MemberItem = ({
           height: 72,
           bgcolor: getRandomColor(name),
           color: 'primary.contrastText'
+        }}
+        imgProps={{ width: 300, height: 300 }}

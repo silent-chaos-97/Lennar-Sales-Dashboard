@@ -42,3 +42,5 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
     [data, startOfDay, endOfDay]
   )
 
+  return (
+    <Stack flex={1}>

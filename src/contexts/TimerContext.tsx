@@ -70,6 +70,7 @@ export const TimerProvider = (props: PropsWithChildren) => {
         if ((cycleTimerProgress / cycleTimeout) * 100 >= 100) {
           setCycleTimerProgress(0)
           switch (disableRotation) {
+            case Rotate.locations:
               fetchNextDivision()
               break
             case Rotate.within_region:
@@ -106,3 +107,6 @@ export const TimerProvider = (props: PropsWithChildren) => {
         }
         setIdleTimerProgress((prevProgress) => prevProgress + 1)
       }
+    }, 1000)
+
+    return () => {

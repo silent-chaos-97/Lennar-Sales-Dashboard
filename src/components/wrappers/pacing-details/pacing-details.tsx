@@ -45,7 +45,6 @@ const List = ({ list, choose, showList }: ListProps) => {
         py: 2,
         top: 80,
         zIndex: 100,
-        borderRadius: '8px',
         backgroundColor: '#212936',
         width: 460,
         boxShadow: '0 8px 16px 0 rgba(0,0,0,0.80)',
@@ -153,3 +152,5 @@ const PacingDetails = ({
                 <Typography variant="h3" fontWeight={700}>
                   {subPacingData.name}
                 </Typography>
+                <Typography
+                  sx={{

@@ -15,7 +15,6 @@ interface SectionProps {
   onSelectTimestamp?: (timestamp: string) => void
   onSelectCategory?: (category: string) => void
   dropdownAlignment?: 'left' | 'right' | 'center'
-}
 
 export const Section = ({
   title,
@@ -112,3 +111,7 @@ export const Section = ({
                 </ClickAwayListener>
               )}
             </Box>
+          )}
+        </Stack>
+        <Stack direction="row" spacing={4} alignItems="center">
+          <Box position="relative">

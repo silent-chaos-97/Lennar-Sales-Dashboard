@@ -6,7 +6,6 @@ import Chip from '@mui/material/Chip'
 import Box from '@mui/material/Box'
 import PersonIcon from '@mui/icons-material/Person'
 import Button from '@mui/material/Button'
-import Stack from '@mui/material/Stack'
 import { styled } from '@mui/material/styles'
 import TimelineEvent from './TimelineEvent'
 import { JourneyArrayItem } from '@/types/sales'
@@ -58,3 +57,5 @@ const Timeline = ({ journeyData }: TimelineProps) => {
   return (
     <Accordion expanded={true} disableGutters sx={{ border: 'none', background: 'transparent' }}>
       <AccordionSummary sx={{ padding: 0 }}>
+        <Stack direction="row" alignItems="center" justifyContent="space-between" width="100%">
+          <Chip icon={<PersonIcon />} label={`${journeyDays}-day customer journey`} color="info" />

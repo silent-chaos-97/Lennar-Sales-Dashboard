@@ -263,3 +263,10 @@ export const theme = createTheme({
           color: '#fff !important'
         }
       }
+    },
+    MuiButtonBase: {
+      defaultProps: {
+        LinkComponent: LinkBehavior
+      }
+    },
+    MuiTypography: {

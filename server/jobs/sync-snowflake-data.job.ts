@@ -76,3 +76,4 @@ const run = async () => {
     )
 
     const cacheFilename = `${sanitizeFilename(
+      sortedCohortList[i].name

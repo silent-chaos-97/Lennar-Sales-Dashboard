@@ -45,3 +45,4 @@ const BulletChart = ({ height = '100%', width = '100%' }: BulletChartProps) => {
         color={PacingBulletBarColors.black}
       />
       <BulletBar
+        id="pacing-homes-0-30"

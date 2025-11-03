@@ -14249,3 +14249,406 @@
                 {
                   "x_axis": "Jul 31",
                   "y_axis": 3
+                },
+                {
+                  "x_axis": "Aug 07",
+                  "y_axis": 0
+                },
+                {
+                  "x_axis": "Aug 14",
+                  "y_axis": 2
+                },
+                {
+                  "x_axis": "Aug 21",
+                  "y_axis": 3
+                },
+                {
+                  "x_axis": "Aug 28",
+                  "y_axis": 4
+                },
+                {
+                  "x_axis": "Sep 04",
+                  "y_axis": 0
+                },
+                {
+                  "x_axis": "Sep 11",
+                  "y_axis": 1
+                },
+                {
+                  "x_axis": "Sep 18",
+                  "y_axis": 2
+                },
+                {
+                  "x_axis": "Sep 25",
+                  "y_axis": 1
+                },
+                {
+                  "x_axis": "Oct 02",
+                  "y_axis": 2
+                },
+                {
+                  "x_axis": "Oct 09",
+                  "y_axis": 0
+                }
+              ],
+              "gross_sales": 7,
+              "gross_sales_division_rank": 5,
+              "gross_sales_national_rank": 598,
+              "incentive_rate": 1.6,
+              "net_revenue": 2583661,
+              "net_revenue_division_rank": 5,
+              "net_revenue_national_rank": 635,
+              "net_revenue_percent_change": -17,
+              "net_sales": 5,
+              "realtor_attachment_rate": 86,
+              "realtor_attachment_rate_division_rank": 6,
+              "realtor_attachment_rate_national_rank": 751,
+              "realtor_commission": 22817.6,
+              "realtor_commission_rate": 0.9
+            },
+            "summary": "7 gross sales"
+          },
+          {
+            "cohort_rank": 6,
+            "division_name": "Tucson",
+            "image_url": "",
+            "name": "Tianna Roberts",
+            "national_rank": 875,
+            "pop_out_details": {
+              "appointments_kept_rate": 50,
+              "days_since_last_sale": 6,
+              "graph_data": [
+                {
+                  "x_axis": "Sep 18",
+                  "y_axis": 0
+                },
+                {
+                  "x_axis": "Sep 25",
+                  "y_axis": 0
+                },
+                {
+                  "x_axis": "Oct 02",
+                  "y_axis": 4
+                },
+                {
+                  "x_axis": "Oct 09",
+                  "y_axis": 0
+                }
+              ],
+              "gross_sales": 4,
+              "gross_sales_division_rank": 6,
+              "gross_sales_national_rank": 875,
+              "incentive_rate": 1.2,
+              "net_revenue": 1895740,
+              "net_revenue_division_rank": 6,
+              "net_revenue_national_rank": 813,
+              "net_revenue_percent_change": 0,
+              "net_sales": 4,
+              "realtor_attachment_rate": 50,
+              "realtor_attachment_rate_division_rank": 2,
+              "realtor_attachment_rate_national_rank": 275,
+              "realtor_commission": 0,
+              "realtor_commission_rate": 0
+            },
+            "summary": "4 gross sales"
+          }
+        ]
+      },
+      "DBT_UPDATED_AT": "2023-10-12 19:16:43.567"
+    },
+    "isc_performance_timeframe": {
+      "QTD": {
+        "COHORT": "Tucson",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "QTD",
+        "INBOUND_CALLS_ANSWERED": {
+          "color": "yellow",
+          "goal_value": 90,
+          "percent_value": 88
+        },
+        "INBOUND_CHATS_ANSWERED": {
+          "color": "red",
+          "goal_value": 90,
+          "percent_value": 10
+        },
+        "LEADS_WITH_APPOINTMENT_SET": {
+          "color": "green",
+          "goal_value": 13,
+          "percent_value": 31
+        },
+        "APPOINTMENTS_KEPT": {
+          "color": "green",
+          "goal_value": 75,
+          "missed": 14,
+          "percent_value": 78
+        },
+        "SALES_WITH_ISC_ATTACHED": {
+          "color": "green",
+          "goal_value": 75,
+          "percent_value": 75
+        },
+        "LEADS_WITH_TRIFECTA": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 99
+        },
+        "LEADS_WITH_FOLLOWUP": {
+          "color": "green",
+          "goal_value": 80,
+          "percent_value": 93
+        },
+        "BEBACKS_WITH_FOLLOWUP": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 92
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:33.196"
+      },
+      "t7d": {
+        "COHORT": "Tucson",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "t7d",
+        "INBOUND_CALLS_ANSWERED": {
+          "color": "yellow",
+          "goal_value": 90,
+          "percent_value": 86
+        },
+        "INBOUND_CHATS_ANSWERED": {
+          "color": "red",
+          "goal_value": 90,
+          "percent_value": 0
+        },
+        "LEADS_WITH_APPOINTMENT_SET": {
+          "color": "green",
+          "goal_value": 13,
+          "percent_value": 28
+        },
+        "APPOINTMENTS_KEPT": {
+          "color": "green",
+          "goal_value": 75,
+          "missed": 2,
+          "percent_value": 77
+        },
+        "SALES_WITH_ISC_ATTACHED": {
+          "color": "green",
+          "goal_value": 75,
+          "percent_value": 76
+        },
+        "LEADS_WITH_TRIFECTA": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 97
+        },
+        "LEADS_WITH_FOLLOWUP": {
+          "color": "red",
+          "goal_value": 80,
+          "percent_value": 14
+        },
+        "BEBACKS_WITH_FOLLOWUP": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 91
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:33.196"
+      },
+      "MTD": {
+        "COHORT": "Tucson",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "MTD",
+        "INBOUND_CALLS_ANSWERED": {
+          "color": "yellow",
+          "goal_value": 90,
+          "percent_value": 87
+        },
+        "INBOUND_CHATS_ANSWERED": {
+          "color": "red",
+          "goal_value": 90,
+          "percent_value": 0
+        },
+        "LEADS_WITH_APPOINTMENT_SET": {
+          "color": "green",
+          "goal_value": 13,
+          "percent_value": 28
+        },
+        "APPOINTMENTS_KEPT": {
+          "color": "green",
+          "goal_value": 75,
+          "missed": 4,
+          "percent_value": 76
+        },
+        "SALES_WITH_ISC_ATTACHED": {
+          "color": "green",
+          "goal_value": 75,
+          "percent_value": 85
+        },
+        "LEADS_WITH_TRIFECTA": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 98
+        },
+        "LEADS_WITH_FOLLOWUP": {
+          "color": "red",
+          "goal_value": 80,
+          "percent_value": 50
+        },
+        "BEBACKS_WITH_FOLLOWUP": {
+          "color": "yellow",
+          "goal_value": 90,
+          "percent_value": 89
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:33.196"
+      }
+    },
+    "current_activity_timeframe": {
+      "prev_week": {
+        "COHORT": "Tucson",
+        "COHORT_TYPE": "division",
+        "CALLS_TICKER_ARRAY": [
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 10:05:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 10:55:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 12:55:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 13:00:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-05 13:20:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 13:25:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-05 13:25:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 13:45:00.000",
+            "sort": 1
+          },
+          {
+            "activity_time": "2023-10-05 13:55:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 14:10:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 14:25:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 14:35:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-05 14:45:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 15:10:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-05 15:35:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 15:35:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 16:05:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 16:15:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 16:20:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-05 17:15:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 17:30:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 17:30:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 17:35:00.000",
+            "sort": 1
+          }
+        ],
+        "CHATS_TEXTS_TICKER_ARRAY": [
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 09:50:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 09:50:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 10:20:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 10:20:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 10:25:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 11:35:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
