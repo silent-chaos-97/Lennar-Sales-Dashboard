@@ -99,3 +99,4 @@ const IndicatorBarChart = ({
                 L ${xVal + borderRadius},${yVal}
                 Q ${xVal},${yVal} ${xVal},${yVal + borderRadius}
                 Z`
+            : ''

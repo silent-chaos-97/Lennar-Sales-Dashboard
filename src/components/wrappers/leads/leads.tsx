@@ -22,7 +22,6 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
 
   const maxValue = useMemo(() => {
     return Math.max(...Object.values(scores))
-  }, [scores])
 
   return (
     <Box width="100%">
@@ -50,3 +49,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
         </CustomTooltip>
 
         <Bar
+          label="Paid"

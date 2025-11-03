@@ -270,3 +270,6 @@ export const theme = createTheme({
       }
     },
     MuiTypography: {
+      defaultProps: {
+        variantMapping: {
+          // Map the new variant to render a <h1> by default

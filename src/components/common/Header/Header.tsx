@@ -14,6 +14,7 @@ import Fade from '@mui/material/Fade'
 import Tabs from '@mui/material/Tabs'
 import Tab from '@mui/material/Tab'
 import { useAppTimerSetters } from '@/contexts/TimerContext'
+import { useClickAway } from 'react-use'
 import SettingsMenu from './SettingsMenu'
 import { ScreenMode, useScreen } from '@/contexts/ScreenContext'
 import TimeProgress from './TimeProgress'
@@ -36,7 +37,6 @@ const Wrapper = styled('header')(({ theme }) => ({
 }))
 
 const Screen = styled('div')({
-  position: 'relative',
   paddingTop: 104
 })
 
@@ -232,3 +232,6 @@ const Header = () => {
                   fontSize: 48,
                   color: '#fff',
                   lineHeight: '56px',
+                  fontFamily: 'reckless',
+                  fontWeight: 500,
+                  borderRadius: 2

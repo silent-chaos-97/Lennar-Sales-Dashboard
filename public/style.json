@@ -1564,6 +1564,7 @@
                         ["get", "class"],
                         ["motorway", "trunk", "primary"],
                         19.2,
+                        ["secondary", "tertiary"],
                         15.6,
                         [
                             "motorway_link",
@@ -1830,3 +1831,22 @@
                     ["literal", [3, 2, 5]],
                     7,
                     ["literal", [2, 1.5]]
+                ]
+            }
+        },
+        {
+            "id": "road-label-simple",
+            "type": "symbol",
+            "metadata": {
+                "mapbox:featureComponent": "road-network",
+                "mapbox:group": "Road network, road-labels"
+            },
+            "source": "composite",
+            "source-layer": "road",
+            "minzoom": 12,
+            "filter": [
+                "all",
+                ["has", "name"],
+                [
+                    "match",
+                    ["get", "class"],

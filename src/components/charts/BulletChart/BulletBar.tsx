@@ -51,3 +51,4 @@ const BulletBar = ({
               }}
             />
             {label && (
+              <Typography

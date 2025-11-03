@@ -151,3 +151,4 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
                 }}
               >
                 <option value={60}>1 min</option>
+                <option value={120}>2 min</option>

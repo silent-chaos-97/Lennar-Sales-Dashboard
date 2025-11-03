@@ -71,6 +71,7 @@ const AxisXEndTickComponent = (props: RadialAxisTickProps & { goal: number }) =>
         fillOpacity="0.67"
         fontSize={16}
         fontFamily="mabry-pro"
+      >
         {props.goal}%
       </text>
     </g>
@@ -259,3 +260,5 @@ const ISCDetail = ({
               </Typography>
               <PercentValueText
                 value={data?.appts_set || 0}
+                change={data?.appts_set_percent_change || 0}
+                hideChange

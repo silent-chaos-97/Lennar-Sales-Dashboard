@@ -83,6 +83,7 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         })
 
       // Draw area for current ticker
+      const area = d3
         .area()
         .x((d) => xScale(d.x_axis))
         .y0(height)

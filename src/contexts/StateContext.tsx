@@ -156,3 +156,4 @@ export const StateProvider = (props: PropsWithChildren) => {
       setPricingState(data.pricing)
       setInsightState(data.insights)
       setDataStatus(status)
+    } else {

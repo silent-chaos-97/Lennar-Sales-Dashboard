@@ -151,6 +151,7 @@ const PacingStatus = ({ mapWrapperRef }) => {
       [...pacingCohortArray].sort((a, b) => {
         const nameA = a.name
         const nameB = b.name
+        if (nameA < nameB) return -1
         if (nameA > nameB) return 1
         return 0
       }),
@@ -180,3 +181,4 @@ const PacingStatus = ({ mapWrapperRef }) => {
               active={activeDots.includes(idx) || isNonSelected}
               onClick={handleClickMarker(dot, idx)}
             />
+          </Marker>

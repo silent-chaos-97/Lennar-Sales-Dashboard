@@ -155,3 +155,4 @@ const Performance = () => {
             <Stack sx={{ height: '100%', justifyContent: 'space-between' }} spacing={8}>
               <PerformanceBar
                 title="Inbound calls answered"
+                color={performanceState?.INBOUND_CALLS_ANSWERED.color}

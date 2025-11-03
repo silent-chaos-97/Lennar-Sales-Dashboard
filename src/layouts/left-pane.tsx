@@ -49,3 +49,4 @@ const LeftPane = () => {
             onSelectTimestamp={setActivityFrame}
             dropdownAlignment="left"
           >
+            <Grid container spacing={8} sx={{ mb: 6 }}>

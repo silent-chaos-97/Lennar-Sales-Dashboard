@@ -85,3 +85,4 @@ const PerformanceBar = ({
           <CustomTooltip elementName={`label-${title.replaceAll(' ', '-').toLowerCase()}`}>
             <Typography typography="caption" color="rgba(255, 255, 255, 0.67)">
               <DataAlert elementName={`label-${title.replaceAll(' ', '-').toLowerCase()}`}>
+                {title}

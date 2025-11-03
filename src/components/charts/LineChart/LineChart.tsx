@@ -40,6 +40,7 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         .scaleLinear()
         .domain([0, currentTickers.length - 1])
         .range([0, chartWidth])
+
       const yScale = d3
         .scaleLinear()
         .domain([0, d3.max([...currentTickers, ...previousTickers])])
@@ -86,3 +87,4 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         .y1((d) => yScale(d))
         .curve(d3.curveBasis)
 
+      svg

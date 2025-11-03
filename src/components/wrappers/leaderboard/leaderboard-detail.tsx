@@ -45,3 +45,4 @@ const LeaderboardDetail = ({
         imageUrl={imageUrl}
         cohortRank={cohortRank}
         nationalRank={nationalRank}
+        disablePrevNext={disablePrevNext}

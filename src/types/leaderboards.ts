@@ -78,3 +78,4 @@ export interface LeaderboardObj {
   chats_texts: LeaderboardFilterObj
   leads_with_appointment_set: LeaderboardFilterObj
   leads_with_followup: LeaderboardFilterObj
+  leads_with_trifecta: LeaderboardFilterObj

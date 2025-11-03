@@ -15,7 +15,6 @@ const RightPane = () => {
   const pricingData = useMemo(() => {
     return {
       lennar_prices: pricingState?.LENNAR_PRICES || {},
-      new_construction_prices: pricingState?.NEW_CONSTRUCTION_PRICES || {},
       resale_prices: pricingState?.RESALE_PRICES || {}
     }
   }, [pricingState])
@@ -28,6 +27,7 @@ const RightPane = () => {
         </Grid>
         <Grid item lg={9}>
           <Box>
+            <Grid container spacing={8}>
               <Grid item lg={8}>
                 <PacingAnalysis />
                 <PricingAnalysis data={pricingData} chartId="pricing-analysis" />

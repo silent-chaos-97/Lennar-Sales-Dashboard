@@ -1,6 +1,7 @@
 {
   "name": "corp-hub",
   "version": "0.1.0",
+  "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
@@ -56,3 +57,4 @@
     "production": [
       ">0.2%",
       "not dead",
+      "not op_mini all",

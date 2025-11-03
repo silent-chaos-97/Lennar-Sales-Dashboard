@@ -34,3 +34,4 @@ export const ScreenContextProvider = (props: PropsWithChildren) => {
   const [screenMode, setScreenMode] = useState(ScreenMode.desktop)
   const [currentScreen, setCurrentScreen] = useState(0)
   const [showTooltips, setShowTooltips] = useState<boolean>(true)
+

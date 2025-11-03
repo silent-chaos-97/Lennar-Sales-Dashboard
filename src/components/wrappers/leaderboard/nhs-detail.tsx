@@ -177,3 +177,4 @@ const NHSDetail = ({
                   secondLabel="Net revenue"
                   thirdValue={data?.realtor_attachment_rate_national_rank || 0}
                   thirdLabel="Realtor attachment"
+                />

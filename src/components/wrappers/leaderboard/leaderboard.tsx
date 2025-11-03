@@ -64,6 +64,7 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
 
   const handleClickPrev = () => {
     setActiveIdx((prev) => Math.max(0, (prev || 0) - 1))
+  }
 
   const handleClickNext = useCallback(() => {
     setActiveIdx((prev) => Math.min(leaderboardItems.length - 1, (prev || 0) + 1))
@@ -98,3 +99,4 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
           >
             <LeaderboardItems
               leaderboardItems={leaderboardItems}
+              leaderboardData={leaderboardData}

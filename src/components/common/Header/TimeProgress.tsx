@@ -12,3 +12,4 @@ const TimeProgress = () => {
 
   return (
     <TimerProgress
+      value={(cycleTimerProgress / cycleTimeout) * 100}

@@ -48,6 +48,7 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
   const xScale = useMemo(() => {
     return d3
       .scaleTime()
+      .range([0, boundsWidth])
       .domain([startOfDay, endOfDay])
       .nice(d3.timeMinute.every(5))
       .clamp(true)
@@ -68,3 +69,4 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
   }
 
   const allRects = useMemo(
+    () =>

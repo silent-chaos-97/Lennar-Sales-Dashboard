@@ -9,6 +9,7 @@ const colors = [
   '#77C1FF',
   '#005DAA',
   '#AE78D7'
+]
 
 export function getRandomColor(name: string) {
   const seed = name.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0)

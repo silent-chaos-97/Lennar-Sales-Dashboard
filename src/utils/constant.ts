@@ -45,3 +45,4 @@ export const LONGITUDE_DELTA = {
   all: 3,
   region: 1.5,
   sub_region: 1,
+  division: 0.5

@@ -25,7 +25,7 @@ const PercentValueText = ({
     <Stack direction="row" alignItems="flex-end" spacing={1}>
       <Typography variant="h1" sx={{ fontWeight: { fontWeight } }}>
         {prefix} {value.toLocaleString()} {suffix}
-      </Typography>
       {!hideChange && (
         <Stack sx={{ pb: 0.75 }}>
           {change !== 0 &&
+            (change > 0 ? <NorthEastIcon color="success" /> : <SouthEastIcon color="error" />)}

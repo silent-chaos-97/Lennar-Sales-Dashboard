@@ -9,3 +9,4 @@ export interface PriceDetailItem {
   percentile_75?: number
   percentile_95?: number
   percentile_100?: number
+}

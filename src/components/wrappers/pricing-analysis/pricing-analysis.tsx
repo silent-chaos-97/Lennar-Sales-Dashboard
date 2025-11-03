@@ -85,6 +85,7 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
             </Stack>
           </Box>
           <Box flex={1}>
+            <CustomTooltip elementName="pacing-new-construction-median-price">
               <Typography variant="caption" color="text.secondary" fontWeight={500}>
                 <DataAlert elementName="pacing-new-construction-median-price">
                   New construction median price
@@ -100,3 +101,4 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
                   {priceChanges.new > 0 ? (
                     <NorthEastIcon color="success" />
                   ) : (
+                    <SouthEastIcon color="error" />

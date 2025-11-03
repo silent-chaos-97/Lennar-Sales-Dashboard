@@ -1,4 +1,5 @@
 import { useState, useRef, useMemo } from 'react'
+import { Marker, MapRef } from 'react-map-gl'
 import Box from '@mui/material/Box'
 import Sales from '@/components/wrappers/sales'
 import SalesDetails from '@/components/wrappers/sales/detail'
@@ -259,3 +260,6 @@ const CenterPane = () => {
 
               const polygon = document.createElementNS('http://www.w3.org/2000/svg', 'polygon')
               polygon.setAttribute(
+                'points',
+                `${dot1.x},${dot1.y} ${dot2.x},${dot2.y} ${dot3.x},${dot3.y}`
+              )

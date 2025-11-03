@@ -20055,3 +20055,37 @@
           "color": "green",
           "goal_value": 90,
           "percent_value": 99
+        },
+        "LEADS_WITH_FOLLOWUP": {
+          "color": "green",
+          "goal_value": 80,
+          "percent_value": 100
+        },
+        "BEBACKS_WITH_FOLLOWUP": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 98
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:33.196"
+      },
+      "QTD": {
+        "COHORT": "Utah",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "QTD",
+        "INBOUND_CALLS_ANSWERED": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 93
+        },
+        "INBOUND_CHATS_ANSWERED": {
+          "color": "red",
+          "goal_value": 90,
+          "percent_value": 71
+        },
+        "LEADS_WITH_APPOINTMENT_SET": {
+          "color": "red",
+          "goal_value": 13,
+          "percent_value": 10
+        },
+        "APPOINTMENTS_KEPT": {
+          "color": "green",

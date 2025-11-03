@@ -52,6 +52,7 @@ Follow these steps to set up the frontend:
     - We use hosting service - Nginx and pm2 for Node.js Process Manager
 
 2. To update the project, navigate to the project folder and pull the latest changes (you can skip this step if only restarting processes is required).
+    ```bash
     cd /opt/node/projects/corp_hub
     git pull
     ```
@@ -63,3 +64,4 @@ Follow these steps to set up the frontend:
       cd ..
       npm run build
       ```
+

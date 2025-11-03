@@ -67,3 +67,11 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
         .tickPadding(12)
 
       const xAxisGroup = svg
+        .append('g')
+        .attr('transform', 'translate(0,' + height + ')')
+        .call(xAxis)
+      xAxisGroup.select('.domain').style('stroke', 'rgba(255,255,255,0.18)')
+      xAxisGroup.selectAll('.tick text').attr('transform', 'translate(0, 5)')
+      xAxisGroup.selectAll('.tick text').style('font-size', '12px')
+      xAxisGroup
+        .selectAll('.tick text')

@@ -1,6 +1,5 @@
 export interface Cohort {
   COHORT: string
-  COHORT_TYPE: string
   REGION: string
   SUB_REGION: string
   LATITUDE: number
@@ -14,3 +13,4 @@ export interface Division {
   latitude: number
   longitude: number
   timezone: string
+}

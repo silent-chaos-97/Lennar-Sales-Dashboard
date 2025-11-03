@@ -39,6 +39,7 @@ export interface SalesItem {
   sale_title: string
   web_content_score: number
   associate_array: AssociateArrayItem[]
+  journey_array?: JourneyArrayItem[]
   sale_cohort_rank: number
 }
 
@@ -49,3 +50,4 @@ export interface DetailSalesItems {
     type: string
     coordinates: [number, number]
   }
+  properties: {

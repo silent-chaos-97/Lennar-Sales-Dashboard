@@ -8,4 +8,3 @@ const CurrentTime = () => {
     <Typography variant="caption" color="grey.500">
       {currentTime}
     </Typography>
-  )

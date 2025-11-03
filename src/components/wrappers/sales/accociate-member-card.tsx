@@ -56,3 +56,4 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
           alt={member.name}
           src={member.image_url}
         >
+          <Typography color="primary.contrastText" fontSize={28} fontWeight={700}>

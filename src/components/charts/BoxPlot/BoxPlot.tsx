@@ -128,3 +128,4 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
 
       // Show the box
       svg
+        .append('rect')

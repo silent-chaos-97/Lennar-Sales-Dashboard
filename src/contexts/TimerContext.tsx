@@ -110,3 +110,4 @@ export const TimerProvider = (props: PropsWithChildren) => {
     }, 1000)
 
     return () => {
+      clearInterval(idleTimer)
