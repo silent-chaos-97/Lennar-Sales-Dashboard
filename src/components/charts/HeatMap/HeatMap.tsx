@@ -56,7 +56,6 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
 
   useMemo(() => {
     return d3.axisBottom(xScale).ticks(d3.timeMinute.every(5)).tickFormat(d3.timeFormat('%H:%M'))
-  }, [xScale])
 
   const yScale = useMemo(() => {
     return d3.scaleBand().range([boundsHeight, 0]).domain(allYGroups) //.padding(0.01)
@@ -70,3 +69,4 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
 
   const allRects = useMemo(
     () =>
+      data.map((d, i) => {

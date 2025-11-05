@@ -43,7 +43,6 @@ app.get('/api/data', async (req, res) => {
   const sanitizedCohort = sanitizeFilename(cohort as string)
   const sanitizedCohortType = sanitizeFilename(cohort_type as string)
 
-  const cacheFilename = `${sanitizedCohort.toLowerCase()}-${sanitizedCohortType}.json`
   const cacheFilePath = path.join(__dirname, 'cache', cacheFilename)
 
   if (fs.existsSync(cacheFilePath)) {
@@ -54,3 +53,4 @@ app.get('/api/data', async (req, res) => {
 
       // Return the cached data
       res.json(cachedData.data)
+      return

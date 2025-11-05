@@ -63,3 +63,5 @@ const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
           height: 40,
           p: 1,
           borderRadius: '50%',
+          backgroundColor: colors[event.actor_type as keyof typeof colors],
+          mr: 1

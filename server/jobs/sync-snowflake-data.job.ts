@@ -35,7 +35,6 @@ const run = async () => {
     sortedCohortList.push({
       name: region.name,
       type: region.type,
-      latitude: region.latitude,
       longitude: region.longitude,
       timezone: region.timezone
     })

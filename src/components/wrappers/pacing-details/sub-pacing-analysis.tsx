@@ -52,3 +52,4 @@ const SubPacingAnalysis = ({
             <Typography variant="caption" color="text.secondary" fontWeight={500}>
               Next 3W pace
             </Typography>
+            <Typography variant="h1" color="success.dark">

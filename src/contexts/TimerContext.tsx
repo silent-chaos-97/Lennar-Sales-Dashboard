@@ -111,3 +111,5 @@ export const TimerProvider = (props: PropsWithChildren) => {
 
     return () => {
       clearInterval(idleTimer)
+    }
+  }, [idleTimerProgress, idleTimeout, playing, currentCohort])

@@ -240,7 +240,6 @@ export const theme = createTheme({
           maxWidth: 1440
         }
       }
-    },
     MuiButton: {
       defaultProps: {
         disableElevation: true
@@ -273,3 +272,8 @@ export const theme = createTheme({
       defaultProps: {
         variantMapping: {
           // Map the new variant to render a <h1> by default
+          title: 'h1'
+        }
+      }
+    },
+    MuiSelect: {

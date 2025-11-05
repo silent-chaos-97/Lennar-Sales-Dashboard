@@ -24,7 +24,6 @@ interface ScreenContextValues {
 const ScreenContext = createContext<ScreenContextValues>({
   mode: ScreenMode.triple_monitor,
   currentScreen: 0,
-  setScreenMode: () => null,
   setCurrentScreen: () => null,
   showTooltips: true,
   setShowTooltips: () => null

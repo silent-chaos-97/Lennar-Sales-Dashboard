@@ -8,3 +8,5 @@ module.exports = {
   },
   jest: {
     configure: {
+// Temp comment
+      moduleNameMapper: {

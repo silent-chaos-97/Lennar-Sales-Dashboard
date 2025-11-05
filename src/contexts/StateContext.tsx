@@ -157,3 +157,6 @@ export const StateProvider = (props: PropsWithChildren) => {
       setInsightState(data.insights)
       setDataStatus(status)
     } else {
+      setDataStatus(HTTP_STATUS_CODES.REQUEST_TIMEOUT)
+    }
+  }

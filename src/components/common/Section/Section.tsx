@@ -43,7 +43,6 @@ export const Section = ({
   }
 
   const alignmentStyle = useMemo(() => {
-    if (dropdownAlignment === 'left') {
       return { left: 0 }
     }
 
@@ -117,3 +116,5 @@ export const Section = ({
         <Stack direction="row" spacing={4} alignItems="center">
           <Box position="relative">
             <Stack
+              direction="row"
+              alignItems="center"

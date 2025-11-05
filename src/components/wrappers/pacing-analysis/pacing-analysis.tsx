@@ -47,3 +47,4 @@ const PacingAnalysis = () => {
             </Typography>
           </Box>
           <Box flex={1}>
+            <CustomTooltip elementName="pacing-need-to-meet-pace">

@@ -65,3 +65,4 @@ Follow these steps to set up the frontend:
       npm run build
       ```
 
+4. To restart all registered pm2 processes, run:

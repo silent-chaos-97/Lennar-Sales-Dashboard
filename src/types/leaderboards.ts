@@ -79,3 +79,5 @@ export interface LeaderboardObj {
   leads_with_appointment_set: LeaderboardFilterObj
   leads_with_followup: LeaderboardFilterObj
   leads_with_trifecta: LeaderboardFilterObj
+  sales: LeaderboardFilterObj
+}

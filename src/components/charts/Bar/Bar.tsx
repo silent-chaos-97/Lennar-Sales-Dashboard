@@ -38,3 +38,4 @@ const Bar = ({ label, percent = 0, value, change }: BarProps) => {
         <Track color={getValueChangeTextColor(change)} percent={percent} />
         <Stack direction="row" alignItems="flex-end" spacing={1}>
           <Typography>{value.toLocaleString()}</Typography>
+          <Stack direction="row">

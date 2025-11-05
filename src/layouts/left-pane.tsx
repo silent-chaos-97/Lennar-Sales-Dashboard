@@ -50,3 +50,4 @@ const LeftPane = () => {
             dropdownAlignment="left"
           >
             <Grid container spacing={8} sx={{ mb: 6 }}>
+              <Grid item lg={4}>

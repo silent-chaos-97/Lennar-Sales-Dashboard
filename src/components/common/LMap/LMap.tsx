@@ -42,3 +42,4 @@ const LMap: React.FC<LMapProps> = ({
   const handleMoveMap = (e: ViewStateChangeEvent) => debouncedHandleMoveMap(e)
 
   return (
+    <Map

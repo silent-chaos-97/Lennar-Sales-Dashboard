@@ -182,3 +182,7 @@ const PacingStatus = ({ mapWrapperRef }) => {
               onClick={handleClickMarker(dot, idx)}
             />
           </Marker>
+        )
+      }),
+
+    [pacingCohortArray, activeDots]

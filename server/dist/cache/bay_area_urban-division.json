@@ -1057,7 +1057,6 @@
           "percent_change": 0,
           "value": 1
         },
-        "NET_SALES": {
           "graph": [
             {
               "sort": 1,
@@ -1084,3 +1083,20 @@
           "value": 1
         },
         "RETAIL_SALES": {
+          "percent_change": 0,
+          "value": 1
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,

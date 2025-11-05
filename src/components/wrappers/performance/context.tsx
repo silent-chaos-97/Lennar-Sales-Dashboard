@@ -13,7 +13,6 @@ export const PerformanceContext = createContext<PerformanceContextValues>({
 
 interface PerformanceProviderProps {
   timeframe: string
-}
 
 // Create a provider for the new context
 export const PerformanceProvider = ({

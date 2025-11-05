@@ -178,3 +178,35 @@ const NHSDetail = ({
                   thirdValue={data?.realtor_attachment_rate_national_rank || 0}
                   thirdLabel="Realtor attachment"
                 />
+              </Stack>
+            </Grid>
+
+            <Grid container item direction="column" lg>
+              <Grid container item justifyContent="space-between" mb={3}>
+                <Grid item xs={1}>
+                  <CustomTooltip elementName="label-nhc-gross-sale">
+                    <Typography variant="caption" color="textSecondary">
+                      {pluralize('Gross sale', data?.gross_sales || 0)}
+                    </Typography>
+                  </CustomTooltip>
+                  <PercentValueText value={data?.gross_sales || 0} hideChange />
+                </Grid>
+                <Grid item xs={1}>
+                  <CustomTooltip elementName="label-nhc-net-sale">
+                    <Typography variant="caption" color="textSecondary">
+                      {pluralize('Net sale', data?.net_sales || 0)}
+                    </Typography>
+                  </CustomTooltip>
+                  <Box>
+                    <PercentValueText value={data?.net_sales || 0} hideChange fontWeight="500" />
+                  </Box>
+                </Grid>
+                <Grid item xs={2}>
+                  <CustomTooltip elementName="label-nhc-days-since-last-sale">
+                    <Typography variant="caption" color="textSecondary">
+                      {pluralize('Day', data?.days_since_last_sale || 0)} since last sale
+                    </Typography>
+                  </CustomTooltip>
+                  <PercentValueText
+                    value={data?.days_since_last_sale || 0}
+                    hideChange

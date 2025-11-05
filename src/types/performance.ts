@@ -15,3 +15,4 @@ export interface IscPerformanceState {
   INBOUND_CHATS_ANSWERED: PerformanceItem
   LEADS_WITH_APPOINTMENT_SET: PerformanceItem
   LEADS_WITH_FOLLOWUP: PerformanceItem
+  LEADS_WITH_TRIFECTA: PerformanceItem

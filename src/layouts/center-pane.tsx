@@ -263,3 +263,8 @@ const CenterPane = () => {
                 'points',
                 `${dot1.x},${dot1.y} ${dot2.x},${dot2.y} ${dot3.x},${dot3.y}`
               )
+              polygon.setAttribute('fill', 'rgba(38,54,81,0.85)')
+              polygon.style.strokeWidth = '0'
+
+              svg.append(polygon)
+            }

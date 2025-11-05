@@ -74,7 +74,6 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
           { offset: '100%', color: 'rgba(0,93,170,0)' }
         ])
         .enter()
-        .append('stop')
         .attr('offset', function (d) {
           return d.offset
         })
@@ -91,3 +90,4 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .curve(d3.curveCardinal)
         .defined((d, i, data) => {
           if (i === data.length - 1 && d.y_axis === 0) return false
+          return true

@@ -26,3 +26,4 @@ export function getValueChangeTextColor(num: number) {
 export const suffixTheNumber = (n: number) =>
   n +
   (n % 10 === 1 && n % 100 !== 11
+    ? 'st'

@@ -156,3 +156,6 @@ const Performance = () => {
               <PerformanceBar
                 title="Inbound calls answered"
                 color={performanceState?.INBOUND_CALLS_ANSWERED.color}
+                value={performanceState?.INBOUND_CALLS_ANSWERED.percent_value || 0}
+                goal={performanceState?.INBOUND_CALLS_ANSWERED.goal_value}
+              />

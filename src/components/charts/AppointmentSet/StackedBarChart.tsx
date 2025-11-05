@@ -93,3 +93,5 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
       .domain(prvData.map((entry) => entry.key))
       .rangeRound([0, width])
       .padding(0.1)
+
+    svg

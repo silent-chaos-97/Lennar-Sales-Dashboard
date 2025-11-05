@@ -53,7 +53,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
     yAxisGroup.select('.domain').remove()
     yAxisGroup.selectAll('.tick text').style('fill', '#70747A').style('font-size', '16px')
     // Style the grid lines
-    yAxisGroup.selectAll('.tick line').attr('stroke', 'rgba(255,255,255,0.18)')
 
     const xScale = d3
       .scaleBand()
@@ -129,3 +128,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       // Show the box
       svg
         .append('rect')
+        .attr('x', boxCenter - boxWidth / 2)
+        .attr('y', y(q3))
+        .attr('rx', 5)

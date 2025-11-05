@@ -30,3 +30,4 @@ const CustomTooltip = ({ elementName, children }: CustomTooltipProps) => {
             color: '#fff',
             borderRadius: '8px',
             boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)',
+            padding: '8px 16px',

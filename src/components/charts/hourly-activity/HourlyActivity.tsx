@@ -44,3 +44,4 @@ const HourlyActivity = ({
           data={tickers}
           width={210}
           showCurrentFully={activityTimeframe !== 'today'}
+        />

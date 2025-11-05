@@ -11,6 +11,7 @@ export interface HourlyTicker {
 }
 
 export interface CurrentActivityState {
+  APPOINTMENTS_SET: number | null
   APPOINTMENTS_SET_PERCENT_CHANGE: number | null
   TOTAL_CALLS: number | null
   TOTAL_CALLS_PERCENT_CHANGE: number | null

@@ -61,3 +61,4 @@ const Timeline = ({ journeyData }: TimelineProps) => {
         <Stack direction="row" alignItems="center" justifyContent="space-between" width="100%">
           <Chip icon={<PersonIcon />} label={`${journeyDays}-day customer journey`} color="info" />
           <Button onClick={handleChange}>{expanded ? 'Collapse' : 'Expand'} All</Button>
+        </Stack>

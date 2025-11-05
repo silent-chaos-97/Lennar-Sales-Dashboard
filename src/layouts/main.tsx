@@ -18,6 +18,7 @@ const Main = styled('main')({
 const DashboardLayout = styled('div')({
   display: 'grid',
   gridTemplateColumns:
+    '[left-start] 65fr [left-end center-start] 84fr [center-end right-start] 65fr [right-end]',
   width: 6420,
   columnGap: 0,
   margin: '0 auto'
@@ -133,3 +134,4 @@ const MainLayout = () => {
       return
     }
     setZoomRate(1)
+  }, [width, mode])

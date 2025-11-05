@@ -164,3 +164,4 @@ const SalesDetails = ({
                 <Typography variant="caption" color="text.secondary">
                   Home size
                 </Typography>
+                <Typography variant="h3">{salesDetail.home_size}</Typography>

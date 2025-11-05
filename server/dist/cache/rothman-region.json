@@ -51798,6 +51798,7 @@
           },
           {
             "activity_status": "Missed",
+            "activity_time": "2023-10-09 15:00:00.000",
             "sort": 88
           },
           {
@@ -121759,3 +121760,2179 @@
                   },
                   {
                     "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -8,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 91,
+                "sale_price": 322485,
+                "sale_title": "ALEXIA just sold in Granary Park 40s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "North Alabama",
+            "division_coordinates": [
+              -86.745174627,
+              34.701431311
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.45551875,
+                34.620692875
+              ],
+              "type": "Point"
+            },
+            "id": 233,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 251,
+                    "image_url": "",
+                    "name": "Scott Parker",
+                    "national_rank": 809,
+                    "summary": "           $1,619,133 in sales QTD<br/>0% incentives QTD<br/>80% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 67,
+                    "image_url": "",
+                    "name": "Wyndi Turner",
+                    "national_rank": 213,
+                    "summary": "           $2,729,786 in sales QTD<br/>35 appointments QTD<br/>11% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "72 days prior",
+                "home_size": "       2,033 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7072/60049/60049_eleA_lg.jpg",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Good afternoon,  Hi David, it's Wyndi with Lennar Homes. It was a pleasure speaking with you today. Attached you will find the site map and schools zoned for Oak Meadows  Here is the link to our digital brochure  https://www.lennar.com/new-homes/alabama/huntsville/owens-cross-roads/oak-meadows/broch...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Lennar Homes 24-hour flash sale. Prices have been slashed on select homes. Lennar is offering 4.99 interest rate with closing cost paid. Sale ends 10/4/23 @7PM.  Let’s get you scheduled for a tour! If you have any questions you can reply to my text or con",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Good afternoon David, it’s Wyndi with LENNAR Internet Sales. I am following up to see if you are still considering LENNAR for your next home purchase.  If you have any questions about our communities, amenities and floorplans please let me know. Have a good day! https://www.lennar.com/new-homes/alab...",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "We are so glad you are interested in our Oak Meadows Community. We look forward to seeing you 10/10/2023 at 12:00 PM. See you soon!",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 90,
+                "sale_price": 326219,
+                "sale_title": "Residence 2033 just sold in Oak Meadows",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Tampa",
+            "division_coordinates": [
+              -82.356556448,
+              28.038879865
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.8819535,
+                27.934994875
+              ],
+              "type": "Point"
+            },
+            "id": 230,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 3,
+                    "image_url": "",
+                    "name": "Edna Rodriguez",
+                    "national_rank": 21,
+                    "summary": "          $14,720,939 in sales QTD<br/>238 appointments QTD<br/>43% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 108,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_brittney_tuck_lr_jpg",
+                    "name": "Brittney Tuck",
+                    "national_rank": 398,
+                    "summary": "           $2,435,222 in sales QTD<br/>1.3% incentives QTD<br/>67% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "115 days prior",
+                "home_size": "       1,817 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6942/59101/59101_eleB1_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Michele,  Thank you for getting back to me our community specialist Brittney will be meeting you and your client at the Saddle Creek community the address is:  2230 Old Mining Rd Lakeland 33801 and her phone number is 813-860-8569. If you running early",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Kevin and Tatiana Benitez!, This is a friendly reminder that your tour of Saddle Creek P2 50 with Brittney Tuck is scheduled for tomorrow, Sunday at 3:00 PM. The Welcome Home Center is located at 2230 Old Mining Rd, Lakeland, FL 33801. If you need t",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Kevin and Tatiana Benitez! We're excited to see you for your tour of Saddle Creek P2 50 10/08/2023 at 3:00 PM with Brittney Tuck. The Welcome Home Center is located at 2230 Old Mining Rd, Lakeland, FL . See you soon!",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Hi sorry we took a wrong turn. We are still coming",
+                    "sort": 5,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Ok no problem i will let Brittney know you are still going.  Thank you,  Edna Rodriguez Lennar Tampa 813-293-5729 edna.rodriguez@lennar.com",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 89,
+                "sale_price": 309650,
+                "sale_title": "Harrisburg just sold in Wind Meadows S 50",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "North Alabama",
+            "division_coordinates": [
+              -86.745174627,
+              34.701431311
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.8133774,
+                34.715175
+              ],
+              "type": "Point"
+            },
+            "id": 227,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "101 days prior",
+                "home_size": "       2,117 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://admin.lennar.com/api/images/images/elevations_v10/7350/62089/62089_eleC_lg.jpg",
+                "incentive_percent": 10,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "cancellation",
+                    "actor_type": "red",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Cancellation"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 88,
+                "sale_price": 332406,
+                "sale_title": "Residence 2117 just sold in Natures Trail-Cottages",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.342768,
+                30.716520778
+              ],
+              "type": "Point"
+            },
+            "id": 225,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 251,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_mark_fisherlr_jpg",
+                    "name": "Mark Fisher",
+                    "national_rank": 809,
+                    "summary": "           $1,896,811 in sales QTD<br/>8.3% incentives QTD<br/>80% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 61,
+                    "image_url": "",
+                    "name": "Cheri Brackins",
+                    "national_rank": 173,
+                    "summary": "           $5,889,295 in sales QTD<br/>79 appointments QTD<br/>15% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "154 days post",
+                "home_size": "       2,654 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7474/63106/63106_eleB_lg.jpg",
+                "incentive_percent": 14,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -7,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 87,
+                "sale_price": 420000,
+                "sale_title": "Medallion just sold in Dry Creek",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.6501534,
+                28.1845872
+              ],
+              "type": "Point"
+            },
+            "id": 218,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "114 days prior",
+                "home_size": "       1,444 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7279/61564/61564_eleH_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 118,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 119,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 122,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 123,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 124,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 121,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 86,
+                "sale_price": 351990,
+                "sale_title": "Annapolis just sold in Cascades 40s",
+                "sale_type": "Investor",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.6507738,
+                28.1845948
+              ],
+              "type": "Point"
+            },
+            "id": 217,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "114 days prior",
+                "home_size": "       1,444 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7279/61564/61564_eleH_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 122,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 123,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 124,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 121,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 85,
+                "sale_price": 351990,
+                "sale_title": "Annapolis just sold in Cascades 40s",
+                "sale_type": "Investor",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.650898,
+                28.1845964
+              ],
+              "type": "Point"
+            },
+            "id": 216,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "5 bd/2.5 ba",
+                "days_from_completion": "114 days prior",
+                "home_size": "       2,370 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7279/61568/61568_eleH_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 122,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 123,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 124,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 121,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 84,
+                "sale_price": 407990,
+                "sale_title": "Columbia just sold in Cascades 40s",
+                "sale_type": "Investor",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.7425303,
+                30.5931871
+              ],
+              "type": "Point"
+            },
+            "id": 215,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 207,
+                    "image_url": "",
+                    "name": "Amber Haney",
+                    "national_rank": 687,
+                    "summary": "           $1,983,560 in sales QTD<br/>4.2% incentives QTD<br/>67% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 61,
+                    "image_url": "",
+                    "name": "Cheri Brackins",
+                    "national_rank": 173,
+                    "summary": "           $5,889,295 in sales QTD<br/>79 appointments QTD<br/>15% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "2 days prior",
+                "home_size": "       2,657 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7369/62843/62843_eleA_lg.jpg",
+                "incentive_percent": 11,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Virtual tour"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello.  This is Cheri with Lennar Homes.  Was Mark able to get in touch with you?  His number is 850-516-2787.  Please let me know if you need anything.  Thank you!",
+                    "sort": 7,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Yes thank you!",
+                    "sort": 8,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Great!  I hope you have a nice evening and weekend.  Please let me know if I can help you with anything.",
+                    "sort": 9,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank you! :)' you too!",
+                    "sort": 10,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Thank you!",
+                    "sort": 11,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Good Afternoon.  This is Cheri with Lennar Homes. I just wanted to reach out and see if you are still interested in our homes in McKenzie Ridge.  I hope you really enjoyed your previous discussions with our New Home Consultant regarding our beautiful comm",
+                    "sort": 12,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-08",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Hi there! Still super interested!",
+                    "sort": 13,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Great!  Is there anything I can help you with?  Or can Mark help you with anything?",
+                    "sort": 14,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-08",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Not yet.  Lennar mortgage won't count my income until 2 years in March so running out the clock on that",
+                    "sort": 15,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "I understand.  Please let us know when the 2 years is up.",
+                    "sort": 16,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 17,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 19,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 83,
+                "sale_price": 375000,
+                "sale_title": "Medallion just sold in Lakeland",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.888443233,
+                26.760973757
+              ],
+              "type": "Point"
+            },
+            "id": 212,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "187 days prior",
+                "home_size": "       1,450 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "",
+                "incentive_percent": 0,
+                "journey_array": [],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 82,
+                "sale_price": 181740,
+                "sale_title": "Alderwood just sold in Flatwoods",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.888443233,
+                26.760973757
+              ],
+              "type": "Point"
+            },
+            "id": 211,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "187 days prior",
+                "home_size": "       1,871 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "",
+                "incentive_percent": 0,
+                "journey_array": [],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 81,
+                "sale_price": 212526,
+                "sale_title": "Buttonwood just sold in Flatwoods",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Tampa",
+            "division_coordinates": [
+              -82.356556448,
+              28.038879865
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.67732228,
+                28.2050493
+              ],
+              "type": "Point"
+            },
+            "id": 209,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 72,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jennifer_deegan_lr_jpg",
+                    "name": "Jennifer Deegan",
+                    "national_rank": 281,
+                    "summary": "           $4,559,204 in sales QTD<br/>0.5% incentives QTD<br/>91% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 56,
+                    "image_url": "",
+                    "name": "Dustin Chamness",
+                    "national_rank": 154,
+                    "summary": "           $8,559,530 in sales QTD<br/>90 appointments QTD<br/>26% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "15 days prior",
+                "home_size": "       1,634 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6070/45368/45368_eleA_lg.jpg",
+                "incentive_percent": 4,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Direct lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 11,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 80,
+                "sale_price": 304190,
+                "sale_title": "Hampton II just sold in Bryant Square 18 TH",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Philly Metro",
+            "division_coordinates": [
+              -75.436299689,
+              40.105860689
+            ],
+            "geometry": {
+              "coordinates": [
+                -75.540328444,
+                40.167505111
+              ],
+              "type": "Point"
+            },
+            "id": 208,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 92,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_matthew_avrich_lr_jpg",
+                    "name": "Matthew Avrich",
+                    "national_rank": 355,
+                    "summary": "           $3,979,376 in sales QTD<br/>3.3% incentives QTD<br/>90% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 17,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ekaterina_mavridis_lr_jpg",
+                    "name": "Ekaterina Mavridis",
+                    "national_rank": 57,
+                    "summary": "          $21,265,667 in sales QTD<br/>171 appointments QTD<br/>15% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4.0 bd/2.0 ba",
+                "days_from_completion": "6 days prior",
+                "home_size": "       2,507 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5956/55831/55831_eleTRA_lg.jpg",
+                "incentive_percent": 6,
+                "journey_array": [
+                  {
+                    "activity_date": "2020-01-23",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Prasad, I wanted to let you know that I have two new designer homes that I would like to show you that will be ready for a February close. They are the Bethany Grande home site 24 end unit and a Fenwick home site 25 these two homes are loaded with options. Plus I still have a couple of designer h...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-26",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Prasad,  \t   \tThank you for your interest in Clover Mill by Lennar COMING Summer 2023 to East Caln Township, PA!   \t   \tWe are working hard to finalize all of the details and are so excited to share this community with you and all of our future homeowners.   \tIn the meantime, here’s what we know:...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-26",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-05-27",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Prasad, it's Kellie with Lennar. It was a pleasure speaking with you yesterday! Just wanted to confirm you received the email regarding your status on the VIP list for Clover Mill. Looking forward to working with you soon!",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-05-27",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 5,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-05-27",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Yes",
+                    "sort": 6,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-05-30",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Okay great, I'm glad to hear it!",
+                    "sort": 7,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-11",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Direct lead created"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 10,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Prasad,  \t   \tThank you for your interest in Clover Mill by Lennar COMING SUMMER 2023 to East Caln Township, PA! This beautiful community will feature 140 new homes including townhomes and carriage homes priced from the $500's.   \t   \tJoin us at our Sneak Peak Event! We will be offering our sneak...",
+                    "sort": 11,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Prasad, Your VIP Homesite tour is confirmed for tomorrow at 10:30am at our Clover Mill community! Please wear comfortable shoes as the homes will be still under construction. If you need anything, feel free to call us at the number below.  WHERE: &#128205; GPS Address: 700 Clover Mill Road, Downi...",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-31",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-07-31",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 14,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-08-04",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 15,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-08-04",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Ranjit, it's Carawith Lennar! We JUST had an opening for a 4pm appointment on Thursday 8/10 for Clover Mill VIP! Are you able to make it? We'll need to hear back in the next 2min before offering the appointment up to the next person on the list. Thanks",
+                    "sort": 16,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-08-04",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Sorry Prasad! Please let us know if you're able to make it. I also left you a voicemail at 4:11pm. Thanks",
+                    "sort": 17,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-08-07",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-08-10",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 19,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-08-14",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Good afternoon, it’s Kellie with Lennar! We’ve JUST released our next set of VIP Appointments for Clover Mill, Exton, PA – townhomes and carriage homes from the $500’s. Be sure to sign up for your appointment here – it’s booking quickly!   https://calendl",
+                    "sort": 20,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-08-17",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Prasad, it's Kellie with Lennar! We JUST had an opening for a 4pm appointment today for Clover Mill VIP! Are you able to make it? We'll need to hear back in the next 2min before offering the appointment up to the next person on the list. Thanks!",
+                    "sort": 21,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-08-17",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 22,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-08-29",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 23,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-30",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 24,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-09-02",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 25,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 26,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 27,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-30",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 30,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-09-30",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Attached for your records  Matt Avrich New Home Consultant Matthew.Avrich@Lennar.com Mobile 215-460-6162 1285 Drummers Lane Suite 100 Wayne, PA 19087  This e-mail is not a solicitation, offer, acceptance of an offer, a negotiation or amendment of terms for the sale of a home. Any such activities mus...",
+                    "sort": 28,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-30",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Attached  Matt Avrich New Home Consultant Matthew.Avrich@Lennar.com Mobile 215-460-6162 1285 Drummers Lane Suite 100 Wayne, PA 19087  This e-mail is not a solicitation, offer, acceptance of an offer, a negotiation or amendment of terms for the sale of a home. Any such activities must be properly pre...",
+                    "sort": 29,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Dear Lakshmi,   Thank you for choosing Lennar for your new home purchase!  I am here to assist you throughout your entire home closing journey. I will act as your liaison between you, your New Home Consultant, your Lender, the Construction Manager and Title to ensure you have a seamless homebuying e...",
+                    "sort": 31,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "cancellation",
+                    "actor_type": "red",
+                    "body": "",
+                    "sort": 32,
+                    "title": "Cancellation"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 33,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 79,
+                "sale_price": 710000,
+                "sale_title": "Grayson just sold in Villages @ Spring Hill - SFD",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.699294444,
+                26.686613778
+              ],
+              "type": "Point"
+            },
+            "id": 207,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 130,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lynn_galligan_lr_jpg",
+                    "name": "Lynn Galligan",
+                    "national_rank": 464,
+                    "summary": "           $3,201,326 in sales QTD<br/>2.4% incentives QTD<br/>38% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 57,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_kaleigh_paul_lr_jpg",
+                    "name": "Kaleigh Paul",
+                    "national_rank": 156,
+                    "summary": "          $13,458,271 in sales QTD<br/>89 appointments QTD<br/>18% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "6 days post",
+                "home_size": "       2,032 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/2791/25156/25156_eleC_lg.jpg",
+                "incentive_percent": 5,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-11-14",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello David,  I sent a text, but everyone prefers different forms of communication, so sending email as well...  Thanks for inquiring about Lennar communities in SWFL.  I am an Lennar consultant that assist new home buyers from Naples to Sarasota.   Please let me know what desires you have, square f...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-11-14",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi David, Thanks for inquiring about Lennar communities in SWFL.  I am an Lennar consultant that assist new home buyers from Naples to Sarasota.   I am hoping to learn more about your search so to provide pertinent information. Please let me know why you are searching for a new home, what home desir...",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-04-11",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-08-08",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Good afternoon!  This week we have several  homes on the market in Crane Landing – all with estimated completion dates between NOW and November 2023. Crane Landing is located off the Del Prado Extension just minutes from downtown Fort Myers and Cape Coral.  Ask us about our new affordable townhomes!...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-17",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-08-22",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Tuckers Cove at Babcock Ranch  Pre Construction Sales Started  September 22nd. Residents will enjoy a variety of exciting amenities, including water slides, a lazy river and luau beach. The Shipwreck Tavern will be a must-visit, where residents and guests can enjoy delicious food and drinks while su...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi David and Denise, It's Daniel with Lennar Homes. I see you've been cruising around Lennar.com again, any questions I can help answer? Daniel Retheford Lennar Homes SWFL Internet Sales Team Daniel.Retheford@lennar.com",
+                    "sort": 8,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 17,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 78,
+                "sale_price": 380000,
+                "sale_title": "Trevi just sold in Portico Executives",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.423166228,
+                26.311500199
+              ],
+              "type": "Point"
+            },
+            "id": 206,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 134,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_morgan_snyder_lr_jpg",
+                    "name": "Morgan Snyder",
+                    "national_rank": 472,
+                    "summary": "           $3,928,417 in sales QTD<br/>1.9% incentives QTD<br/>50% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "2 bd/2 ba",
+                "days_from_completion": "126 days prior",
+                "home_size": "       1,120 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5585/42932/42932_eleA_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-07-21",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-07-21",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 10,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 77,
+                "sale_price": 284998,
+                "sale_title": "Arbor just sold in Ave Maria 4 Story",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.6321742,
+                26.5689918
+              ],
+              "type": "Point"
+            },
+            "id": 205,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 92,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_roy_marsh_lr_jpg",
+                    "name": "Roy Marsh",
+                    "national_rank": 355,
+                    "summary": "           $3,524,367 in sales QTD<br/>0.4% incentives QTD<br/>90% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "33 days post",
+                "home_size": "       1,941 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7368/62228/62228_eleB_lg.png",
+                "incentive_percent": 4,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 76,
+                "sale_price": 350000,
+                "sale_title": "Hartford just sold in Savanna Lakes 40",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "NJ / NY",
+            "division_coordinates": [
+              -74.469322331,
+              40.464021311
+            ],
+            "geometry": {
+              "coordinates": [
+                -74.469322331,
+                40.464021311
+              ],
+              "type": "Point"
+            },
+            "id": 203,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 129,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jennifer_letolr_jpg",
+                    "name": "Jennifer Leto",
+                    "national_rank": 458,
+                    "summary": "           $2,629,923 in sales QTD<br/>1.4% incentives QTD<br/>25% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "Not Available",
+                "days_from_completion": "184 days prior",
+                "home_size": "         976 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-19",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-19",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Jamie.  This is Jen with Lennar Homebuilders.  I received your name from CPG&H regarding a new home in Manalapan Grove.  Please give me a call at your earliest convenience.  Jen Leto New Home Consultant  Cell: (732) 861-2782 Email: Jennifer.Leto@lennar.com  My personal office hours are Saturday-W...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-20",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hi Jamie!  This is Jen with Lennar Homebuilders. Please give me a call back as soon as you get a moment.",
+                    "sort": 3,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-09-20",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "I called and emailed yesterday as well.  Please respond when you can.",
+                    "sort": 4,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-09-23",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-23",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 75,
+                "sale_price": 149791,
+                "sale_title": "COAH Unit 976 just sold in Manalapan Grove COAH",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Southeast Florida",
+            "division_coordinates": [
+              -80.363312453,
+              25.73994069
+            ],
+            "geometry": {
+              "coordinates": [
+                -80.2848544,
+                26.2883766
+              ],
+              "type": "Point"
+            },
+            "id": 201,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 50,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_luis_ruiz_lr_jpg",
+                    "name": "Luis Ruiz",
+                    "national_rank": 134,
+                    "summary": "           $8,734,302 in sales QTD<br/>109 appointments QTD<br/>34% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 326,
+                    "image_url": "",
+                    "name": "Joyce Mason",
+                    "national_rank": 990,
+                    "summary": "           $1,669,845 in sales QTD<br/>3.3% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "36 days post",
+                "home_size": "       1,362 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6900/58904/58904_eleTH_lg.jpg",
+                "incentive_percent": 13,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Roland! Your visit is scheduled as follows: Tuesday, 10/10/2023 04:00 PM  Sunset Trails 4610 NW 120th Way Coral Springs, FL 33076.  Ask for Joyce Mason 305-331-7485 Realtor: Travis Julmis (Realtor must be present)",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 2,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 74,
+                "sale_price": 577990,
+                "sale_title": "Althea just sold in Sunset Trails",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Gonzalez",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.6530611,
+                26.5901762
+              ],
+              "type": "Point"
+            },
+            "id": 199,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 52,
+                    "image_url": "",
+                    "name": "Cody Johnson",
+                    "national_rank": 205,
+                    "summary": "           $3,403,933 in sales QTD<br/>0% incentives QTD<br/>67% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 52,
+                    "image_url": "",
+                    "name": "Ali Johnston",
+                    "national_rank": 139,
+                    "summary": "          $13,327,144 in sales QTD<br/>103 appointments QTD<br/>24% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "2 bd/2 ba",
+                "days_from_completion": "29 days prior",
+                "home_size": "       1,564 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7491/63289/63289_eleG_lg.jpg",
+                "incentive_percent": 17,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi, Javier -  Thank you for reaching out to inquire about our Ibis Landing condos and community. My name is Ali Johnston, and I am delighted to assist you as a member of Lennar Homes' Internet Sales Department for all things Southwest Florida from Lakewood Ranch to Naples!  We are so excited to be r...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 73,
+                "sale_price": 255000,
+                "sale_title": "Orchid just sold in Ibis Landing Villas",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Jacksonville",
+            "division_coordinates": [
+              -81.873179476,
+              29.850980276
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.4768548,
+                29.6587686
+              ],
+              "type": "Point"
+            },
+            "id": 197,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 276,
+                    "image_url": "",
+                    "name": "Sterling Prudhomme",
+                    "national_rank": 874,
+                    "summary": "           $1,486,536 in sales QTD<br/>5.3% incentives QTD<br/>50% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "6 days post",
+                "home_size": "       1,707 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6990/59884/59884_eleA_lg.jpg",
+                "incentive_percent": 4,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Good afternoon Samuel,  Thank you for your interest in Lennar! I did not see a community selected, please see the link below for our communities in the Ocala area:  https://www.lennar.com/find-a-home?market=OCA&tab=1  Feel free to reach out with any questions or if you are simply ready to schedule y...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Good afternoon Samuel,  Thank you for your interest in Lennar! I did not see a community selected, please see the link below for our communities in the Ocala area:  https://www.lennar.com/find-a-home?market=OCA&tab=1  Feel free to reach out with any quest",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Just checking in to see if you have any questions about any of the communities I sent to you. Please feel free to reach out if you need assistance or are simply ready to schedule your tour.  Sincerely, Jen Lennar",
+                    "sort": 5,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "I will thank you",
+                    "sort": 6,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 72,
+                "sale_price": 286480,
+                "sale_title": "Lincoln just sold in Tara West End",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Palm Atlantic",
+            "division_coordinates": [
+              -80.383603323,
+              27.191596641
+            ],
+            "geometry": {
+              "coordinates": [
+                -80.1166168,
+                26.5985788
+              ],
+              "type": "Point"
+            },
+            "id": 193,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 154,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_barbara_bloch_lr_jpg",
+                    "name": "Barbara Bloch",
+                    "national_rank": 553,
+                    "summary": "           $4,210,959 in sales QTD<br/>2% incentives QTD<br/>43% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "35 days prior",
+                "home_size": "       1,635 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://admin.lennar.com/api/images/images/elevations_v10/7222/61927/61927_eleAI_lg.jpg",
+                "incentive_percent": 5,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",

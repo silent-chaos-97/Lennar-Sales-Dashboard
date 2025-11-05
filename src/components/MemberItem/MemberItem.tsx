@@ -59,3 +59,4 @@ const MemberItem = ({
           color: 'primary.contrastText'
         }}
         imgProps={{ width: 300, height: 300 }}
+        alt={name}

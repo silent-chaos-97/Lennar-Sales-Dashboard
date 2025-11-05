@@ -42,3 +42,4 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
           {(item?.divisions || []).map((d) => (
             <ListItemButton key={d.name} sx={{ p: 0, pl: 3 }} onClick={() => onSelectMenu(d)}>
               <ListItemText
+                primary={d.name}

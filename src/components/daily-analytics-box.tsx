@@ -23,7 +23,6 @@ export interface DailyAnalyticsBoxProps {
 
 const DailyAnalyticsBox = ({
   isLargeSize = false,
-  title,
   value,
   grossValue,
   diffPercent,
@@ -76,3 +75,5 @@ const DailyAnalyticsBox = ({
     }
   }, [value, diffPercent])
 
+  return (
+    <Stack direction="row" sx={{ height: isLargeSize ? 125 : 112, mb: 3, position: 'relative' }}>

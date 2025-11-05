@@ -103,3 +103,5 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
         />
       </Section>
       <Box>
+        <Typography variant="caption" color="text.secondary">
+          Insights

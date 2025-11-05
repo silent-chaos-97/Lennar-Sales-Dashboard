@@ -262,3 +262,8 @@ const ISCDetail = ({
                 value={data?.appts_set || 0}
                 change={data?.appts_set_percent_change || 0}
                 hideChange
+              />
+            </Grid> */}
+                <Grid item xs={2}>
+                  <CustomTooltip elementName={`label-isc-sales`}>
+                    <Typography variant="caption" color="text.secondary" fontWeight={500}>

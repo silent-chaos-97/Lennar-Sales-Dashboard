@@ -44,3 +44,4 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
 
   return (
     <Stack flex={1}>
+      <Box

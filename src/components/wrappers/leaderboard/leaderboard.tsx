@@ -81,7 +81,6 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
   return (
     <>
       <Section
-        title={leaderboardData.type}
         timestamp={activeTimestamp}
         category={activeCategory}
         timestampList={LEADERBOARD_TIMEFRAMES}
@@ -100,3 +99,4 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
             <LeaderboardItems
               leaderboardItems={leaderboardItems}
               leaderboardData={leaderboardData}
+              currentCohort={currentCohort}

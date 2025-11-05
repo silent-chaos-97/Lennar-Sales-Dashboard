@@ -37,6 +37,7 @@ const Wrapper = styled('header')(({ theme }) => ({
 }))
 
 const Screen = styled('div')({
+  position: 'relative',
   paddingTop: 104
 })
 
@@ -56,7 +57,6 @@ const ScreenWrapper = ({ children, padding = 0, justifyContent = 'flex-start' })
     <Screen
       sx={{
         width:
-          mode === ScreenMode.desktop ? 'auto' : mode === ScreenMode.triple_monitor ? '100%' : 2400
       }}
     >
       <InnerScreen style={{ padding, justifyContent }}>{children}</InnerScreen>
@@ -235,3 +235,7 @@ const Header = () => {
                   fontFamily: 'reckless',
                   fontWeight: 500,
                   borderRadius: 2
+                }}
+                endIcon={<KeyboardArrowDownIcon sx={{ width: 40, height: 40 }} />}
+                onClick={handleMenuClick}
+              >
