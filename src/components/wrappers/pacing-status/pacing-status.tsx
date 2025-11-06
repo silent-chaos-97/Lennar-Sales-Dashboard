@@ -186,3 +186,7 @@ const PacingStatus = ({ mapWrapperRef }) => {
       }),
 
     [pacingCohortArray, activeDots]
+  )
+
+  return (
+    <Section title="Pacing Status">

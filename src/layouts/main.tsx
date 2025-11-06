@@ -135,3 +135,6 @@ const MainLayout = () => {
     }
     setZoomRate(1)
   }, [width, mode])
+
+  useEffect(() => {
+    calculateZoomRate()

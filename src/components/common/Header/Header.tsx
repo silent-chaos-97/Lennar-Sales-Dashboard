@@ -57,6 +57,7 @@ const ScreenWrapper = ({ children, padding = 0, justifyContent = 'flex-start' })
     <Screen
       sx={{
         width:
+          mode === ScreenMode.desktop ? 'auto' : mode === ScreenMode.triple_monitor ? '100%' : 2400
       }}
     >
       <InnerScreen style={{ padding, justifyContent }}>{children}</InnerScreen>
@@ -239,3 +240,9 @@ const Header = () => {
                 endIcon={<KeyboardArrowDownIcon sx={{ width: 40, height: 40 }} />}
                 onClick={handleMenuClick}
               >
+                {currentCohort.name === 'all' ? 'Lennar National' : currentCohort.name}
+              </Button>
+              <Fade in={openRegionSelectMenu} timeout={500} mountOnEnter unmountOnExit>
+                <Box sx={{ position: 'relative' }}>
+                  <Box
+                    sx={{

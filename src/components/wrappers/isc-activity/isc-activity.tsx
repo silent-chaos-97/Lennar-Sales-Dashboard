@@ -97,3 +97,6 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
       <Stack direction="row" alignItems="flex-end" gap={2} mb={6}>
         <Stack sx={{ width: 160 }}>
           <CustomTooltip elementName="label-activity-appointment-set">
+            <Typography
+              variant="body1"
+              fontWeight={700}

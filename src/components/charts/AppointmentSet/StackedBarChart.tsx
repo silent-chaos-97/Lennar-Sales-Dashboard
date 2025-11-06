@@ -95,3 +95,5 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
       .padding(0.1)
 
     svg
+      .append('g')
+      .attr('transform', `translate(0, 0)`)

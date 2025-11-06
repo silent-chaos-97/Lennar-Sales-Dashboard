@@ -34,3 +34,4 @@ const RightPane = () => {
                 <PricingAnalysis data={pricingData} chartId="pricing-analysis" />
               </Grid>
               <Grid item lg={4}>
+                {leaderboards?.NHC_LEADERBOARDS && (

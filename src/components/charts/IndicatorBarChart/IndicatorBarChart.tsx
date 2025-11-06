@@ -102,3 +102,5 @@ const IndicatorBarChart = ({
             : ''
         })
       // Add x axis
+      const xAxis = d3
+        .axisBottom(x)

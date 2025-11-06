@@ -24,9 +24,9 @@ interface ScreenContextValues {
 const ScreenContext = createContext<ScreenContextValues>({
   mode: ScreenMode.triple_monitor,
   currentScreen: 0,
+  setScreenMode: () => null,
   setCurrentScreen: () => null,
   showTooltips: true,
-  setShowTooltips: () => null
 })
 
 export const ScreenContextProvider = (props: PropsWithChildren) => {
@@ -34,3 +34,4 @@ export const ScreenContextProvider = (props: PropsWithChildren) => {
   const [currentScreen, setCurrentScreen] = useState(0)
   const [showTooltips, setShowTooltips] = useState<boolean>(true)
 
+  return (

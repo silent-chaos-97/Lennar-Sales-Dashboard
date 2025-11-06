@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import Section from '@/components/common/Section/Section'
 import Grid from '@mui/material/Grid'
 import Box from '@mui/material/Box'
@@ -159,3 +158,7 @@ const Performance = () => {
                 value={performanceState?.INBOUND_CALLS_ANSWERED.percent_value || 0}
                 goal={performanceState?.INBOUND_CALLS_ANSWERED.goal_value}
               />
+              <PerformanceBar
+                title="Inbound chats answered"
+                color={performanceState?.INBOUND_CHATS_ANSWERED.color}
+                value={performanceState?.INBOUND_CHATS_ANSWERED.percent_value}

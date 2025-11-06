@@ -3,7 +3,6 @@
 import { useEffect } from 'react'
 import * as d3 from 'd3'
 import { SalesDetailObject } from '@/types/sales'
-
 interface LineChartProps {
   id: string
   width?: number
@@ -74,6 +73,7 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
           { offset: '100%', color: 'rgba(0,93,170,0)' }
         ])
         .enter()
+        .append('stop')
         .attr('offset', function (d) {
           return d.offset
         })
@@ -91,3 +91,4 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .defined((d, i, data) => {
           if (i === data.length - 1 && d.y_axis === 0) return false
           return true
+        })

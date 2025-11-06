@@ -43,3 +43,4 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
             <ListItemButton key={d.name} sx={{ p: 0, pl: 3 }} onClick={() => onSelectMenu(d)}>
               <ListItemText
                 primary={d.name}
+                sx={{

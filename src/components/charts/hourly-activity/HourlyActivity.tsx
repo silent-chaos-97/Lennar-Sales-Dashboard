@@ -45,3 +45,4 @@ const HourlyActivity = ({
           width={210}
           showCurrentFully={activityTimeframe !== 'today'}
         />
+      </Box>

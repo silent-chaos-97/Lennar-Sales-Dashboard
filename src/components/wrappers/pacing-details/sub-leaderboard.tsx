@@ -34,3 +34,4 @@ const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
           <Section title={leaders.type} timestamp="QTD">
             {leaders.values.map((leader) => (
               <MemberItem
+                key={leader.name.toLowerCase().replaceAll(' ', '-')}

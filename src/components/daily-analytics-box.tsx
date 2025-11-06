@@ -23,6 +23,7 @@ export interface DailyAnalyticsBoxProps {
 
 const DailyAnalyticsBox = ({
   isLargeSize = false,
+  title,
   value,
   grossValue,
   diffPercent,
@@ -77,3 +78,5 @@ const DailyAnalyticsBox = ({
 
   return (
     <Stack direction="row" sx={{ height: isLargeSize ? 125 : 112, mb: 3, position: 'relative' }}>
+      <Stack>
+        <CustomTooltip elementName={`label-${title.replaceAll(' ', '-').toLowerCase()}`}>

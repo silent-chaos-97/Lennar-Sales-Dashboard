@@ -25,3 +25,4 @@ const DataAlert = ({ elementName, truncateSize = 0, isSvg = false, children }: D
 
   if (dataStatus !== DataStatus.issue) {
     return <Tag style={{ cursor: 'help' }}>{children}</Tag>
+  }

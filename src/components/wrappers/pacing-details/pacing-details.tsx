@@ -120,6 +120,7 @@ const PacingDetails = ({
           right: 0,
           bgcolor: 'rgba(33,41,54,0.67)',
           zIndex: 99
+        }}
       >
         <Box
           sx={{
@@ -155,3 +156,5 @@ const PacingDetails = ({
                 <Typography
                   sx={{
                     backgroundColor: STATUS_COLORS[subPacingData.status],
+                    py: 0.2,
+                    px: 1.5,

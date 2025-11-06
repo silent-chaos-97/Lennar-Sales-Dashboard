@@ -51,3 +51,4 @@ const LeftPane = () => {
           >
             <Grid container spacing={8} sx={{ mb: 6 }}>
               <Grid item lg={4}>
+                <Leads data={selectedActivity} activityTimeframe={activityTimeframe} />

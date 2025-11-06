@@ -96,3 +96,5 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
           posC[1] =
             posC[1] - yThreshold * (midangle < Math.PI / 2 && midangle > (Math.PI * 3) / 2 ? 1 : -1)
           posC[0] = radius * 0.7 * (midangle < Math.PI ? 1 : -1) // multiply by 1 or -1 to put it on the right or on the left
+          if (d.value) {
+            yThreshold -= 12

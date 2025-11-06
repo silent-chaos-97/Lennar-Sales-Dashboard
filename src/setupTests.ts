@@ -1,2 +1,2 @@
 // jest-dom adds custom jest matchers for asserting on DOM nodes.
-// expect(element).toHaveTextContent(/react/i)
+// allows you to do things like:

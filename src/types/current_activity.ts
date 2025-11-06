@@ -32,3 +32,4 @@ export interface CurrentActivityState {
     third_party: number
     third_party_pct_change: number
   }
+  WEB_VISITORS: null | number

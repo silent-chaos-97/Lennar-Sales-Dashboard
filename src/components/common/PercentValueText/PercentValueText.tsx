@@ -30,3 +30,4 @@ const PercentValueText = ({
         <Stack sx={{ pb: 0.75 }}>
           {change !== 0 &&
             (change > 0 ? <NorthEastIcon color="success" /> : <SouthEastIcon color="error" />)}
+          <Typography

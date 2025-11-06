@@ -180,7 +180,6 @@ class SnowflakeService {
                             console.error('Error executing Snowflake query:', err);
                             return reject(err);
                         }
-// Temp comment
                         connection.destroy(() => {
                             console.log('Cohort Division fetching is finished');
                         });

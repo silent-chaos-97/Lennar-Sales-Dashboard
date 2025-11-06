@@ -25,6 +25,7 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
       const currentTickers = data.map((item) => item.current)
       const previousTickers = data.map((item) => item.prev)
       const hours = data.map((item) => item.hour)
+      const currentHourIndex = showCurrentFully
         ? hours.length - 1
         : hours.findIndex((hour) => hour === currentHour)
       const filteredCurrentTickers = currentTickers
@@ -89,3 +90,5 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
       svg
         .append('path')
         .datum(filteredCurrentTickers)
+        .attr('fill', 'url(#gradient)')
+        .attr('d', area)

@@ -27,3 +27,4 @@ export const suffixTheNumber = (n: number) =>
   n +
   (n % 10 === 1 && n % 100 !== 11
     ? 'st'
+    : n % 10 === 2 && n % 100 !== 12

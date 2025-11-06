@@ -210,3 +210,5 @@ const NHSDetail = ({
                   <PercentValueText
                     value={data?.days_since_last_sale || 0}
                     hideChange
+                    fontWeight="500"
+                  />

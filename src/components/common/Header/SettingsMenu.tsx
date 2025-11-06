@@ -135,6 +135,7 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
                 Idle time prior to reset
               </Typography>
               <Select
+                native={true}
                 variant="outlined"
                 defaultValue={idleTimeout}
                 onChange={(evt) => {
@@ -154,3 +155,40 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
                 <option value={180}>3 min</option>
                 <option value={240}>4 min</option>
                 <option value={300}>5 min</option>
+                <option value={360}>6 min</option>
+                <option value={420}>7 min</option>
+                <option value={480}>8 min</option>
+                <option value={540}>9 min</option>
+                <option value={600}>10 min</option>
+              </Select>
+            </Stack>
+          </Box>
+          <Box flex={1} mr={1}>
+            <Stack alignItems="flex-start" spacing={1} mb={3.5}>
+              <FormControlLabel
+                control={<Checkbox checked={showTooltips} onChange={handleToggleTooltips} />}
+                label="Show Tooltips"
+              ></FormControlLabel>
+            </Stack>
+          </Box>
+        </Stack>
+        <Stack alignItems="flex-start" spacing={1} mb={6}>
+          <FormControl>
+            <FormLabel id="screen-mode">Screen mode</FormLabel>
+            <RadioGroup row aria-labelledby="screen-mode" value={mode} onChange={handleChangeMode}>
+              <FormControlLabel value={ScreenMode.panorama} control={<Radio />} label="Panorama" />
+              <FormControlLabel value={ScreenMode.desktop} control={<Radio />} label="Desktop" />
+              <FormControlLabel
+                value={ScreenMode.triple_monitor}
+                control={<Radio />}
+                label="3 TVs"
+              />
+            </RadioGroup>
+          </FormControl>
+        </Stack>
+        <Stack direction="row" justifyContent="flex-end" spacing={2}>
+          <Button
+            variant="contained"
+            sx={{
+              backgroundColor: 'rgba(255,255,255,0.25)',
+              fontWeight: 500,

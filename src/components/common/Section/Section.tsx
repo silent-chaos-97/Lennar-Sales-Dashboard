@@ -43,6 +43,7 @@ export const Section = ({
   }
 
   const alignmentStyle = useMemo(() => {
+    if (dropdownAlignment === 'left') {
       return { left: 0 }
     }
 
@@ -118,3 +119,6 @@ export const Section = ({
             <Stack
               direction="row"
               alignItems="center"
+              onClick={() => setShowTimestampDropdown(true)}
+              sx={{
+                cursor: timestampList ? 'pointer' : 'default',

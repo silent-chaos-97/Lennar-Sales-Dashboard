@@ -240,6 +240,7 @@ export const theme = createTheme({
           maxWidth: 1440
         }
       }
+    },
     MuiButton: {
       defaultProps: {
         disableElevation: true
@@ -277,3 +278,10 @@ export const theme = createTheme({
       }
     },
     MuiSelect: {
+      styleOverrides: {
+        select: {
+          padding: 0
+        }
+      }
+    },
+    MuiCard: {

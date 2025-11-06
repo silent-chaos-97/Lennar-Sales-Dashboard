@@ -14,7 +14,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
   useEffect(() => {
     // Calculate the domain for the x and y scales
     const boxPlotData = Object.keys(data).map((key: string) => {
-      return [
         data?.[key]?.percentile_5 || 0,
         data?.[key]?.percentile_25 || 0,
         data?.[key]?.percentile_50 || 0,
@@ -53,6 +52,7 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
     yAxisGroup.select('.domain').remove()
     yAxisGroup.selectAll('.tick text').style('fill', '#70747A').style('font-size', '16px')
     // Style the grid lines
+    yAxisGroup.selectAll('.tick line').attr('stroke', 'rgba(255,255,255,0.18)')
 
     const xScale = d3
       .scaleBand()
@@ -131,3 +131,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
         .attr('x', boxCenter - boxWidth / 2)
         .attr('y', y(q3))
         .attr('rx', 5)
+        .attr('ry', 5)
+        .attr('height', y(q1) - y(q3))
+        .attr('width', boxWidth)

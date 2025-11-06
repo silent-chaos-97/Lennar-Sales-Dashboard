@@ -267,3 +267,10 @@ const ISCDetail = ({
                 <Grid item xs={2}>
                   <CustomTooltip elementName={`label-isc-sales`}>
                     <Typography variant="caption" color="text.secondary" fontWeight={500}>
+                      {pluralize('Sale', data?.total_sales || 0)}
+                    </Typography>
+                  </CustomTooltip>
+                  <PercentValueText value={data?.total_sales || 0} hideChange />
+                </Grid>
+              </Grid>
+            </Section>

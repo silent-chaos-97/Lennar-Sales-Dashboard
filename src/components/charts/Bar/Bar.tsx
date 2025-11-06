@@ -39,3 +39,4 @@ const Bar = ({ label, percent = 0, value, change }: BarProps) => {
         <Stack direction="row" alignItems="flex-end" spacing={1}>
           <Typography>{value.toLocaleString()}</Typography>
           <Stack direction="row">
+            {change !== 0 &&

@@ -10,7 +10,6 @@ import { useResizeDetector } from 'react-resize-detector'
 import { PricingData } from '@/types/pacing'
 import CustomTooltip from '@/components/common/CustomTooltip'
 import DataAlert from '@/components/common/CustomTooltip/DataAlert'
-import { useAppState } from '@/contexts/StateContext'
 import { truncateText } from '@/utils/helper'
 
 interface PricingAnalysisProps {
@@ -104,3 +103,5 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
                     <SouthEastIcon color="error" />
                   )}
                 </>
+              )}
+              <Typography variant="subtitle1" color={diffColor(priceChanges.new)} fontWeight={700}>

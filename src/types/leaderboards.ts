@@ -81,3 +81,5 @@ export interface LeaderboardObj {
   leads_with_trifecta: LeaderboardFilterObj
   sales: LeaderboardFilterObj
 }
+
+export interface LeaderboardsState {

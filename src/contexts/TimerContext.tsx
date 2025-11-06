@@ -113,3 +113,6 @@ export const TimerProvider = (props: PropsWithChildren) => {
       clearInterval(idleTimer)
     }
   }, [idleTimerProgress, idleTimeout, playing, currentCohort])
+
+  const memoizedSetters = useMemo<TimerContextSetters>(
+    () => ({

@@ -1057,6 +1057,7 @@
           "percent_change": 0,
           "value": 1
         },
+        "NET_SALES": {
           "graph": [
             {
               "sort": 1,
@@ -1100,3 +1101,28 @@
             },
             {
               "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 0
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 719000
+            }
+          ],
+          "percent_change": 0,
+          "value": 719000
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 0
+            },
+            {

@@ -1,4 +1,3 @@
-import { Cohort } from './cohort'
 
 export interface InsightItem {
   color: string
@@ -7,3 +6,4 @@ export interface InsightItem {
 }
 
 export interface InsightState extends Cohort {
+  BOTTOM_INCENTIVE_INSIGHT: InsightItem

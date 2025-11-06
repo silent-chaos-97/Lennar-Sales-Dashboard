@@ -75,3 +75,5 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
       xAxisGroup.selectAll('.tick text').style('font-size', '12px')
       xAxisGroup
         .selectAll('.tick text')
+        .style('fill', (d) => (d === currentMonday ? '#fff' : '#70747A'))
+

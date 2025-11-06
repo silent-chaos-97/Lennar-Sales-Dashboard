@@ -35,6 +35,7 @@ const GoalLine = styled('div', {
   position: 'absolute',
   top: `${100 - percent}%`,
   transform: `translateY(-${100 - percent}%)`,
+  borderRadius: 2,
   '&:before': {
     content: `"${goal}%"`,
     position: 'absolute',
@@ -86,3 +87,5 @@ const PerformanceBar = ({
               <DataAlert elementName={`label-${title.replaceAll(' ', '-').toLowerCase()}`}>
                 {title}
               </DataAlert>
+            </Typography>
+          </CustomTooltip>

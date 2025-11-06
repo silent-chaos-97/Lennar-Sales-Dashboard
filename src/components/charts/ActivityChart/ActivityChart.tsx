@@ -45,3 +45,4 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
   return (
     <Stack flex={1}>
       <Box
+        borderBottom="1px solid rgba(255, 255, 255, 0.18)"

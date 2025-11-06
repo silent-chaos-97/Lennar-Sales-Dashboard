@@ -35,6 +35,7 @@ const run = async () => {
     sortedCohortList.push({
       name: region.name,
       type: region.type,
+      latitude: region.latitude,
       longitude: region.longitude,
       timezone: region.timezone
     })
@@ -77,3 +78,4 @@ const run = async () => {
 
     const cacheFilename = `${sanitizeFilename(
       sortedCohortList[i].name
+    ).toLowerCase()}-${sanitizeFilename(sortedCohortList[i].type)}.json`

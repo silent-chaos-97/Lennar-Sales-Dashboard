@@ -165,3 +165,6 @@ const SalesDetails = ({
                   Home size
                 </Typography>
                 <Typography variant="h3">{salesDetail.home_size}</Typography>
+              </Grid>
+              {salesDetail.lot_size != 'Not Available' && (
+                <Grid item lg={6} mb={2}>

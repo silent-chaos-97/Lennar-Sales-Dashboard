@@ -29,3 +29,4 @@ export const fetchChartData = async (location: Division) => {
   abortController = new AbortController()
   signal = abortController.signal
 
+  try {

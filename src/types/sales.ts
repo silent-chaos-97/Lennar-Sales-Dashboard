@@ -51,3 +51,5 @@ export interface DetailSalesItems {
     coordinates: [number, number]
   }
   properties: {
+    cluster: boolean
+    sales: SalesItem

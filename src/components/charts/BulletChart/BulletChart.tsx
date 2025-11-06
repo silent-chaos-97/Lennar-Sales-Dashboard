@@ -48,3 +48,4 @@ const BulletChart = ({ height = '100%', width = '100%' }: BulletChartProps) => {
         id="pacing-homes-0-30"
         value={homes.red}
         label="Red"
+        maxValue={maxLimit}

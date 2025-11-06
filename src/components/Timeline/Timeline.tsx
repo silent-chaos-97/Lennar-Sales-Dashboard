@@ -25,7 +25,6 @@ const Divider = styled('div')(({ theme }) => ({
 
 interface TimelineProps {
   journeyData: JourneyArrayItem[]
-}
 
 const Timeline = ({ journeyData }: TimelineProps) => {
   const [expanded, setExpanded] = useState(false)
@@ -62,3 +61,4 @@ const Timeline = ({ journeyData }: TimelineProps) => {
           <Chip icon={<PersonIcon />} label={`${journeyDays}-day customer journey`} color="info" />
           <Button onClick={handleChange}>{expanded ? 'Collapse' : 'Expand'} All</Button>
         </Stack>
+      </AccordionSummary>

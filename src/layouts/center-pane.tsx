@@ -268,3 +268,9 @@ const CenterPane = () => {
 
               svg.append(polygon)
             }
+          })
+        }, 10)
+        setActiveDot(idx)
+      }
+    }
+

@@ -43,6 +43,7 @@ app.get('/api/data', async (req, res) => {
   const sanitizedCohort = sanitizeFilename(cohort as string)
   const sanitizedCohortType = sanitizeFilename(cohort_type as string)
 
+  const cacheFilename = `${sanitizedCohort.toLowerCase()}-${sanitizedCohortType}.json`
   const cacheFilePath = path.join(__dirname, 'cache', cacheFilename)
 
   if (fs.existsSync(cacheFilePath)) {
@@ -54,3 +55,18 @@ app.get('/api/data', async (req, res) => {
       // Return the cached data
       res.json(cachedData.data)
       return
+    } catch (error) {
+      console.error('Error reading cache file:', error)
+    }
+  }
+
+  console.log(`Fetching data from snowflake`)
+
+  const result = await SnowflakeService.getCohortData(cohort as string, cohort_type as string)
+  const timestampedResult = {
+    timestamp: new Date().toISOString(),
+    data: result
+  }
+
+  try {
+    fs.writeFileSync(cacheFilePath, JSON.stringify(timestampedResult, null, 2))

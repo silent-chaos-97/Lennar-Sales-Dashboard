@@ -52,3 +52,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
         <Bar
           label="Paid"
           color="#005daa"
+          percent={(scores.paid / maxValue) * 100}

@@ -60,3 +60,5 @@ const MemberItem = ({
         }}
         imgProps={{ width: 300, height: 300 }}
         alt={name}
+        src={imageSrc}
+      >

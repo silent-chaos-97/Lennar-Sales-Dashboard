@@ -160,3 +160,7 @@ export const StateProvider = (props: PropsWithChildren) => {
       setDataStatus(HTTP_STATUS_CODES.REQUEST_TIMEOUT)
     }
   }
+
+  useEffect(() => {
+    fetchLocations()
+    fetchTheMetrics()
