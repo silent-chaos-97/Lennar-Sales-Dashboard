@@ -11,7 +11,6 @@ interface LMapProps {
     zoom: number
   }
   padding?: {
-    top: number
     bottom: number
     left: number
     right: number
@@ -44,3 +43,4 @@ const LMap: React.FC<LMapProps> = ({
   return (
     <Map
       initialViewState={{
+        ...mapViewState

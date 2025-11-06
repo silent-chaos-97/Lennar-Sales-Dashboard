@@ -15,3 +15,4 @@ export interface Division {
   longitude: number
   timezone: string
 }
+

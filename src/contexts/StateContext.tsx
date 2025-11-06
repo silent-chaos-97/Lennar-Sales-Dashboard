@@ -164,3 +164,5 @@ export const StateProvider = (props: PropsWithChildren) => {
   useEffect(() => {
     fetchLocations()
     fetchTheMetrics()
+  }, [])
+

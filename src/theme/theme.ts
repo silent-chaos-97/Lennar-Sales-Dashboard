@@ -69,7 +69,6 @@ export const theme = createTheme({
     },
     h4: {
       fontSize: 28,
-      lineHeight: '34px',
       fontWeight: 800
     },
     h5: {
@@ -285,3 +284,7 @@ export const theme = createTheme({
       }
     },
     MuiCard: {
+      styleOverrides: {
+        root: {
+          background: '#fff',
+          borderRadius: 12,

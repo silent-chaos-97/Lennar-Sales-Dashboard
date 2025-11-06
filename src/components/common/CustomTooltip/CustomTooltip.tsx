@@ -31,3 +31,4 @@ const CustomTooltip = ({ elementName, children }: CustomTooltipProps) => {
             borderRadius: '8px',
             boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)',
             padding: '8px 16px',
+            cursor: 'default !important'

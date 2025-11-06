@@ -10,6 +10,7 @@ import { useResizeDetector } from 'react-resize-detector'
 import { PricingData } from '@/types/pacing'
 import CustomTooltip from '@/components/common/CustomTooltip'
 import DataAlert from '@/components/common/CustomTooltip/DataAlert'
+import { useAppState } from '@/contexts/StateContext'
 import { truncateText } from '@/utils/helper'
 
 interface PricingAnalysisProps {
@@ -65,7 +66,6 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
               <Typography variant="h3" fontWeight={700}>
                 ${(data?.lennar_prices?.percentile_50 || 0).toLocaleString()}
               </Typography>
-              {priceChanges.lennar !== 0 && (
                 <>
                   {priceChanges.lennar > 0 ? (
                     <NorthEastIcon color="success" />
@@ -105,3 +105,4 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
                 </>
               )}
               <Typography variant="subtitle1" color={diffColor(priceChanges.new)} fontWeight={700}>
+                {priceChanges.new}%

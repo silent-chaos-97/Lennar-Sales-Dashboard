@@ -36,6 +36,7 @@ const SubPacingAnalysis = ({
             </Typography>
           </Stack>
         )
+      }
     >
       <Stack sx={{ mb: 10 }}>
         <Stack direction="row" justifyContent="space-between" sx={{ mb: 4 }}>
@@ -53,3 +54,4 @@ const SubPacingAnalysis = ({
             </Typography>
             <Typography variant="h1" color="success.dark">
               {(Math.round(next3WPace * 10) / 10).toLocaleString()}/wk
+            </Typography>

@@ -274,3 +274,7 @@ const CenterPane = () => {
       }
     }
 
+  const handleCloseTooltip = () => {
+    setSvgSize(null)
+    setActiveDot(null)
+    const svg = document.getElementById('triangleSvg')

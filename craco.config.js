@@ -1,8 +1,8 @@
 const path = require('path')
+// Temp comment
 
 module.exports = {
   webpack: {
-// Temp comment
     alias: {
       '@': path.resolve(__dirname, 'src/')
     }

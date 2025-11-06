@@ -83,3 +83,4 @@ export interface LeaderboardObj {
 }
 
 export interface LeaderboardsState {
+  COHORT: string

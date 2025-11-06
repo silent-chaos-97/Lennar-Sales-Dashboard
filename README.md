@@ -60,6 +60,7 @@ Follow these steps to set up the frontend:
 3. If you need to rebuild server bundles (you can skip this step if only restarting processes is needed):
       ```bash
       cd server
+      npm run build
       cd ..
       npm run build
       ```
@@ -67,3 +68,4 @@ Follow these steps to set up the frontend:
 4. To restart all registered pm2 processes, run:
     ```bash
     pm2 resurrect
+    ```

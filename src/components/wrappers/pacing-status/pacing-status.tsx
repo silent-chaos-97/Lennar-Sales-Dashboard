@@ -59,7 +59,6 @@ const PacingStatus = ({ mapWrapperRef }) => {
       ahead_of_pace: 0,
       on_pace: 0,
       behind_pace: 0,
-      very_behind_pace: 0
     }
 
     pacingCohortArray.forEach((item) => {
@@ -190,3 +189,5 @@ const PacingStatus = ({ mapWrapperRef }) => {
 
   return (
     <Section title="Pacing Status">
+      <Stack spacing={5.5}>
+        <Stack direction="row">

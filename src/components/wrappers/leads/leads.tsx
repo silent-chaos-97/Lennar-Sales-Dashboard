@@ -53,3 +53,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
           label="Paid"
           color="#005daa"
           percent={(scores.paid / maxValue) * 100}
+          value={scores.paid}

@@ -39,6 +39,7 @@ class SnowflakeService {
       connection.connect((err) => {
         if (err) {
           console.error('Error connecting to Snowflake:', err)
+          return reject(err)
         }
 
         connection.execute({
@@ -83,7 +84,6 @@ class SnowflakeService {
                         name: sub_division.COHORT,
                         latitude: sub_division.LATITUDE,
                         longitude: sub_division.LONGITUDE,
-                        timezone: sub_division.TIME_ZONE
                       }))
                     return {
                       type: dRow.COHORT_TYPE,
@@ -168,3 +168,4 @@ class SnowflakeService {
                 return acc
               }, {})
             } else if (rows.length === 1) {
+              result[statsKeys[statIdx]] = rows[0]

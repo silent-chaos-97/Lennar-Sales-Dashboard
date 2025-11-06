@@ -15,7 +15,6 @@ import Fade from '@mui/material/Fade'
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown'
 import Scrollbar from 'react-scrollbars-custom'
 
-interface SalesDetailsProps {
   subPacingData: SubCohortItem
   pacingCohortsList: { idx: number; name: string; status: string }[]
   onClose: () => void
@@ -158,3 +157,4 @@ const PacingDetails = ({
                     backgroundColor: STATUS_COLORS[subPacingData.status],
                     py: 0.2,
                     px: 1.5,
+                    borderRadius: 4

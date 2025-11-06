@@ -59,6 +59,7 @@ const RegionSelectMenu = ({ onSelectMenu }: RegionSelectMenuProps) => {
         onClick={() => onSelectMenu(NATIONAL_DIVISION)}
         role="button"
         tabIndex={-1}
+        sx={{
           cursor: 'pointer',
           borderBottom: '1px solid transparent',
           '&:hover': {
@@ -72,3 +73,4 @@ const RegionSelectMenu = ({ onSelectMenu }: RegionSelectMenuProps) => {
         <LogoSvg />
       </Box>
       <Grid container sx={{ mt: 3 }}>
+        {locations.map((region) => (

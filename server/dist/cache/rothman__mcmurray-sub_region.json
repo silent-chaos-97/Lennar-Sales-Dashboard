@@ -51625,3 +51625,639 @@
               ],
               "type": "Point"
             },
+            "id": 491,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 27,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_brad_ackerman_lr_jpg",
+                    "name": "Brad Ackerman",
+                    "national_rank": 240,
+                    "summary": "           $7,110,619 in sales QTD<br/>0% incentives QTD<br/>36% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/3 ba",
+                "days_from_completion": "113 days prior",
+                "home_size": "       2,201 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6247/47616/47616_eleC_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 56,
+                "sale_price": 554000,
+                "sale_title": "Marsala just sold in Verdana Village 40",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.8888594,
+                26.721547
+              ],
+              "type": "Point"
+            },
+            "id": 489,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 75,
+                    "image_url": "",
+                    "name": "Timothy Davis",
+                    "national_rank": 622,
+                    "summary": "           $2,358,660 in sales QTD<br/>1.7% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 20,
+                    "image_url": "",
+                    "name": "Daniel Retheford",
+                    "national_rank": 225,
+                    "summary": "          $10,637,972 in sales QTD<br/>17 appointments QTD<br/>11% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "44 days prior",
+                "home_size": "       2,485 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7486/63246/63246_eleB_lg.jpg",
+                "incentive_percent": 5,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -1,
+                "realtor_commission": 6,
+                "sale_cohort_rank": 55,
+                "sale_price": 395000,
+                "sale_title": "Phoenix just sold in Crane Landing 50",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.421566932,
+                26.310714594
+              ],
+              "type": "Point"
+            },
+            "id": 483,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 57,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_morgan_snyder_lr_jpg",
+                    "name": "Morgan Snyder",
+                    "national_rank": 472,
+                    "summary": "           $3,928,417 in sales QTD<br/>1.9% incentives QTD<br/>50% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "2 bd/2 ba",
+                "days_from_completion": "65 days prior",
+                "home_size": "       1,366 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5584/42931/42931_eleB_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 54,
+                "sale_price": 317497,
+                "sale_title": "Diangelo II just sold in Ave Maria 2 Story",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.418764202,
+                26.311345937
+              ],
+              "type": "Point"
+            },
+            "id": 482,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 57,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_morgan_snyder_lr_jpg",
+                    "name": "Morgan Snyder",
+                    "national_rank": 472,
+                    "summary": "           $3,928,417 in sales QTD<br/>1.9% incentives QTD<br/>50% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "42 days post",
+                "home_size": "       1,741 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5583/53841/53841_eleA_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 53,
+                "sale_price": 377998,
+                "sale_title": "Arrowhead just sold in Ave Maria Coach",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.5701778,
+                26.2900076
+              ],
+              "type": "Point"
+            },
+            "id": 480,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 32,
+                    "image_url": "",
+                    "name": "Adalberto (A.Rod.) Rodriguez",
+                    "national_rank": 266,
+                    "summary": "           $3,855,152 in sales QTD<br/>0% incentives QTD<br/>73% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "2 bd/2 ba",
+                "days_from_completion": "42 days prior",
+                "home_size": "       1,564 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7403/62461/62461_eleG_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2021-06-28",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good morning Lonnie, I hope you had a nice weekend. I received your service request and sent the work orders to trade who will be contacting you for scheduling date and times. Have a good day.  ref:_00D36JZvE._5005b1C9svv:ref",
+                    "sort": 10,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2021-07-15",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good afternoon Lonnie, I've been trying to get in touch with you and have left voice messages with no response. Please contact me by 7/19 or I'm closing the 'Case' for homeowner availability and will reopen when homeowner is availability. My number is (239) 270-0818.  --------------- Original Messag...",
+                    "sort": 11,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2021-07-16",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello,   A DocuSign was sent to your e-mail with regards to the warranty service for your new home.   The email comes to you through DocuSign, would you be kind enough to locate that e-mail in your inbox and sign it for me?   Thank you and I hope you have a wonderful day!   If any future warrantable...",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2021-07-19",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello,   Sorry to bother you again with this, but needed to remind you about the DocuSign for warranty service. If you would please locate it in your inbox and sign it for me, I would greatly appreciate it.     Hope you have a wonderful day!  If any future warrantable issues arise, please submit you...",
+                    "sort": 13,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2021-07-21",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good afternoon Lonnie, I hope your day is going well. I need pictures of the debris on the roof to get the correct trade to clean it off. Send picture to my Phone (239) 270-0818 please.  ref:_00D36JZvE._5005b1DMWju:ref",
+                    "sort": 14,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 17,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 16,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 52,
+                "sale_price": 377000,
+                "sale_title": "Orchid just sold in Orange Blossom Groves Villa",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Tampa",
+            "division_coordinates": [
+              -82.356556448,
+              28.038879865
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.531636833,
+                28.311867667
+              ],
+              "type": "Point"
+            },
+            "id": 478,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 83,
+                    "image_url": "",
+                    "name": "Jeremy Ross",
+                    "national_rank": 687,
+                    "summary": "           $2,087,053 in sales QTD<br/>2.3% incentives QTD<br/>67% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "2 bd/2 ba",
+                "days_from_completion": "130 days prior",
+                "home_size": "       2,216 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6869/58495/58495_eleD_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 6,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 51,
+                "sale_price": 522515,
+                "sale_title": "Argent II just sold in Angeline AA 60s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.031649471,
+                26.823541738
+              ],
+              "type": "Point"
+            },
+            "id": 474,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 79,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_mark_lavenia_lr_jpg",
+                    "name": "Mark Lavenia",
+                    "national_rank": 667,
+                    "summary": "           $2,071,025 in sales QTD<br/>1.2% incentives QTD<br/>50% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "2 bd/2 ba",
+                "days_from_completion": "Not Available",
+                "home_size": "       1,120 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/4942/39252/39252_eleA_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2020-10-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello,   A DocuSign was sent to your e-mail with regards to the warranty service for your new home.   The email comes to you through DocuSign, would you be kind enough to locate that e-mail in your inbox and sign it for me?   Thank you and I hope you have a wonderful day!   If any future warrantable...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2020-10-15",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello,   Sorry to bother you again with this, but needed to remind you about the DocuSign for warranty service. If you would please locate it in your inbox and sign it for me, I would greatly appreciate it.     Hope you have a wonderful day!  If any future warrantable issues arise, please submit you...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2021-05-12",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello,   A DocuSign was sent to your e-mail with regards to the warranty service for your new home.   The email comes to you through DocuSign, would you be kind enough to locate that e-mail in your inbox and sign it for me?   Thank you and I hope you have a wonderful day!   If any future warrantable...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2021-05-13",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello,   Sorry to bother you again with this, but needed to remind you about the DocuSign for warranty service. If you would please locate it in your inbox and sign it for me, I would greatly appreciate it.     Hope you have a wonderful day!  If any future warrantable issues arise, please submit you...",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 6,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 50,
+                "sale_price": 243998,
+                "sale_title": "Arbor just sold in Heritage Landing 4 Story",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Tampa",
+            "division_coordinates": [
+              -82.356556448,
+              28.038879865
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.328048,
+                27.6708758
+              ],
+              "type": "Point"
+            },
+            "id": 471,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 10,
+                    "image_url": "",
+                    "name": "Joseph Allen Martin",
+                    "national_rank": 86,
+                    "summary": "           $5,476,621 in sales QTD<br/>0.2% incentives QTD<br/>56% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "36 days prior",
+                "home_size": "       1,817 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7826/65618/65618_eleA1_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-06",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Social lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-06",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Natalia  Thank You for your interest in Triple Creek!    We have homes that are ready to move forward with a purchase agreement with some GREAT incentives.  What day and time works best for you to visit and tour the model home?  All The Best,  Angie – Lennar Homes angie.aleman@lennar.com 813-8...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-06",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Natalia  Thank You for your interest in Triple Creek!    We have homes that are ready to move forward with a purchase agreement with some GREAT incentives.  What day and time works best for you to visit and tour the model home?  All The Best,  Angie",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {

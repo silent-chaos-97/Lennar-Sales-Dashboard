@@ -246,3 +246,6 @@ const Header = () => {
                 <Box sx={{ position: 'relative' }}>
                   <Box
                     sx={{
+                      position: 'absolute',
+                      left: '50%',
+                      top: 20,

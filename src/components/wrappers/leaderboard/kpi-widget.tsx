@@ -20,7 +20,6 @@ const KPIWidget = ({
   secondValue,
   secondLabel,
   thirdValue,
-  thirdLabel
 }: KPIWidgetProps) => {
   return (
     <Box>
@@ -39,3 +38,4 @@ const KPIWidget = ({
             {suffixTheNumber(thirdValue)}
           </Typography>
         </Grid>
+        <Grid item>

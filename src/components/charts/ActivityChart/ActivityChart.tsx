@@ -46,3 +46,9 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
     <Stack flex={1}>
       <Box
         borderBottom="1px solid rgba(255, 255, 255, 0.18)"
+        display="flex"
+        flex={1}
+        alignItems="flex-end"
+        ref={ref}
+      >
+        <HeatMap cWidth={width} size={4} spacing={1} nRow={18} nCol={144} data={filteredData} />

@@ -274,3 +274,6 @@ const ISCDetail = ({
                 </Grid>
               </Grid>
             </Section>
+          </Box>
+          <Section
+            title="Performance"

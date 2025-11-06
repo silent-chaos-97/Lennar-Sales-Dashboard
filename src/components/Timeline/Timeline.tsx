@@ -25,6 +25,7 @@ const Divider = styled('div')(({ theme }) => ({
 
 interface TimelineProps {
   journeyData: JourneyArrayItem[]
+}
 
 const Timeline = ({ journeyData }: TimelineProps) => {
   const [expanded, setExpanded] = useState(false)
@@ -62,3 +63,4 @@ const Timeline = ({ journeyData }: TimelineProps) => {
           <Button onClick={handleChange}>{expanded ? 'Collapse' : 'Expand'} All</Button>
         </Stack>
       </AccordionSummary>
+      <AccordionDetails sx={{ p: 0 }}>

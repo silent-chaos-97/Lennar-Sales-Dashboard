@@ -92,3 +92,4 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         .datum(filteredCurrentTickers)
         .attr('fill', 'url(#gradient)')
         .attr('d', area)
+

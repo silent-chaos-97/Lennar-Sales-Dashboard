@@ -44,3 +44,4 @@ interface SubCohortMap {
   map_title: string
   sub_cohort_array: SubCohortItem[]
 }
+

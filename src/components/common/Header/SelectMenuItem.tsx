@@ -8,7 +8,6 @@ import { SubRegion } from '@/types/cohort'
 
 interface SelectMenuItemProps {
   item: SubRegion
-  onSelectMenu: (menu: SubRegion) => void
 }
 
 const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {

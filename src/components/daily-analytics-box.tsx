@@ -80,3 +80,4 @@ const DailyAnalyticsBox = ({
     <Stack direction="row" sx={{ height: isLargeSize ? 125 : 112, mb: 3, position: 'relative' }}>
       <Stack>
         <CustomTooltip elementName={`label-${title.replaceAll(' ', '-').toLowerCase()}`}>
+          <Typography variant="caption" color="text.secondary">

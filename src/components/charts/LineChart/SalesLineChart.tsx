@@ -3,6 +3,7 @@
 import { useEffect } from 'react'
 import * as d3 from 'd3'
 import { SalesDetailObject } from '@/types/sales'
+
 interface LineChartProps {
   id: string
   width?: number
@@ -92,3 +93,4 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
           if (i === data.length - 1 && d.y_axis === 0) return false
           return true
         })
+

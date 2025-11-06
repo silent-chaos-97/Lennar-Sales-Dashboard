@@ -62,3 +62,4 @@ const MemberItem = ({
         alt={name}
         src={imageSrc}
       >
+        <Typography fontSize={28} fontWeight={700}>

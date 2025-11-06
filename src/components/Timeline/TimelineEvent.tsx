@@ -66,3 +66,4 @@ const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
           backgroundColor: colors[event.actor_type as keyof typeof colors],
           mr: 1
         }}
+      >

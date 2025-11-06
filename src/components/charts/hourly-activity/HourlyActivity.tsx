@@ -46,3 +46,4 @@ const HourlyActivity = ({
           showCurrentFully={activityTimeframe !== 'today'}
         />
       </Box>
+      <Stack direction="row" alignItems="flex-end" spacing={1}>

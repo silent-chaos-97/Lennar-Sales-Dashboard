@@ -23,3 +23,4 @@ const NotFound = () => {
           Hmm, no one seems to be home at the moment.
         </Typography>
         <Typography sx={{ fontSize: '32px', lineHeight: '38px', marginTop: '50px' }}>
+          Please try this address:

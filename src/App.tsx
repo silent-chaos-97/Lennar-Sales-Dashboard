@@ -15,3 +15,4 @@ function App() {
         <StateProvider>
           <TimerProvider>
             <RouterProvider router={router} />
+          </TimerProvider>

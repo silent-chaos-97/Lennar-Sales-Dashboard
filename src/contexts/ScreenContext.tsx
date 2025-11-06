@@ -27,6 +27,7 @@ const ScreenContext = createContext<ScreenContextValues>({
   setScreenMode: () => null,
   setCurrentScreen: () => null,
   showTooltips: true,
+  setShowTooltips: () => null
 })
 
 export const ScreenContextProvider = (props: PropsWithChildren) => {
@@ -35,3 +36,4 @@ export const ScreenContextProvider = (props: PropsWithChildren) => {
   const [showTooltips, setShowTooltips] = useState<boolean>(true)
 
   return (
+    <ScreenContext.Provider

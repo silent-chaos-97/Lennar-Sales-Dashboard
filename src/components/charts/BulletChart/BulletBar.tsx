@@ -53,3 +53,4 @@ const BulletBar = ({
             {label && (
               <Typography
                 variant="caption"
+                color="grey.600"
