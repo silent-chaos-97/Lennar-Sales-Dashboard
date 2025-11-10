@@ -64,3 +64,4 @@ const Timeline = ({ journeyData }: TimelineProps) => {
         </Stack>
       </AccordionSummary>
       <AccordionDetails sx={{ p: 0 }}>
+        <Box>

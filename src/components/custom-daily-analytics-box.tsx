@@ -14,7 +14,6 @@ const CustomDailyAnalyticsBox = ({
   title,
   value,
   diffPercent,
-  unit = '',
   isDecreaseBenefit = false
 }: CustomDailyAnalyticsBoxProps) => {
   const diffColor = useMemo(() => {
@@ -29,3 +28,4 @@ const CustomDailyAnalyticsBox = ({
         {unit !== '%' ? `${unit}${value.toLocaleString()} ${title}` : `${value}${unit}`}
       </Typography>
       {diffPercent !== 0 &&
+        (diffPercent > 0 ? (

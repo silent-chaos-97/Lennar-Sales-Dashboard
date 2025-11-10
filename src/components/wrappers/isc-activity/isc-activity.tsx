@@ -43,6 +43,7 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
                 <Typography
                   component="span"
                   color={getValueChangeTextColor(data?.TOTAL_CALLS_PERCENT_CHANGE || 0)}
+                  variant="h6"
                   sx={{ ml: 1 }}
                 >
                   {data?.TOTAL_CALLS_PERCENT_CHANGE || 0}%
@@ -100,3 +101,4 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
               variant="body1"
               fontWeight={700}
               mb={-1.5}
+              color="rgba(255, 255, 255, 0.67)"

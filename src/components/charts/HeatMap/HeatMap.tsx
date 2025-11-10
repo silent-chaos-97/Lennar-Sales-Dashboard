@@ -74,3 +74,4 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
         const isScaled = allYGroups.length <= 9
         return (
           <rect
+            key={i}

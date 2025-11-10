@@ -869,7 +869,6 @@
         ],
         "TOTAL_CALLS": 0,
         "TOTAL_CALLS_PERCENT_CHANGE": null,
-        "TOTAL_CHATS_TEXTS": 0,
         "TOTAL_CHATS_TEXTS_PERCENT_CHANGE": null,
         "APPOINTMENTS_SET": 1,
         "APPOINTMENTS_SET_PERCENT_CHANGE": 0,
@@ -1138,3 +1137,15 @@
           ],
           "percent_change": 0,
           "value": 4.01
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 0

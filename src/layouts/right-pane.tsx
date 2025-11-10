@@ -35,3 +35,4 @@ const RightPane = () => {
               </Grid>
               <Grid item lg={4}>
                 {leaderboards?.NHC_LEADERBOARDS && (
+                  <Leaderboard

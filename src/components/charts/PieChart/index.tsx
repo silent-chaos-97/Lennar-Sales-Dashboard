@@ -100,3 +100,4 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
             yThreshold -= 12
           }
           return [posA, posB, posC]
+        }

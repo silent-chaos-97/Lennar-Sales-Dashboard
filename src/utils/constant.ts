@@ -48,3 +48,4 @@ export const LONGITUDE_DELTA = {
   division: 0.5
 }
 
+export const TIMEZONE = {

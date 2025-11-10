@@ -137,3 +137,4 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
         .attr('width', boxWidth)
         .attr('stroke', 'none')
         .style('fill', idx === 0 ? '#33A3FF' : '#70747A')
+

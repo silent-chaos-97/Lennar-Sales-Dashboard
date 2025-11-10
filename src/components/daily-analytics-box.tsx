@@ -81,3 +81,4 @@ const DailyAnalyticsBox = ({
       <Stack>
         <CustomTooltip elementName={`label-${title.replaceAll(' ', '-').toLowerCase()}`}>
           <Typography variant="caption" color="text.secondary">
+            <DataAlert elementName={`label-${title.replaceAll(' ', '-').toLowerCase()}`}>

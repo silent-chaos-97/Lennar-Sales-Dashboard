@@ -1,5 +1,6 @@
 import { useAppTimer, useAppTimerSetters, useAppTimerVariables } from '@/contexts/TimerContext'
 import TimerProgress from '../TimerProgress'
+
 const TimeProgress = () => {
   const { playing, cycleTimerProgress } = useAppTimer()
   const { setPlaying } = useAppTimerSetters()
@@ -12,3 +13,4 @@ const TimeProgress = () => {
   return (
     <TimerProgress
       value={(cycleTimerProgress / cycleTimeout) * 100}
+      onToggle={handleToggle}

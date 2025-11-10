@@ -10,7 +10,6 @@ interface TimerProgressProps {
   onToggle: () => void
 }
 
-const TimerProgress = ({ value, playing, onToggle }: TimerProgressProps) => {
   return (
     <Box sx={{ position: 'relative', display: 'inline-flex' }}>
       <CircularProgress variant="determinate" value={value} sx={{ color: '#939BA8' }} />
@@ -24,3 +23,4 @@ const TimerProgress = ({ value, playing, onToggle }: TimerProgressProps) => {
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center'
+        }}

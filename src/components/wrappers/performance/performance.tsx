@@ -124,6 +124,7 @@ const Performance = () => {
             y: Math.min(
               ((performanceState?.LEADS_WITH_TRIFECTA.percent_value || 0) /
                 (performanceState?.LEADS_WITH_TRIFECTA.goal_value || 100)) *
+                100,
               100
             )
           }
@@ -164,3 +165,5 @@ const Performance = () => {
                 value={performanceState?.INBOUND_CHATS_ANSWERED.percent_value}
                 goal={performanceState?.INBOUND_CHATS_ANSWERED.goal_value}
               />
+            </Stack>
+          </Grid>

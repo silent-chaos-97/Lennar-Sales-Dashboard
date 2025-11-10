@@ -40,6 +40,7 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
 
   return (
     <Wrapper>
+      <Section
         title="Sales"
         timestamp={SALES_TIMEFRAMES[salesTimeframe]}
         onSelectTimestamp={setSalesTimeframe}
@@ -108,3 +109,4 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
         <Typography variant="h5" mb={1.5}>
           {insightState?.TOP_SALES_INSIGHT?.color && (
             <>
+              <StrongText sx={{ color: colors[insightState?.TOP_SALES_INSIGHT.color] }}>

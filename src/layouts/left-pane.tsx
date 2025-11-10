@@ -33,7 +33,7 @@ const LeftPane = () => {
   return (
     <Box width={1888} position="relative">
       <Grid container spacing={8} pt={4}>
-        <Grid item lg={9}>
+          <Section
             title="Current activity"
             more={
               <Stack direction="row" alignItems="center" spacing={1} color="text.secondary">

@@ -100,7 +100,6 @@ const MainLayout = () => {
 
   useEffect(() => {
     const conhortName = searchParams.get('cohort')
-    if (conhortName) {
       const cohortObject = cohorts.find((cohort) => cohort.name === conhortName)
       if (cohortObject) {
         setPlaying(false)
@@ -139,3 +138,4 @@ const MainLayout = () => {
   useEffect(() => {
     calculateZoomRate()
 
+    document.addEventListener('resize', calculateZoomRate)

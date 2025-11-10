@@ -31,7 +31,6 @@ const MarkerIcon = styled('div', {
   opacity: props.active ? 1 : 0.3
 }))
 
-const PacingStatus = ({ mapWrapperRef }) => {
   const mapRef = useRef<MapRef>(null)
   const { pacingState, currentCohort } = useAppState()
   const { setPlaying, setIdleTimerProgress } = useAppTimerSetters()
@@ -59,6 +58,7 @@ const PacingStatus = ({ mapWrapperRef }) => {
       ahead_of_pace: 0,
       on_pace: 0,
       behind_pace: 0,
+      very_behind_pace: 0
     }
 
     pacingCohortArray.forEach((item) => {
@@ -191,3 +191,6 @@ const PacingStatus = ({ mapWrapperRef }) => {
     <Section title="Pacing Status">
       <Stack spacing={5.5}>
         <Stack direction="row">
+          <Stack sx={{ width: 170, mr: 1 }}>
+            <CustomTooltip elementName="label-pacing-inventory">
+              <Typography variant="caption" fontWeight={500} color="textSecondary">

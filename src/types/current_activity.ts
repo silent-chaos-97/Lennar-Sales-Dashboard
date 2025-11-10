@@ -1,3 +1,4 @@
+export interface TickerItem {
   activity_time: string
   activity_status: string
   sort: number
@@ -32,3 +33,4 @@ export interface CurrentActivityState {
     third_party_pct_change: number
   }
   WEB_VISITORS: null | number
+  WEB_VISITORS_PERCENT_CHANGE: number

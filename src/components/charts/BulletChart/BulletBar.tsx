@@ -54,3 +54,4 @@ const BulletBar = ({
               <Typography
                 variant="caption"
                 color="grey.600"
+                fontWeight={500}

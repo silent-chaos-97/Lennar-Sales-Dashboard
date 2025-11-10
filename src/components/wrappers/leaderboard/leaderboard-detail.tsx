@@ -13,7 +13,6 @@ export interface LeaderboardDetailProps {
   onPrev: () => void
   onNext: () => void
   disablePrevNext: [boolean, boolean]
-  type?: string
   activeTimestamp?: string
 }
 
@@ -48,3 +47,4 @@ const LeaderboardDetail = ({
         disablePrevNext={disablePrevNext}
       />
     )
+  } else {

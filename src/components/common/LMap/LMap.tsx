@@ -11,6 +11,7 @@ interface LMapProps {
     zoom: number
   }
   padding?: {
+    top: number
     bottom: number
     left: number
     right: number

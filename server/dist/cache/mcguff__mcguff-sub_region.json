@@ -50346,7 +50346,6 @@
             "activity_status": "Connected",
             "activity_time": "2023-10-11 08:45:00.000",
             "sort": 2
-          },
           {
             "activity_status": "Connected",
             "activity_time": "2023-10-11 08:45:00.000",
@@ -56271,6 +56270,7 @@
           },
           {
             "activity_status": "Active",
+            "activity_time": "2023-10-12 13:00:00.000",
             "sort": 23
           },
           {
@@ -82529,3 +82529,1012 @@
             "id": 476,
             "properties": {
               "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 11,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_kerri_burgner_lr_jpg",
+                    "name": "Kerri Burgner",
+                    "national_rank": 99,
+                    "summary": "           $8,804,227 in sales QTD<br/>4.9% incentives QTD<br/>47% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 23,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_brandon_hall_2_lr_jpg",
+                    "name": "Brandon Hall",
+                    "national_rank": 158,
+                    "summary": "          $24,581,738 in sales QTD<br/>88 appointments QTD<br/>8% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "44 days prior",
+                "home_size": "       2,620 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6989/59461/59461_eleA_lg.jpg",
+                "incentive_percent": 10,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-08-26",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2023-08-26",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-08-26",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Lennar at Northlake  \t   \tSchedule your Self Guided tour NOW.  \t \t   \tHello from Lennar’s Internet Sales Consultants!  \t   \tThank you for your interest in Northlake. A brand new master-planned community in Sacramento's North Natomas. Resort inspired living at its finest where life by the lake is the...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-26",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Venu! This is Jake with Lennar. Just a quick check in to make sure your tour is going well . Any initial thoughts or questions? I am here to help get you started, Jake Plaskon Lennar Internet Sales Consultant, DRE 02154718 916-573-9711 Out of office",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-04",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-09-04",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-09-14",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Lennar at Sierra West - Roseville, California  \tAndorra - Lumiere - Meribel - St. Moritz - Breckenridge - Windham  \t   \tDear Venu,  \t   \tHello from Lennar Sacramento's Internet Sales Consultant team!  \tThank you for your interest in Andorra, Lumiere, Meribel, Breckenridge, Windham and St.Moritz.  \tF...",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi this is Joshua with Lennar’s Internet Team. Just a quick follow up to see how your self-guided tour is going. Do you have any questions that I can answer for you? Please let me know if you’re interested in speaking to a New Home Consultant about the ne",
+                    "sort": 13,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 14,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -14,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 56,
+                "sale_price": 615000,
+                "sale_title": "Residence 2620 just sold in Casera Meadows @ Pioneer 45's",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Boise",
+            "division_coordinates": [
+              -116.516061851,
+              43.622363966
+            ],
+            "geometry": {
+              "coordinates": [
+                -116.618166167,
+                43.668568833
+              ],
+              "type": "Point"
+            },
+            "id": 462,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 20,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_shiloh_roethlelr_jpg",
+                    "name": "Shiloh Roethle",
+                    "national_rank": 162,
+                    "summary": "           $5,059,051 in sales QTD<br/>1.9% incentives QTD<br/>69% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "7 days prior",
+                "home_size": "       2,170 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6845/63634/63634_eleA3C_lg.jpg",
+                "incentive_percent": 10,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-07-30",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Social lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 55,
+                "sale_price": 399900,
+                "sale_title": "Carlton just sold in Mandalay Ranch 35",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Inland",
+            "division_coordinates": [
+              -117.19750994,
+              33.894448864
+            ],
+            "geometry": {
+              "coordinates": [
+                -117.1921532,
+                34.0776774
+              ],
+              "type": "Point"
+            },
+            "id": 460,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 31,
+                    "image_url": "",
+                    "name": "Leslie Ponce",
+                    "national_rank": 224,
+                    "summary": "             $690,680 in sales QTD<br/>18 appointments QTD<br/>9% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 18,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ferrin_hoffmannlr_jpg",
+                    "name": "Ferrin Hoffmann",
+                    "national_rank": 153,
+                    "summary": "           $7,454,709 in sales QTD<br/>0% incentives QTD<br/>8% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "186 days prior",
+                "home_size": "       1,949 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6359/56117/56117_eleB_lg.jpg",
+                "incentive_percent": 4,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 3,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "I have an appointment available for 1:30 and later. would you like me to schedule your appointment at 2pm for your tour at the traditions legacy? Leslie Ponce  DRE# 002210358",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Can we do 1:30 please if that's possible?",
+                    "sort": 5,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Yes! Would you like me to schedule an appointment with a New Home Consultant for the Menifee location as well?  Leslie Ponce  DRE# 002210358",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "I had already made an appointment with Klarissa Yap. for the house in Menifee at 12:30",
+                    "sort": 7,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Not sure if Leslie can make it at 12:30 tomorrow in Menifee? If so, that would works best for us",
+                    "sort": 8,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank you",
+                    "sort": 9,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "For the Quartz Ranch location we have available times with Klarissa as early as 11am or later in the day until 4pm. Leslie Ponce  DRE# 002210358",
+                    "sort": 11,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "11 works",
+                    "sort": 12,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 13,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 14,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Leah, Please see below directions to the community. Enjoy your visit!  Traditions at 1:30 pm on 10/7/23: Directions to Traditions in Redlands By Lennar https://www.google.com/maps/search/?api=1&query=34.077439,-117.193322  Quartz Ranch 2:30 pm on 10/7/",
+                    "sort": 15,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank yoi",
+                    "sort": 16,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "*you",
+                    "sort": 17,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 18,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "You're welcome! Leslie Ponce  DRE# 002210358",
+                    "sort": 19,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Can y please cancel the appointment at 2:30 pm? We have somewhere to go. Sorry about that",
+                    "sort": 21,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "No Problem! when you are ready to reschedule feel free to send a date and time! Leslie Ponce  DRE# 002210358",
+                    "sort": 22,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hi Leah! We're excited to see you for your tour of  10/07/2023 at 12:30 PM with Klarissa Yap. The Welcome Home Center is located at 26271 Cherry Plum Circle, Menifee, CA . See you soon!",
+                    "sort": 23,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Leah! We're excited to see you for your tour of Canyon View at Quartz Ranch 10/07/2023 at 1:30 PM with Ferrin Hoffmann. The Welcome Home Center is located at 26271 Cherry Plum Circle, Menifee, CA . See you soon!",
+                    "sort": 24,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Hi we'll be 15 mins late to the appointment at 1:30 in Redlands",
+                    "sort": 25,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Not sure if that's ok for us to coming still",
+                    "sort": 26,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "No worries! You have a one hour time slot. Leslie Ponce  DRE# 002210358",
+                    "sort": 27,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank you",
+                    "sort": 28,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi {!Event.field_service_event__r.lead__r.firstname}! We're excited to see you for your tour of {!Event.activity_business_unit_community__r.name} {!Event.local_date__c} at {!Event.local_time__c} with {!Event.owner.name}. The Welcome Home Center is located",
+                    "sort": 29,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "You're welcome! Leslie Ponce  DRE# 002210358",
+                    "sort": 30,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Leah,  how was your visit to Quartz Ranch? Please reply to confirm visit or to re schedule. Thank you. Leslie Ponce  DRE# 002210358",
+                    "sort": 31,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 32,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 54,
+                "sale_price": 690680,
+                "sale_title": "Residence One just sold in Legacy at Traditions",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Seattle",
+            "division_coordinates": [
+              -121.068986031,
+              47.54677194
+            ],
+            "geometry": {
+              "coordinates": [
+                -116.9110184,
+                47.7359876
+              ],
+              "type": "Point"
+            },
+            "id": 451,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 56,
+                    "image_url": "",
+                    "name": "Marc Albert",
+                    "national_rank": 323,
+                    "summary": "           $4,956,457 in sales QTD<br/>1.5% incentives QTD<br/>70% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 17,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_renee_ricafrente_lr_jpg",
+                    "name": "Renee Ricafrente",
+                    "national_rank": 132,
+                    "summary": "          $13,587,000 in sales QTD<br/>109 appointments QTD<br/>17% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "147 days prior",
+                "home_size": "       2,705 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6677/58588/58588_eleMF_lg.jpg",
+                "incentive_percent": 1,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-07-30",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-07-30",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Virtual tour"
+                  },
+                  {
+                    "activity_date": "2023-07-30",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-07-30",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Jennifer,  \t   \tThank you for your interest in our Lennar Homes now selling at Corbin Meadows located at 2680 Bluegrass Lane, in Post Falls, Idaho. This beautiful community has 75 of our Everything's Included homes here ranging in size 1,669 sq feet - 2,786 sq feet with prices starting in the ...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-30",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 5,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-07-30",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Jennifer Britt This is a friendly reminder of your upcoming Virtual Tour with Lennar on 07/30/2023 at 12:15 PM with Zach Cooper If you have not already, please look for an email from Zach Cooper with information on how you will connect virtually.  If y",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-30",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Jennifer!  Nice chatting with you today! Please see attached community map  Digital Brochure<https://www.lennar.com/new-homes/idaho/inland-northwest/post-falls/corbin-meadows/brochure>  [cid:image001.png@01D9C2D3.5F045DF0]<http://www.lennar.com/seattle>   National Sales Event Happening through 7/...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-30",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Sure thing!  This is a coming soon community for us, so sales have not started yet. Should be in the Fall of this year.  Please see attached.  Hayden Brochure<https://www.lennar.com/new-homes/idaho/inland-northwest/hayden/hayden-canyon/brochure>  [cid:image001.png@01D9C2D6.2CBB69D0]<http://www.lenna...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-30",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Jennifer!  He’s just finishing up with his 11am appointment. I did send him a text for you   He’s sending it now coming from Marc.Albert@Lennar.com<mailto:Marc.Albert@Lennar.com>   [cid:image001.png@01D9C2DE.0E43C170]<http://www.lennar.com/seattle>   National Sales Event Happening through 7/23: I...",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-30",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hello! I'm Marc from Lennar at Corbin Meadows. Here's the link for our Zoom call: https://zoom.us/j/93107723207?pwd=ZytpS3dURXB0cWNuWlVWWWU1UkxCQT09",
+                    "sort": 10,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-07-30",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Jennifer,  Here's your Zoom link:  https://zoom.us/j/93107723207?pwd=ZytpS3dURXB0cWNuWlVWWWU1UkxCQT09  Marc Albert New Home Consultant  Lennar  Marc.Albert@Lennar.com Mobile (509) 680-3297 Spokane, WA",
+                    "sort": 11,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-30",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Our time expired! I'll get right over to the Davenport and send photos shortly. It was a pleasure to speak with you and your Dad. My number is 509-680-3297. I look forward to working with you. Marc",
+                    "sort": 12,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-07-30",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank you very much! I appreciate you answering all of our questions",
+                    "sort": 13,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-08-01",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Jennifer,  Good afternoon. Please see responses in-line  Marc Albert New Home Consultant  [Lennar]<https://www.lennar.com/>  Marc.Albert@Lennar.com<mailto:Marc.Albert@Lennar.com> Mobile (509) 680-3297   Inland Northwest  Agents register your clients at https://lennaragentvip.com/INW/  This e-mail is...",
+                    "sort": 14,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-03",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Here’s the info that you requested.  Marc Albert New Home Consultant  [Lennar]<https://www.lennar.com/>  Marc.Albert@Lennar.com<mailto:Marc.Albert@Lennar.com> Mobile (509) 680-3297   Inland Northwest  Agents register your clients at https://lennaragentvip.com/INW/  This e-mail is not a solicitation,...",
+                    "sort": 15,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "UPDATE! Hello from Lennar Homes! I promised that I would let you know if there were any changes, so here it is!  Have you heard about those high 7.25% rates?  Don't worry, I've got an inside scoop for you. Here at Lennar, we're dropping it down to 5.2",
+                    "sort": 16,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 17,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 18,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Jennifer, \t \tThank you for visiting our beautiful community of Corbin Meadows.  A master planned community of new single-family homes with one-story ramblers, and traditional two story homes selling in Post Falls, ID.  I am with the internet team and we are here to answer questions for you dai...",
+                    "sort": 19,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Jennifer,  Thanks for taking the time to come in this morning. It was the perfect time of day to walk around and get a feel for our homes and the community. Now that you've narrowed down to a Stevenson 3-Car on homesite 111, we can work toward getting you set up in the VIP program. The first step is...",
+                    "sort": 20,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-10",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Jenner,   Callie from Lennar here, we just wanted to check in and see how your tour went of our Corbin Meadows community in Post Falls yesterday?",
+                    "sort": 22,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-12",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Jennifer and Brian,  Congratulations and welcome to LENNAR's VIP program at Corbin Meadows! Please find your VIP certificate attached here. Was there a homesite you would like to reserve? If you are unsure, I'd be happy to help you schedule an appointment to come back to the community and conn...",
+                    "sort": 23,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-13",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "We have homesite 111 – Stevenson 3- Car reserved for you. You can switch homesites at any time. Just reach out to us here on the VIP team or Marc can also help with this.  Congratulations again!  Best regards,  Danielle Parris Internet Sales Consultant [Lennar]<https://www.lennar.com/>  Danielle.Par...",
+                    "sort": 24,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-19",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 25,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-19",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Jennifer, this is Danielle with Lennar Homes. Thank you for booking your self tour at Corbin Meadows today. I wanted to check in to see if you had any questions regarding our Stevenson 3-Car home or your VIP reservation?",
+                    "sort": 26,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-19",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Jennifer VIP, \t \tThank you for visiting our beautiful community of Corbin Meadows.  A master planned community of new single-family homes with one-story ramblers, and traditional two story homes selling in Post Falls, ID.  I am with the internet team and we are here to answer questions for you...",
+                    "sort": 27,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-20",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Jennifer VIP. This is Shardcei   with Lennar Homes Internet team.  I hope your tour went well. I am just reaching out after your appointment to see how it went? If there are any further questions I can help with I am here to assist.  We can also sch",
+                    "sort": 28,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 29,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hi Jennifer VIP Britt! This is a friendly reminder of your phone appointment with Lennar Homes on 09/24/2023 at 2:00 PM with Marc Albert. If you have any questions or need to reschedule, please call or text us back! We will talk soon!",
+                    "sort": 30,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Jennifer,  We’ve updated your reservation to Homesite 616 Stevenson 3-Car at Corbin Meadows.  Best regards,  Danielle Parris Internet Sales Consultant [Lennar]<https://www.lennar.com/>  Danielle.Parris@Lennar.com<mailto:Danielle.Parris@Lennar.com> Mobile 253-528-8860     This e-mail is not a soli...",
+                    "sort": 31,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 32,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 33,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 53,
+                "sale_price": 564950,
+                "sale_title": "Stevenson 3-Car just sold in Corbin Meadows",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.3677506,
+                38.7472724
+              ],
+              "type": "Point"
+            },
+            "id": 442,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 93,
+                    "image_url": "",
+                    "name": "Marchelle Liguori",
+                    "national_rank": 785,
+                    "summary": "           $2,938,444 in sales QTD<br/>0% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3.5 ba",
+                "days_from_completion": "5 days post",
+                "home_size": "       2,579 sqft.",
+                "home_type": "Next Gen",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6433/47712/47712_eleB_lg.jpg",
+                "incentive_percent": 1,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-02-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-02-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-22",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Inbound call"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -5,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 52,
+                "sale_price": 715356,
+                "sale_title": "Residence 2579 just sold in Emilia @ Heritage Placer Vineyards 65's",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Inland",
+            "division_coordinates": [
+              -117.19750994,
+              33.894448864
+            ],
+            "geometry": {
+              "coordinates": [
+                -117.096157947,
+                33.622065158
+              ],
+              "type": "Point"
+            },
+            "id": 437,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 24,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_rosalie_dufresne_lr_jpg",
+                    "name": "Rosalie Dufresne",
+                    "national_rank": 196,
+                    "summary": "           $4,458,441 in sales QTD<br/>0.1% incentives QTD<br/>33% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "123 days prior",
+                "home_size": "       1,599 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6805/58158/58158_eleA_lg.jpg",
+                "incentive_percent": 5,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,

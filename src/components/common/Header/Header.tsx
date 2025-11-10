@@ -249,3 +249,6 @@ const Header = () => {
                       position: 'absolute',
                       left: '50%',
                       top: 20,
+                      transform: 'translateX(-50%)',
+                      overflow: 'hidden'
+                    }}

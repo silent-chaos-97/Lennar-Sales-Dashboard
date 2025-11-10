@@ -30,3 +30,4 @@ export const fetchChartData = async (location: Division) => {
   signal = abortController.signal
 
   try {
+    const res = await axios.get(

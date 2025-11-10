@@ -35,3 +35,4 @@ const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
             {leaders.values.map((leader) => (
               <MemberItem
                 key={leader.name.toLowerCase().replaceAll(' ', '-')}
+                cohort_rank={leader.cohort_rank}

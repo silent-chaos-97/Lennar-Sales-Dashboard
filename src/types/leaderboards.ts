@@ -84,3 +84,4 @@ export interface LeaderboardObj {
 
 export interface LeaderboardsState {
   COHORT: string
+  COHORT_TYPE: string

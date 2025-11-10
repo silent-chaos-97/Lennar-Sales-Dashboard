@@ -69,6 +69,7 @@ export const theme = createTheme({
     },
     h4: {
       fontSize: 28,
+      lineHeight: '34px',
       fontWeight: 800
     },
     h5: {
@@ -288,3 +289,6 @@ export const theme = createTheme({
         root: {
           background: '#fff',
           borderRadius: 12,
+          boxShadow: '0px 2px 4px rgba(31, 31, 35, 0.1)'
+        }
+      }

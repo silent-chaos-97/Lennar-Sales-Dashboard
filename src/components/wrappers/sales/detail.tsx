@@ -169,3 +169,11 @@ const SalesDetails = ({
               {salesDetail.lot_size != 'Not Available' && (
                 <Grid item lg={6} mb={2}>
                   <Typography variant="caption" color="text.secondary">
+                    Lot size
+                  </Typography>
+                  <Typography variant="h3">
+                    {salesDetail.lot_size === 'Not Available' ? '' : salesDetail.lot_size}
+                  </Typography>
+                </Grid>
+              )}
+              <Grid item lg={6} mb={2}>

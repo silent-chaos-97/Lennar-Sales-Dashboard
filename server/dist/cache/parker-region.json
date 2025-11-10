@@ -69923,7 +69923,6 @@
             "activity_time": "2023-10-11 09:55:00.000",
             "sort": 2
           },
-          {
             "activity_status": "Connected",
             "activity_time": "2023-10-11 09:55:00.000",
             "sort": 3
@@ -86280,3 +86279,1057 @@
                     "cohort_rank": 3,
                     "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_amanda_getter_lr_jpg",
                     "name": "Amanda Getter",
+                    "national_rank": 91,
+                    "summary": "          $22,715,426 in sales QTD<br/>144 appointments QTD<br/>9% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 34,
+                    "image_url": "",
+                    "name": "Alex Weems",
+                    "national_rank": 229,
+                    "summary": "           $4,088,849 in sales QTD<br/>17.7% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "5 days post",
+                "home_size": "       2,266 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6421/56753/56753_eleC_lg.jpg",
+                "incentive_percent": 15,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Tyrone,  \t   \tThank you for your interest in Lennar Mortgage.  I am an Internet Sales Consultant with Lennar. I am responding to the registration you completed on the Lennar Mortgage website. Whether you are just starting the process of buying a home, or if you have already purchased and are j...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 42,
+                "sale_price": 377990,
+                "sale_title": "Starling just sold in Brookside - SF",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Chicago",
+            "division_coordinates": [
+              -88.147005926,
+              41.894395371
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.1596012,
+                41.5601772
+              ],
+              "type": "Point"
+            },
+            "id": 214,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 3,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_amanda_getter_lr_jpg",
+                    "name": "Amanda Getter",
+                    "national_rank": 91,
+                    "summary": "          $22,715,426 in sales QTD<br/>144 appointments QTD<br/>9% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 34,
+                    "image_url": "",
+                    "name": "Alex Weems",
+                    "national_rank": 229,
+                    "summary": "           $4,088,849 in sales QTD<br/>17.7% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "5 days post",
+                "home_size": "       2,266 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6421/56753/56753_eleC_lg.jpg",
+                "incentive_percent": 15,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Tyrone,  \t   \tThank you for your interest in Lennar Mortgage.  I am an Internet Sales Consultant with Lennar. I am responding to the registration you completed on the Lennar Mortgage website. Whether you are just starting the process of buying a home, or if you have already purchased and are j...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 41,
+                "sale_price": 377990,
+                "sale_title": "Starling just sold in Brookside - SF",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Maryland",
+            "division_coordinates": [
+              -76.313061212,
+              38.896696978
+            ],
+            "geometry": {
+              "coordinates": [
+                -76.313061212,
+                38.896696978
+              ],
+              "type": "Point"
+            },
+            "id": 210,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 16,
+                    "image_url": "",
+                    "name": "Philip Marcheso",
+                    "national_rank": 131,
+                    "summary": "           $4,946,623 in sales QTD<br/>0% incentives QTD<br/>71% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "97 days post",
+                "home_size": "       1,728 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 40,
+                "sale_price": 312655,
+                "sale_title": "Tyndale Rear Load Garage just sold in Parkeside Preserve MIHU",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Charlotte",
+            "division_coordinates": [
+              -81.287610882,
+              34.859795943
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.9379988,
+                35.0325766
+              ],
+              "type": "Point"
+            },
+            "id": 200,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Jennifer Hendrix",
+                    "national_rank": 32,
+                    "summary": "           $5,094,392 in sales QTD<br/>20.1% incentives QTD<br/>82% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "26 days prior",
+                "home_size": "       2,577 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7672/64730/64730_eleC_lg.jpg",
+                "incentive_percent": 3,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-05-01",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-05-01",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hey Brian...    So good to see you guys today...    I have attached the site map and price list for Shoally Brook.  Let me know if you've narrowed it down to one of the Frosts on 5 or 9?    Would love to get one of these off the market for you.  Let me know how I can help.  Talk soon, enjoy your eve...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hey Brian, I look forward to finalizing your Purchase Agreement and welcoming you to the Lennar family.  Please find attached the covenants and restrictions for Shoally Brook. Please review at your earliest convenience.  You will be receiving two separate DocuSigns emails for the purchase agreement....",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hey Brian, Congratulations, and thank you for choosing to purchase your new home with Lennar at Shoally Brook!! I’m excited for you and I know you’re going to love your new lifestyle here.  I have sent your purchase agreement in for review, approval and ratification.  Attached is your warranty bookl...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 39,
+                "sale_price": 284260,
+                "sale_title": "Frost just sold in Shoally Brook",
+                "sale_type": "Retail",
+                "web_content_score": "4"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Charlotte",
+            "division_coordinates": [
+              -81.287610882,
+              34.859795943
+            ],
+            "geometry": {
+              "coordinates": [
+                -80.953944,
+                34.9887152
+              ],
+              "type": "Point"
+            },
+            "id": 196,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 169,
+                    "image_url": "",
+                    "name": "Elizabeth Hart",
+                    "national_rank": 828,
+                    "summary": "           $2,246,876 in sales QTD<br/>7.1% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 22,
+                    "image_url": "",
+                    "name": "Sejal Patel",
+                    "national_rank": 162,
+                    "summary": "           $3,420,710 in sales QTD<br/>88 appointments QTD<br/>13% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "2 bd/2 ba",
+                "days_from_completion": "6 days prior",
+                "home_size": "       1,520 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7245/61271/61271_eleD_lg.jpg",
+                "incentive_percent": 11,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-07-24",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-07-25",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-07-25",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Rose, this is Sejal with Lennar Homes. Thank you for your interest in our homes! I am happy to assist you with your home search. If I am not mistaken you are interested in our Elizabeth community? Our Elizabeth community has 6 collections and I would love to hear more about what you are looking f...",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-25",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Rose,  \t   \tThanks for your interest in Lennar Homes! I am happy to assist you with your home search. If I am not mistaken you are interested in our Elizabeth community? Our Elizabeth community has 6 collections and I would love to hear more about what you are looking for so I can point you in th...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Could you send more details about the community? I had contacted Cannon, but she hasn't sent anything. I am interested in one story homes.",
+                    "sort": 5,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Rose! Thank you for your response. I would be happy to send you some more information on Elizabeth. I would also be happy to have one of our on-site agents give you a call to answer any questions you may have. Would a call at 1 PM work for you?",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Rose,  Thank you for reaching out today! I have attached our current inventory and pricing as well as our community brochure.  All of our communities can be found easily on Google Maps by searching for “Lennar at [community name]” in case you want to see where the communities are located! Our flo...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "After 5 is better for me. I did contact Cannon, but she has not sent me any information. So, please do send information. And get me in touch with a different sales person. Thank you so much!!",
+                    "sort": 8,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "After 5 is better for me. I did contact Cannon, but she has not sent me any information. So, please do send information about the Elizabeth community. And get me in touch with a different sales person. Thank you so much!!",
+                    "sort": 9,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Rose! Thank you for your response, I would be happy to let our on-site agent know that you are available after 5pm today! I do apologize, I believe Cannon is out of office today. I have sent over the inventory and pricing as well as our digital brochur",
+                    "sort": 11,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Rose, so our  on-site agent can better prepare for your call, do you mind if I ask you 3 questions?",
+                    "sort": 12,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Ok",
+                    "sort": 13,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Thank you, Rose.  1. Do you have a collection in mind? 2. Do you a timeline? 3. Is there a realtor that you would like me to make note of?",
+                    "sort": 14,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "One story. Sometime this year. I will discuss that later.",
+                    "sort": 15,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Rose Graffius! This is a friendly reminder of your phone appointment with Lennar Homes on 07/28/2023 at 5:00 PM with Caitlin Marchillo. If you have any questions or need to please call or text us back! We will talk soon!",
+                    "sort": 16,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Thank you, Rose. I will let Caitlin know. Have a great day!",
+                    "sort": 17,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Rose,Thank you for speaking with me today. Based on our conversation, the Chiffon is the plan that would suite your needs best.This is a one story home, 1500 sq ft, that can be built with two bedrooms and an office, or three bedrooms.The floorplan is attached. Here is a virtual tour: Chiffon: https:...",
+                    "sort": 18,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-29",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Rose, I apologize, I have attached it again, I hope it takes this time! I have listed all current Charlotte area communities below. Click the blue community’s name to open each community brochure! Please let me know if you have any questions!Bell Farm is located in Statesville, NC and offers r...",
+                    "sort": 19,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-29",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Rose!  I hope you are having a great day! Cannon mentioned she spoke with you; she is the best person to answer that! If you need to reach her again, her email address is cannon.walker@lennar.com  Thank you!   All the best, Sejal PatelInternet Sales Coordinator  Sejal.Patel@Lennar.com Mobile 980-...",
+                    "sort": 20,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-01",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-01",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Rose! I have attached our current inventory sheet. Thank you!  All the best, Sejal PatelInternet Sales Coordinator  Sejal.Patel@Lennar.com Mobile 980-920-3039 Office  704-759-6048   This e-mail is not a solicitation, offer, acceptance of an offer, a negotiation or amendment of terms for the sale ...",
+                    "sort": 22,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-03",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 23,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-08-21",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 24,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-22",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Rose, Thank you again for stopping in last night, it was a pleasure meeting you.  Here is the updated inventory sheet.  Please deduct the incentive from the listed price.  I will call after 1:30.  Karl Zoller New Home Consultant Horizons Cell (843)532-3964  karl.zoller@lennar.com",
+                    "sort": 25,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-24",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 26,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-08-29",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Rose, I hope all is well. I have attached this weeks inventory and incentives which include rates of 5.75% for VA/FHA, and 5.99% conventional.  Please note there are qualifications you must meet for the financing promotion. Deduct the incentive from the listed price for discounted price. Please reac...",
+                    "sort": 27,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-06",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Rose, I hope all is well. I have attached this weeks inventory and incentives which include rates of 5.75% for VA/FHA, and 5.99% conventional.  Please note there are qualifications you must meet for the financing promotion. Deduct the incentive from the listed price for discounted price. Please reac...",
+                    "sort": 28,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-12",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Rose, I hope all is well. I have attached this weeks inventory and incentives which include rates of 5.75% for VA/FHA, and 5.99% conventional.  Please note there are qualifications you must meet for the financing promotion. Deduct the incentive from the listed price for discounted price. Please reac...",
+                    "sort": 29,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-27",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Rose, Here are the HOA documents as well as the warranty info.  Karl Zoller New Home Consultant Horizons Cell (843)532-3964  karl.zoller@lennar.com",
+                    "sort": 30,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "cancellation",
+                    "actor_type": "red",
+                    "body": "",
+                    "sort": 31,
+                    "title": "Cancellation"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 32,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 33,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 34,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Good Afternoon, Rose! Please see attached current, detailed Elizabeth (Ft. Mill) inventory! I’ve also included our digital brochure bellow for you to view. I hope you have a great night!  Elizabeth Digital Brochure:https://www.lennar.com/new-homes/south-carolina/charlotte/fort-mill/elizabeth/brochur...",
+                    "sort": 35,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Hailey, Thank you so much. I haven't heard from anyone yet but am hoping tomorrow someone will contact me. If not, is there someone else I can reach out to? Thank you. Rose On Mon, Oct 9, 2023 at 5:?25 PM Hailey Altman <hailey.?altman@?lennar.?com>          ZjQcmQRYFpfptBannerStart               \t  ...",
+                    "sort": 36,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Good Morning, Rose! Management is aware of the situation, and will be in contact at their earliest convenience.  Thanks for your patience!  Hailey AltmanInternet Sales Coordinator  Hailey.Altman@Lennar.com Office 704-565-0602Friday and Saturday contact: Lennarcharlotte@lennar.com | (704) 759-6048Mee...",
+                    "sort": 37,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello!  It was nice talking with you both.  I wanted to let you know that I have sent out the link for the deposit and your docusign.  We need both back by 8pm so we can officially take it off the market.  Please let me know if you have any questions.  Next step once everything is signed is to set u...",
+                    "sort": 38,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 40,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Dear Rose,    Congratulations on the purchase of your new Lennar home.   I am contacting you to schedule your New Home Orientation (NHO) and your Celebration Walk appointments.  During your NHO, an associate will walk through your home to explain in detail the different functions of your home, care ...",
+                    "sort": 39,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 2.5,
+                "sale_cohort_rank": 38,
+                "sale_price": 405999,
+                "sale_title": "Chiffon just sold in Elizabeth Orchards",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Indianapolis",
+            "division_coordinates": [
+              -86.13181895,
+              39.882810671
+            ],
+            "geometry": {
+              "coordinates": [
+                -85.960135294,
+                39.839662479
+              ],
+              "type": "Point"
+            },
+            "id": 189,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 48,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_margaret_scottlr_jpg",
+                    "name": "Margaret Scott",
+                    "national_rank": 355,
+                    "summary": "           $2,893,362 in sales QTD<br/>5.9% incentives QTD<br/>90% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 42,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_amy_eritanolr_jpg",
+                    "name": "Amy Eritano",
+                    "national_rank": 207,
+                    "summary": "           $3,503,985 in sales QTD<br/>42 appointments QTD<br/>13% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "34 days prior",
+                "home_size": "       2,011 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6694/62054/62054_eleB0_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Margaret ScottSenior New Home Consultant Loudoun Place  317-716-1148Margaret.Scott@Lennar.com 11555 N. Meridian Street, Suite 400Carmel, IN 46032",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Congratulations!  Attached are the Covenants for the community. Hold on to this email as these are guidelines for the community.   Take care,  Margaret ScottSenior New Home Consultant317-716-1148",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Inbound call"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 37,
+                "sale_price": 299000,
+                "sale_title": "Broadmoor just sold in Loudoun Place Venture",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Maryland",
+            "division_coordinates": [
+              -76.313061212,
+              38.896696978
+            ],
+            "geometry": {
+              "coordinates": [
+                -77.08224382,
+                38.63760716
+              ],
+              "type": "Point"
+            },
+            "id": 188,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 39,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_wayne_bill_lr_jpg",
+                    "name": "Wayne Bill",
+                    "national_rank": 274,
+                    "summary": "           $4,497,084 in sales QTD<br/>0.9% incentives QTD<br/>82% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "Not Available",
+                "home_size": "       2,398 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6295/59618/59618_eleSI_lg.png",
+                "incentive_percent": 3,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-04",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "NewHomeSource lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-05",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Frank,  \t   \tThank you for your interest in a Lennar home! My name is Darian, and I’m delighted to assist you with Bryans Village located in Bryans Road.  \t   \tWe would love for you to tour our community and model homes!  \tYou’re welcome to reply to this email or simply click >> Schedule My Vi...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-05",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Frank, this is Darian from Lennar Homes. I wanted to follow up and see if you had a chance to review the information on Bryans Village that I sent over. I'll be giving you a call after 10am today to discuss your home search and see if you have any othe",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-05",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Hello Darian. Okay thank you",
+                    "sort": 4,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-05",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 5,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-09-05",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Frank, I found out that the special assessment is $750 for the year. Our new home consultant can dive deeper on Friday! Best of luck and I hope you enjoy the community. It's gorgeous.",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-05",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Frank,  \t   \tYou are scheduled to meet with Wayne Bill, our New Home Consultant for Bryans Village on Friday at 4:00PM.   \t   \tI have copied Wayne on this email and provided his information below.  \t   \tThe Welcome Home Center address is:   \t6990 Farragut Drive, Bryans Road, MD 20616  \t   \tThi...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-05",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Dear Frank,  \t   \tWe understand that buying a new home is a big investment. We would like to ease your mind by knowing that our affiliated mortgage company, Lennar Mortgage is here to help you.  \t \tBecause every individual’s situation is unique, Lennar Mortgage will need a little information from yo...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Frank! We're excited to see you for your tour of Bryans Village Single Family 09/08/2023 at 4:00 PM with Wayne Bill. The Welcome Home Center is located at 6990 Farragut Drive, Bryans Road, MD 20616. See you soon!",
+                    "sort": 9,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Frank!, This is a friendly reminder that your tour of Bryans Village Single Family with Wayne Bill is scheduled for tomorrow, Friday at 4:00 PM. The Welcome Home Center is located at 6990 Farragut Drive, Bryans Road, MD 20616. If you need to change",
+                    "sort": 10,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-11",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Frank,   \t   \t   \tJennifer Casey is a loan officer with Lennar Mortgage and will be happy to assist you with questions about financing your new home.   \t   \t   \t \t \t \t \t \t \tJennifer Casey: 301-300-6945 \t \t \tE: JenniferCasey@LennarMortgage.com \t \t \t  \t   \tClick to view>> Affiliate Business Arra...",
+                    "sort": 11,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-11",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-09-18",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-21",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 14,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-09-22",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-22",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 16,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-22",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Linda and Frank -    As a follow-up to our meeting and discussion, I recommend that we have Linda apply on-line with Lennar Mortgage and Jennifer, my loan officer, can combine that application with the one she already has for Frank and that should open up even more possibilities for floorplans an...",
+                    "sort": 17,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-01",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Frank and Linda - \t \tCongratulations on the purchase of your new home! Thank you so much for choosing Lennar to build your next home. We look forward to welcoming you to Bryans Village Single Family. I am so happy for you and excited to share in this journey. \t \tI have attached a PDF of our sales...",
+                    "sort": 18,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-01",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "I just wanted to let you know that I just sent you a DocuSign revision to correct the loan type to Conventional.  I mistakenly sent the contract out as an FHA loan, but Jennifer has you approved with a Conventional loan.     Please complete the DocuSign revision as well as the contract, as we will n...",
+                    "sort": 19,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Frank and Linda -    I wanted to update you both that I am in receipt of your initial earnest deposit.  Thank you for processing that.  I also see in our system that Frank has completed the two DocuSign envelopes that I had sent.  It doesn't appear that Linda has opened them yet.  I resent them t...",
+                    "sort": 20,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 6,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 36,
+                "sale_price": 644090,
+                "sale_title": "Portfield just sold in Bryans Village Signature Collection",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",

@@ -278,3 +278,6 @@ const CenterPane = () => {
     setSvgSize(null)
     setActiveDot(null)
     const svg = document.getElementById('triangleSvg')
+    if (svg) svg.innerHTML = ''
+  }
+

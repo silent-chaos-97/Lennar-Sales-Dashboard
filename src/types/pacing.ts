@@ -45,3 +45,8 @@ interface SubCohortMap {
   sub_cohort_array: SubCohortItem[]
 }
 
+export interface PacingState extends Cohort {
+  CHANGE_NEEDED_TO_MEET_PACE: number
+  CURRENT_WEEK_PREDICTION: number
+  DBT_UPDATED_AT: string
+  NEXT_3W_PACE: number

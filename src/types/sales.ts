@@ -53,3 +53,4 @@ export interface DetailSalesItems {
   properties: {
     cluster: boolean
     sales: SalesItem
+  }

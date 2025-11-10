@@ -50168,7 +50168,6 @@
             "activity_time": "2023-10-12 08:40:00.000",
             "sort": 3
           },
-          {
             "activity_status": "Connected",
             "activity_time": "2023-10-12 08:50:00.000",
             "sort": 1
@@ -88898,3 +88897,388 @@
                     "sort": 14,
                     "title": "ISC text"
                   },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 15,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hello Ramses!, This is a friendly reminder that your tour of Grand Texas 50' Wildflower II with Ana Guzman is scheduled for tomorrow, Tuesday at 2:00 PM. The Welcome Home Center is located at 17723 Sapphire Pines Dr, New Caney, TX 77357. If you need to ch",
+                    "sort": 16,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hi Ramses! We're excited to see you for your tour of Grand Texas 50' Wildflower II 10/10/2023 at 2:00 PM with Ana Guzman. The Welcome Home Center is located at 17723 Sapphire Pines Dr, New Caney, TX 77357. See you soon!",
+                    "sort": 17,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 19,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -14,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 16,
+                "sale_price": 275000,
+                "sale_title": "Hanover II just sold in Ladera Creek 50'",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "Dallas/Ft Worth",
+            "division_coordinates": [
+              -96.865064017,
+              33.003071631
+            ],
+            "geometry": {
+              "coordinates": [
+                -96.8907522,
+                33.306187
+              ],
+              "type": "Point"
+            },
+            "id": 90,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 174,
+                    "image_url": "",
+                    "name": "Sheryl Stitts",
+                    "national_rank": 735,
+                    "summary": "           $1,880,461 in sales QTD<br/>1% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 5,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_shanna_powell_lr_jpg",
+                    "name": "Shanna Powell",
+                    "national_rank": 10,
+                    "summary": "          $16,502,742 in sales QTD<br/>266 appointments QTD<br/>15% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "77 days post",
+                "home_size": "       1,491 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6934/59196/59196_eleB_lg.png",
+                "incentive_percent": 1,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 14,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 15,
+                "sale_price": 284999,
+                "sale_title": "Red Oak just sold in Mobberly Cottage",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "San Antonio",
+            "division_coordinates": [
+              -98.427076386,
+              29.430584066
+            ],
+            "geometry": {
+              "coordinates": [
+                -98.486682,
+                29.286444
+              ],
+              "type": "Point"
+            },
+            "id": 78,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 144,
+                    "image_url": "",
+                    "name": "Marcus Davis",
+                    "national_rank": 577,
+                    "summary": "           $1,353,594 in sales QTD<br/>11.4% incentives QTD<br/>71% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "63 days prior",
+                "home_size": "       1,910 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/1443/40464/40464_eleG_lg.png",
+                "incentive_percent": 7,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 2,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 14,
+                "sale_price": 290999,
+                "sale_title": "Huxley just sold in Mission Del Lago",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "Houston",
+            "division_coordinates": [
+              -95.508826877,
+              29.876363839
+            ],
+            "geometry": {
+              "coordinates": [
+                -95.416544167,
+                30.3060365
+              ],
+              "type": "Point"
+            },
+            "id": 77,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 127,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jim_speier_lr_jpg",
+                    "name": "Jim Speier",
+                    "national_rank": 472,
+                    "summary": "           $2,443,537 in sales QTD<br/>14% incentives QTD<br/>50% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "14 days post",
+                "home_size": "       2,086 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/2651/55751/55751_eleC_lg.jpg",
+                "incentive_percent": 18,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -10,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 13,
+                "sale_price": 285000,
+                "sale_title": "Hanover II just sold in Ladera Creek 50'",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "Houston",
+            "division_coordinates": [
+              -95.508826877,
+              29.876363839
+            ],
+            "geometry": {
+              "coordinates": [
+                -94.991248009,
+                29.835450032
+              ],
+              "type": "Point"
+            },
+            "id": 76,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 7,
+                    "image_url": "",
+                    "name": "Jimmy Zaid",
+                    "national_rank": 14,
+                    "summary": "           $5,703,548 in sales QTD<br/>12.7% incentives QTD<br/>84% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 4,
+                    "image_url": "",
+                    "name": "Belinda Wallace",
+                    "national_rank": 9,
+                    "summary": "          $11,257,950 in sales QTD<br/>269 appointments QTD<br/>18% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "34 days prior",
+                "home_size": "       2,386 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7210/64201/64201_eleB_lg.jpg",
+                "incentive_percent": 17,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -14,
+                "realtor_commission": 1.5,
+                "sale_cohort_rank": 12,
+                "sale_price": 300000,
+                "sale_title": "Cabot II just sold in Sterling Point 60' FW",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "San Antonio",
+            "division_coordinates": [
+              -98.427076386,
+              29.430584066
+            ],
+            "geometry": {
+              "coordinates": [
+                -98.4077224,
+                29.2786082
+              ],
+              "type": "Point"
+            },
+            "id": 73,
+            "properties": {
+              "cluster": false,
+              "sales": {

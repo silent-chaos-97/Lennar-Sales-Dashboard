@@ -166,3 +166,5 @@ export const StateProvider = (props: PropsWithChildren) => {
     fetchTheMetrics()
   }, [])
 
+  useEffect(() => {
+    refreshData()

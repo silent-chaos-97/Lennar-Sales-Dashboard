@@ -8,6 +8,7 @@ import { SubRegion } from '@/types/cohort'
 
 interface SelectMenuItemProps {
   item: SubRegion
+  onSelectMenu: (menu: SubRegion) => void
 }
 
 const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
@@ -22,7 +23,6 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
         )}
         <ListItemText
           primary={item.name}
-          color="grey.300"
           sx={{
             fontSize: 24,
             lineHeight: 2,
@@ -43,3 +43,4 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
               <ListItemText
                 primary={d.name}
                 sx={{
+                  fontSize: 24,

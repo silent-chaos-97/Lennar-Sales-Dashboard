@@ -120,6 +120,8 @@ export const Section = ({
               direction="row"
               alignItems="center"
               onClick={() => setShowTimestampDropdown(true)}
+              sx={{
                 cursor: timestampList ? 'pointer' : 'default',
                 pointerEvents: timestampList ? 'auto' : 'none'
               }}
+            >

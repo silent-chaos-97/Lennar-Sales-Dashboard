@@ -9,6 +9,7 @@ import { useAppState } from '@/contexts/StateContext'
 interface AssociateMemberCard {
   member: AssociateArrayItem
 }
+
 const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
   const { currentCohort } = useAppState()
   return (
@@ -59,3 +60,4 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
             {member.name.split(' ')[0][0] + member.name.split(' ')[1][0]}
           </Typography>
         </Avatar>
+        <Chip

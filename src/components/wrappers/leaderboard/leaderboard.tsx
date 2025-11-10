@@ -56,7 +56,6 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
     if (!leaderboardData) return []
 
     return leaderboardData[activeCategory][activeTimestamp]
-  }, [leaderboardData, categoryList, activeTimestamp, activeCategory])
 
   useEffect(() => {
     setDisablePrevNext([!activeIdx, activeIdx === leaderboardItems.length - 1])
@@ -103,3 +102,4 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
               currentCohort={currentCohort}
               activeIdx={activeIdx}
               handleClickDetail={handleClickDetail}
+            />

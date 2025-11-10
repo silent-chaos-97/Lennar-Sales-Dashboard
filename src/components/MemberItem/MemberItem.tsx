@@ -63,3 +63,4 @@ const MemberItem = ({
         src={imageSrc}
       >
         <Typography fontSize={28} fontWeight={700}>
+          {name.split(' ')[0][0] + name.split(' ')[1][0]}

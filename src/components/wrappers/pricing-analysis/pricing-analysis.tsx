@@ -66,6 +66,7 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
               <Typography variant="h3" fontWeight={700}>
                 ${(data?.lennar_prices?.percentile_50 || 0).toLocaleString()}
               </Typography>
+              {priceChanges.lennar !== 0 && (
                 <>
                   {priceChanges.lennar > 0 ? (
                     <NorthEastIcon color="success" />
@@ -106,3 +107,5 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
               )}
               <Typography variant="subtitle1" color={diffColor(priceChanges.new)} fontWeight={700}>
                 {priceChanges.new}%
+              </Typography>
+            </Stack>

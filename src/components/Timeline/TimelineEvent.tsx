@@ -67,3 +67,4 @@ const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
           mr: 1
         }}
       >
+        {icons[event.activity_type as keyof typeof icons]}

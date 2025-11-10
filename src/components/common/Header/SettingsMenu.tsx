@@ -161,6 +161,7 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
                 <option value={540}>9 min</option>
                 <option value={600}>10 min</option>
               </Select>
+            </Stack>
           </Box>
           <Box flex={1} mr={1}>
             <Stack alignItems="flex-start" spacing={1} mb={3.5}>
@@ -179,7 +180,6 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
               <FormControlLabel value={ScreenMode.desktop} control={<Radio />} label="Desktop" />
               <FormControlLabel
                 value={ScreenMode.triple_monitor}
-                control={<Radio />}
                 label="3 TVs"
               />
             </RadioGroup>
