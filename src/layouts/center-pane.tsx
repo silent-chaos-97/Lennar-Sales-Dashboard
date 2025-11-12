@@ -281,3 +281,6 @@ const CenterPane = () => {
     if (svg) svg.innerHTML = ''
   }
 
+  useEffect(() => {
+    if (selectedSalesItems !== null) {
+      if (selectedSalesItems[clusterIndex]?.properties?.sales) {

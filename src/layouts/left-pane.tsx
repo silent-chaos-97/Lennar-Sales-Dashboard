@@ -33,6 +33,7 @@ const LeftPane = () => {
   return (
     <Box width={1888} position="relative">
       <Grid container spacing={8} pt={4}>
+        <Grid item lg={9}>
           <Section
             title="Current activity"
             more={
@@ -52,3 +53,4 @@ const LeftPane = () => {
               <Grid item lg={4}>
                 <Leads data={selectedActivity} activityTimeframe={activityTimeframe} />
               </Grid>
+              <Grid item lg={8}>

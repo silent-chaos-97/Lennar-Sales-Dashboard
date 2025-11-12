@@ -8087,7 +8087,6 @@
                 "realtor_attachment_rate_division_rank": 13,
                 "realtor_attachment_rate_national_rank": 616,
                 "realtor_commission_rate": 1.1
-              },
               "summary": "100% appointments kept"
             },
             {
@@ -28624,6 +28623,7 @@
                   },
                   {
                     "x_axis": "Oct 02",
+                    "y_axis": 1
                   },
                   {
                     "x_axis": "Oct 09",
@@ -32866,3 +32866,128 @@
                   "y_axis": 2
                 },
                 {
+                  "x_axis": "Sep 18",
+                  "y_axis": 0
+                },
+                {
+                  "x_axis": "Sep 25",
+                  "y_axis": 1
+                },
+                {
+                  "x_axis": "Oct 02",
+                  "y_axis": 1
+                },
+                {
+                  "x_axis": "Oct 09",
+                  "y_axis": 0
+                }
+              ],
+              "gross_sales": 6,
+              "gross_sales_division_rank": 6,
+              "gross_sales_national_rank": 644,
+              "incentive_rate": 0,
+              "net_revenue": 8672894,
+              "net_revenue_division_rank": 2,
+              "net_revenue_national_rank": 38,
+              "net_revenue_percent_change": 120,
+              "net_sales": 5,
+              "realtor_attachment_rate": 17,
+              "realtor_attachment_rate_division_rank": 4,
+              "realtor_attachment_rate_national_rank": 76,
+              "realtor_commission": 10000,
+              "realtor_commission_rate": 0.1
+            },
+            "summary": "6 gross sales"
+          },
+          {
+            "cohort_rank": 7,
+            "division_name": "San Diego",
+            "image_url": "",
+            "name": "Wren Swain",
+            "national_rank": 668,
+            "pop_out_details": {
+              "appointments_kept_rate": 52,
+              "days_since_last_sale": 26,
+              "graph_data": [
+                {
+                  "x_axis": "Jul 10",
+                  "y_axis": 0
+                },
+                {
+                  "x_axis": "Jul 17",
+                  "y_axis": 3
+                },
+                {
+                  "x_axis": "Jul 24",
+                  "y_axis": 0
+                },
+                {
+                  "x_axis": "Jul 31",
+                  "y_axis": 1
+                },
+                {
+                  "x_axis": "Aug 14",
+                  "y_axis": 0
+                },
+                {
+                  "x_axis": "Aug 21",
+                  "y_axis": 2
+                },
+                {
+                  "x_axis": "Aug 28",
+                  "y_axis": 1
+                },
+                {
+                  "x_axis": "Sep 04",
+                  "y_axis": 2
+                },
+                {
+                  "x_axis": "Sep 11",
+                  "y_axis": 3
+                },
+                {
+                  "x_axis": "Sep 18",
+                  "y_axis": 0
+                },
+                {
+                  "x_axis": "Sep 25",
+                  "y_axis": 0
+                },
+                {
+                  "x_axis": "Oct 02",
+                  "y_axis": 0
+                },
+                {
+                  "x_axis": "Oct 09",
+                  "y_axis": 0
+                }
+              ],
+              "gross_sales": 6,
+              "gross_sales_division_rank": 7,
+              "gross_sales_national_rank": 668,
+              "incentive_rate": 0,
+              "net_revenue": 7674895,
+              "net_revenue_division_rank": 3,
+              "net_revenue_national_rank": 59,
+              "net_revenue_percent_change": 36,
+              "net_sales": 4,
+              "realtor_attachment_rate": 50,
+              "realtor_attachment_rate_division_rank": 10,
+              "realtor_attachment_rate_national_rank": 256,
+              "realtor_commission": 45000,
+              "realtor_commission_rate": 0.6
+            },
+            "summary": "6 gross sales"
+          },
+          {
+            "cohort_rank": 8,
+            "division_name": "San Diego",
+            "image_url": "",
+            "name": "Cody Brown",
+            "national_rank": 758,
+            "pop_out_details": {
+              "appointments_kept_rate": 86,
+              "days_since_last_sale": 9,
+              "graph_data": [
+                {
+                  "x_axis": "Jul 10",

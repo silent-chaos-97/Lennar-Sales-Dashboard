@@ -252,3 +252,5 @@ const Header = () => {
                       transform: 'translateX(-50%)',
                       overflow: 'hidden'
                     }}
+                    boxShadow={1}
+                    borderRadius={1}

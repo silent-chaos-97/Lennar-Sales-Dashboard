@@ -38,7 +38,6 @@ const List = ({ list, choose, showList }: ListProps) => {
     showList(false)
   }
   return (
-    <Box
       sx={{
         position: 'absolute',
         px: 2,

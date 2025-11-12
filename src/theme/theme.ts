@@ -292,3 +292,6 @@ export const theme = createTheme({
           boxShadow: '0px 2px 4px rgba(31, 31, 35, 0.1)'
         }
       }
+    },
+    MuiRadio: {
+      styleOverrides: {

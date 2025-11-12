@@ -119,3 +119,4 @@ export const TimerProvider = (props: PropsWithChildren) => {
       setCycleTimerProgress,
       setCycleTimeout,
       setIdleTimerProgress,
+      setIdleTimeout,

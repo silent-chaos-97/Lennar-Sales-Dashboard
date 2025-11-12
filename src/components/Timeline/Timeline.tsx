@@ -65,3 +65,4 @@ const Timeline = ({ journeyData }: TimelineProps) => {
       </AccordionSummary>
       <AccordionDetails sx={{ p: 0 }}>
         <Box>
+          <Scrollbar noScrollX style={{ height: 1000, width: '100%' }}>

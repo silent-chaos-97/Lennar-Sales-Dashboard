@@ -125,3 +125,4 @@ export const Section = ({
                 pointerEvents: timestampList ? 'auto' : 'none'
               }}
             >
+              <Typography variant="caption" color="textSecondary">

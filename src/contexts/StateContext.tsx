@@ -168,3 +168,5 @@ export const StateProvider = (props: PropsWithChildren) => {
 
   useEffect(() => {
     refreshData()
+  }, [currentCohort])
+

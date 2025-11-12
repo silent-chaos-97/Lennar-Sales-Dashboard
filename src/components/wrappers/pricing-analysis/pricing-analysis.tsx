@@ -58,7 +58,6 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
                   {truncateText(
                     `${divisionName ? divisionName : currentCohort.name} median price`,
                     35
-                  )}
                 </DataAlert>
               </Typography>
             </CustomTooltip>

@@ -180,6 +180,7 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
               <FormControlLabel value={ScreenMode.desktop} control={<Radio />} label="Desktop" />
               <FormControlLabel
                 value={ScreenMode.triple_monitor}
+                control={<Radio />}
                 label="3 TVs"
               />
             </RadioGroup>

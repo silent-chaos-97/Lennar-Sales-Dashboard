@@ -102,3 +102,4 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
               fontWeight={700}
               mb={-1.5}
               color="rgba(255, 255, 255, 0.67)"
+            >

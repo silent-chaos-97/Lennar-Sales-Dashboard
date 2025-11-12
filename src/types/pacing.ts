@@ -43,7 +43,6 @@ interface SubCohortMap {
   map_summary: string
   map_title: string
   sub_cohort_array: SubCohortItem[]
-}
 
 export interface PacingState extends Cohort {
   CHANGE_NEEDED_TO_MEET_PACE: number

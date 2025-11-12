@@ -107,3 +107,4 @@ const IndicatorBarChart = ({
         .tickFormat((d) => {
           const [month, day] = d.split(' ')
           return `${month} ${parseInt(day, 10)}`
+        })

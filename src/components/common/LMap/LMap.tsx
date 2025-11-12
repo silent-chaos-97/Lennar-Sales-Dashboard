@@ -45,3 +45,4 @@ const LMap: React.FC<LMapProps> = ({
     <Map
       initialViewState={{
         ...mapViewState
+      }}

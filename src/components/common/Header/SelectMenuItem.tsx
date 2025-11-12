@@ -23,6 +23,7 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
         )}
         <ListItemText
           primary={item.name}
+          color="grey.300"
           sx={{
             fontSize: 24,
             lineHeight: 2,

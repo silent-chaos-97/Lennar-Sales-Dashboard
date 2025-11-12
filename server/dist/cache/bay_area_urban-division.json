@@ -869,6 +869,7 @@
         ],
         "TOTAL_CALLS": 0,
         "TOTAL_CALLS_PERCENT_CHANGE": null,
+        "TOTAL_CHATS_TEXTS": 0,
         "TOTAL_CHATS_TEXTS_PERCENT_CHANGE": null,
         "APPOINTMENTS_SET": 1,
         "APPOINTMENTS_SET_PERCENT_CHANGE": 0,
@@ -1104,7 +1105,6 @@
               "y_axis": 0
             },
             {
-              "sort": 4,
               "x_axis": "Oct 12",
               "y_axis": 719000
             }
@@ -1149,3 +1149,11 @@
               "sort": 2,
               "x_axis": "Sep 28",
               "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 0
+            },
+            {
+              "sort": 4,

@@ -77,3 +77,4 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
         .selectAll('.tick text')
         .style('fill', (d) => (d === currentMonday ? '#fff' : '#70747A'))
 
+      const yAxis = d3

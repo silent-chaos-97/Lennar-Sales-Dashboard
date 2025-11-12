@@ -28449,3 +28449,226 @@
           "goal_value": 75,
           "missed": 18,
           "percent_value": 78
+        },
+        "SALES_WITH_ISC_ATTACHED": {
+          "color": "green",
+          "goal_value": 75,
+          "percent_value": 85
+        },
+        "LEADS_WITH_TRIFECTA": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 99
+        },
+        "LEADS_WITH_FOLLOWUP": {
+          "color": "green",
+          "goal_value": 80,
+          "percent_value": 100
+        },
+        "BEBACKS_WITH_FOLLOWUP": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 100
+        },
+        "DBT_UPDATED_AT": "2023-10-12 17:55:58.556"
+      },
+      "MTD": {
+        "COHORT": "Philly Metro",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "MTD",
+        "INBOUND_CALLS_ANSWERED": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 95
+        },
+        "INBOUND_CHATS_ANSWERED": {
+          "color": "red",
+          "goal_value": 90,
+          "percent_value": 56
+        },
+        "LEADS_WITH_APPOINTMENT_SET": {
+          "color": "green",
+          "goal_value": 13,
+          "percent_value": 17
+        },
+        "APPOINTMENTS_KEPT": {
+          "color": "green",
+          "goal_value": 75,
+          "missed": 24,
+          "percent_value": 78
+        },
+        "SALES_WITH_ISC_ATTACHED": {
+          "color": "green",
+          "goal_value": 75,
+          "percent_value": 89
+        },
+        "LEADS_WITH_TRIFECTA": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 98
+        },
+        "LEADS_WITH_FOLLOWUP": {
+          "color": "green",
+          "goal_value": 80,
+          "percent_value": 100
+        },
+        "BEBACKS_WITH_FOLLOWUP": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 91
+        },
+        "DBT_UPDATED_AT": "2023-10-12 17:55:58.556"
+      },
+      "QTD": {
+        "COHORT": "Philly Metro",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "QTD",
+        "INBOUND_CALLS_ANSWERED": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 91
+        },
+        "INBOUND_CHATS_ANSWERED": {
+          "color": "red",
+          "goal_value": 90,
+          "percent_value": 70
+        },
+        "LEADS_WITH_APPOINTMENT_SET": {
+          "color": "green",
+          "goal_value": 13,
+          "percent_value": 17
+        },
+        "APPOINTMENTS_KEPT": {
+          "color": "green",
+          "goal_value": 75,
+          "missed": 84,
+          "percent_value": 76
+        },
+        "SALES_WITH_ISC_ATTACHED": {
+          "color": "green",
+          "goal_value": 75,
+          "percent_value": 92
+        },
+        "LEADS_WITH_TRIFECTA": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 98
+        },
+        "LEADS_WITH_FOLLOWUP": {
+          "color": "green",
+          "goal_value": 80,
+          "percent_value": 97
+        },
+        "BEBACKS_WITH_FOLLOWUP": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 90
+        },
+        "DBT_UPDATED_AT": "2023-10-12 17:55:58.556"
+      }
+    },
+    "current_activity_timeframe": {
+      "yesterday": {
+        "COHORT": "Philly Metro",
+        "COHORT_TYPE": "division",
+        "CALLS_TICKER_ARRAY": [
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-11 08:05:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 08:40:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 08:55:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-11 09:05:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:20:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:20:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:25:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:25:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:25:00.000",
+            "sort": 3
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:40:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:40:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:40:00.000",
+            "sort": 3
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:40:00.000",
+            "sort": 4
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-11 09:45:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:45:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:50:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 10:00:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 10:05:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 10:05:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-11 10:15:00.000",
+            "sort": 1
+          },

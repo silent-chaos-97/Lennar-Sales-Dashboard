@@ -69923,6 +69923,7 @@
             "activity_time": "2023-10-11 09:55:00.000",
             "sort": 2
           },
+          {
             "activity_status": "Connected",
             "activity_time": "2023-10-11 09:55:00.000",
             "sort": 3
@@ -87333,3 +87334,688 @@
             },
             "region": "Parker",
             "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Maryland",
+            "division_coordinates": [
+              -76.313061212,
+              38.896696978
+            ],
+            "geometry": {
+              "coordinates": [
+                -75.3289541,
+                38.5965936
+              ],
+              "type": "Point"
+            },
+            "id": 187,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 44,
+                    "image_url": "",
+                    "name": "Heidi Vandenberg",
+                    "national_rank": 323,
+                    "summary": "           $3,522,458 in sales QTD<br/>7.1% incentives QTD<br/>70% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 9,
+                    "image_url": "",
+                    "name": "Darian Robinson",
+                    "national_rank": 112,
+                    "summary": "           $5,816,170 in sales QTD<br/>122 appointments QTD<br/>10% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.0 ba",
+                "days_from_completion": "30 days prior",
+                "home_size": "       2,401 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/4958/44856/44856_eleCO_lg.jpg",
+                "incentive_percent": 7,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Bing SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello David,  \t   \tWelcome to Lennar, and thank you for the opportunity to share additional details for our new home communities in Sussex County, Delaware. We are delighted to assist you with your home search and would love for you to take a closer look at our communities.  \t   \tClick to view homes...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "www.lennarmortgage.com/lauraortiz  Heidi VandenbergNew Home ConsultantPlantation Lakesm: 443-977-7594a:36007 Auburn Way Millsboro, DE 19966w:plantationlakesde.com  e: Heidi.Vandenberg@Lennar.com      Laura OrtizLoan OfficerNMLS 159310635046 Wright WayMillsboro, DE 19966o: 302.416.4808c: 302.493.9536...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "We are excited! Thank you for all your help In the folder we took home, there are specs on the designer package and the amenities, but no paper specifically on the Jessup. Is there a floor plan you could send that would have the room measurements,          ZjQcmQRYFpfptBannerStart               \t  \t...",
+                    "sort": 5,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi David and Susan,   Congratulations on your new home purchase in Plantation Lakes!  My name is Lisa Greger, I am your Lennar Homebuyer Concierge, here to guide you through your home closing journey. I’ll be staying in close contact to remind you of key milestones and help make this an enjoyable an...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Dave and Sue, Congratulations on your brand-new Lennar Home! I have attached the blank pdf unsigned contract to this email for you to have on file and review . The DocuSign is coming to your email shortly please sign as soon as possible so we wont have any obstacles with the 4.99 rate . There is a s...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 14,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 35,
+                "sale_price": 419290,
+                "sale_title": "Jessup Slab just sold in North Shore Cottage",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Maryland",
+            "division_coordinates": [
+              -76.313061212,
+              38.896696978
+            ],
+            "geometry": {
+              "coordinates": [
+                -76.939705833,
+                38.557107667
+              ],
+              "type": "Point"
+            },
+            "id": 186,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 129,
+                    "image_url": "",
+                    "name": "Sam Greer",
+                    "national_rank": 705,
+                    "summary": "           $3,224,465 in sales QTD<br/>0% incentives QTD<br/>83% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "30 days prior",
+                "home_size": "       1,592 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6818/58600/58600_eleSI_lg.png",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-08-14",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Anita  Attached please find a link to the Parkland Villa HOA Disclosure for your review.  You may want to save them on your computer for future reference.  It will take several minutes for this document to download.  Please do not hesitate to contact me with any questions.  Kindest regards,  Sam Gre...",
+                    "sort": 47,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-15",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Dear Anita, \t \tMy name is Oliviah Surratt, your Homebuyer Concierge. I am the liaison between your New Home Consultant, the construction team, and the home closing team. I will guide you throughout the home closing journey, reminding you of upcoming milestones and collecting the necessary documents ...",
+                    "sort": 48,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Hello Sam, Hope all is well with you.?  I just want to check on the status of the contract?  Let me know if you need anything from me. -- Warm Regards, Dr. Anita Payne, LCSW 'Happiness is not made by what we own. It is what we share.?'          ZjQcmQRYFpfptBannerStart               \t  \t This Messag...",
+                    "sort": 49,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-19",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Anita  Attached please find the Parklands HOA for your review.  Please save this document on your computer for future reference.  Since this is a large document, it will take several minutes for it to open.  Kindest regards,  Sam Greer Lennar Homes",
+                    "sort": 50,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-06",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Anita, I wanted to check in and see how everything is going! Do you have any questions so far?  I am here to help!     Have a great rest of your day!  Oliviah Surratt Homebuyer Concierge Oliviah.Surratt@Lennar.com (240)571-4590",
+                    "sort": 51,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-21",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good Afternoon ,  Please schedule your inspector for 9/28th or 9/29 between 9:00am – 3:00pm. Please email me a copy of the report within 24 hrs. of receipt.   Also, please inform the inspector that this date is based on the current schedule of what’s expected as of today. There is the possibility of...",
+                    "sort": 52,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 53,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 54,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 6,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 34,
+                "sale_price": 551940,
+                "sale_title": "Savannah just sold in Parklands Signature",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Atlanta",
+            "division_coordinates": [
+              -84.262642445,
+              33.927536455
+            ],
+            "geometry": {
+              "coordinates": [
+                -84.467991361,
+                34.273893005
+              ],
+              "type": "Point"
+            },
+            "id": 185,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 141,
+                    "image_url": "",
+                    "name": "Kelly Forman",
+                    "national_rank": 735,
+                    "summary": "           $2,731,883 in sales QTD<br/>0.9% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "2 bd/2 ba",
+                "days_from_completion": "27 days prior",
+                "home_size": "       1,983 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5082/40980/40980_eleD_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "We are so glad you are interested in our Hickory Bluffs Community. We look forward to seeing you 10/11/2023 at 10:00 AM. See you soon!",
+                    "sort": 2,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 8,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 33,
+                "sale_price": 499960,
+                "sale_title": "Crestwood just sold in Hickory Bluffs",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Chicago",
+            "division_coordinates": [
+              -88.147005926,
+              41.894395371
+            ],
+            "geometry": {
+              "coordinates": [
+                -88.23571375,
+                41.588952625
+              ],
+              "type": "Point"
+            },
+            "id": 178,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 3,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_amanda_getter_lr_jpg",
+                    "name": "Amanda Getter",
+                    "national_rank": 91,
+                    "summary": "          $22,715,426 in sales QTD<br/>144 appointments QTD<br/>9% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 19,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_connie_delgado_jpg",
+                    "name": "Connie Delgado",
+                    "national_rank": 145,
+                    "summary": "           $7,231,507 in sales QTD<br/>3.1% incentives QTD<br/>86% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "8 days prior",
+                "home_size": "       2,772 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/992/45147/45147_eleE_lg.jpg",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Organic lead created"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Sahiti, \t   \tWe received your online inquiry - thank you.  My name is Amanda, and I am an Internet Sales Consultant with Lennar.  I am responding to your registration you filled out on Lennar.com.  \t   \tI see that you typed in a request for an appointment to meet with us.   \t \tWhat time best work...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Thank you for reaching out. I’d be happy to schedule you an appointment today. We can do 4pm. Does that work for you?  Kindly, Amanda GetterInternet Sales Consultant  Amanda.Getter@Lennar.com Mobile 224-762-8394 1141 E Main Street STE 108 East Dundee, IL 60118  This e-mail is not a solicitation, off...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Thanks, Sahiti. Our New Home Consultant is out of office Thursdays/Fridays as we are open on the weekend. You may schedule an on-site self-guided tour today at 4:30. I have registered you for this and you will receive a separate email/link invitation to schedule. Feel free to reach out with any ques...",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi, Sahiti! Amanda with Lennar. Thank you for scheduling a self-guided tour at Prairie Commons! Feel free to reach out if you have any questions after touring. I am here to help. :) Enjoy!",
+                    "sort": 10,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "You were registered for a self-guided tour of both the Traditional and Urban style townhomes. They will have to be scheduled separately. Our three bedroom model is an Urban Townhome. We do not have a model on site of our three bedroom Everton II in Traditional on site at this community. Our Everton ...",
+                    "sort": 11,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Yes, you are welcome to complete the self-guided tour this afternoon that was scheduled. Our New Home Consultant is out of office Thurs/Fri so there will not be anyone else on site today. I’d be happy to schedule you an appointment to meet with our New Home Consultant this weekend if you would like....",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-18",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Good morning, I apologize for missing your email while out of office. Unfortunately, I do not have the code as it is personalized to each tour. I hope you were able to successfully complete your tour and it went well. If you have any questions, feel free to reach out. Kindly, Amanda GetterInternet S...",
+                    "sort": 13,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-18",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Good morning, Sahiti! I apologize for missing your call while out of office. I received your voicemail in regards to our Linden and Dunham at Prairie Commons. I am going to send you a separate email with information on these homes.",
+                    "sort": 14,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-03-18",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Good morning Sahiti, Per your request, I have included information on pricing and availability of our Linden and Dunham models at Prairie Commons – Traditional and Urban Townhomes. At this time, we do not have a Linden available. We do have a Dunham in construction and available now. It’s currently ...",
+                    "sort": 15,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-18",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "CAUTION: External email from: mustirao@live.com. If suspicious, forward to:notifysecurity@lennar.com          I meant interested* in the linden subtype            Get Outlook for iOS        From: Amanda Getter <Amanda.Getter@Lennar.com>   Sent: Friday, March 18, 2022 9:16:47 AM   To: musti rao <must...",
+                    "sort": 16,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-18",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Sahiti, Our Linden model is not currently in construction or available. The model is not for sale, as there are many homesites remaining at this community and the model is typically the last homesites sold.  Kindly,  Amanda GetterInternet Sales Consultant  Amanda.Getter@Lennar.com Mobile 224-762-...",
+                    "sort": 17,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-18",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Sahiti, I’d be happy to ask our New Home Consultant at Prairie Commons to add you to the interest list for our model Linden home. This model is also offered at Raintree Village Townhomes in Yorkville. Kindly,  Amanda GetterInternet Sales Consultant  Amanda.Getter@Lennar.com Mobile 224-762-8394 1141 ...",
+                    "sort": 18,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-18",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Sahiti, Sure! I will have you added to the interest list. Unfortunately, we do not have any Linden’s in construction at Raintree Village either at this time. We currently have our Everton II and Dunham II available at Raintree Village – Townhomes.  Kindly, Amanda GetterInternet Sales Consultant  Ama...",
+                    "sort": 19,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-19",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-03-22",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-22",
+                    "activity_type": "live_chat",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 22,
+                    "title": "Completed live chat"
+                  },
+                  {
+                    "activity_date": "2022-03-24",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 23,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-31",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 24,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-04-07",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 25,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-04-07",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 26,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-04-08",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 27,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-04-08",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 28,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-04-09",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 29,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-04-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 30,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2022-05-02",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 31,
+                    "title": "Organic lead created"
+                  },
+                  {
+                    "activity_date": "2022-05-03",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Good morning, Sahiti! Thanks for your interest in Kerry Ridge at Lennar! I received your online inquiry. This is Amanda, your Internet Sales Consultant checking in. We have one Townhome remaining at this community you may view here: https://www.lennar.com/new-homes/illinois/chicago/chicago-ridge/ker...",
+                    "sort": 32,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-05-11",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 33,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-10",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 34,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-14",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 35,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-16",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 36,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-16",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 37,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-16",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 38,
+                    "title": "Organic lead created"
+                  },
+                  {
+                    "activity_date": "2022-06-17",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Sahiti, \t   \tWe received your online inquiry - thank you.  My name is Kristyn, and I am an Internet Sales Consultant with Lennar.  I am responding to your registration you filled out on .  \t   \tI see that you typed in a request for an appointment to meet with us at Prairie Commons in Batavia.   \t...",
+                    "sort": 39,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-06-17",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Sahiti! Kristyn from Lennar checking in regarding your appointment request for Prairie Commons in Batavia. I'm happy to help. Please let me know what day/time works for you",
+                    "sort": 40,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-06-17",
+                    "activity_type": "text",

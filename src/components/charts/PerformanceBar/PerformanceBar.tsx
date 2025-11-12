@@ -69,6 +69,7 @@ const PerformanceBar = ({
   }
 
   // Align Goal line with Value text
+  const max = Math.min(goal * 1.35, 105)
 
   return (
     <Stack
@@ -89,3 +90,4 @@ const PerformanceBar = ({
             </Typography>
           </CustomTooltip>
           <Typography variant="h1" color="#a5cfef" fontWeight={500}>
+            {value}%

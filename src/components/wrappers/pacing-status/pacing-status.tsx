@@ -31,6 +31,7 @@ const MarkerIcon = styled('div', {
   opacity: props.active ? 1 : 0.3
 }))
 
+const PacingStatus = ({ mapWrapperRef }) => {
   const mapRef = useRef<MapRef>(null)
   const { pacingState, currentCohort } = useAppState()
   const { setPlaying, setIdleTimerProgress } = useAppTimerSetters()
@@ -194,3 +195,4 @@ const MarkerIcon = styled('div', {
           <Stack sx={{ width: 170, mr: 1 }}>
             <CustomTooltip elementName="label-pacing-inventory">
               <Typography variant="caption" fontWeight={500} color="textSecondary">
+                <DataAlert elementName="label-pacing-inventory">Inventory</DataAlert>

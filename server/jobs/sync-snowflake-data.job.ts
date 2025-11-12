@@ -40,7 +40,6 @@ const run = async () => {
       timezone: region.timezone
     })
 
-    if (region.divisions) {
       region.divisions.forEach((sub_region) => {
         sortedCohortList.push({
           name: sub_region.name,

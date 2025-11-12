@@ -59,7 +59,6 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
   }, [xScale])
 
   const yScale = useMemo(() => {
-    return d3.scaleBand().range([boundsHeight, 0]).domain(allYGroups) //.padding(0.01)
   }, [boundsHeight, allYGroups])
 
   const dotColors = {

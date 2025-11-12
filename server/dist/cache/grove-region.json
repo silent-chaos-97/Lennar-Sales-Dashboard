@@ -50168,6 +50168,7 @@
             "activity_time": "2023-10-12 08:40:00.000",
             "sort": 3
           },
+          {
             "activity_status": "Connected",
             "activity_time": "2023-10-12 08:50:00.000",
             "sort": 1
@@ -89282,3 +89283,96 @@
             "properties": {
               "cluster": false,
               "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 30,
+                    "image_url": "",
+                    "name": "Mirna De Los Santos Ryan",
+                    "national_rank": 63,
+                    "summary": "           $3,280,282 in sales QTD<br/>12.1% incentives QTD<br/>89% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "51 days post",
+                "home_size": "       1,450 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5993/61934/61934_eleD_lg.png",
+                "incentive_percent": 17,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-04-18",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Lead created"
+                  },
+                  {
+                    "activity_date": "2023-04-18",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Jesus! This is Beverly with Lennar. Congrats on taking the first step in your home-buying journey! Are you in contact with one of our New Home Consultants? If not, please tell me, what is important in your new home search?",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-04-18",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Jesus,     I received notice that you recently submitted an online inquiry with Lennar Mortgage. If you were directed to complete this inquiry by a New Home Consultant, FANTASTIC! Hopefully you've found the perfect location and floor plan and you're well on your way to a new Lennar home.     Howe...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-04-23",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-04-23",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-04-26",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 6,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-05-25",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 7,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -8,

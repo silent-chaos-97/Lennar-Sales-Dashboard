@@ -22,3 +22,4 @@ export const PerformanceProvider = ({
 }: PropsWithChildren<PerformanceProviderProps>) => {
   const { performanceTimeframeState } = useAppState()
 
+  const performanceState = performanceTimeframeState[timeframe]

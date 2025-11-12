@@ -64,7 +64,6 @@ const AxisXEndTickComponent = (props: RadialAxisTickProps) => {
   const { performanceState } = usePerformanceContext()
   const goal = performanceState?.[props.label].goal_value || 0
 
-  return (
     <g transform={`translate(${props.y}, 0) rotate(180)`}>
       <text
         dx={-12}
@@ -167,3 +166,5 @@ const Performance = () => {
               />
             </Stack>
           </Grid>
+          <Grid item lg={6} sx={{ height: 560 }}>
+            <ResponsiveRadialBar

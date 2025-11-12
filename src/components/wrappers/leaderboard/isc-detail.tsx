@@ -281,3 +281,5 @@ const ISCDetail = ({
             more={
               <Stack direction="row" alignItems="center" spacing={0.5}>
                 <Box width={24} height={4} borderRadius={2} bgcolor="rgba(255,255,255,0.5)" />
+                <Typography variant="caption" color="textSecondary">
+                  Goal

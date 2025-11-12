@@ -50346,6 +50346,7 @@
             "activity_status": "Connected",
             "activity_time": "2023-10-11 08:45:00.000",
             "sort": 2
+          },
           {
             "activity_status": "Connected",
             "activity_time": "2023-10-11 08:45:00.000",
@@ -83538,3 +83539,658 @@
                 "lot_size": "Not Available",
                 "price_vs_model_avg": 3,
                 "realtor_commission": 0,
+                "sale_cohort_rank": 51,
+                "sale_price": 472160,
+                "sale_title": "Residence Three just sold in Sevilla",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.0834196,
+                38.6374944
+              ],
+              "type": "Point"
+            },
+            "id": 431,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 48,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_steve_danforth_lr_jpg",
+                    "name": "Steve Danforth",
+                    "national_rank": 298,
+                    "summary": "           $6,217,299 in sales QTD<br/>12.4% incentives QTD<br/>10% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 7,
+                    "image_url": "",
+                    "name": "Breanna Evans",
+                    "national_rank": 58,
+                    "summary": "          $45,724,789 in sales QTD<br/>168 appointments QTD<br/>12% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "22 days prior",
+                "home_size": "       2,463 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7337/61994/61994_eleC_lg.jpg",
+                "incentive_percent": 15,
+                "journey_array": [
+                  {
+                    "activity_date": "2021-05-14",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Lead created"
+                  },
+                  {
+                    "activity_date": "2021-05-15",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-08-22",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2021-08-22",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2021-08-22",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2021-10-14",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -13,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 50,
+                "sale_price": 710000,
+                "sale_title": "Residence 2463 just sold in Silver Knoll@Russell Ranch",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Bay Area",
+            "division_coordinates": [
+              -121.755126926,
+              37.655558046
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.909812556,
+                37.711012556
+              ],
+              "type": "Point"
+            },
+            "id": 430,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 13,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_linda_le_lr_jpg",
+                    "name": "Linda Le",
+                    "national_rank": 121,
+                    "summary": "          $17,996,157 in sales QTD<br/>2.4% incentives QTD<br/>0% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 6,
+                    "image_url": "",
+                    "name": "Waheeda Fazel",
+                    "national_rank": 54,
+                    "summary": "          $22,420,145 in sales QTD<br/>173 appointments QTD<br/>29% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3.5 ba",
+                "days_from_completion": "29 days prior",
+                "home_size": "       2,254 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7584/63926/63926_eleB_lg.jpg",
+                "incentive_percent": 5,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-05-15",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2023-05-15",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-05-15",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-07-30",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Satya,   \t   \tWaheeda here from our local Internet Team, with Lennar Homes Bay Area. Thank you for your interest in Boulevard, a masterplan in Dublin, CA. Offering new two communities Lombard & Venice, offering single-family and paired homes, Lennar's signature Everything's Included® program. Off...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-30",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 5,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-07-30",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hey Satya, Waheeda here with Lennar Bay Area. it was great to talk to you. Please let me know when you wanted to meet with our onsite consultant at the Boulevards.   Waheeda Fazel DRE # 01710009 Days Off Friday and Saturday  1-888-216-2330",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 7,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 49,
+                "sale_price": 1074880,
+                "sale_title": "Residence 2 just sold in Avalon",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Bay Area",
+            "division_coordinates": [
+              -121.755126926,
+              37.655558046
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.3688442,
+                36.8253118
+              ],
+              "type": "Point"
+            },
+            "id": 415,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 8,
+                    "image_url": "",
+                    "name": "Deanne Stutzman",
+                    "national_rank": 66,
+                    "summary": "          $11,795,678 in sales QTD<br/>3.4% incentives QTD<br/>0% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 6,
+                    "image_url": "",
+                    "name": "Waheeda Fazel",
+                    "national_rank": 54,
+                    "summary": "          $22,420,145 in sales QTD<br/>173 appointments QTD<br/>29% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "38 days post",
+                "home_size": "       1,901 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6956/59251/59251_eleB_lg.jpg",
+                "incentive_percent": 3,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-01",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-01",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "HI Lisa,   It was a pleasure to meet you yesterday and to speak to you this morning!  The solar for both Homesite 128 (Laurel Plan 1) and Homesite 18 (Elderberry Plan 1) $12,768 to purchase or approximately $115/month to lease.  I did look into the options for Homesite 18.  It does have the upgraded...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 48,
+                "sale_price": 700000,
+                "sale_title": "Residence 1 just sold in Laurel",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.01954125,
+                38.66074145
+              ],
+              "type": "Point"
+            },
+            "id": 401,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 28,
+                    "image_url": "",
+                    "name": "Michael C. Johnson",
+                    "national_rank": 233,
+                    "summary": "           $8,527,166 in sales QTD<br/>9.6% incentives QTD<br/>0% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "116 days prior",
+                "home_size": "       2,888 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5883/44503/44503_eleA_lg.jpg",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 47,
+                "sale_price": 1090000,
+                "sale_title": "Residence 2888 just sold in Emerald Peak  at Bass Lake Hills",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Inland",
+            "division_coordinates": [
+              -117.19750994,
+              33.894448864
+            ],
+            "geometry": {
+              "coordinates": [
+                -117.3685148,
+                34.148221
+              ],
+              "type": "Point"
+            },
+            "id": 397,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 26,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_debra_conners_lr_jpg",
+                    "name": "Debra Conners",
+                    "national_rank": 202,
+                    "summary": "           $7,125,523 in sales QTD<br/>0% incentives QTD<br/>58% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "39 days prior",
+                "home_size": "       2,590 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6858/58487/58487_eleA_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-11",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-12",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Ron,   Thank you for visiting our Welcome Home Center at Country Lane. It was a pleasure meeting you and discussing your home journey. I have attached digital brochures with more information about our homes. If you have any further questions, I would be more than happy to help.   Our pricing i...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 46,
+                "sale_price": 676545,
+                "sale_title": "Residence Three just sold in Ridgewater at River Ranch",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.378958,
+                38.7445896
+              ],
+              "type": "Point"
+            },
+            "id": 373,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 93,
+                    "image_url": "",
+                    "name": "Marchelle Liguori",
+                    "national_rank": 785,
+                    "summary": "           $2,938,444 in sales QTD<br/>0% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "2 bd/2 ba",
+                "days_from_completion": "35 days prior",
+                "home_size": "       1,444 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6407/47724/47724_eleB_lg.jpg",
+                "incentive_percent": 3,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 45,
+                "sale_price": 500990,
+                "sale_title": "Residence 1444 just sold in Molise @ Heritage Placer Vineyards 40's",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Portland",
+            "division_coordinates": [
+              -122.810701814,
+              45.315681314
+            ],
+            "geometry": {
+              "coordinates": [
+                -123.021626875,
+                46.16990825
+              ],
+              "type": "Point"
+            },
+            "id": 346,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 57,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_melinda_shoote_lr_jpg",
+                    "name": "Melinda Shoote",
+                    "national_rank": 339,
+                    "summary": "           $4,903,362 in sales QTD<br/>1.6% incentives QTD<br/>80% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 9,
+                    "image_url": "",
+                    "name": "Christie Hammett",
+                    "national_rank": 62,
+                    "summary": "          $10,238,040 in sales QTD<br/>167 appointments QTD<br/>11% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "5 bd/3.0 ba",
+                "days_from_completion": "18 days post",
+                "home_size": "       2,269 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6167/46300/46300_eleA_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
