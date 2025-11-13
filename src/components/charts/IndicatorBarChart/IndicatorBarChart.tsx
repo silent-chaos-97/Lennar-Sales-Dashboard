@@ -71,6 +71,7 @@ const IndicatorBarChart = ({
                 L ${xVal},${yVal + barHeight}
                 L ${xVal + barWidth},${yVal + barHeight}
                 L ${xVal + barWidth},${yVal + borderRadius}
+                Q ${xVal + barWidth},${yVal} ${xVal + barWidth - borderRadius},${yVal}
                 L ${xVal + borderRadius},${yVal}
                 Q ${xVal},${yVal} ${xVal},${yVal + borderRadius}
                 Z`
@@ -109,3 +110,4 @@ const IndicatorBarChart = ({
         })
         .tickSize(0)
         .tickPadding(12)
+      const xAxisGroup = svg

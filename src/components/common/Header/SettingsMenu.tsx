@@ -16,6 +16,7 @@ import { Checkbox } from '@mui/material'
 
 interface SettingsMenuProps {
   onClose: () => void
+}
 
 const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
   const { mode, setScreenMode, showTooltips, setShowTooltips } = useScreen()

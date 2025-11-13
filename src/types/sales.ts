@@ -31,6 +31,7 @@ export interface SalesItem {
   homesite_image_url: string
   incentive_percent: string
   key_attribute: string
+  lot_size: string
   home_type: string
   price_vs_model_avg: number
   realtor_commission: number

@@ -41,3 +41,4 @@ const KPIWidget = ({
         </Grid>
         <Grid item>
           <Typography variant="h5" lineHeight={2}>
+            {firstLabel}

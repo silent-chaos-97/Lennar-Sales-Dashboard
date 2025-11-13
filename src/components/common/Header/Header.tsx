@@ -252,7 +252,6 @@ const Header = () => {
                       transform: 'translateX(-50%)',
                       overflow: 'hidden'
                     }}
-                    boxShadow={1}
                     borderRadius={1}
                     ref={menuRef}
                   >
@@ -260,3 +259,5 @@ const Header = () => {
                   </Box>
                 </Box>
               </Fade>
+            </Stack>
+          )}

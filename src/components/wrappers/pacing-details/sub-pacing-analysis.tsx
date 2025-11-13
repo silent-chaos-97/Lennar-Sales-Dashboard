@@ -55,5 +55,5 @@ const SubPacingAnalysis = ({
             <Typography variant="h1" color="success.dark">
               {(Math.round(next3WPace * 10) / 10).toLocaleString()}/wk
             </Typography>
-          </Box>
           <Box flex={1}>
+            <Typography variant="caption" color="text.secondary" fontWeight={500}>

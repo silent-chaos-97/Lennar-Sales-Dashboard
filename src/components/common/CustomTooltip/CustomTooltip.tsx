@@ -33,3 +33,4 @@ const CustomTooltip = ({ elementName, children }: CustomTooltipProps) => {
             padding: '8px 16px',
             cursor: 'default !important'
           }
+        }

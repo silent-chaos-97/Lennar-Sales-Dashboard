@@ -34,7 +34,6 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
     if (diffPercent === 0) return 'text.primary'
     else if (diffPercent > 0) return 'success.main'
     return 'error'
-  }
 
   return (
     <Section
@@ -112,3 +111,4 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
           </Box>
           <Box flex={1}>
             <CustomTooltip elementName="pacing-resale-median-price">
+              <Typography variant="caption" color="text.secondary" fontWeight={500}>

@@ -67,3 +67,4 @@ const Timeline = ({ journeyData }: TimelineProps) => {
         <Box>
           <Scrollbar noScrollX style={{ height: 1000, width: '100%' }}>
             <Stack
+              spacing={1}

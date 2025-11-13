@@ -32,6 +32,7 @@ interface ListProps {
   showList: (show: boolean) => void
 }
 
+const List = ({ list, choose, showList }: ListProps) => {
   const handleChoose = (idx: number) => {
     choose(idx)
     showList(false)

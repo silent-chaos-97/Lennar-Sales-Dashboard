@@ -16,6 +16,7 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
   return (
     <>
       <ListItem sx={{ p: 0, pl: hasSubItems ? 0 : 3 }}>
+        {hasSubItems && (
           <IconButton sx={{ p: 0 }}>
             <ListItemIcon sx={{ color: 'grey.300', minWidth: 'auto' }} />
           </IconButton>
@@ -45,3 +46,4 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
                 sx={{
                   fontSize: 24,
                   lineHeight: 2,
+                  color: 'grey.300',

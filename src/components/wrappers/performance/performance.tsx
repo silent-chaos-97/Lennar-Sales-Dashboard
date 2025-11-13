@@ -173,3 +173,4 @@ const Performance = () => {
               maxValue={100}
               valueFormat=">-.2f"
               innerRadius={0.05}
+              padding={0.6}

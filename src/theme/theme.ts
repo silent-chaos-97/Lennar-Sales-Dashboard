@@ -302,3 +302,5 @@ export const theme = createTheme({
     },
     MuiAccordion: {
       styleOverrides: {
+        root: {
+          border: '1px solid #dde3f6',

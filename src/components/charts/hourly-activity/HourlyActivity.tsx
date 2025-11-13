@@ -26,6 +26,7 @@ const HourlyActivity = ({
 }: HourlyActivityProps) => {
   const id = title
     .toLowerCase()
+    .replaceAll(' ', '-')
     .replace(/[^a-zA-Z-]/g, '')
 
   return (

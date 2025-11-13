@@ -44111,7 +44111,6 @@
             "activity_status": "Connected",
             "activity_time": "2023-10-11 16:50:00.000",
             "sort": 8
-          },
           {
             "activity_status": "Connected",
             "activity_time": "2023-10-11 16:50:00.000",
@@ -134542,3 +134541,728 @@
                     "title": "Outbound email"
                   },
                   {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 9,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 163,
+                "sale_price": 578201,
+                "sale_title": "Marsala just sold in Lakespur @ Wellen Park",
+                "sale_type": "Retail",
+                "web_content_score": "2"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Coastal Carolinas",
+            "division_coordinates": [
+              -79.711786981,
+              33.235638319
+            ],
+            "geometry": {
+              "coordinates": [
+                -78.469665875,
+                33.910161875
+              ],
+              "type": "Point"
+            },
+            "id": 456,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 86,
+                    "image_url": "",
+                    "name": "Heide Black",
+                    "national_rank": 339,
+                    "summary": "           $3,249,447 in sales QTD<br/>5.9% incentives QTD<br/>80% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 9,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_mary_hotchkiss_lr_jpg",
+                    "name": "Mary Hotchkiss",
+                    "national_rank": 40,
+                    "summary": "          $12,700,542 in sales QTD<br/>186 appointments QTD<br/>21% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "144 days prior",
+                "home_size": "       1,748 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6629/57266/57266_eleB6_lg.jpg",
+                "incentive_percent": 4,
+                "journey_array": [
+                  {
+                    "activity_date": "2021-10-05",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "tate email, wouldnt sync",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-08-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-17",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-09-18",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Ginny! This is Erica with Lennar, checking in. How was your phone call with the New Home Consultant? Were they able to answer your questions?",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-18",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "This is Tony.  I spoke with the rep.  She was wonderful. Please direct all inquiries to me.",
+                    "sort": 7,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-18",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Sure thing!",
+                    "sort": 8,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 2.5,
+                "sale_cohort_rank": 162,
+                "sale_price": 331925,
+                "sale_title": "Litchfield II just sold in Cameron Woods",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Coastal Carolinas",
+            "division_coordinates": [
+              -79.711786981,
+              33.235638319
+            ],
+            "geometry": {
+              "coordinates": [
+                -78.9702298,
+                33.7167902
+              ],
+              "type": "Point"
+            },
+            "id": 453,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 41,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_sonya_callahan_jpg",
+                    "name": "Sonya Callahan",
+                    "national_rank": 167,
+                    "summary": "           $3,732,468 in sales QTD<br/>1.3% incentives QTD<br/>77% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 9,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_mary_hotchkiss_lr_jpg",
+                    "name": "Mary Hotchkiss",
+                    "national_rank": 40,
+                    "summary": "          $12,700,542 in sales QTD<br/>186 appointments QTD<br/>21% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/3 ba",
+                "days_from_completion": "35 days prior",
+                "home_size": "       1,437 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7751/65246/65246_eleC_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-28",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 161,
+                "sale_price": 276750,
+                "sale_title": "BLAKELY just sold in Forestbrook Townhomes",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Coastal Carolinas",
+            "division_coordinates": [
+              -79.711786981,
+              33.235638319
+            ],
+            "geometry": {
+              "coordinates": [
+                -79.0212808,
+                33.686101
+              ],
+              "type": "Point"
+            },
+            "id": 450,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 170,
+                    "image_url": "",
+                    "name": "Douglas Martin",
+                    "national_rank": 596,
+                    "summary": "           $2,136,376 in sales QTD<br/>11.4% incentives QTD<br/>86% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "36 days prior",
+                "home_size": "       1,520 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6017/46212/46212_eleD6_lg.jpg",
+                "incentive_percent": 11,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 160,
+                "sale_price": 290045,
+                "sale_title": "DOVER just sold in Cooper's Bluff",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "NJ / NY",
+            "division_coordinates": [
+              -74.469322331,
+              40.464021311
+            ],
+            "geometry": {
+              "coordinates": [
+                -74.7403548,
+                40.003686
+              ],
+              "type": "Point"
+            },
+            "id": 449,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 153,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_gerry_fish_2_lr_jpg",
+                    "name": "Gerard Fish",
+                    "national_rank": 547,
+                    "summary": "           $3,201,705 in sales QTD<br/>0.6% incentives QTD<br/>29% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 65,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_colleen_harrisonlr_jpg",
+                    "name": "Colleen Harrison",
+                    "national_rank": 188,
+                    "summary": "          $17,744,920 in sales QTD<br/>66 appointments QTD<br/>17% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "134 days prior",
+                "home_size": "       1,846 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5244/40139/40139_eleC_lg.jpg",
+                "incentive_percent": 3,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-06-25",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Organic lead created"
+                  },
+                  {
+                    "activity_date": "2023-06-26",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-06-26",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Michael,  \t   \tThank you for your interest in the loft homes Lennar is building at Monroe Parke, in Monroe Township, NJ. My name is Colleen and I am here to answer any questions you have about our homes.   \t   \tLOFT HOMES:  \tPricing will starts in the $400s and the homes are anywhere between 1,18...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-26",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Michael this is Colleen Harrison from Lennar in New Jersey! Thank you for your interest in our community, The Lofts At Monroe Parke.   I would be happy to help with any initial questions or any information about the community! Also, when is a good time for you to stop by for a tour?  Feel free to...",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-26",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 5,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-06-26",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Absolutely! What time on Thursday morning is best for you? We open at 10am   Warm Regards,  Colleen Harrison Internet Sales Coordinator    Colleen.Harrison@Lennar.com<mailto:Colleen.Harrison@Lennar.com> Phone: 609-349-8258  2465 Kuser Road Floor 3 Hamilton, NJ 08690    This e-mail is not a solicitat...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-26",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Michael,  This is Colleen Harrison from Lennar Homes!  Your private tour is set on Thursday 06/29/2023 10:30 AM at The Lofts At Monroe Parke:  1601 Swales Court Monroe Township, NJ 08831  You will be meeting on site with Antoinette!   If you have any questions or need to reschedule, please call o...",
+                    "sort": 7,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-26",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Great! I texted over a confirmation for 10:30am on Thursday  If anything changes and you are running a little late just let us know, no worries!  Warm Regards,  Colleen Harrison Internet Sales Coordinator    Colleen.Harrison@Lennar.com<mailto:Colleen.Harrison@Lennar.com> Phone: 609-349-8258  2465 Ku...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-26",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Ok thanks  I'll text you only if we think we're running late",
+                    "sort": 9,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-06-28",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "We are so glad you are interested in our The Lofts At Monroe Parke Community. We look forward to seeing you 06/29/2023 at 10:30 AM. See you soon!",
+                    "sort": 10,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 11,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hello Michael  I just confriming our appointment for today at 1030 at Monroe Parke.  Address: 1601 Swales Court Monroe NJ 08831 Please advise Thank you  Antoinette 732-546-8049",
+                    "sort": 13,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hello Michael  I just confriming our appointment for today at 1030 at Monroe Parke.  Address: 1601 Swales Court Monroe NJ 08831 Please advise Thank you  Antoinette 732-546-8049",
+                    "sort": 14,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "On our way",
+                    "sort": 15,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Michael. ,  Please confirm our 1030 am appointment today at Monroe Parke today Address; 1601 swales Court Monroe NJ 08831  Antoinette Chenoweth Monroe Parke 1601 Swales Court Monroe NJ 08831 732-546-8049 Thursday - Monday 10am to 6 pm",
+                    "sort": 16,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "We're in front of 1601",
+                    "sort": 17,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Michael & Judy,  Thank you for visiting us Monroe Parke lofts & towns:)  Acadia at Monroe Parke Bryce at Monroe Parke Denali Model at Monroe Parke  Hopewell Parc Lofts & towns I now also selling in Hopewell Parc Great Price points. We have Great Price Point upper $400's to mid $600's. Great Lo...",
+                    "sort": 18,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 19,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-07-05",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Michael & Judy,  We also spoke about Hopewell Parc the Collins 2 bedrooms,2 baths, 1 car Garage,   We have Great Price Point upper $400's to mid $600's. Great Location, Great Amenities, and this is going to increase in value quickly.  2 Bedrooms, 2 baths, 1 car garage 1300 Sq. Ft The Terrace C...",
+                    "sort": 21,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-06",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 22,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-07",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 23,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-08-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Michael this is Chris with Lennar homes. It was great speaking with you! Feel free to let me know if you have any further questions and/or when you are ready to set up a tour after the sale of your home. You can call or text me right at this number. Lo",
+                    "sort": 24,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 25,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 22,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 159,
+                "sale_price": 540790,
+                "sale_title": "Saratoga just sold in Venue at Smithville Greene SFD",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Coastal Carolinas",
+            "division_coordinates": [
+              -79.711786981,
+              33.235638319
+            ],
+            "geometry": {
+              "coordinates": [
+                -79.0781554,
+                33.7618494
+              ],
+              "type": "Point"
+            },
+            "id": 448,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 31,
+                    "image_url": "",
+                    "name": "Christopher Connelly",
+                    "national_rank": 135,
+                    "summary": "           $3,681,312 in sales QTD<br/>1.9% incentives QTD<br/>79% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "18 days prior",
+                "home_size": "       1,886 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7569/63759/63759_eleD6_lg.jpg",
+                "incentive_percent": 15,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 158,
+                "sale_price": 253505,
+                "sale_title": "HARTFORD just sold in Saddle Ridge",
+                "sale_type": "Retail",
+                "web_content_score": "4"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.888443233,
+                26.760973757
+              ],
+              "type": "Point"
+            },
+            "id": 444,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 86,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jeremy_ganss_lr_jpg",
+                    "name": "Jeremy Ganss",
+                    "national_rank": 339,
+                    "summary": "           $4,117,603 in sales QTD<br/>4.3% incentives QTD<br/>80% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "49 days prior",
+                "home_size": "       1,941 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6931/59024/59024_eleA_lg.png",
+                "incentive_percent": 11,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 157,
+                "sale_price": 364597,
+                "sale_title": "Hartford just sold in Cape Coral ADS",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "NJ / NY",
+            "division_coordinates": [
+              -74.469322331,
+              40.464021311
+            ],
+            "geometry": {
+              "coordinates": [
+                -74.81566875,
+                40.30519475

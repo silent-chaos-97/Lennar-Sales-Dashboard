@@ -77,3 +77,4 @@ const RegionSelectMenu = ({ onSelectMenu }: RegionSelectMenuProps) => {
           <Grid key={region.name} item lg={3}>
             <Button
               sx={{
+                color: 'grey.300',

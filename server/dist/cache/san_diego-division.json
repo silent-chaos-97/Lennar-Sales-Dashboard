@@ -33686,3 +33686,80 @@
           "goal_value": 13,
           "percent_value": 17
         },
+        "APPOINTMENTS_KEPT": {
+          "color": "green",
+          "goal_value": 75,
+          "missed": 17,
+          "percent_value": 80
+        },
+        "SALES_WITH_ISC_ATTACHED": {
+          "color": "green",
+          "goal_value": 75,
+          "percent_value": 80
+        },
+        "LEADS_WITH_TRIFECTA": {
+          "color": "red",
+          "goal_value": 90,
+          "percent_value": 56
+        },
+        "LEADS_WITH_FOLLOWUP": {
+          "color": "red",
+          "goal_value": 80,
+          "percent_value": 29
+        },
+        "BEBACKS_WITH_FOLLOWUP": {
+          "color": "red",
+          "goal_value": 90,
+          "percent_value": 7
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:33.196"
+      }
+    },
+    "current_activity_timeframe": {
+      "yesterday": {
+        "COHORT": "San Diego",
+        "COHORT_TYPE": "division",
+        "CALLS_TICKER_ARRAY": [
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-11 07:00:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-11 07:20:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-11 08:25:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-11 08:25:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-11 08:30:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 08:55:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:00:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:00:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:05:00.000",

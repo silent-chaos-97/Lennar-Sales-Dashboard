@@ -54629,3 +54629,289 @@
                     "body": "",
                     "sort": 13,
                     "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-09-13",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 14,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-09-13",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Email lead created"
+                  },
+                  {
+                    "activity_date": "2022-09-13",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Mark,  Thank you so much for requesting information regarding Lennar Homes at River Hall!  My name is Charlie Miller I am the Internet New Home Consultant for Southwest Florida.  My job is to assist you with every aspect of your new home search!    River Hall is located in Alva and is a beautiful...",
+                    "sort": 16,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-09-23",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Mark,  Thank you for your interest in Lennar Homes. Please let me know if you would like to schedule a tour for our homes at River Hall in Alva, Florida.   Thanks! Charlie at Lennar",
+                    "sort": 17,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-11-21",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-12-15",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 19,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-12-15",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2023-01-18",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-13",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Mark,  Thank you for your interest in Lennar Homes of Southwest Florida! My name is Charlie Miller, and I am your Internet New Home Consultant.  We currently have the following communities with golf membership homes available in the Fort Myers area. Let me know if any of these interest you or ...",
+                    "sort": 22,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-18",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 23,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 25,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 24,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -8,
+                "realtor_commission": 5,
+                "sale_cohort_rank": 32,
+                "sale_price": 369997,
+                "sale_title": "Heron just sold in Pebblebrook Coach",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Tampa",
+            "division_coordinates": [
+              -82.356556448,
+              28.038879865
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.4339716,
+                27.6292704
+              ],
+              "type": "Point"
+            },
+            "id": 292,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 63,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ray_dipetrillo_lr_jpg",
+                    "name": "Ray DiPetrillo",
+                    "national_rank": 513,
+                    "summary": "           $2,680,222 in sales QTD<br/>1.6% incentives QTD<br/>88% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "1 days post",
+                "home_size": "       1,486 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7417/62552/62552_eleTH_lg.jpg",
+                "incentive_percent": 6,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 31,
+                "sale_price": 321760,
+                "sale_title": "Malibu just sold in Prosperity Lakes AA Villas",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.6992296,
+                26.6861726
+              ],
+              "type": "Point"
+            },
+            "id": 289,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 112,
+                    "image_url": "",
+                    "name": "Rick Masterson",
+                    "national_rank": 959,
+                    "summary": "           $1,186,876 in sales QTD<br/>1.1% incentives QTD<br/>33% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "43 days prior",
+                "home_size": "       2,032 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/2791/25156/25156_eleC_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2021-08-19",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2021-08-20",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2021-11-05",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-11-05",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-05-16",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-02",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-24",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Web visit"
+                  },
+                  {

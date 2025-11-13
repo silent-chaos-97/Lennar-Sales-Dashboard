@@ -129,3 +129,4 @@ export const Section = ({
                 {subtitle}
               </Typography>
               {timestampList && <ArrowDropDownIcon htmlColor="#dde3f6" />}
+            </Stack>

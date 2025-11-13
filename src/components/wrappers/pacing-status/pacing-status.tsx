@@ -166,6 +166,7 @@ const PacingStatus = ({ mapWrapperRef }) => {
   const handleSelect = (idx: number) => {
     setSelectedPacingItem(pacingCohortArrayCloned[idx])
     setActiveDots([idx])
+    setActivePieName(pacingCohortArrayCloned[idx]?.status)
   }
 
   const markers = useMemo(
@@ -200,3 +201,4 @@ const PacingStatus = ({ mapWrapperRef }) => {
             <Typography variant="h1" fontWeight={700}>
               {(pacingState?.AVAILABLE_HOMES.total_available || 0).toLocaleString()}
             </Typography>
+          </Stack>

@@ -22,6 +22,7 @@ const LeftPane = () => {
   const now = DateTime.local().setZone(TIMEZONE[currentCohort.timezone])
   const isBetween7and11 = now.hour >= 0 && now.hour < 11
 
+  useEffect(() => {
     if (isBetween7and11) {
       setActivityFrame('yesterday')
     } else {
@@ -54,3 +55,4 @@ const LeftPane = () => {
               </Grid>
               <Grid item lg={8}>
                 <IscActivity data={selectedActivity} activityTimeframe={activityTimeframe} />
+              </Grid>

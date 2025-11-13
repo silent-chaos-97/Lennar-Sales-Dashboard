@@ -143,3 +143,4 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
         .selectAll('toto')
         .data([min, max])
         .enter()
+        .append('line')

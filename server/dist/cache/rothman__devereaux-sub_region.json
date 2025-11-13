@@ -16749,6 +16749,7 @@
                   {
                     "x_axis": "Jul 10",
                     "y_axis": 0
+                  },
                   {
                     "x_axis": "Jul 17",
                     "y_axis": 0
@@ -44148,3 +44149,241 @@
                   },
                   {
                     "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 34,
+                "sale_price": 565760,
+                "sale_title": "Residence 3085 just sold in Moores Creek",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Jacksonville",
+            "division_coordinates": [
+              -81.873179476,
+              29.850980276
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.7642308,
+                30.0427386
+              ],
+              "type": "Point"
+            },
+            "id": 356,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 28,
+                    "image_url": "",
+                    "name": "Alicia Oliver",
+                    "national_rank": 705,
+                    "summary": "           $1,679,376 in sales QTD<br/>6.5% incentives QTD<br/>83% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_penny_basslr_jpg",
+                    "name": "Penny Bass",
+                    "national_rank": 97,
+                    "summary": "          $10,739,663 in sales QTD<br/>137 appointments QTD<br/>25% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "31 days prior",
+                "home_size": "       1,714 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7774/65335/65335_eleHB_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2021-03-20",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Good Morning Melissa, \t \tMy name is Lu Wei, Lennar Internet Sales Consultant. I received your request for information about our homes in N.E. Florida. Please let me know how I can help! \t \tSincerely, \t \tLu Wei Huang \tInternet Sales Consultant \tluwei.huang@lennar.com \twww.Lennar.com \t  \t \t \t \t \t \tCop...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "HI Melissa! Thank you for your interest in Lennar Homes.  We received your request about our communities in Trailmark.. Here is a digital brochure. https://www.lennar.com/new-homes/florida/jacksonville-st-augustine/st-augustine/trailmark/brochure Please let me know if any of the communities interest...",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Good Morning Penny. I'm looking in the Orange Park, Middleburg, Fleming Island area.",
+                    "sort": 3,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Good Morning! I have townhomes in Middleburgh.  I have Granary Pak which is Green Cove Springs not to far from Fleming Island and it is Single family would that work? Penny  Lennar Homes 904-467-4531 Direct",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Green Cove is actually on my radar as well. Im looking for a townhome or single family home. It's just me so I'm flexible on my options.  My downtown Jax apartment lease is up at the end of August so I'm trying to time it right. But can also break my lease if I find a good deal/home.",
+                    "sort": 5,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "What time frame are you looking for move in?  Our townhomes in Middleburgh wont be till at least the end of year. Granary Park has homes ready now till the end of the year.  Would you like to see Granary Park...they have have models? Penny  Lennar Homes 904-467-4531 Direct",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "I'm looking to move at the end of August",
+                    "sort": 7,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "What are your office hours on Friday/weekend?",
+                    "sort": 8,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "We are open: 10-6;30pm on Friday and Sat.  Sunday 11am- 6:pm Penny  Lennar Homes 904-467-4531 Direct",
+                    "sort": 9,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Great. Thank You. I will stop by on Saturday",
+                    "sort": 10,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Great! do you know around what time so I can put it on their Calendar? Penny  Lennar Homes 904-467-4531 Direct",
+                    "sort": 11,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "I don't, I'm sorry. But definitely late morning.",
+                    "sort": 12,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Ok! Penny  Lennar Homes 904-467-4531 Direct",
+                    "sort": 13,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Here is the address to Granary Park:2717 Pointed Leaf Rd.  Green Cove Springs, FL 32043 Ask for Alicia :-) Penny  Lennar Homes 904-467-4531 Direct",
+                    "sort": 14,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank You!",
+                    "sort": 15,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "My Pleasure! Penny  Lennar Homes 904-467-4531 Direct",
+                    "sort": 16,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-05-13",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 17,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-05-14",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-05-14",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 19,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-05-15",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-06-28",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Guys,   Attached are some new laws from the State of Florida, this is notification on an Affidavit that you may or may not need to sign when it comes to closing on your home.  Respectfully,   Alicia Oliver New Home Consultant Alicia.Oliver@Lennar.com  www.lennar.com  Mobile: (904) 487-9806   Lenn...",
+                    "sort": 21,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 22,

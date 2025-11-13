@@ -1,3 +1,4 @@
+import Box from '@mui/material/Box'
 import Typography from '@mui/material/Typography'
 import Fade from '@mui/material/Fade'
 import Stack from '@mui/material/Stack'
@@ -153,7 +154,6 @@ const NHSDetail = ({
                   />
                 </Grid>
               </Grid>
-            </Section>
           </Box>
 
           <Grid container wrap="nowrap" direction="row">

@@ -32,7 +32,6 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
 
     if (allYGroups.length <= 9) {
       return tempY2
-    } else if (allYGroups.length > 9 && allYGroups.length < 18) {
       return tempY
     } else {
       return allYGroups
@@ -77,3 +76,4 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
             key={i}
             r={size}
             x={xScale(parseTime(d.activity_time))}
+            y={yScale(d.sort)}

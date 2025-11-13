@@ -17,6 +17,7 @@ interface TrackProps {
   color?: string
   percent: number
 }
+
 const Track = styled('span', {
   shouldForwardProp: (prop) => !['color', 'percent'].includes(prop as string)
 })(({ color, percent }: TrackProps) => ({
@@ -38,6 +39,5 @@ const Bar = ({ label, percent = 0, value, change }: BarProps) => {
         <Stack direction="row" alignItems="flex-end" spacing={1}>
           <Typography>{value.toLocaleString()}</Typography>
           <Stack direction="row">
-            {change !== 0 &&
               (change > 0 ? <NorthEastIcon color="success" /> : <SouthEastIcon color="error" />)}
             <Typography

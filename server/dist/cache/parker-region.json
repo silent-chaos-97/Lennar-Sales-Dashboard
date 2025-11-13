@@ -90242,3 +90242,489 @@
               36.023247822
             ],
             "geometry": {
+              "coordinates": [
+                -86.648104368,
+                36.023247822
+              ],
+              "type": "Point"
+            },
+            "id": 30,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "2 bd/2 ba",
+                "days_from_completion": "Not Available",
+                "home_size": "       1,161 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "",
+                "incentive_percent": 0,
+                "journey_array": [],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 11,
+                "sale_price": 217658,
+                "sale_title": "ASPEN just sold in Canvas at Mt. Juliet TSR",
+                "sale_type": "Investor",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Nashville",
+            "division_coordinates": [
+              -86.648104368,
+              36.023247822
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.594207,
+                35.952707909
+              ],
+              "type": "Point"
+            },
+            "id": 27,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 33,
+                    "image_url": "",
+                    "name": "Madeleine Constantine",
+                    "national_rank": 192,
+                    "summary": "           $6,992,890 in sales QTD<br/>60 appointments QTD<br/>10% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 28,
+                    "image_url": "",
+                    "name": "Taylor Baker",
+                    "national_rank": 202,
+                    "summary": "           $5,495,257 in sales QTD<br/>4.2% incentives QTD<br/>58% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/3 ba",
+                "days_from_completion": "Not Available",
+                "home_size": "       2,308 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7875/65987/65987_eleC_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-27",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-27",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-27",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 3,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-09-27",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Julie! This is Meridith and I am one of your local Lennar sales coordinators. Thank you for scheduling a tour of the Ashbury at Gwynne Farms. Please go in and register for your self-tour prior to your scheduled time. You will be given a one-time code t",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-27",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank you so much!! I made the tour time for 5:30 even though our GPS right now says 5:46pm. Will that be a problem for getting in?",
+                    "sort": 5,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-27",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Julie,   \t   \tThank you for your interest in Lennar at Gwynne Farms. From this link, you can find information on our Floor Plans, Pricing, Included Features and Map.   \t   \tWe are also building homes with unfinished, walk-out basements in Gwynne Farms. This option is available in the Primrose, Ma...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-27",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "There is a 15 minute grace period. If you go beyond that, you will be able to request a new time through the same link",
+                    "sort": 7,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Preston & Julie –  Thank you for your interest in our Gwynne Farms community! Since having your master bedroom on the main level is most important to you, there are 2 homes we are talking about.  Rosemary – Elevation BHomesite #47Backs to wooded common space, more useable back yardUnder construct...",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Julie & Preston -    Here are the selections you made together today for your future home on Homesite #54. I'll be in touch as soon as I hear back about the exterior elevation options that will fit the site and if the fireplace is an optional upgrade on this floor plan ($5,000 if so).    Elevatio...",
+                    "sort": 10,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Julie & Preston -  I'll text over the color selections set for this home in just a few. Attached is the plot plan and a site map - this is the corner site directly across from #54 that we've been looking at together. If you want to still plan to meet with me today around 4-4:30, that is fine with...",
+                    "sort": 11,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Julie & Preston -  See attached for a copy of the HOA design guidelines for Gwynne Farms and the blank purchase agreement we review together this evening. View HOA documents for Gwynne Farms on Ghertner's Website Here<https://portal.ghertner.com/Home_v2/Documents>  Warranty information: https://d...",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Preston & Julie -  It has been a pleasure working with you thus far and we would love to have you here in Gwynne Farms. I know this has been a stressful last few weeks for you as you decide whether or not to move forward with closing on the home in Derby Farms or not. We appreciate your interest ...",
+                    "sort": 13,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Julie –  You and Preston are both incredibly sweet and it’s been a joy working with you. I hate that this experience is changing over your agent’s compensation. I am not sure who you are referring to that told you we could change your agent’s name later. That was certainly not me. We also never r...",
+                    "sort": 14,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-12",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 17,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-12",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Julie & Preston -  We can sign off on colors tomorrow, that is not as urgent as getting your incentive locked in with a signed purchase agreement and deposit. The color selections will be reflected on the OPTIONS SUMMARY. So I will not be including this document in tonight's signing and you can f...",
+                    "sort": 15,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-12",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "I just thought of 2 other things to note:     1.  Julie when you are e-signing it is going to ask you to check YES or NO on Privacy Policy Affiliate Information Sharing. Please check YES. Call me if you want me to explain this again. Preston, it only asks the first signer so you won’t have to make a...",
+                    "sort": 16,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 10,
+                "sale_price": 453990,
+                "sale_title": "Cumberland just sold in Gwynne Farms - Grandview",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Charlotte",
+            "division_coordinates": [
+              -81.287610882,
+              34.859795943
+            ],
+            "geometry": {
+              "coordinates": [
+                -80.9580824,
+                34.989881
+              ],
+              "type": "Point"
+            },
+            "id": 26,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 169,
+                    "image_url": "",
+                    "name": "Elizabeth Hart",
+                    "national_rank": 828,
+                    "summary": "           $2,246,876 in sales QTD<br/>7.1% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "32 days prior",
+                "home_size": "       2,066 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7124/60391/60391_eleC_lg.jpg",
+                "incentive_percent": 10,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-12",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 9,
+                "sale_price": 458139,
+                "sale_title": "Bradley just sold in Elizabeth Walk",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Maryland",
+            "division_coordinates": [
+              -76.313061212,
+              38.896696978
+            ],
+            "geometry": {
+              "coordinates": [
+                -75.1270922,
+                38.5167554
+              ],
+              "type": "Point"
+            },
+            "id": 21,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 29,
+                    "image_url": "",
+                    "name": "Sam Reeves",
+                    "national_rank": 209,
+                    "summary": "           $4,896,356 in sales QTD<br/>4.6% incentives QTD<br/>75% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.0 ba",
+                "days_from_completion": "60 days prior",
+                "home_size": "       1,570 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7129/60638/60638_eleCR_lg.jpg",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-15",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-15",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Gregory and Mei,  Your purchase agreement and option summary will be sent via DocuSign for your signature. I have attached copies in this email. Please review and sign at your earliest convenience TODAY. Should you have any questions or see any discrepancies in the purchase agreement please give me ...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Gregory and Mei!   Let’s get your new home purchase journey started! I will be sending the purchase agreement out shortly. I wanted to provide you with our payment link for your earnest money deposit. Understood that you want to wait to execute until after hearing back form Lennar Mortgage. Al...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Hi Sam. Attached are the drivers licenses. Emails are as follows: Glawdvm@?gmail.?com Tanaquiweaver@?gmail.?com Gregory Lawrence will be primary purchaser. Mei Liang will be co-purchaser. Greg Sent from my phone so please excuse my brevity and          ZjQcmQRYFpfptBannerStart               \t  \t Thi...",
+                    "sort": 5,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-12",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 8,
+                "sale_price": 479990,
+                "sale_title": "Newport Slab just sold in Milos Haven Signature",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Minnesota",
+            "division_coordinates": [
+              -93.332178563,
+              45.00503384
+            ],
+            "geometry": {
+              "coordinates": [
+                -93.655947175,
+                45.269532473
+              ],
+              "type": "Point"
+            },
+            "id": 16,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 31,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_tyler_bushinger_lr_jpg",
+                    "name": "Tyler Bushinger",
+                    "national_rank": 189,
+                    "summary": "          $12,283,730 in sales QTD<br/>64 appointments QTD<br/>11% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 85,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_cale_woodslr_jpg",
+                    "name": "Cale Woods",
+                    "national_rank": 513,
+                    "summary": "           $3,190,502 in sales QTD<br/>10% incentives QTD<br/>88% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "29 days prior",
+                "home_size": "       2,469 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6585/56578/56578_eleA_lg.jpg",
+                "incentive_percent": 11,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-15",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-16",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-16",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Emily Randall, This is a reminder of your upcoming Self-Tour at Hunter Hills 09/16/2023 at 10:00 AM. If you have any questions before then, please feel free to contact us at (952) 249-3018. We hope you enjoy your tour!",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-30",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",

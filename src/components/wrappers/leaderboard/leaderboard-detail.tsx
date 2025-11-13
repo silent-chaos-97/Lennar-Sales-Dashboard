@@ -22,6 +22,7 @@ const LeaderboardDetail = ({
   name,
   onPrev,
   onNext,
+  onClose,
   data,
   imageUrl,
   cohortRank,

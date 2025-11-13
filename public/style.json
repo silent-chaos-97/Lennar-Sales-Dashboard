@@ -449,6 +449,7 @@
                     ["exponential", 1.5],
                     ["zoom"],
                     15,
+                    1,
                     18,
                     4
                 ],
@@ -2043,3 +2044,14 @@
                         "disputed_landform",
                         "disputed_water_feature",
                         "disputed_wetland"
+                    ],
+                    ["match", ["get", "worldview"], ["all", "US"], true, false],
+                    false
+                ],
+                ["<=", ["get", "filterrank"], 1],
+                ["==", ["geometry-type"], "Point"]
+            ],
+            "layout": {
+                "text-size": [
+                    "step",
+                    ["zoom"],
