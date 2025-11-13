@@ -46,3 +46,4 @@ const LMap: React.FC<LMapProps> = ({
       initialViewState={{
         ...mapViewState
       }}
+      padding={padding}

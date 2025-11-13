@@ -254,3 +254,9 @@ const Header = () => {
                     }}
                     boxShadow={1}
                     borderRadius={1}
+                    ref={menuRef}
+                  >
+                    <RegionSelectMenu onSelectMenu={handleSelectMenu} />
+                  </Box>
+                </Box>
+              </Fade>

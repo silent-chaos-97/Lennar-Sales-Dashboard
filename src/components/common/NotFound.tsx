@@ -24,3 +24,4 @@ const NotFound = () => {
         </Typography>
         <Typography sx={{ fontSize: '32px', lineHeight: '38px', marginTop: '50px' }}>
           Please try this address:
+        </Typography>

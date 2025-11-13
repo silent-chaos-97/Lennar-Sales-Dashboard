@@ -1,4 +1,3 @@
-import Box from '@mui/material/Box'
 import Typography from '@mui/material/Typography'
 import Fade from '@mui/material/Fade'
 import Stack from '@mui/material/Stack'
@@ -212,3 +211,6 @@ const NHSDetail = ({
                     hideChange
                     fontWeight="500"
                   />
+                </Grid>
+                <Grid item xs={2.5}>
+                  <CustomTooltip elementName="label-nhc-appts-kept">

@@ -105,3 +105,5 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
               handleClickDetail={handleClickDetail}
             />
           </Scrollbar>
+        ) : (
+          <LeaderboardItems

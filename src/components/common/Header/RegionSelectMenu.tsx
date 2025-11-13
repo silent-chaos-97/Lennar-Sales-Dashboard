@@ -75,3 +75,5 @@ const RegionSelectMenu = ({ onSelectMenu }: RegionSelectMenuProps) => {
       <Grid container sx={{ mt: 3 }}>
         {locations.map((region) => (
           <Grid key={region.name} item lg={3}>
+            <Button
+              sx={{

@@ -40,6 +40,7 @@ const run = async () => {
       timezone: region.timezone
     })
 
+    if (region.divisions) {
       region.divisions.forEach((sub_region) => {
         sortedCohortList.push({
           name: sub_region.name,
@@ -78,3 +79,5 @@ const run = async () => {
     const cacheFilename = `${sanitizeFilename(
       sortedCohortList[i].name
     ).toLowerCase()}-${sanitizeFilename(sortedCohortList[i].type)}.json`
+    const cacheFilePath = path.join(__dirname, '..', 'cache', cacheFilename)
+

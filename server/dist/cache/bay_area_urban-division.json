@@ -1105,6 +1105,7 @@
               "y_axis": 0
             },
             {
+              "sort": 4,
               "x_axis": "Oct 12",
               "y_axis": 719000
             }
@@ -1157,3 +1158,31 @@
             },
             {
               "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 0
+            }
+          ],
+          "percent_change": 0,
+          "value": 0
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:32.880"
+      },
+      "QTD": {
+        "COHORT": "Bay Area Urban",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "QTD",
+        "DETAIL_SALES_ARRAY": [],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 2
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 4
+            },
+            {
+              "sort": 3,

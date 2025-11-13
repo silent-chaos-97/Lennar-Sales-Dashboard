@@ -111,3 +111,6 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
             <>
               <StrongText sx={{ color: colors[insightState?.TOP_SALES_INSIGHT.color] }}>
                 {insightState?.TOP_SALES_INSIGHT.insight_for}
+              </StrongText>
+              &nbsp;has the highest sales ({insightState?.TOP_SALES_INSIGHT.content}) for the last 7
+              days;&nbsp;

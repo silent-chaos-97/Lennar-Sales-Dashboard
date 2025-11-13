@@ -31,3 +31,4 @@ export const fetchChartData = async (location: Division) => {
 
   try {
     const res = await axios.get(
+      `${API_URL}/api/data?cohort=${location.name}&cohort_type=${location.type}`,

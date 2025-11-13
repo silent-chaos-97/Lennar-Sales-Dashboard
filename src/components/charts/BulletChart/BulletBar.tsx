@@ -55,3 +55,4 @@ const BulletBar = ({
                 variant="caption"
                 color="grey.600"
                 fontWeight={500}
+                sx={{

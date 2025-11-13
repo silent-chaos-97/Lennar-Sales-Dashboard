@@ -32,12 +32,12 @@ interface ListProps {
   showList: (show: boolean) => void
 }
 
-const List = ({ list, choose, showList }: ListProps) => {
   const handleChoose = (idx: number) => {
     choose(idx)
     showList(false)
   }
   return (
+    <Box
       sx={{
         position: 'absolute',
         px: 2,
@@ -159,3 +159,6 @@ const PacingDetails = ({
                     px: 1.5,
                     borderRadius: 4
                   }}
+                >
+                  {STATUS_TEXT_BY_KEY[subPacingData.status]}
+                </Typography>

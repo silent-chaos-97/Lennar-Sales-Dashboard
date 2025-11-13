@@ -16,7 +16,6 @@ import { Checkbox } from '@mui/material'
 
 interface SettingsMenuProps {
   onClose: () => void
-}
 
 const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
   const { mode, setScreenMode, showTooltips, setShowTooltips } = useScreen()
@@ -192,3 +191,4 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
             sx={{
               backgroundColor: 'rgba(255,255,255,0.25)',
               fontWeight: 500,
+              fontSize: 24,

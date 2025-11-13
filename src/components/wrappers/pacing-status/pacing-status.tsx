@@ -166,7 +166,6 @@ const PacingStatus = ({ mapWrapperRef }) => {
   const handleSelect = (idx: number) => {
     setSelectedPacingItem(pacingCohortArrayCloned[idx])
     setActiveDots([idx])
-    setActivePieName(pacingCohortArrayCloned[idx]?.status)
   }
 
   const markers = useMemo(
@@ -196,3 +195,8 @@ const PacingStatus = ({ mapWrapperRef }) => {
             <CustomTooltip elementName="label-pacing-inventory">
               <Typography variant="caption" fontWeight={500} color="textSecondary">
                 <DataAlert elementName="label-pacing-inventory">Inventory</DataAlert>
+              </Typography>
+            </CustomTooltip>
+            <Typography variant="h1" fontWeight={700}>
+              {(pacingState?.AVAILABLE_HOMES.total_available || 0).toLocaleString()}
+            </Typography>

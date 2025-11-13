@@ -91,3 +91,5 @@ const PerformanceBar = ({
           </CustomTooltip>
           <Typography variant="h1" color="#a5cfef" fontWeight={500}>
             {value}%
+          </Typography>
+        </Box>

@@ -139,3 +139,7 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
         .style('fill', idx === 0 ? '#33A3FF' : '#70747A')
 
       // show median, min and max horizontal lines
+      svg
+        .selectAll('toto')
+        .data([min, max])
+        .enter()

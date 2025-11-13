@@ -95,3 +95,6 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
 
       // Draw current ticker line
       svg
+        .append('path')
+        .datum(filteredCurrentTickers)
+        .attr('fill', 'none')

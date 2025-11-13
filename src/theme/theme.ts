@@ -295,3 +295,10 @@ export const theme = createTheme({
     },
     MuiRadio: {
       styleOverrides: {
+        root: {
+          color: '#dde3f6'
+        }
+      }
+    },
+    MuiAccordion: {
+      styleOverrides: {

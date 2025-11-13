@@ -78,3 +78,4 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
         .style('fill', (d) => (d === currentMonday ? '#fff' : '#70747A'))
 
       const yAxis = d3
+        .axisLeft(y)

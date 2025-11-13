@@ -32,3 +32,4 @@ const PercentValueText = ({
             (change > 0 ? <NorthEastIcon color="success" /> : <SouthEastIcon color="error" />)}
           <Typography
             component="span"
+            color={getValueChangeTextColor(change || 0)}

@@ -94,3 +94,5 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
           return true
         })
 
+      svg.append('path').datum(data).attr('fill', 'url(#gradient)').attr('d', area)
+

@@ -83,3 +83,5 @@ const DailyAnalyticsBox = ({
           <Typography variant="caption" color="text.secondary">
             <DataAlert elementName={`label-${title.replaceAll(' ', '-').toLowerCase()}`}>
               {title}
+            </DataAlert>
+          </Typography>

@@ -283,4 +283,10 @@ const CenterPane = () => {
 
   useEffect(() => {
     if (selectedSalesItems !== null) {
-      if (selectedSalesItems[clusterIndex]?.properties?.sales) {
+        setSelectedSalesItem(selectedSalesItems[clusterIndex].properties.sales)
+      }
+      setScroolProgress([clusterIndex === 0, clusterIndex === selectedSalesItems.length - 1])
+    }
+  }, [clusterIndex, selectedSalesItems])
+
+  const handleClickPrev = () => {

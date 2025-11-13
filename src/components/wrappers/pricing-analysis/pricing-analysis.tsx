@@ -58,6 +58,7 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
                   {truncateText(
                     `${divisionName ? divisionName : currentCohort.name} median price`,
                     35
+                  )}
                 </DataAlert>
               </Typography>
             </CustomTooltip>
@@ -108,3 +109,6 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
                 {priceChanges.new}%
               </Typography>
             </Stack>
+          </Box>
+          <Box flex={1}>
+            <CustomTooltip elementName="pacing-resale-median-price">

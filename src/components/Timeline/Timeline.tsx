@@ -66,3 +66,4 @@ const Timeline = ({ journeyData }: TimelineProps) => {
       <AccordionDetails sx={{ p: 0 }}>
         <Box>
           <Scrollbar noScrollX style={{ height: 1000, width: '100%' }}>
+            <Stack

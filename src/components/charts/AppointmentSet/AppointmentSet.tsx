@@ -129,8 +129,12 @@ const AppointmentSet = ({
             f0: dayPrv?.byFrame[0],
             f1: dayPrv?.byFrame[1],
             f2: dayPrv?.byFrame[2],
+            f3: dayPrv?.byFrame[3]
           }
         }
       }, []),
       maxValue
     ]
+  }, [currentWeekData, prevWeekData])
+
+  return (

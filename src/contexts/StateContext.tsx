@@ -170,3 +170,7 @@ export const StateProvider = (props: PropsWithChildren) => {
     refreshData()
   }, [currentCohort])
 
+  const fetchNextDivision = () => {
+    const idx = sortedCohorts.findIndex((division) => division.name === currentCohort.name)
+    if (idx !== -1) {
+      const nextIdx = (idx + 1) % sortedCohorts.length

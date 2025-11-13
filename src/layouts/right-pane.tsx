@@ -5,6 +5,7 @@ import PacingStatus from '@/components/wrappers/pacing-status'
 import PacingAnalysis from '@/components/wrappers/pacing-analysis'
 import PricingAnalysis from '@/components/wrappers/pricing-analysis'
 import { useMemo, useRef } from 'react'
+import { useAppState } from '@/contexts/StateContext'
 import { NHC_LEADERBOARD_CATEGORIES } from '@/types/leaderboards'
 
 const RightPane = () => {
@@ -35,3 +36,4 @@ const RightPane = () => {
               <Grid item lg={4}>
                 {leaderboards?.NHC_LEADERBOARDS && (
                   <Leaderboard
+                    leaderboardData={leaderboards?.NHC_LEADERBOARDS}

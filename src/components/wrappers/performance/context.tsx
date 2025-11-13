@@ -18,7 +18,6 @@ interface PerformanceProviderProps {
 // Create a provider for the new context
 export const PerformanceProvider = ({
   children,
-  timeframe
 }: PropsWithChildren<PerformanceProviderProps>) => {
   const { performanceTimeframeState } = useAppState()
 

@@ -13,6 +13,7 @@ The project is divided into two main parts: the backend and the frontend. The ba
     of this repo.
 - `npm` 8.x
   - If you used `nvm`, this should be set up for you after running `nvm use`.
+- `git`
 
 
 ## Local Development
@@ -68,4 +69,6 @@ Follow these steps to set up the frontend:
     ```bash
     pm2 resurrect
     ```
+
+## Architecture
 

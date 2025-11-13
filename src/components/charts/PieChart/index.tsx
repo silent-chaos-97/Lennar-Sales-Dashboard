@@ -101,3 +101,6 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
           }
           return [posA, posB, posC]
         }
+
+        return []
+      })

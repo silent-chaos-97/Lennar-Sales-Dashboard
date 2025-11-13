@@ -46,6 +46,7 @@ const SubPacingAnalysis = ({
             </Typography>
             <Typography variant="h1" color="success.light">
               {past3WSales.toFixed(1)}/wk
+            </Typography>
           </Box>
           <Box flex={1}>
             <Typography variant="caption" color="text.secondary" fontWeight={500}>
@@ -55,3 +56,4 @@ const SubPacingAnalysis = ({
               {(Math.round(next3WPace * 10) / 10).toLocaleString()}/wk
             </Typography>
           </Box>
+          <Box flex={1}>

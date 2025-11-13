@@ -56,7 +56,6 @@ const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
   }, [event.activity_date])
 
   return (
-    <Stack direction="row">
       <Box
         sx={{
           width: 40,
@@ -68,3 +67,5 @@ const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
         }}
       >
         {icons[event.activity_type as keyof typeof icons]}
+      </Box>
+      <Stack flex="1">

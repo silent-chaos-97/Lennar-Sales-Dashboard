@@ -17,7 +17,6 @@ if (
 }
 
 const snowflakeOptions: ConnectionOptions = {
-  account: process.env.SNOWFLAKE_ACCOUNT,
   username: process.env.SNOWFLAKE_USERNAME,
   password: process.env.SNOWFLAKE_PASSWORD,
   role: process.env.SNOWFLAKE_ROLE,
@@ -171,3 +170,6 @@ class SnowflakeService {
             } else if (rows.length === 1) {
               result[statsKeys[statIdx]] = rows[0]
             } else {
+              result[statsKeys[statIdx]] = null
+            }
+

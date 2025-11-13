@@ -52,3 +52,4 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
         ref={ref}
       >
         <HeatMap cWidth={width} size={4} spacing={1} nRow={18} nCol={144} data={filteredData} />
+      </Box>

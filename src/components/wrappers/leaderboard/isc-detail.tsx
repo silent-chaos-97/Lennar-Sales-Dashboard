@@ -283,3 +283,10 @@ const ISCDetail = ({
                 <Box width={24} height={4} borderRadius={2} bgcolor="rgba(255,255,255,0.5)" />
                 <Typography variant="caption" color="textSecondary">
                   Goal
+                </Typography>
+              </Stack>
+            }
+          >
+            <Grid container wrap="nowrap" direction="row">
+              <Grid container item xl={3} sx={{ mr: 2 }}>
+                <Stack sx={{ height: '100%' }} spacing={10}>

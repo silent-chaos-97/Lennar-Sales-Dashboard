@@ -41,7 +41,6 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "lint": "npx eslint src",
     "lint:fix": "npm run lint -- --fix",
     "prettier": "npx prettier src --check",
     "prettier:fix": "npm run prettier -- --write",
@@ -63,3 +62,4 @@
       "not android < 5",
       "not ie < 12"
     ],
+    "development": [

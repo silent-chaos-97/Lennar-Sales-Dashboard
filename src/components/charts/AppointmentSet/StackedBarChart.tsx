@@ -100,3 +100,6 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
       .selectAll('g')
       .data(prvData)
       .enter()
+      .append('rect')
+      .attr('width', width / 5)
+      .attr('x', (d) => yScalePrv(d.key.toString()) || 0)

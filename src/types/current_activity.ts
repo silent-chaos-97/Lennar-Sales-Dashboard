@@ -2,7 +2,6 @@ export interface TickerItem {
   activity_time: string
   activity_status: string
   sort: number
-}
 
 export interface HourlyTicker {
   prev: number
@@ -34,3 +33,4 @@ export interface CurrentActivityState {
   }
   WEB_VISITORS: null | number
   WEB_VISITORS_PERCENT_CHANGE: number
+  WEB_VISITORS_PREV?: number

@@ -126,3 +126,6 @@ export const Section = ({
               }}
             >
               <Typography variant="caption" color="textSecondary">
+                {subtitle}
+              </Typography>
+              {timestampList && <ArrowDropDownIcon htmlColor="#dde3f6" />}

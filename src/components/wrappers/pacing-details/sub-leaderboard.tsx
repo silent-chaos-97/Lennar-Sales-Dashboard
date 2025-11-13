@@ -1,4 +1,3 @@
-import MemberItem from '@/components/MemberItem/MemberItem'
 import Section from '@/components/common/Section/Section'
 import Stack from '@mui/material/Stack'
 import { LeaderboardObj } from '@/types/leaderboards'
@@ -36,3 +35,4 @@ const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
               <MemberItem
                 key={leader.name.toLowerCase().replaceAll(' ', '-')}
                 cohort_rank={leader.cohort_rank}
+                imageSrc={leader.image_url}

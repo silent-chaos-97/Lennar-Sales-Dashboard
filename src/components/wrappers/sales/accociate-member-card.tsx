@@ -61,3 +61,5 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
           </Typography>
         </Avatar>
         <Chip
+          label={member.type}
+          size="small"

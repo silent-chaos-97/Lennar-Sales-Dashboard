@@ -92,6 +92,7 @@ const MainLayout = () => {
       case 'pacing':
         setCurrentScreen(ScreenPanes.pacing)
         break
+      default:
         setCurrentScreen(ScreenPanes.leads)
         break
     }
@@ -140,3 +141,6 @@ const MainLayout = () => {
 
     document.addEventListener('resize', calculateZoomRate)
 
+    return () => {
+      document.removeEventListener('resize', calculateZoomRate)
+    }

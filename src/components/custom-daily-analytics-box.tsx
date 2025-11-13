@@ -30,3 +30,4 @@ const CustomDailyAnalyticsBox = ({
       </Typography>
       {diffPercent !== 0 &&
         (diffPercent > 0 ? (
+          <NorthEastIcon color={isDecreaseBenefit ? 'error' : 'success'} />
