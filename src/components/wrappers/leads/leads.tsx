@@ -55,4 +55,6 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
           percent={(scores.paid / maxValue) * 100}
           value={scores.paid}
           change={data?.LEADS_BY_CHANNEL.paid_pct_change || 0}
+        />
         <Bar
+          label="Non-paid"

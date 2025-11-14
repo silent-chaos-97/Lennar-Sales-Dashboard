@@ -143,7 +143,6 @@ const PacingDetails = ({
               <Stack
                 onClick={() => setShowList((prev) => !prev)}
                 direction="row"
-                alignItems="center"
                 spacing={1}
                 sx={{
                   cursor: 'pointer',
@@ -163,3 +162,5 @@ const PacingDetails = ({
                 >
                   {STATUS_TEXT_BY_KEY[subPacingData.status]}
                 </Typography>
+                <IconButton size="large">
+                  {showList ? (

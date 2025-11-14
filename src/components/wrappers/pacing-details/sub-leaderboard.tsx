@@ -14,7 +14,6 @@ const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
       <Scrollbar
         style={{ height: 1040, width: '100%', paddingRight: 24 }}
         contentProps={{ style: { paddingRight: '25px' } }}
-      >
         {Array.isArray(leaders) ? (
           leaders.map((leaderboard) => (
             <Section title={leaderboard.type} key={leaderboard.type}>
@@ -37,3 +36,4 @@ const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
                 key={leader.name.toLowerCase().replaceAll(' ', '-')}
                 cohort_rank={leader.cohort_rank}
                 imageSrc={leader.image_url}
+                name={leader.name}

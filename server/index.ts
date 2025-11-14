@@ -29,7 +29,6 @@ const CACHE_DIRECTORY = path.join(__dirname, 'cache')
 // Create the cache directory if it doesn't exist
 if (!fs.existsSync(CACHE_DIRECTORY)) {
   fs.mkdirSync(CACHE_DIRECTORY)
-}
 
 function sanitizeFilename(filename: string) {
   // Replace unsafe characters with underscores
@@ -70,3 +69,4 @@ app.get('/api/data', async (req, res) => {
 
   try {
     fs.writeFileSync(cacheFilePath, JSON.stringify(timestampedResult, null, 2))
+    console.log(`Result saved to ${cacheFilePath}`)

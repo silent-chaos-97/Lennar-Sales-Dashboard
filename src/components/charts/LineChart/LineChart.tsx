@@ -33,6 +33,7 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         .filter((ticker) => ticker !== '')
       const margin = { top: 10, right: 0, bottom: 10, left: 0 },
         chartWidth = width - margin.left - margin.right,
+        chartHeight = height - margin.top - margin.bottom
 
       const svg = d3.select(`#${id}`)
       const xScale = d3
@@ -97,3 +98,5 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         .append('path')
         .datum(filteredCurrentTickers)
         .attr('fill', 'none')
+        .attr('stroke', '#33A3FF')
+        .attr('stroke-width', 3)

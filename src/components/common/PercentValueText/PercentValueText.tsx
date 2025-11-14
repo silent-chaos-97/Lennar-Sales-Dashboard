@@ -33,3 +33,4 @@ const PercentValueText = ({
           <Typography
             component="span"
             color={getValueChangeTextColor(change || 0)}
+            variant="h6"

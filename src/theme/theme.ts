@@ -304,3 +304,9 @@ export const theme = createTheme({
       styleOverrides: {
         root: {
           border: '1px solid #dde3f6',
+          borderRadius: 12,
+          boxShadow: 'none',
+          ':before': {
+            display: 'none'
+          },
+          '.MuiCollapse-root': {

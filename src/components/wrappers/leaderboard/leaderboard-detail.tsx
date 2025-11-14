@@ -51,3 +51,4 @@ const LeaderboardDetail = ({
   } else {
     return (
       <NHSDetail
+        open={open}

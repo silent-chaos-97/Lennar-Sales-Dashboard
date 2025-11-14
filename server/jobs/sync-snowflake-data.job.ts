@@ -81,3 +81,4 @@ const run = async () => {
     ).toLowerCase()}-${sanitizeFilename(sortedCohortList[i].type)}.json`
     const cacheFilePath = path.join(__dirname, '..', 'cache', cacheFilename)
 
+    // Add a timestamp field to the result

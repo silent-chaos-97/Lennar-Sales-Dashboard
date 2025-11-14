@@ -88,3 +88,5 @@ export interface LeaderboardsState {
   DBT_UPDATED_AT: string
   ISC_LEADERBOARDS: LeaderboardObj
   NHC_LEADERBOARDS: LeaderboardObj
+}
+

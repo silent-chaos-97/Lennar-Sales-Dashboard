@@ -292,3 +292,9 @@ const CenterPane = () => {
 
   const handleClickPrev = () => {
     if (selectedSalesItems.length > 1 && clusterIndex > 0) {
+      setScroolProgress([false, false])
+      setClusterIndex(clusterIndex - 1)
+    }
+  }
+
+  const handleClickNext = () => {

@@ -13,7 +13,6 @@ const NotFound = () => {
             height: '76px',
             padding: '25px',
             marginTop: 0
-          }}
           width="100%"
         >
           <img src="/logo.svg" alt="Lennar" width="144" />

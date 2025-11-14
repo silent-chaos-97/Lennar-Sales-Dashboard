@@ -12,7 +12,6 @@
     "plugin:prettier/recommended"
   ],
   "overrides": [],
-  "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "ecmaFeatures": {
       "jsx": true
@@ -23,6 +22,7 @@
   "plugins": [
     "react",
     "@typescript-eslint"
+  ],
   "rules": {
     "react/react-in-jsx-scope": "off",
     "jsx-a11y/click-events-have-key-events": "off",

@@ -49,3 +49,4 @@ const HourlyActivity = ({
       <Stack direction="row" alignItems="flex-end" spacing={1}>
         <Typography variant="h2">{total.toLocaleString()}</Typography>
         <Stack>
+          {change !== 0 &&

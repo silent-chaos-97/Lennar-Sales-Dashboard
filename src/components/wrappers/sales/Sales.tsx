@@ -114,3 +114,5 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
               </StrongText>
               &nbsp;has the highest sales ({insightState?.TOP_SALES_INSIGHT.content}) for the last 7
               days;&nbsp;
+            </>
+          )}

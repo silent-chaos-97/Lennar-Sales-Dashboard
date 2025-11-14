@@ -63,3 +63,4 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
         <Chip
           label={member.type}
           size="small"
+          color={member.type === 'ISC' ? 'primary' : 'secondary'}

@@ -47,3 +47,4 @@ const LMap: React.FC<LMapProps> = ({
         ...mapViewState
       }}
       padding={padding}
+      style={style}

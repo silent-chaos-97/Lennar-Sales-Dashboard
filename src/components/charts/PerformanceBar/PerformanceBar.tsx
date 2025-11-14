@@ -93,3 +93,5 @@ const PerformanceBar = ({
             {value}%
           </Typography>
         </Box>
+        {!!missed && (
+          <Typography variant="caption" color="text.quaternary" mb={0.25}>

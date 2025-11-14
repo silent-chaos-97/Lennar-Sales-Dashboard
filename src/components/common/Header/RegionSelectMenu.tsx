@@ -78,3 +78,4 @@ const RegionSelectMenu = ({ onSelectMenu }: RegionSelectMenuProps) => {
             <Button
               sx={{
                 color: 'grey.300',
+                fontSize: 24,

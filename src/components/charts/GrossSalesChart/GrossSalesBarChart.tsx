@@ -5,7 +5,6 @@ import * as d3 from 'd3'
 import { DateTime } from 'luxon'
 import { Typography } from '@mui/material'
 
-interface GrossSalesBarChartProps {
   id: string
   width: number
   height: number
@@ -79,3 +78,4 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
 
       const yAxis = d3
         .axisLeft(y)
+        .ticks(d3.max(data, (d) => d.y_axis))

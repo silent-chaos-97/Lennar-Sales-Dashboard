@@ -174,3 +174,6 @@ const Performance = () => {
               valueFormat=">-.2f"
               innerRadius={0.05}
               padding={0.6}
+              cornerRadius={20}
+              enableRadialGrid={false}
+              enableCircularGrid={false}

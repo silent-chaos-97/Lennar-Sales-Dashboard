@@ -28,3 +28,4 @@ const DataAlert = ({ elementName, truncateSize = 0, isSvg = false, children }: D
   }
 
   return (
+    <Tag style={{ cursor: 'help' }}>

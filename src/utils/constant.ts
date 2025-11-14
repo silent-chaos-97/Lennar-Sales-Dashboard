@@ -51,3 +51,4 @@ export const LONGITUDE_DELTA = {
 export const TIMEZONE = {
   'US/Eastern': 'America/New_York',
   'US/Central': 'America/Chicago',
+  'US/Mountain': 'America/Denver',

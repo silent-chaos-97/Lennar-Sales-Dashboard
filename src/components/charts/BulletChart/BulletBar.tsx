@@ -56,3 +56,13 @@ const BulletBar = ({
                 color="grey.600"
                 fontWeight={500}
                 sx={{
+                  position: 'absolute',
+                  bottom: -30,
+                  left: '50%',
+                  transform: 'translateX(-50%)',
+                  whiteSpace: 'nowrap'
+                }}
+              >
+                {label}
+              </Typography>
+            )}

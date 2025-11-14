@@ -56,3 +56,4 @@ const LeftPane = () => {
               <Grid item lg={8}>
                 <IscActivity data={selectedActivity} activityTimeframe={activityTimeframe} />
               </Grid>
+            </Grid>

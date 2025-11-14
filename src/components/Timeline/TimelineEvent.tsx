@@ -19,7 +19,6 @@ interface TimelineEventProps {
   event: JourneyArrayItem
   expanded: boolean
 }
-
 const icons = {
   text: <SmsIcon />,
   email: <EmailIcon />,
@@ -54,6 +53,7 @@ const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
 
     return formattedDate
   }, [event.activity_date])
+
   return (
     <Stack direction="row">
       <Box
@@ -70,3 +70,4 @@ const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
       </Box>
       <Stack flex="1">
         <Stack direction="row" width="100%" justifyContent="space-between">
+          <Typography variant="caption" lineHeight="40px" color="grey.500">

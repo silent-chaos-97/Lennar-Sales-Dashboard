@@ -28404,3 +28404,544 @@
                   "x_axis": "Sep 11",
                   "y_axis": 1
                 },
+                {
+                  "x_axis": "Sep 18",
+                  "y_axis": 0
+                }
+              ],
+              "gross_sales": 2,
+              "gross_sales_division_rank": 12,
+              "gross_sales_national_rank": 1017,
+              "incentive_rate": 5.6,
+              "net_revenue": 594563,
+              "net_revenue_division_rank": 13,
+              "net_revenue_national_rank": 1079,
+              "net_revenue_percent_change": -73,
+              "net_sales": 1,
+              "realtor_attachment_rate": 0,
+              "realtor_attachment_rate_division_rank": 1,
+              "realtor_attachment_rate_national_rank": 40,
+              "realtor_commission": 0,
+              "realtor_commission_rate": 0
+            },
+            "summary": "2 gross sales"
+          },
+          {
+            "cohort_rank": 13,
+            "division_name": "North Alabama",
+            "image_url": "",
+            "name": "Nancy Lee Chapman",
+            "national_rank": 1028,
+            "pop_out_details": {
+              "appointments_kept_rate": 71,
+              "days_since_last_sale": 12,
+              "graph_data": [
+                {
+                  "x_axis": "Jul 10",
+                  "y_axis": 0
+                },
+                {
+                  "x_axis": "Jul 17",
+                  "y_axis": 0
+                },
+                {
+                  "x_axis": "Aug 14",
+                  "y_axis": 1
+                },
+                {
+                  "x_axis": "Aug 21",
+                  "y_axis": 1
+                },
+                {
+                  "x_axis": "Aug 28",
+                  "y_axis": 0
+                },
+                {
+                  "x_axis": "Sep 04",
+                  "y_axis": 1
+                },
+                {
+                  "x_axis": "Sep 11",
+                  "y_axis": 0
+                },
+                {
+                  "x_axis": "Sep 18",
+                  "y_axis": 0
+                },
+                {
+                  "x_axis": "Sep 25",
+                  "y_axis": 1
+                },
+                {
+                  "x_axis": "Oct 02",
+                  "y_axis": 0
+                }
+              ],
+              "gross_sales": 2,
+              "gross_sales_division_rank": 13,
+              "gross_sales_national_rank": 1028,
+              "incentive_rate": 0,
+              "net_revenue": 1020597,
+              "net_revenue_division_rank": 9,
+              "net_revenue_national_rank": 1006,
+              "net_revenue_percent_change": -4,
+              "net_sales": 2,
+              "realtor_attachment_rate": 50,
+              "realtor_attachment_rate_division_rank": 6,
+              "realtor_attachment_rate_national_rank": 298,
+              "realtor_commission": 12596.7,
+              "realtor_commission_rate": 1.2
+            },
+            "summary": "2 gross sales"
+          },
+          {
+            "cohort_rank": 14,
+            "division_name": "North Alabama",
+            "image_url": "",
+            "name": "Cory Viola",
+            "national_rank": 1087,
+            "pop_out_details": {
+              "appointments_kept_rate": 0,
+              "days_since_last_sale": 1,
+              "graph_data": [
+                {
+                  "x_axis": "Sep 18",
+                  "y_axis": 0
+                },
+                {
+                  "x_axis": "Oct 02",
+                  "y_axis": 0
+                },
+                {
+                  "x_axis": "Oct 09",
+                  "y_axis": 1
+                }
+              ],
+              "gross_sales": 1,
+              "gross_sales_division_rank": 14,
+              "gross_sales_national_rank": 1087,
+              "incentive_rate": 0,
+              "net_revenue": 370041,
+              "net_revenue_division_rank": 14,
+              "net_revenue_national_rank": 1096,
+              "net_revenue_percent_change": 0,
+              "net_sales": 1,
+              "realtor_attachment_rate": 100,
+              "realtor_attachment_rate_division_rank": 14,
+              "realtor_attachment_rate_national_rank": 1087,
+              "realtor_commission": 11381.1,
+              "realtor_commission_rate": 3.1
+            },
+            "summary": "1 gross sale"
+          },
+          {
+            "cohort_rank": 15,
+            "division_name": "North Alabama",
+            "image_url": "",
+            "name": "JoAnn Reeves",
+            "national_rank": 1111,
+            "pop_out_details": {
+              "appointments_kept_rate": 100,
+              "days_since_last_sale": 0,
+              "graph_data": [
+                {
+                  "x_axis": "Sep 18",
+                  "y_axis": 0
+                },
+                {
+                  "x_axis": "Oct 02",
+                  "y_axis": 0
+                }
+              ],
+              "gross_sales": 0,
+              "gross_sales_division_rank": 15,
+              "gross_sales_national_rank": 1111,
+              "incentive_rate": 0,
+              "net_revenue": 0,
+              "net_revenue_division_rank": 15,
+              "net_revenue_national_rank": 1111,
+              "net_revenue_percent_change": 0,
+              "net_sales": 0,
+              "realtor_attachment_rate": 0,
+              "realtor_attachment_rate_division_rank": 15,
+              "realtor_attachment_rate_national_rank": 1111,
+              "realtor_commission": 0,
+              "realtor_commission_rate": 0
+            },
+            "summary": "0 gross sales"
+          }
+        ]
+      },
+      "DBT_UPDATED_AT": "2023-10-12 17:56:36.277"
+    },
+    "isc_performance_timeframe": {
+      "t7d": {
+        "COHORT": "North Alabama",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "t7d",
+        "INBOUND_CALLS_ANSWERED": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 98
+        },
+        "INBOUND_CHATS_ANSWERED": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 100
+        },
+        "LEADS_WITH_APPOINTMENT_SET": {
+          "color": "green",
+          "goal_value": 13,
+          "percent_value": 23
+        },
+        "APPOINTMENTS_KEPT": {
+          "color": "green",
+          "goal_value": 75,
+          "missed": 7,
+          "percent_value": 75
+        },
+        "SALES_WITH_ISC_ATTACHED": {
+          "color": "red",
+          "goal_value": 75,
+          "percent_value": 52
+        },
+        "LEADS_WITH_TRIFECTA": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 100
+        },
+        "LEADS_WITH_FOLLOWUP": {
+          "color": "green",
+          "goal_value": 80,
+          "percent_value": 100
+        },
+        "BEBACKS_WITH_FOLLOWUP": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 100
+        },
+        "DBT_UPDATED_AT": "2023-10-12 17:55:58.556"
+      },
+      "MTD": {
+        "COHORT": "North Alabama",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "MTD",
+        "INBOUND_CALLS_ANSWERED": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 99
+        },
+        "INBOUND_CHATS_ANSWERED": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 100
+        },
+        "LEADS_WITH_APPOINTMENT_SET": {
+          "color": "green",
+          "goal_value": 13,
+          "percent_value": 19
+        },
+        "APPOINTMENTS_KEPT": {
+          "color": "green",
+          "goal_value": 75,
+          "missed": 7,
+          "percent_value": 78
+        },
+        "SALES_WITH_ISC_ATTACHED": {
+          "color": "red",
+          "goal_value": 75,
+          "percent_value": 51
+        },
+        "LEADS_WITH_TRIFECTA": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 98
+        },
+        "LEADS_WITH_FOLLOWUP": {
+          "color": "green",
+          "goal_value": 80,
+          "percent_value": 100
+        },
+        "BEBACKS_WITH_FOLLOWUP": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 98
+        },
+        "DBT_UPDATED_AT": "2023-10-12 17:55:58.556"
+      },
+      "QTD": {
+        "COHORT": "North Alabama",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "QTD",
+        "INBOUND_CALLS_ANSWERED": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 98
+        },
+        "INBOUND_CHATS_ANSWERED": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 100
+        },
+        "LEADS_WITH_APPOINTMENT_SET": {
+          "color": "green",
+          "goal_value": 13,
+          "percent_value": 13
+        },
+        "APPOINTMENTS_KEPT": {
+          "color": "green",
+          "goal_value": 75,
+          "missed": 21,
+          "percent_value": 76
+        },
+        "SALES_WITH_ISC_ATTACHED": {
+          "color": "red",
+          "goal_value": 75,
+          "percent_value": 40
+        },
+        "LEADS_WITH_TRIFECTA": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 98
+        },
+        "LEADS_WITH_FOLLOWUP": {
+          "color": "green",
+          "goal_value": 80,
+          "percent_value": 99
+        },
+        "BEBACKS_WITH_FOLLOWUP": {
+          "color": "green",
+          "goal_value": 90,
+          "percent_value": 95
+        },
+        "DBT_UPDATED_AT": "2023-10-12 17:55:58.556"
+      }
+    },
+    "current_activity_timeframe": {
+      "yesterday": {
+        "COHORT": "North Alabama",
+        "COHORT_TYPE": "division",
+        "CALLS_TICKER_ARRAY": [
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 08:25:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-11 08:40:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 08:50:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:00:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:05:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:15:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:25:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:40:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:40:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-11 09:45:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 09:45:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 10:00:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 10:05:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 10:25:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-11 10:35:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-11 10:40:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-11 10:50:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-11 11:10:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 11:10:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 11:15:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 11:20:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-11 11:35:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 11:35:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 11:35:00.000",
+            "sort": 3
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 11:40:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-11 11:40:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 11:40:00.000",
+            "sort": 3
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 11:45:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 11:55:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 12:05:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 12:15:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 12:20:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 12:30:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-11 12:30:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 12:30:00.000",
+            "sort": 3
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-11 12:45:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 12:50:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 13:25:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 13:30:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 13:30:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 13:35:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 13:40:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 13:40:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 13:45:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-11 13:45:00.000",

@@ -180,3 +180,5 @@ const SalesDetails = ({
                 <Typography variant="caption" color="text.secondary">
                   Days from completion
                 </Typography>
+                <Typography variant="h3" whiteSpace="nowrap">
+                  {salesDetail.days_from_completion}

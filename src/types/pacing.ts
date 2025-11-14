@@ -8,6 +8,7 @@ export interface WeeklyPacingItem {
   x_axis: string
   sort: number
 }
+
 interface AvailableHomes {
   black_homes: number
   green_homes: number
@@ -50,3 +51,4 @@ export interface PacingState extends Cohort {
   DBT_UPDATED_AT: string
   NEXT_3W_PACE: number
   PAST_3W_SALES: number
+  WEEKLY_PACING_GRAPH: WeeklyPacingItem[]

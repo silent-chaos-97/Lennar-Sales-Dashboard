@@ -79,6 +79,7 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
   }
 
   return (
+    <>
       <Section
         title={leaderboardData.type}
         timestamp={activeTimestamp}
@@ -106,3 +107,5 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
           </Scrollbar>
         ) : (
           <LeaderboardItems
+            leaderboardItems={leaderboardItems}
+            leaderboardData={leaderboardData}

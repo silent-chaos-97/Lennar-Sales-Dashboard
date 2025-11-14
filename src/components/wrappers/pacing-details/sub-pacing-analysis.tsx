@@ -40,7 +40,6 @@ const SubPacingAnalysis = ({
     >
       <Stack sx={{ mb: 10 }}>
         <Stack direction="row" justifyContent="space-between" sx={{ mb: 4 }}>
-          <Box flex={1}>
             <Typography variant="caption" color="text.secondary" fontWeight={500}>
               Past 3W sales
             </Typography>
@@ -55,5 +54,7 @@ const SubPacingAnalysis = ({
             <Typography variant="h1" color="success.dark">
               {(Math.round(next3WPace * 10) / 10).toLocaleString()}/wk
             </Typography>
+          </Box>
           <Box flex={1}>
             <Typography variant="caption" color="text.secondary" fontWeight={500}>
+              Change needed to meet pace

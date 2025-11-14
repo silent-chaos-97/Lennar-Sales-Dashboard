@@ -154,6 +154,7 @@ const NHSDetail = ({
                   />
                 </Grid>
               </Grid>
+            </Section>
           </Box>
 
           <Grid container wrap="nowrap" direction="row">
@@ -214,3 +215,5 @@ const NHSDetail = ({
                 </Grid>
                 <Grid item xs={2.5}>
                   <CustomTooltip elementName="label-nhc-appts-kept">
+                    <Typography variant="caption" color="textSecondary">
+                      Appointments kept

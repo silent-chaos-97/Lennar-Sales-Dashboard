@@ -106,7 +106,6 @@ const MainLayout = () => {
         setPlaying(false)
         setCurrentCohort(cohortObject)
         setPrevSelectedDivisionType('')
-      }
     }
     adjustMode()
     document.addEventListener('resize', adjustMode)
@@ -144,3 +143,5 @@ const MainLayout = () => {
     return () => {
       document.removeEventListener('resize', calculateZoomRate)
     }
+  }, [width, mode])
+

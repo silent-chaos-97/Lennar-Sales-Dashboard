@@ -193,3 +193,4 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
               backgroundColor: 'rgba(255,255,255,0.25)',
               fontWeight: 500,
               fontSize: 24,
+              lineHeight: '32px',

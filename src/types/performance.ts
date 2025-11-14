@@ -4,6 +4,7 @@ export interface PerformanceItem {
   percent_value: number
   missed?: number
 }
+
 export interface IscPerformanceState {
   COHORT: string
   COHORT_TYPE: string
@@ -16,3 +17,4 @@ export interface IscPerformanceState {
   LEADS_WITH_FOLLOWUP: PerformanceItem
   LEADS_WITH_TRIFECTA: PerformanceItem
   SALES_WITH_ISC_ATTACHED: PerformanceItem
+}

@@ -123,3 +123,6 @@ export const TimerProvider = (props: PropsWithChildren) => {
       setPlaying,
       setDisableRotation
     }),
+    [
+      setCycleTimerProgress,
+      setCycleTimeout,

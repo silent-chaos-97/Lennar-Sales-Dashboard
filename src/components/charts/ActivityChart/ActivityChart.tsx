@@ -53,3 +53,4 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
       >
         <HeatMap cWidth={width} size={4} spacing={1} nRow={18} nCol={144} data={filteredData} />
       </Box>
+      <Stack direction="row" justifyContent="space-between" mt={2}>

@@ -44,7 +44,6 @@ export const Section = ({
 
   const alignmentStyle = useMemo(() => {
     if (dropdownAlignment === 'left') {
-      return { left: 0 }
     }
 
     if (dropdownAlignment === 'center') {
@@ -130,3 +129,6 @@ export const Section = ({
               </Typography>
               {timestampList && <ArrowDropDownIcon htmlColor="#dde3f6" />}
             </Stack>
+            {showTimestampDropdown && (
+              <ClickAwayListener onClickAway={() => setShowTimestampDropdown(false)}>
+                <Box

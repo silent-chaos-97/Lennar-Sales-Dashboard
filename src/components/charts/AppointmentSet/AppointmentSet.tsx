@@ -105,7 +105,6 @@ const AppointmentSet = ({
     let maxValue = 0
     return [
       weekDays.map((weekDay) => {
-        const day = aggregateWeekData(currentWeekData).find((day) => day.weekday === weekDay)
         const dayPrv = aggregateWeekData(prevWeekData, true).find((day) => day.weekday === weekDay)
 
         const maxDay = Math.max(...(day?.byFrame as []))
@@ -138,3 +137,4 @@ const AppointmentSet = ({
   }, [currentWeekData, prevWeekData])
 
   return (
+    <CustomTooltip elementName="chart-appointment-set">

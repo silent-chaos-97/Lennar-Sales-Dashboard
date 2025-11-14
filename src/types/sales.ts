@@ -56,3 +56,4 @@ export interface DetailSalesItems {
   }
   division: string
   division_coordinates: [number, number]
+  region: string

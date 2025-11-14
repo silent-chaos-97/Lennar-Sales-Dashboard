@@ -412504,7 +412504,6 @@
                     "sort": 2,
                     "title": "Outbound email"
                   },
-                  {
                     "activity_date": "2023-09-09",
                     "activity_type": "text",
                     "actor_type": "blue",
@@ -449661,3 +449660,2563 @@
                     "title": "Opportunity created"
                   },
                   {
+                    "activity_date": "2023-10-12",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 3,
+                "sale_price": 470990,
+                "sale_title": "Dijon just sold in Cedar Pointe Evergreen Collection",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Gonzalez",
+            "type": "Feature"
+          },
+          {
+            "division": "Chicago",
+            "division_coordinates": [
+              -88.147005926,
+              41.894395371
+            ],
+            "geometry": {
+              "coordinates": [
+                -88.376023,
+                42.0397964
+              ],
+              "type": "Point"
+            },
+            "id": 2,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 446,
+                    "image_url": "",
+                    "name": "Pamela Cozzi",
+                    "national_rank": 446,
+                    "summary": "           $4,343,556 in sales QTD<br/>0% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "84 days post",
+                "home_size": "       2,788 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7085/60166/60166_eleB_lg.png",
+                "incentive_percent": 9,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Organic lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sumit and Bela,  I am so happy that you have decided to purchase the Rainier B on home site 13.  It is a beautiful home and you are receiving a great deal.   I have attached the HOA declarations for your information.  You don't need to do anything with them.  The annual HOA fee is $600 once per y...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Sumit, my name is Ashley, your Internet Sales Consultant at Lennar. Alex tells me that you are in the market to find your dream home. To help us find the right Lennar home for you, are you focusing your search in a specific city? Would you like us to c",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "yes, let's connect in 1hr",
+                    "sort": 5,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "When you are ready, feel free to text, or give me a call at 224-293-3126 and I would be happy to assist.",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "we can talk now",
+                    "sort": 7,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "u can pls call",
+                    "sort": 8,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "closest to Buffalo Grove - https://www.lennar.com/find-a-home?sort=PRICE_ASCENDING&mapCoordinates=42.2314%2C-88.2182%2C42.0438%2C-88.5416",
+                    "sort": 9,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "After your review, please let us know if you have any further questions, or would like to schedule a tour of our furnished model.",
+                    "sort": 10,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "My colleague, Julio, advised you were able to connect with him.  If you need any further assistance, please let us know.",
+                    "sort": 12,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "sure.",
+                    "sort": 13,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-12",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 14,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 6,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 2,
+                "sale_price": 549900,
+                "sale_title": "Rainier ei just sold in Tall Oaks-Unit 3",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Jacksonville",
+            "division_coordinates": [
+              -81.873179476,
+              29.850980276
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.2127046,
+                29.0899766
+              ],
+              "type": "Point"
+            },
+            "id": 1,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 100,
+                    "image_url": "",
+                    "name": "Anthony Wells",
+                    "national_rank": 100,
+                    "summary": "          $10,201,110 in sales QTD<br/>135 appointments QTD<br/>24% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 167,
+                    "image_url": "",
+                    "name": "Kelly Warren",
+                    "national_rank": 167,
+                    "summary": "           $3,761,920 in sales QTD<br/>5.8% incentives QTD<br/>77% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "44 days post",
+                "home_size": "       1,712 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6401/56737/56737_eleHA_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-12",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 12,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 1,
+                "sale_price": 375680,
+                "sale_title": "HALLE just sold in Freedom Crossings Preserve - Phase One",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 6326
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 9275
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 9777
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 9937
+            }
+          ],
+          "percent_change": 1.6,
+          "value": 9937
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 4220
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 8063
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 8644
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 8375
+            }
+          ],
+          "percent_change": -3.1,
+          "value": 8375
+        },
+        "RETAIL_SALES": {
+          "percent_change": 4.1,
+          "value": 9540
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 459532
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 471697
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 456614
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 448543
+            }
+          ],
+          "percent_change": -1.8,
+          "value": 448543
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 8.04
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 5.15
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 4.96
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 6.68
+            }
+          ],
+          "percent_change": 34.7,
+          "value": 6.68
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 0.2
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 0.3
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 0.3
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 0.3
+            }
+          ],
+          "percent_change": 15.4,
+          "value": 0.3
+        },
+        "DBT_UPDATED_AT": "2023-10-12 17:56:03.737"
+      },
+      "WTD": {
+        "COHORT": "National",
+        "COHORT_TYPE": "all",
+        "TIMEFRAME": "WTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Las Vegas",
+            "division_coordinates": [
+              -115.140858713,
+              36.12362889
+            ],
+            "geometry": {
+              "coordinates": [
+                -115.299021,
+                36.0065725
+              ],
+              "type": "Point"
+            },
+            "id": 501,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 77,
+                    "image_url": "",
+                    "name": "Christine Jacob",
+                    "national_rank": 77,
+                    "summary": "          $16,222,698 in sales QTD<br/>158 appointments QTD<br/>6% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "18 days prior",
+                "home_size": "       3,815 sqft.",
+                "home_type": "Next Gen",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6550/57495/57495_eleWC_lg.jpg",
+                "incentive_percent": 9,
+                "journey_array": [
+                  {
+                    "activity_date": "2021-03-07",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Toll Free: 800-509-9720 \t  \t \tHello Ursula,  \t   \tMy name is Danoby Ortiz, and welcome to Silverado Valley, a premier new home community in Southwest Las Vegas. Our newest community that offers Twelve floorplans throughout 4 collections ranging from 1966 to 3776 square feet. Every home at Silverado ...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-08",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Ursula,   \t   \tAmber here from our Internet Team, with Lennar Homes Las Vegas. Thank you so much for your interest in The Arches, an upcoming gated community within Redpoint in Summerlin. This beautiful community will feature single-story homes and Lennar’s Everything’s Included® package. The thr...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Ursula! Amber here from Lennar Homes. I wanted to check and see if you have any questions about our new homes. I am here to schedule appointments and provide general information on all our communities! Let me know how I can assist. Amber Collins Internet Sales Consultant  S. 0184071",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-05-08",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thanks, Amber. I'll reach out if any questions come up.",
+                    "sort": 4,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-05-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Great, thanks for getting back to me!",
+                    "sort": 5,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-15",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-07-15",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-07-15",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-07-15",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": ". Celia Milam will be your New Home Consultant with LENNAR and you can reach her at 702.629.0506.",
+                    "sort": 9,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-26",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-07-29",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-08-08",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Ursula and Frank,  Just wanted to make sure you have the current info for homesite 5, options:  Photo link: https://len.my.salesforce.com/sfc/p/36000000JZvE/a/5b000006MbVl/cPiUR_8j5cDvQxNq64u7_REG_.iodUEwh94Q7NBtzbE  I will be sending the DocuSign shortly. Please text me if you have any questions...",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-10",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Frank and Ursual,  Here is the link to see where the upgraded flooring will be placed.  https://len.my.salesforce.com/sfc/p/36000000JZvE/a/5b000006MznJ/uU3X4DGsF8DcTeSd_Oc19iQZODPAZdYU2edtIpOj_44  Please let me know if you are okay with it, would like me to ask for the change, or just certain are...",
+                    "sort": 13,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-12",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 14,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-08-27",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-08-28",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Ursula,   \t   \tDawn here from our Internet Team, with Lennar Homes Las Vegas. Welcome and thank you for your interest in our community, Highline at Redpoint Square, located at 600 N Carriage Hill Dr, Las Vegas, NV 89138 (Far Hill Ave & Carriage Hill Dr). This beautiful gated community features tw...",
+                    "sort": 16,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-28",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Good day, ! Dawn here with Lennar Homes. Thank you for visiting us! Billy Harvey will be your point of reference and you can reach him at 702.969.2037. *Codes are valid for 30min. They will be located on the same page where you scheduled the tour, they ar",
+                    "sort": 17,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-08-30",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "GET YOUR OPENDOOR OFFER TODAY: https://open.do/lennar/Celia-Milam",
+                    "sort": 18,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 19,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 6,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 501,
+                "sale_price": 780000,
+                "sale_title": "Everest just sold in Desert's Edge",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Parness",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.3800245,
+                38.7444885
+              ],
+              "type": "Point"
+            },
+            "id": 500,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 547,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_dee_dahl_lr_jpg",
+                    "name": "Dee Dahl",
+                    "national_rank": 547,
+                    "summary": "           $3,566,361 in sales QTD<br/>0% incentives QTD<br/>29% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 58,
+                    "image_url": "",
+                    "name": "Breanna Evans",
+                    "national_rank": 58,
+                    "summary": "          $45,724,789 in sales QTD<br/>168 appointments QTD<br/>12% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/3 ba",
+                "days_from_completion": "99 days prior",
+                "home_size": "       1,779 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6407/64871/64871_eleA_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2020-08-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "NewHomeSource lead created"
+                  },
+                  {
+                    "activity_date": "2021-02-01",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2021-02-03",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2021-02-03",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2021-02-03",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2021-02-03",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 6,
+                    "title": "NewHomeSource lead created"
+                  },
+                  {
+                    "activity_date": "2021-02-03",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2021-02-03",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Mary:     My name is Steve and I’m an Internet Sales Coordinator with Lennar’s Central Valley and Bakersfield Division. It’s exciting to learn that you’re interested in our homes. What is on your wish list for your new home search? Is there a community or area of town that interests you? Numbe...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2021-02-04",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Mary:     Congratulations on beginning your search for a new home! Recently you chose to inquire about Lennar's Coronet Series at Riverstone!  I have attached a price sheet to this email for the Coronet  Series.        Have you found all of the information you were looking for? Was there a par...",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2021-02-09",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Mary  This is Steve Kinney with Lennar Homes. I just wanted to check in with you to see if you had any questions, or needed any information after your visit to our beautiful Lennar Community.  You can always reach out to me at anytime via Text, Email, or phone with any requests you may have  Warm...",
+                    "sort": 10,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-07-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Display lead created"
+                  },
+                  {
+                    "activity_date": "2022-09-12",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2022-09-12",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Mary  I have attached the following pricing and brochure  you requested for the Clementine at Riverstone  Community by Lennar  If you would like to get prequalified I can Send you the contact number for our preferred lender Lennar Mortgage Loan Rep.  Please feel free to contact me if you should n...",
+                    "sort": 13,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-09-12",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Mary  This sis Steve Kinney with Lennar Homes  I have attached the following pricing and brochure you requested for the Clementine at Riverstone by Lennar To your email for review.   The Olive on Site 84 is available.   Olive – 1,635 square feet - 3 Bedroom, 2 Bathroom, 2 Car Garage  84 B 839 Blu...",
+                    "sort": 14,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-09-12",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Mary It was  pleasure speaking with you!  Lennar Mortgage  Rachel Klippenstein 559-313-7045  Ask about the 2  1 buydown.   Also, what are the current incentives for the Riverstone Community.  Riverstone Included Features  https://www.lennar.com/new-homes/california/central-california/madera/river...",
+                    "sort": 15,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-09-12",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 16,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2022-09-16",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 17,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-09-24",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-10-25",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello, Jason here with Lennar Homes. We have some great year end specials on quick move-in homes and will be releasing a new phase on Friday if you are looking for a move in date in 2023. Were you still interested in the Clementine series at Riverstone?",
+                    "sort": 19,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-10-25",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Yes",
+                    "sort": 20,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2022-10-26",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Great! Did you have a certain floorplan or size you were most interested in?",
+                    "sort": 21,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-10-27",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Single level",
+                    "sort": 22,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2022-10-27",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "We have a 3 Bedroom Olive available at $399k, which is over $50k discounted, would a November move-in be something to consider?",
+                    "sort": 23,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-04-23",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Mary,   \t   \tVon here from our Internet Team, with Lennar Homes Las Vegas. Thank you so much for your interest in our community of Heritage at Stonebridge. This community is within the masterplan community of Summerlin in Las Vegas, NV. Heritage is an age-qualified community made for adults 55 an...",
+                    "sort": 24,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-04-23",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Mary, Von here with the Lennar Las Vegas internet sales team. Just reaching out regarding your online inquiry for your home search in the Summerlin area for active-adult 55+ homes & communities. Perhaps you might be interested in our Heritage at Stonebridge community. Are you actively in the mark...",
+                    "sort": 25,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-04-23",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 26,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-08-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 27,
+                    "title": "Display lead created"
+                  },
+                  {
+                    "activity_date": "2023-08-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 28,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-08-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 29,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-23",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 30,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-08-30",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 31,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 32,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 500,
+                "sale_price": 510000,
+                "sale_title": "Residence 1779 just sold in Molise @ Heritage Placer Vineyards 40's",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Las Vegas",
+            "division_coordinates": [
+              -115.140858713,
+              36.12362889
+            ],
+            "geometry": {
+              "coordinates": [
+                -114.970997833,
+                36.019157833
+              ],
+              "type": "Point"
+            },
+            "id": 499,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 596,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jamie_lazar_lr_jpg",
+                    "name": "Jamie Lazar",
+                    "national_rank": 596,
+                    "summary": "           $3,226,239 in sales QTD<br/>4.2% incentives QTD<br/>86% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/4 ba",
+                "days_from_completion": "31 days prior",
+                "home_size": "       3,348 sqft.",
+                "home_type": "Next Gen",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6807/58180/58180_eleA_lg.jpg",
+                "incentive_percent": 4,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-12",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-12",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sergio!  Here are the finishes on this home...  https://len.my.salesforce.com/sfc/p/36000000JZvE/a/5b000006Noup/LJH.m8Y7wJXjzmyRRCw8ooIcG412x.O3DrJMmxujt4A  Thanks! Jamie/Lennar",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 499,
+                "sale_price": 739386,
+                "sale_title": "Liberty NextGen just sold in Ridgeview",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Parness",
+            "type": "Feature"
+          },
+          {
+            "division": "Phoenix",
+            "division_coordinates": [
+              -112.030993184,
+              33.41278159
+            ],
+            "geometry": {
+              "coordinates": [
+                -111.9585312,
+                33.0375158
+              ],
+              "type": "Point"
+            },
+            "id": 498,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 199,
+                    "image_url": "",
+                    "name": "Les Krygier",
+                    "national_rank": 199,
+                    "summary": "           $4,149,100 in sales QTD<br/>0.1% incentives QTD<br/>50% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 17,
+                    "image_url": "",
+                    "name": "Elyse Snitzer",
+                    "national_rank": 17,
+                    "summary": "          $15,725,608 in sales QTD<br/>249 appointments QTD<br/>19% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "42 days prior",
+                "home_size": "       1,411 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7657/64562/64562_eleM_lg.jpg",
+                "incentive_percent": 9,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-26",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-26",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-26",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-28",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-09-28",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 498,
+                "sale_price": 333490,
+                "sale_title": "Coronado Plan 3560 just sold in Anderson Farms 1A 1B",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "San Antonio",
+            "division_coordinates": [
+              -98.427076386,
+              29.430584066
+            ],
+            "geometry": {
+              "coordinates": [
+                -97.9748848,
+                29.6953094
+              ],
+              "type": "Point"
+            },
+            "id": 497,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "7 days post",
+                "home_size": "       1,474 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7482/63182/63182_eleC_lg.png",
+                "incentive_percent": 9,
+                "journey_array": [],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -7,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 497,
+                "sale_price": 221999,
+                "sale_title": "Gannes just sold in Navarro Ranch-Watermill",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "Tampa",
+            "division_coordinates": [
+              -82.356556448,
+              28.038879865
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.3988942,
+                27.5290398
+              ],
+              "type": "Point"
+            },
+            "id": 496,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "3 bd/3 ba",
+                "days_from_completion": "170 days prior",
+                "home_size": "       2,366 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "",
+                "incentive_percent": 0,
+                "journey_array": [],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 496,
+                "sale_price": 387900,
+                "sale_title": "Meridian just sold in Twin Rivers 50s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Tampa",
+            "division_coordinates": [
+              -82.356556448,
+              28.038879865
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.3986704,
+                27.5283318
+              ],
+              "type": "Point"
+            },
+            "id": 495,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "170 days prior",
+                "home_size": "       2,141 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "",
+                "incentive_percent": 0,
+                "journey_array": [],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 495,
+                "sale_price": 377900,
+                "sale_title": "Dawning just sold in Twin Rivers 50s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Tucson",
+            "division_coordinates": [
+              -110.98387677,
+              32.20465474
+            ],
+            "geometry": {
+              "coordinates": [
+                -110.848052,
+                32.1130772
+              ],
+              "type": "Point"
+            },
+            "id": 494,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 24,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_benjiman_knauerlr_jpg",
+                    "name": "Benjiman Knauer",
+                    "national_rank": 24,
+                    "summary": "           $9,736,437 in sales QTD<br/>2.4% incentives QTD<br/>74% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.25 ba",
+                "days_from_completion": "33 days prior",
+                "home_size": "       2,039 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7367/62255/62255_eleC_lg.jpg",
+                "incentive_percent": 5,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-07-14",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-07-14",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -8,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 494,
+                "sale_price": 334990,
+                "sale_title": "Hudson just sold in La Estancia II, Parcel 2",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Bay Area",
+            "division_coordinates": [
+              -121.755126926,
+              37.655558046
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.945275339,
+                37.498696273
+              ],
+              "type": "Point"
+            },
+            "id": 493,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 192,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_scott_johnson_lr_jpg",
+                    "name": "Scott Johnson",
+                    "national_rank": 192,
+                    "summary": "          $15,003,195 in sales QTD<br/>5.5% incentives QTD<br/>0% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "2 bd/2 ba",
+                "days_from_completion": "352 days prior",
+                "home_size": "       1,049 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6562/56536/56536_eleB_lg.jpg",
+                "incentive_percent": 1,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-01-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Gongratulation on purchasing your new home. I wish you all the best.  Thanks  Waheeda Fazel DRE # 01710009 Days Off Friday and Saturday  1-888-216-2330 https://len.my.salesforce.com/servlet/servlet.FileDownload?file=0155b000005GA7UAAW' alt= '#0155b000005GA7UAAW#'",
+                    "sort": 26,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-01-11",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank you Waheeda I started with you and luckily everything worked out quickly",
+                    "sort": 27,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-01-11",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Chintan, It was my pleasure to be part this process.   Thanks  Waheeda Fazel DRE # 01710009 Days Off Friday and Saturday  1-888-216-2330 https://len.my.salesforce.com/servlet/servlet.FileDownload?file=0155b000005GA7UAAW' alt= '#0155b000005GA7UAAW#'",
+                    "sort": 28,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-02-27",
+                    "activity_type": "call",
+                    "actor_type": "black",
+                    "body": "",
+                    "sort": 29,
+                    "title": "Outbound call"
+                  },
+                  {
+                    "activity_date": "2023-03-07",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 30,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-03-16",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good afternoon sir,   I am emailing you regarding the appointment we have for your red manual pull string that has detached. The repair appointment is confirmed for Friday 3/17/23 between 8-12pm. Please let me know if you have any questions.   Sincerely, Angel Gomez | Customer Care Rep 2603 Camino R...",
+                    "sort": 31,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-17",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello sir,   The Service Request you have submitted has now been closed and sent over to DocuSign on 3/17/23. Once received, please review and sign the document acknowledging that all notations are accurate. The DocuSign will automatically close after 3 days if no signature is provided.   Please let...",
+                    "sort": 32,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-04-05",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Chintan,  \t   \tWe look forward to serving you soon. In order to ensure the best experience in scheduling your virtual assessment for Case 05241278, please click the link in the email we just sent with the subject line of “Schedule your Lennar Virtual Service Visit” and follow the steps below. ...",
+                    "sort": 33,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-04-06",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 34,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-04-12",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello!   This email is to inform you of some painting that will be happening during the week of April 17th -21st  2023. We will have a painter using a man lift to access the exterior of the Matrix at Innovation buildings. If you have any questions or concerns, feel free to reach out to me directly. ...",
+                    "sort": 35,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-02",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Chintan,   Case #05349557  It was a pleasure speaking with you on our virtual call. I have documented the following item(s) from our virtual inspection.  \tSmoke detector beeping even after electrician came and replaced the batteries. \tDownstairs toilet leaking at coupling at wall. \tNoisy garag...",
+                    "sort": 36,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-02",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Chintan,  \t   \tWe look forward to serving you soon. In order to ensure the best experience in scheduling your virtual assessment for Case 05471911, please click the link in the email we just sent with the subject line of “Schedule your Lennar Virtual Service Visit” and follow the steps below. ...",
+                    "sort": 37,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-03",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello,   The Service Request you have submitted has now been closed and sent over to DocuSign on 08/03/2023. Once received, please review and sign the document acknowledging that all notations are accurate. The DocuSign will automatically close after 3 days if no signature is provided.   Please let ...",
+                    "sort": 38,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 39,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 40,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 493,
+                "sale_price": 834880,
+                "sale_title": "Residence 2B just sold in Chroma",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.8564258,
+                30.5081
+              ],
+              "type": "Point"
+            },
+            "id": 492,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 990,
+                    "image_url": "",
+                    "name": "Chris Raines",
+                    "national_rank": 990,
+                    "summary": "             $975,760 in sales QTD<br/>10.8% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "88 days prior",
+                "home_size": "       2,267 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7296/62794/62794_eleA_lg.jpg",
+                "incentive_percent": 15,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -9,
+                "realtor_commission": 6,
+                "sale_cohort_rank": 492,
+                "sale_price": 385000,
+                "sale_title": "Tivoli just sold in Live Oak Estates",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.650602112,
+                26.443825967
+              ],
+              "type": "Point"
+            },
+            "id": 491,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 240,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_brad_ackerman_lr_jpg",
+                    "name": "Brad Ackerman",
+                    "national_rank": 240,
+                    "summary": "           $7,110,619 in sales QTD<br/>0% incentives QTD<br/>36% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/3 ba",
+                "days_from_completion": "113 days prior",
+                "home_size": "       2,201 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6247/47616/47616_eleC_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 491,
+                "sale_price": 554000,
+                "sale_title": "Marsala just sold in Verdana Village 40",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -80.8950816,
+                28.9309634
+              ],
+              "type": "Point"
+            },
+            "id": 490,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 553,
+                    "image_url": "",
+                    "name": "Jean Kemick",
+                    "national_rank": 553,
+                    "summary": "           $2,355,537 in sales QTD<br/>2.9% incentives QTD<br/>43% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 45,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_sydnee_torrelr_jpg",
+                    "name": "Sydnee Torre",
+                    "national_rank": 45,
+                    "summary": "           $6,417,581 in sales QTD<br/>180 appointments QTD<br/>21% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "85 days prior",
+                "home_size": "       1,936 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7193/60903/60903_eleE_lg.jpg",
+                "incentive_percent": 6,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-07-26",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2022-07-26",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Andrew,   This is Arianna with Lennar we just spoke over the phone. Below I attached some brief info on that Dawn you are interested in! We have one that is looking to be completed Dec/Jan and around 340k. Below I attached the link to view that floor plan. HOA is $78.90 a month and that includes ...",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-08-20",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello,  I am a NHC for Lennar Homes. I currently have three communities in the Volusia County area. LPGA Preserve (Daytona Beach), Majestic Oaks (Edgewater), and Vineland Reserve (Deland).  If interested in any our communities please let me know.  I would love to chat about what Lennar has to offer....",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-11-09",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Andrew,  This is Arianna with Lennar! We spoke alittle while ago regarding our community LPGA in Daytona Beach.  Following up to see how your home buying journey is going. If you have any questions regarding a specific community or if you would like information on any of our other communities, le...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-29",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 5,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-03-29",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Andrew,   Thank you for your interest in Lennar Orlando. My name is Nina, your Internet Sales Coordinator. I'm reaching out in regards to your request for more information on our homes here in the Orlando area. I am happy to assist with any questions you have as well as schedule you an appoint...",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-03-29",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Andrew,  \t   \tThank you for your interest in Preserve at LPGA in Daytona Beach, FL. I am your Internet Sales Coordinator and would love to assist you with any questions you have.   \t   \tPreserve at LPGA features two collections of new homes, the Legacy Collection and the Grand Collection, all ...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-04-10",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-04-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-05-19",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-05-19",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Andrew,  \t   \tThank you for your interest in Majestic Oaks. We have new homes available minutes from New Smyrna Beach in Edgewater, FL!  \t   \tI am your Internet Sales Coordinator and would love to assist you with any questions you have.   \t   \tMajestic Oaks features multiple floorplan options,...",
+                    "sort": 11,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-19",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Andrew  This is Arianna with Lennar, following up to see how your self guided tour went? If you have any questions or if you would like to schedule to meet with a New Home Consultant to discuss the AMAZING incentives that we offer let me know and I will be more than happy to assist!  I look forwa...",
+                    "sort": 12,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-05-19",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 13,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-06-13",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Andrew:  My name is Jean Kemick, and I'm a sales associate with Lennar.  I wanted to introduce myself because Susan Svikhart, which you had been working with previously, has left the company.  I will be your point of contact and would love to have you come back for another visit so that we can meet....",
+                    "sort": 14,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-16",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-07-11",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 16,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-07-12",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good afternoon, Andrew:  I wanted to follow up with you about the self tour that you had last night in Majestic Oaks.  I hope you were able to get into the model without any issues.   We do currently have information about homes available in the Parks at Edgewater, which I believe you are interested...",
+                    "sort": 17,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-12",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Andrew,  \t   \tThank you for your interest in Majestic Oaks. We have new homes available minutes from New Smyrna Beach in Edgewater, FL!  \t   \tI am your Internet Sales Coordinator and would love to assist you with any questions you have.   \t   \tMajestic Oaks features multiple floorplan options,...",
+                    "sort": 18,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-12",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 19,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-08-06",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello,   Thank you for your interest in Lennar Orlando. My name is Sydnee, your Internet Sales Coordinator. I'm super excited to learn more about your new home search, How may I assist you?  Click here to view Lennar Orlando  Currently, We're showing by appointment, Please call me directly at 321-36...",
+                    "sort": 21,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 22,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Andrew,  \t   \tThank you for expressing interest in The Parks at Edgewater, an exquisite community in beautiful Edgewater, FL, just minutes from New Smyrna Beach. We are delighted to announce that we now have single-family homes available for sale in this remarkable neighborhood!   \t   \tI am yo...",
+                    "sort": 23,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 24,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 25,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Andrew,   Just following up to see how your visit with Jean went for our community Parks at Edgewater in-Edgewater, FL. Let me know if you have any questions or if you want to re schedule to take another look at the community or another one nearby to s",
+                    "sort": 26,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Andrew:  I've been working with Dimitrios to try to get a deal together for you that would work.  We've put together an offer that I'd like to submit to my management team on your behalf.  The home is homesite 11, the Hartford, closing in January.  Dimitrios has the interest rate at 5.25% on a long ...",
+                    "sort": 27,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 30,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "The 'Body'  'Trim' and 'Accent'  are the colors that will be on your home.  The 'Secondary Body' is for a second story only, so it won't be on the home.          Jean Kemick  New Home Consultant - Orlando  Email: Jean.Kemick@Lennar.com  Mobile: (828) 577-3119    Lennar Corporation  www.lennar.com   ...",
+                    "sort": 28,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Dear Jessica, Andrew and Matthew,  My name is Jody your concierge. I am the liaison between your new home consultant, your lender, the construction team, and the home closing team. I will guide you through this home closing process, reminding you of the necessary next steps related to your home purc...",
+                    "sort": 29,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 490,
+                "sale_price": 345660,
+                "sale_title": "Hartford just sold in The Parks at Edgewater 50s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.8888594,
+                26.721547
+              ],
+              "type": "Point"
+            },
+            "id": 489,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 622,
+                    "image_url": "",
+                    "name": "Timothy Davis",
+                    "national_rank": 622,
+                    "summary": "           $2,358,660 in sales QTD<br/>1.7% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 225,
+                    "image_url": "",
+                    "name": "Daniel Retheford",
+                    "national_rank": 225,
+                    "summary": "          $10,637,972 in sales QTD<br/>17 appointments QTD<br/>11% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "44 days prior",
+                "home_size": "       2,485 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7486/63246/63246_eleB_lg.jpg",
+                "incentive_percent": 5,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -1,
+                "realtor_commission": 6,
+                "sale_cohort_rank": 489,
+                "sale_price": 395000,
+                "sale_title": "Phoenix just sold in Crane Landing 50",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Phoenix",
+            "division_coordinates": [
+              -112.030993184,
+              33.41278159
+            ],
+            "geometry": {
+              "coordinates": [
+                -112.1105776,
+                33.3991204
+              ],
+              "type": "Point"
+            },
+            "id": 488,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 274,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_andy_burgio_jpg",
+                    "name": "Andy Burgio",
+                    "national_rank": 274,
+                    "summary": "           $5,248,638 in sales QTD<br/>0.3% incentives QTD<br/>82% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 50,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_debbie_webb_lr_jpg",
+                    "name": "Debbie Webb",
+                    "national_rank": 50,
+                    "summary": "          $14,755,047 in sales QTD<br/>175 appointments QTD<br/>16% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "67 days prior",
+                "home_size": "       2,649 sqft.",
+                "home_type": "Next Gen",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6599/56820/56820_eleH_lg.png",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-06-02",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Zillow lead created"
+                  },
+                  {
+                    "activity_date": "2023-06-03",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Sonia,  \t   \tThank you for your interest in Lennar at Dobbins Village!  I'm happy to help you in your search for a great community and home at any of our Phoenix area locations.  Is there any specific information that I can provide to you?  \t   \tBelow are details and links about Dobbins Village t...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-03",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 3,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-06-03",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Sonia,  \t   \tWe look forward to discussing our Dobbins Village community and homes.  I'm excited to introduce to you our New Home Consultant who will be contacting you to help you find the perfect home!    \t \tDave is copied on this email and their phone number is  \t  \t480-650-0712. \t \t   \t   \tApp...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-06",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Digital sales presentation"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 10,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 488,
+                "sale_price": 570990,
+                "sale_title": "Trillium Plan 4585 just sold in Liberty 55s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Indianapolis",
+            "division_coordinates": [
+              -86.13181895,
+              39.882810671
+            ],
+            "geometry": {
+              "coordinates": [
+                -85.960135294,
+                39.839662479
+              ],
+              "type": "Point"
+            },
+            "id": 487,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 930,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_todd_goldman_jpg",
+                    "name": "Todd Goldman",
+                    "national_rank": 930,
+                    "summary": "           $1,176,759 in sales QTD<br/>7.3% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "51 days prior",
+                "home_size": "       2,011 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6694/62054/62054_eleB0_lg.jpg",
+                "incentive_percent": 13,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-06-02",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Lennar Core Values  \tOur commitment to Quality, Value, and integrity is the underlying foundation upon which Lennar was built, and these three fundamental principles still guide us in caring for our customers, associates, shareholders, and community.  \t   \t  \t  \t   \t06/02/2023  \t   \t   \t \tCopperston...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -6,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 487,
+                "sale_price": 277500,
+                "sale_title": "Broadmoor just sold in Loudoun Place Venture",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Raleigh",
+            "division_coordinates": [
+              -78.724091946,
+              35.828140677
+            ],
+            "geometry": {
+              "coordinates": [
+                -78.5608856,
+                35.7444974
+              ],
+              "type": "Point"
+            },
+            "id": 486,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 94,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_caitlin_beck_lr_jpg",
+                    "name": "Caitlin Beck",
+                    "national_rank": 94,
+                    "summary": "           $8,440,761 in sales QTD<br/>140 appointments QTD<br/>19% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 111,
+                    "image_url": "",
+                    "name": "McCann Sheridan",
+                    "national_rank": 111,
+                    "summary": "           $5,154,994 in sales QTD<br/>0.1% incentives QTD<br/>87% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "94 days prior",
+                "home_size": "       1,924 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6460/57325/57325_eleC_lg.png",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-06-20",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Email lead created"
+                  },
+                  {
+                    "activity_date": "2023-06-20",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-06-20",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Samantha,  \t   \tThank you for your interest in Lennar Raleigh! We have several communities throughout the Triangle and I'd be happy to help you find the one that's right for you!   \t   \tAttached is our all-communities map listing the communities offered throughout the Triangle.  \t   \tI’d love ...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-20",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Samantha, this is Kristin with Lennar I see you’re looking for a new home, that’s great! Please let me know what questions you have, I’m here to help!",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-21",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Kristin, Thank you so much for reaching out so quickly! The map was super helpful as well. We have made a few visits to the Triangle over the last couple of years so we could solidify what we wanted. 1. We have been living in the Midwest for ZjQcmQRYFpfptBannerStartThis Message Is From an Untrusted ...",
+                    "sort": 5,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-25",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Hi Kristin! Just wanting to touch base--I know you responded to my email last week but I hadn't heard back. We're planning to fly out to Raleigh in earlyaugust so I'd love to hear back from you to learn more and have things set up for when my husband and I come out there! Thanks so much!",
+                    "sort": 6,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-06-25",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Samantha! So sorry for missing your email! I am happy to make some recommendations based on your home search. I think the best options would be Trace at Olde Towne in Raleigh, Edge of Auburn in Garner, and Rosedale in Wake Forest. They all have two level townhome options around your price point! ...",
+                    "sort": 7,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-25",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Samantha,   \t   \tThank you again for emailing me some information about your home search! Here are the communities that I think would be the best options.  \t   \t1.Edge of Auburn: https://www.lennar.com/new-homes/north-carolina/raleigh/raleigh/edge-of-auburn   \tCommunity Video: Lennar at Edge o...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Samantha,  \t   \tI wanted to follow up and make sure you received the information that you need and address any further questions you may have.  \t   \tBecause I work with all our communities, I can save you time and effort in your new home search.  \t   \tFeel free to contact me directly at for fu...",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Samantha. This is the Internet Team with Lennar. We wanted to follow up and make sure you received the information that you need from your search online and, address any further questions you may have. Feel free to reply to this text or call 919-337-9420 whenever you are ready to see a communi...",
+                    "sort": 10,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Samantha,  To answer your questions, Tanglewood will most likely open in August while Forty & page is projected to open in July. Build time typically spans from around 5-7 months. If you are interested in working with Lennar Mortgage, I think it’s a great idea to go ahead and start the pre-approv...",
+                    "sort": 11,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Kristin, Thank you so, so much for putting us on those VIP lists! We were genuinely so thrilled to see those new developments and can't wait to see the pricing/models. Cant wait to explore the area when we come visit so soon! So far for Tanglewood,          ZjQcmQRYFpfptBannerStart               \t  ...",
+                    "sort": 12,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Samantha,  Since our last email, the projected opening dates have changed for Tanglewood and Forty & Page. Tanglewood is now set to open in September while Forty & Page is set to open this August. We will likely not be taking appointments until the end of August. Are there any other communities t...",
+                    "sort": 13,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Hi there, My husband and I are coming to Raleigh august 10 and 11. We would love to set up some in person meetings regarding purchasing a home and discussing the different communities. Do you have any idea who I should contact to get this set          ZjQcmQRYFpfptBannerStart               \t  \t This...",
+                    "sort": 14,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-03",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Fantastic! I’m so glad to hear that. In terms of models, for Trace at Olde Towne we are open to the Brady II, Carson II, Coleman, and Sutton. For Edge of Auburn, we like similar models, the Coleman, Carson II and if time permits may want          ZjQcmQRYFpfptBannerStart               \t  \t This Mess...",
+                    "sort": 15,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-03",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Sammi,  I would be happy to schedule a visit to both of these communities! We have availability this Saturday at 1pm at the Edge of Auburn and 2:30pm at the Trace at Olde towne, could these times work for you?  Are you currently working with a local realtor? It is not required, but if you are wor...",
+                    "sort": 16,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-03",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Sammi,  Sorry about that! I placed below our appointment times for Friday 8/11, there are more options that day for both communities!  Friday 8/11: Trace at Olde Towne at 10am with Edge of Auburn at 12. Trace at Olde Towne at 1pm with Edge of Auburn at 3pm.  Have you had a chance to get prequalif...",
+                    "sort": 17,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-04",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Samantha,  \t   \tWe're looking forward to your visit on Friday 08/11/2023 at 12:00 PM to Edge of Auburn..   \t   \tThe address is 108 Tombolo Way, Raleigh, NC 27610.  \t   \tPlease keep in mind that we have appointments scheduled prior to and after your visit with us. It is important to be on time ...",
+                    "sort": 18,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-04",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Samantha,  \t \tIt was a pleasure getting to know you!  \t   \tWe're looking forward to your visit on Friday 08/11/2023 @ 10AM to Trace at Olde Towne!  \t   \tThe address is 1813 Caen Street, Raleigh, NC 27610.  \t   \tPlease keep in mind that we have appointments scheduled prior to and after your vis...",
+                    "sort": 19,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-04",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Thanks Cat, I think we could take the 10 and 12 slots for that Friday unless Thursday is available? I mentioned that would be the preferred day for tours but if Friday is all that’s available, we will take those two slots! Thanks so much,Sent ZjQcmQRYFpfptBannerStartThis Message Is From an External ...",
+                    "sort": 20,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "We are so glad you are interested in our Olde Towne Designer Community. We look forward to seeing you 08/11/2023 at 10:00 AM. See you soon!",
+                    "sort": 21,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-08-11",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 22,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-08-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 23,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-11",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 24,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-08-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 25,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-30",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 26,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 27,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 486,
+                "sale_price": 388255,
+                "sale_title": "Coleman - Garage End just sold in Olde Towne Designer",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Charlotte",
+            "division_coordinates": [
+              -81.287610882,
+              34.859795943
+            ],
+            "geometry": {
+              "coordinates": [
+                -80.96167825,
+                34.986316
+              ],
+              "type": "Point"
+            },
+            "id": 485,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 735,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ursula_panizo_lr_jpg",
+                    "name": "Ursula Panizo",
+                    "national_rank": 735,
+                    "summary": "           $3,114,501 in sales QTD<br/>2.1% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "6 bd/5.5 ba",
+                "days_from_completion": "Not Available",
+                "home_size": "       4,068 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7102/60297/60297_eleE_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "lead_created",

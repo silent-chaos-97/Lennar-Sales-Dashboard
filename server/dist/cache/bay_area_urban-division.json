@@ -260,6 +260,7 @@
             "prev": 48
           },
           {
+            "current": 43,
             "hour": 11,
             "prev": 43
           },
@@ -973,7 +974,6 @@
         },
         "AVG_INCENTIVE": {
           "graph": [
-            {
               "sort": 1,
               "x_axis": "Jul 13",
               "y_axis": 0
@@ -1190,3 +1190,25 @@
             },
             {
               "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 10
+            }
+          ],
+          "percent_change": 100,
+          "value": 10
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 2
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 4
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",

@@ -106,3 +106,6 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
               <DataAlert elementName="label-activity-appointment-set" truncateSize={10}>
                 Appointments set
               </DataAlert>
+            </Typography>
+          </CustomTooltip>
+          <Stack direction="row" alignItems="flex-end" spacing={1}>

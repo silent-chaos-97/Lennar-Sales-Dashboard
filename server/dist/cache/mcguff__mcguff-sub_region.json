@@ -30474,7 +30474,6 @@
               "summary": "0.0% realtor commission"
             },
             {
-              "cohort_rank": 8,
               "division_name": "Inland",
               "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_tige_fergusonlr_jpg",
               "name": "Tige Ferguson",
@@ -39336,6 +39335,7 @@
           {
             "activity_status": "Connected",
             "activity_time": "2023-10-12 10:00:00.000",
+            "sort": 37
           },
           {
             "activity_status": "Missed",
@@ -86786,3 +86786,1656 @@
                     "activity_type": "sale",
                     "actor_type": "green",
                     "body": "",
+                    "sort": 25,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 23,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 24,
+                    "title": "In-person appointment kept"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 26,
+                "sale_price": 712905,
+                "sale_title": "Residence One just sold in Voyage - Discovery Park",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.106798182,
+                38.641169636
+              ],
+              "type": "Point"
+            },
+            "id": 219,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "",
+                    "name": "Peter Pham",
+                    "national_rank": 2,
+                    "summary": "          $30,881,079 in sales QTD<br/>8.7% incentives QTD<br/>19% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3.5 ba",
+                "days_from_completion": "161 days prior",
+                "home_size": "       3,182 sqft.",
+                "home_type": "Next Gen",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6723/65155/65155_eleC_lg.jpg",
+                "incentive_percent": 1,
+                "journey_array": [
+                  {
+                    "activity_date": "2021-11-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2021-11-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2021-11-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-08-13",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-08-13",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2022-08-13",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-08-13",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-08-13",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "America's Leading Homebuilder...  \tSince 1954, we've had the privilege of helping over one million families across America move into the next stage of their lives with a new home.  \tOur communities cater to all lifestyles and stages of life, we have options for first-time homebuyers, active adult li...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-08-14",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Shabaz, This is Carolyn, I’m an Internet Sales Coordinator with LENNAR, thank you for taking a self-guided tour at our New Home community in Northlake.  I wanted to check in and see if you wish to speak with a New Home Consultant regarding any questions?  I also sent you an e-mail outlining ev...",
+                    "sort": 9,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-11-27",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-11-27",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-11-27",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-11-27",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-11-27",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 14,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-12-02",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-12-03",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 16,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-12-11",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 17,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-12-17",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-12-17",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 19,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-12-17",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2023-01-02",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-01-03",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "HI Shahbaz,   It was a pleasure speaking with you earlier. Please see the close map showing the lots with the 3159 plan and let me know so I can add you to the interest list.        Best Regards.         Peter Pham New Home Consultant  CA DRE# 01223101    El Dorado Hills - Hawk View/Emerald Peak/Sap...",
+                    "sort": 22,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 9,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 25,
+                "sale_price": 1010490,
+                "sale_title": "Residence 3182 just sold in Brass Point@Russell Ranch",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Seattle",
+            "division_coordinates": [
+              -121.068986031,
+              47.54677194
+            ],
+            "geometry": {
+              "coordinates": [
+                -122.2505442,
+                47.0771394
+              ],
+              "type": "Point"
+            },
+            "id": 198,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 9,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_marc_davidson_jpg",
+                    "name": "Marc Davidson",
+                    "national_rank": 84,
+                    "summary": "           $7,756,780 in sales QTD<br/>0.1% incentives QTD<br/>19% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 18,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/1533_lennar_sean_mimslr_jpg",
+                    "name": "Sean Mims",
+                    "national_rank": 141,
+                    "summary": "           $7,942,400 in sales QTD<br/>102 appointments QTD<br/>23% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3.5 ba",
+                "days_from_completion": "79 days prior",
+                "home_size": "       3,183 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6584/63394/63394_eleA_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Lynne,  Welcome to the VIP program for Daybreak. I have attached your VIP certificate to this email. The next step would be to reserve a homesite if you have not done so already. Was there a floor plan or homesite you were interested in reserving? We can certainly help narrow down one for you. If...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Lynne, Here are the following Available Bainbridge plans  Homesite 170 listed for purchase for $694,950 w/ a completion date of 12/29/2023 Homesite 166 listed for purchase for $694,950 w/ a completion date of 1/8/2024 Homesite 199 available to VIP on w/ a completion date of 2/23/2024.   Below ...",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Lynne,  This is great news.  Here is all of the information on Homesite 170. Exterior color; Terrain #4-see attached Interior colors: Gold A / White cabinets / Kismet flooring / Backsplash Whit Matte Elevation A-see attached Garage right Completion date 12/29/2023 Price: $694,950  You can buy ...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Lynne,  This is fantastic news.  Please note I’m off today and tomorrow, but I will work on your offer shortly.  Please let me know if you have any questions?  Kindly,  Marc    [cid:image001.png@01D4FC3E.7BACEF90]<http://www.lennar.com/seattle>   Marc Davidson   New Home Consultant– Seattle Di...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Lynne,  Please fill out the attachment so I can fill out the Lennar Offer form for you with the information you provided.  Thank you,  Marc     Marc Davidson   New Home Consultant– Seattle Division   33455 6<x-apple-data-detectors://1>th<x-apple-data-detectors://1> Avenue S. Unit 1-B<x-apple-d...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good Morning Lynne,  I just sent you the purchase agreement.  Please let me know if you have any questions.  Kindly,  Marc    Marc Davidson   New Home Consultant– Seattle Division   33455 6<x-apple-data-detectors://1>th<x-apple-data-detectors://1> Avenue S. Unit 1-B<x-apple-data-detectors://1> Feder...",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good Morning Lynne  Congratulations we are mutual.  Please add to your file.  Kindly,  Marc [cid:image001.png@01D4FC3E.7BACEF90]<http://www.lennar.com/seattle>   Marc Davidson   New Home Consultant– Seattle Division   33455 6<x-apple-data-detectors://1>th<x-apple-data-detectors://1> Avenue S. Unit 1...",
+                    "sort": 10,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 24,
+                "sale_price": 694950,
+                "sale_title": "Bainbridge just sold in Daybreak Heritage Collection",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Reno",
+            "division_coordinates": [
+              -119.722638148,
+              39.397811962
+            ],
+            "geometry": {
+              "coordinates": [
+                -119.759538,
+                38.9595954
+              ],
+              "type": "Point"
+            },
+            "id": 181,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 93,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_laura_seloverlr_jpg",
+                    "name": "Laura Selover",
+                    "national_rank": 785,
+                    "summary": "           $2,580,952 in sales QTD<br/>6.7% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "96 days prior",
+                "home_size": "       1,950 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6286/46962/46962_eleB_lg.jpg",
+                "incentive_percent": 9,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Marc,  Nice talking with you today. Here's our brochure (which includes our map), our 'everything's included' information and our latest price sheet.  Laura Selover NV. S181514  New Home Consultant Weser Creek at Heybourne Meadows 1142 Dapple Drive Minden, NV 89423 (775) 306-2413 Laura.Selover@Le...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 23,
+                "sale_price": 535000,
+                "sale_title": "The Juniper just sold in Heybourne Meadows",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Boise",
+            "division_coordinates": [
+              -116.516061851,
+              43.622363966
+            ],
+            "geometry": {
+              "coordinates": [
+                -116.531096857,
+                43.541246
+              ],
+              "type": "Point"
+            },
+            "id": 176,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 20,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_shiloh_roethlelr_jpg",
+                    "name": "Shiloh Roethle",
+                    "national_rank": 162,
+                    "summary": "           $5,059,051 in sales QTD<br/>1.9% incentives QTD<br/>69% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "16 days prior",
+                "home_size": "       1,667 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6844/62010/62010_eleD_lg.jpg",
+                "incentive_percent": 9,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -6,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 22,
+                "sale_price": 344900,
+                "sale_title": "Plan 1667 just sold in Mossy Creek",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.3812254,
+                38.758271
+              ],
+              "type": "Point"
+            },
+            "id": 157,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Devin McCraw",
+                    "national_rank": 1,
+                    "summary": "          $20,667,582 in sales QTD<br/>7.8% incentives QTD<br/>34% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 15,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_elline_filcher_lr_jpg",
+                    "name": "Elline Filcher",
+                    "national_rank": 121,
+                    "summary": "          $21,589,545 in sales QTD<br/>117 appointments QTD<br/>9% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "85 days prior",
+                "home_size": "       3,167 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5870/44346/44346_eleA_lg.jpg",
+                "incentive_percent": 7,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-01-25",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "NewHomeSource lead created"
+                  },
+                  {
+                    "activity_date": "2022-01-26",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Lead created"
+                  },
+                  {
+                    "activity_date": "2022-01-27",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-27",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-27",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-27",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-27",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-27",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-27",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-27",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-27",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-28",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-29",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-30",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 14,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-30",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-30",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 16,
+                    "title": "NewHomeSource lead created"
+                  },
+                  {
+                    "activity_date": "2022-01-31",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 17,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-31",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-31",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 19,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-01-31",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-01-31",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-02-01",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 22,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-01",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 23,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-01",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 24,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-01",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 25,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-01",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 26,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-04",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 27,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 28,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 29,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 30,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 31,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 32,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 33,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 34,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 35,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 36,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 37,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 38,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 39,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 40,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 41,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 42,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-02-08",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 43,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-08",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 44,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-08",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 45,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-09",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 46,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-09",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 47,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-09",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 48,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-10",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 49,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-11",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 50,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-11",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 51,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-11",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 52,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-11",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 53,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 54,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-02-13",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 55,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-02-14",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 56,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-14",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 57,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-14",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 58,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-14",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 59,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-14",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 60,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-02-14",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 61,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2022-02-14",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 62,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-02-14",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 63,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-02-17",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 64,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-17",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 65,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-17",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 66,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-19",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 67,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-21",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 68,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-21",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 69,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-21",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 70,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-21",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 71,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-22",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 72,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-22",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 73,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-22",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 74,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-22",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 75,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-22",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 76,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-22",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 77,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-02-23",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 78,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-23",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 79,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-24",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 80,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-24",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 81,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-24",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 82,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-24",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 83,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-24",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 84,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-25",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 85,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-25",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 86,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-25",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 87,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-26",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 88,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-26",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 89,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-26",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 90,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-26",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 91,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-26",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 92,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-26",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 93,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-27",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 94,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-28",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 95,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-28",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 96,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-28",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 97,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-01",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 98,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-01",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 99,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-01",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 100,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-01",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 101,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-01",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 102,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-01",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 103,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-01",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 104,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-02",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 105,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-02",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 106,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-02",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 107,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-02",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 108,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-02",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 109,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-03",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 110,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-03",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 111,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-03",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 112,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-03",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 113,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-03",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 114,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-03",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 115,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-03",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 116,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-03",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 117,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-04",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 118,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-04",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 119,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-04",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 120,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-04",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 121,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-04",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 122,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-04",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 123,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-04",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 124,
+                    "title": "NewHomeSource lead created"
+                  },
+                  {
+                    "activity_date": "2022-03-05",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 125,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-05",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 126,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-05",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 127,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-05",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 128,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-06",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 129,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-06",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 130,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-06",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 131,
+                    "title": "Web visit"
+                  },

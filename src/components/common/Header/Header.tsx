@@ -252,6 +252,7 @@ const Header = () => {
                       transform: 'translateX(-50%)',
                       overflow: 'hidden'
                     }}
+                    boxShadow={1}
                     borderRadius={1}
                     ref={menuRef}
                   >
@@ -261,3 +262,8 @@ const Header = () => {
               </Fade>
             </Stack>
           )}
+
+          {isDesktop && (
+            <Stack direction="row" justifyContent="center" alignItems="flex-end" width="100%">
+              <Tabs
+                value={currentScreen}

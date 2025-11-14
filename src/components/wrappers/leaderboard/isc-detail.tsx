@@ -292,3 +292,8 @@ const ISCDetail = ({
                 <Stack sx={{ height: '100%' }} spacing={10}>
                   <KPIWidget
                     title="Division KPI rank QTD"
+                    firstValue={data?.appt_set_division_rank || 0}
+                    firstLabel="Appointments set"
+                    secondValue={data?.appt_kept_division_rank || 0}
+                    secondLabel="Appointments kept"
+                    thirdValue={data?.sales_division_rank || 0}

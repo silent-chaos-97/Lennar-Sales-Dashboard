@@ -52,3 +52,4 @@ const PacingAnalysis = () => {
                 <DataAlert elementName="pacing-need-to-meet-pace">
                   Change needed to meet pace
                 </DataAlert>
+              </Typography>

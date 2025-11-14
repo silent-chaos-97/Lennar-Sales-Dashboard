@@ -32,6 +32,7 @@ const DailyAnalyticsBox = ({
   isDecreaseBenefit = false
 }: DailyAnalyticsBoxProps) => {
   const emStyle = {
+    fontSize: 104,
     lineHeight: '114px'
   }
 
@@ -84,3 +85,5 @@ const DailyAnalyticsBox = ({
               {title}
             </DataAlert>
           </Typography>
+        </CustomTooltip>
+        <Stack direction="row" alignItems="flex-end" spacing={1}>

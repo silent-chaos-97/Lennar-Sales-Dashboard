@@ -105,3 +105,5 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
         return []
       })
 
+    // Add the polylines between chart and labels:
+    let textYThreshold = 0

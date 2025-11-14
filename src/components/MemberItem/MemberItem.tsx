@@ -66,3 +66,4 @@ const MemberItem = ({
           {name.split(' ')[0][0] + name.split(' ')[1][0]}
         </Typography>
       </Avatar>
+      <Stack sx={{ flex: 1, width: 284 }}>

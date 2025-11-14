@@ -16,7 +16,6 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
     d3.select(`#${id}`).selectAll('*').remove()
     if (data.length) {
       const xValues = data.map((item) => item.x_axis)
-      const yValues = data.map((item) => item.y_axis)
 
       const margin = { top: 10, right: 24, bottom: 30, left: 24 },
         chartWidth = width - margin.left - margin.right,
@@ -96,3 +95,4 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
 
       svg.append('path').datum(data).attr('fill', 'url(#gradient)').attr('d', area)
 
+      // Draw current ticker line

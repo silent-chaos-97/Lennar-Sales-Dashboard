@@ -175,3 +175,6 @@ export const StateProvider = (props: PropsWithChildren) => {
     if (idx !== -1) {
       const nextIdx = (idx + 1) % sortedCohorts.length
       setCurrentCohort({ ...sortedCohorts[nextIdx] })
+    }
+  }
+

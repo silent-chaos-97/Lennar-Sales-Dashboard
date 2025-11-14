@@ -91009,3 +91009,1248 @@
                 "incentive_percent": 11,
                 "journey_array": [
                   {
+                    "activity_date": "2023-08-22",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Social lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-22",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Aramis, this is Stephon with Lennar. Thank you for your interest in Lennar! I noticed you are interested in the North San Antonio area. Our closest communities to North San Antonio would be in Bulverde or North East San Antonio. I would love for you to",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-22",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 3,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-09-22",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Aramis,     I'm Stephon Patron, one of the Internet Sales Consultants here at Lennar San Antonio. Thank you for your interest in Lennar!      I was reading your comments and noticed you were interested in the North San Antonio area. We have communities in Northwest San Antonio and in Bulverde, wh...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-23",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 5,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Aramis,  Congratulations on the purchase of your new Lennar home on 7227 Duck Pond in Silos!  My name is Mary Ann Berny, your Homebuyer Concierge. I am tickled, delighted, and happy to  assist you throughout your entire home closing journey! I am the liaison between your New  Home Consultant, ...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -7,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 92,
+                "sale_price": 221499,
+                "sale_title": "Pitney just sold in Silos 35 Belmar",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "Houston",
+            "division_coordinates": [
+              -95.508826877,
+              29.876363839
+            ],
+            "geometry": {
+              "coordinates": [
+                -95.4152706,
+                30.3054266
+              ],
+              "type": "Point"
+            },
+            "id": 446,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 33,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_kacey_cultra_lr_jpg",
+                    "name": "Kacey Cultra",
+                    "national_rank": 71,
+                    "summary": "           $4,271,344 in sales QTD<br/>15% incentives QTD<br/>71% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 14,
+                    "image_url": "",
+                    "name": "Endy Matori",
+                    "national_rank": 32,
+                    "summary": "          $10,014,780 in sales QTD<br/>195 appointments QTD<br/>20% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "33 days post",
+                "home_size": "       1,932 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/2651/55765/55765_eleA_lg.jpg",
+                "incentive_percent": 17,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-01",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-01",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "This is Endy with Lennar. It was a pleasure talking to you.  Millers Pass (Rosenberg): https://www.lennar.com/new-homes/texas/houston/rosenberg/millers-pass/brochure Millers Pond (Rosenberg): https://www.lennar.com/new-homes/texas/houston/rosenberg/miller",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "LENNAR INCENTIVES!   INCENTIVES FOR HOMES CLOSING IN OCTOBER, NOVEMBER & DECEMBER As LOW as 4.5% Fixed 30 Year Interest Rate +  Up to $10,000 in Closing Cost + Owner's Title Policy  (MUST QUALIFY THROUGH & USE LENNAR MORTGAGE)  Lisa Ervine Internet Sales",
+                    "sort": 5,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -12,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 91,
+                "sale_price": 280000,
+                "sale_title": "Clover II just sold in Ladera Creek 50'",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "San Antonio",
+            "division_coordinates": [
+              -98.427076386,
+              29.430584066
+            ],
+            "geometry": {
+              "coordinates": [
+                -98.7892082,
+                29.4846764
+              ],
+              "type": "Point"
+            },
+            "id": 445,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Ana Gonzalez",
+                    "national_rank": 4,
+                    "summary": "           $5,992,126 in sales QTD<br/>9% incentives QTD<br/>94% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "31 days prior",
+                "home_size": "       1,440 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7400/62420/62420_eleC_lg.png",
+                "incentive_percent": 11,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello, Congratulations on the purchase of your new Lennar home on 5471 Calton Bend in Morgan Heights!  My name is Rhiannon Garcia, your Homebuyer Concierge. I am tickled, delighted, and happy to assist you throughout your entire home closing journey! I am the liaison between your New Home Consultant...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 5,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 90,
+                "sale_price": 253999,
+                "sale_title": "Durbin just sold in Morgans Heights-Cottage",
+                "sale_type": "Retail",
+                "web_content_score": "4"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "Houston",
+            "division_coordinates": [
+              -95.508826877,
+              29.876363839
+            ],
+            "geometry": {
+              "coordinates": [
+                -95.190038167,
+                30.1624395
+              ],
+              "type": "Point"
+            },
+            "id": 438,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 96,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_maria_sirgo_lr_jpg",
+                    "name": "Maria Sirgo",
+                    "national_rank": 323,
+                    "summary": "           $2,440,480 in sales QTD<br/>14.8% incentives QTD<br/>70% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/4.5 ba",
+                "days_from_completion": "89 days post",
+                "home_size": "       3,126 sqft.",
+                "home_type": "Next Gen",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6888/58672/58672_eleD_lg.jpg",
+                "incentive_percent": 15,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi there Michael, Congrats on your new home purchase in Tavola!  My name is Sydney Suarez, your Home Buyer Concierge and I am here to assist you throughout your entire home closing journey. I will act as your liaison between you, your New Home Consultant, the Lennar Mortgage team, the Construction M...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -10,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 89,
+                "sale_price": 420000,
+                "sale_title": "Oak Hill III just sold in Tavola 55'",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "Houston",
+            "division_coordinates": [
+              -95.508826877,
+              29.876363839
+            ],
+            "geometry": {
+              "coordinates": [
+                -95.8976854,
+                29.7441543
+              ],
+              "type": "Point"
+            },
+            "id": 434,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 105,
+                    "image_url": "",
+                    "name": "Maddy Perrault",
+                    "national_rank": 355,
+                    "summary": "           $3,730,769 in sales QTD<br/>12.1% incentives QTD<br/>90% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 14,
+                    "image_url": "",
+                    "name": "Endy Matori",
+                    "national_rank": 32,
+                    "summary": "          $10,014,780 in sales QTD<br/>195 appointments QTD<br/>20% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3.5 ba",
+                "days_from_completion": "7 days prior",
+                "home_size": "       3,364 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7371/62299/62299_eleA_lg.jpg",
+                "incentive_percent": 13,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-02-14",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi,  This is Allison with Lennar. I wanted to follow up on your online registration for our new homes. Alex sent over the key features you are looking for in your new home!  Was there a specific community or location that interested you? We build all throughout the surrounding areas of Houston.  I l...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-02-14",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Schin, this is Allison with Lennar. I wanted to follow up on your online registration for our new homes. Alex sent over the key features you are looking for in your new home! Was there a specific community or location that interested you?",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-23",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-09-23",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-09-23",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Schin,  This is Endy with Lennar. It was a pleasure talking to you. Here are the homes we talked about information:  1- https://www.har.com/homedetail/30618-bahia-oak-bnd-fulshear-tx-77423/16386474 3D tour: https://vrtours.opusvisual.com/lennar/4965/  2- https://www.har.com/homedetail/3214-blue-g...",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-23",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "This is Endy Matori, Internet Sales Coordinator with Lennar. I have sent you information about our communities and incentives via email. Please confirm receipt and let me know if you have any questions or would like to schedule an appointment to visit our",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-23",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank you, Endy. Could you please connect me to the sales executive in the Jordan Ranch community?",
+                    "sort": 7,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-23",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Sure. When would you like to be contacted?",
+                    "sort": 8,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-23",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-09-23",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "I am available now till evening. They can call me any time.",
+                    "sort": 10,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-23",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Schin Kandikatla! This is a friendly reminder of your phone appointment with Lennar Homes on 09/23/2023 at 2:30 PM with Maddy Perrault. If you have any questions or need to reschedule, please call or text us back! We will talk soon!",
+                    "sort": 11,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-23",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Hi Endy. I got a txt that I have an appointment scheduled with Maddy Perrault at 2:30 today. But, I didn't receive any call yet.",
+                    "sort": 12,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-23",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "She may be helping a buyer at the moment. She will definitely call you today. Thank you for your patience.",
+                    "sort": 13,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-23",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "No worries",
+                    "sort": 14,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Schin -  Attached info is in regard to the Pikes on 3231 Blue Grama.  Maddy Perrault New Home Consultant Cell: 225-276-3323 maddy.perrault@lennar.com",
+                    "sort": 15,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "30618 Bahia Oak - Teton  Maddy Perrault New Home Consultant Cell: 225-276-3323 maddy.perrault@lennar.com",
+                    "sort": 16,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "30526 Bahia - Olympus  Maddy Perrault New Home Consultant Cell: 225-276-3323 maddy.perrault@lennar.com",
+                    "sort": 17,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-27",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Virtual Tour  Maddy Perrault New Home Consultant Cell: 225-276-3323 maddy.perrault@lennar.com",
+                    "sort": 18,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hi Schin, this is Endy with Lennar & Village Builders in Houston, TX. We talked a week ago about you visiting the Jordan Ranch community this weekend. What day and time you will be able to visit?  Endy Matori Internet Sales Coordinator  (832) 476-9931 End",
+                    "sort": 19,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Sachin,  I can't provide anything more than this blank contract since I need to know what agent you're going with. It's a part of the system steps. Which also means I won't be able to send out the link for the deposit yet either.  Let me know if you have questions when reviewing the agreement.  Than...",
+                    "sort": 20,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 23,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Maddy Perrault New Home Consultant Cell: 225-276-3323 maddy.perrault@lennar.com",
+                    "sort": 22,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -6,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 88,
+                "sale_price": 499000,
+                "sale_title": "Pikes just sold in Jordan Ranch 60'",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "San Antonio",
+            "division_coordinates": [
+              -98.427076386,
+              29.430584066
+            ],
+            "geometry": {
+              "coordinates": [
+                -98.228659,
+                29.4786672
+              ],
+              "type": "Point"
+            },
+            "id": 432,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 39,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_trey_edwardslr_jpg",
+                    "name": "Trey Edwards",
+                    "national_rank": 80,
+                    "summary": "           $3,460,561 in sales QTD<br/>9.3% incentives QTD<br/>94% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_matthew_pipperlr_jpg",
+                    "name": "Matthew Pipper",
+                    "national_rank": 4,
+                    "summary": "          $10,518,181 in sales QTD<br/>281 appointments QTD<br/>43% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "18 days prior",
+                "home_size": "       1,667 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5708/42812/42812_eleD_lg.png",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Email lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Joseph, this is Matthew with Lennar. I wanted to follow up with you on your registration for Converse. I would love to give you more information! Was there a bedroom count you prefer?",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Joseph, this is Matthew with Lennar. I wanted to follow up with you on your registration for Converse. I would love to give you more information! Was there a bedroom count you prefer?",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Hi Matthew, looks like our realtor is already working with a Lennar Rep named Trey.",
+                    "sort": 5,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -7,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 87,
+                "sale_price": 246999,
+                "sale_title": "Nettleton just sold in Sage Meadows-Watermill",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "San Antonio",
+            "division_coordinates": [
+              -98.427076386,
+              29.430584066
+            ],
+            "geometry": {
+              "coordinates": [
+                -98.401337653,
+                29.766582356
+              ],
+              "type": "Point"
+            },
+            "id": 428,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 51,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_heather_nimmolr_jpg",
+                    "name": "Heather Nimmo",
+                    "national_rank": 126,
+                    "summary": "           $3,515,344 in sales QTD<br/>6.6% incentives QTD<br/>50% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_matthew_pipperlr_jpg",
+                    "name": "Matthew Pipper",
+                    "national_rank": 4,
+                    "summary": "          $10,518,181 in sales QTD<br/>281 appointments QTD<br/>43% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "24 days prior",
+                "home_size": "       2,359 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/2859/33169/33169_eleH_lg.png",
+                "incentive_percent": 7,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-11-01",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Anette,       Thank you for your interest in Lennar San Antonio!       My name is Danielle Ochoa and my job is to help you find the perfect new Lennar home, in the right community for you.   Interest rates are on the rise. Now is the time to purchase your new home in this fast-paced market.      ...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-11-01",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Anette, this is Danielle with Lennar. I wanted to follow up with you on your registration for Hidden Trails in Bulverde. I would love for you to tour the community and view our new homes. Do you have time this week or weekend to visit?",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 86,
+                "sale_price": 379999,
+                "sale_title": "Langley just sold in Hidden Trails Westfield",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "San Antonio",
+            "division_coordinates": [
+              -98.427076386,
+              29.430584066
+            ],
+            "geometry": {
+              "coordinates": [
+                -97.974349,
+                29.6950334
+              ],
+              "type": "Point"
+            },
+            "id": 422,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 46,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_roxie_salazarlr_jpg",
+                    "name": "Roxie Salazar",
+                    "national_rank": 107,
+                    "summary": "           $3,016,305 in sales QTD<br/>9.3% incentives QTD<br/>80% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "5 days post",
+                "home_size": "       1,474 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7482/63182/63182_eleD_lg.png",
+                "incentive_percent": 15,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-06-30",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2022-06-30",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-06-30",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -8,
+                "realtor_commission": 5,
+                "sale_cohort_rank": 85,
+                "sale_price": 218999,
+                "sale_title": "Gannes just sold in Navarro Ranch-Watermill",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "Houston",
+            "division_coordinates": [
+              -95.508826877,
+              29.876363839
+            ],
+            "geometry": {
+              "coordinates": [
+                -95.7663846,
+                29.490343
+              ],
+              "type": "Point"
+            },
+            "id": 421,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 105,
+                    "image_url": "",
+                    "name": "Michael Koons",
+                    "national_rank": 355,
+                    "summary": "           $2,902,578 in sales QTD<br/>7.5% incentives QTD<br/>90% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 24,
+                    "image_url": "",
+                    "name": "Lindsey Monroe",
+                    "national_rank": 76,
+                    "summary": "           $7,257,470 in sales QTD<br/>160 appointments QTD<br/>15% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "5 bd/3.5 ba",
+                "days_from_completion": "42 days post",
+                "home_size": "       2,721 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5410/55903/55903_eleB_lg.jpg",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -7,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 84,
+                "sale_price": 345000,
+                "sale_title": "Dewberry II just sold in Still Creek Ranch 55'",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "San Antonio",
+            "division_coordinates": [
+              -98.427076386,
+              29.430584066
+            ],
+            "geometry": {
+              "coordinates": [
+                -98.770859805,
+                29.366469203
+              ],
+              "type": "Point"
+            },
+            "id": 416,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 4,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_emmanuel_sastre_lr_jpg",
+                    "name": "Emmanuel Sastre",
+                    "national_rank": 8,
+                    "summary": "           $5,358,605 in sales QTD<br/>10.2% incentives QTD<br/>93% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 18,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_anthony_bendelelr_jpg",
+                    "name": "Anthony Bendele",
+                    "national_rank": 61,
+                    "summary": "           $6,740,950 in sales QTD<br/>168 appointments QTD<br/>38% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "16 days prior",
+                "home_size": "       1,950 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5637/42190/42190_eleD_lg.jpg",
+                "incentive_percent": 16,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-07-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-07-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-07-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-07-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-07-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-22",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -14,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 83,
+                "sale_price": 239999,
+                "sale_title": "Ridley just sold in Silos 40",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "Houston",
+            "division_coordinates": [
+              -95.508826877,
+              29.876363839
+            ],
+            "geometry": {
+              "coordinates": [
+                -94.9911814,
+                29.8338552
+              ],
+              "type": "Point"
+            },
+            "id": 414,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 93,
+                    "image_url": "",
+                    "name": "Alejandra Valadez",
+                    "national_rank": 313,
+                    "summary": "           $2,400,859 in sales QTD<br/>15.5% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3.5 ba",
+                "days_from_completion": "24 days post",
+                "home_size": "       2,758 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7207/61054/61054_eleA_lg.jpg",
+                "incentive_percent": 10,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-03-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-03-08",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-06-30",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Burnet Fields 40'  9639 Sterling Arbor Dr, Baytown, TX  Your Lennar Homes Internet Sales Consultant 832-260-0146 Kerrie.Laminack@lennar.com",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-30",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "https://www.lennar.com/new-homes/texas/houston/baytown/sterling-point-at-baytown-crossings/brochure Your Lennar Homes Internet Sales Consultant 832-260-0146 Kerrie.Laminack@lennar.com",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-30",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-07-01",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-07-01",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Prsicilla! We're excited to see you for your tour of Burnet Fields 40' 07/01/2023 at 1:30 PM with Alejandra Valadez. The Welcome Home Center is located at 9639 Sterling Arbor Drive, Baytown, Texas77521. See you soon! Your Lennar Homes Internet Sales Consultant 832-260-0146 Kerrie.Laminack@lennar....",
+                    "sort": 7,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-01",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-07-02",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-07-05",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Rusel and Priscilla, \t  \tCongratulations on your new home purchase, 9526 Marble Park Lane in Sterling Point! \t \tMy name is Shermain J. Rene', your Home Buyer Concierge and I am here to assist you throughout your entire home closing journey. \tI will act as liaison between you, your New Home Con...",
+                    "sort": 10,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-20",
+                    "activity_type": "cancellation",
+                    "actor_type": "red",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Cancellation"
+                  },
+                  {
+                    "activity_date": "2023-08-20",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-08-20",

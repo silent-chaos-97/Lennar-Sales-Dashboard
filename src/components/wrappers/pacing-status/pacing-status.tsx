@@ -81,7 +81,6 @@ const PacingStatus = ({ mapWrapperRef }) => {
 
   useEffect(() => {
     if (mapRef.current && pacingCohortArray && pacingCohortArray.length) {
-      const options = {
         offset: [0, PACING_MAP_OFFSETS[currentCohort.type]] as PointLike,
         maxZoom: PACING_ZOOM_LEVEL[currentCohort.type],
         linear: true
@@ -202,3 +201,7 @@ const PacingStatus = ({ mapWrapperRef }) => {
               {(pacingState?.AVAILABLE_HOMES.total_available || 0).toLocaleString()}
             </Typography>
           </Stack>
+          <Box flex={1}>
+            <BulletChart height={120} />
+          </Box>
+        </Stack>
