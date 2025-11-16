@@ -67,3 +67,4 @@ const MemberItem = ({
         </Typography>
       </Avatar>
       <Stack sx={{ flex: 1, width: 284 }}>
+        <Typography variant="h3" sx={{ mb: 0.5 }}>

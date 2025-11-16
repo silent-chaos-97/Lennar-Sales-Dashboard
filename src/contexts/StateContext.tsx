@@ -168,7 +168,6 @@ export const StateProvider = (props: PropsWithChildren) => {
 
   useEffect(() => {
     refreshData()
-  }, [currentCohort])
 
   const fetchNextDivision = () => {
     const idx = sortedCohorts.findIndex((division) => division.name === currentCohort.name)
@@ -178,3 +177,4 @@ export const StateProvider = (props: PropsWithChildren) => {
     }
   }
 
+  useEffect(() => {

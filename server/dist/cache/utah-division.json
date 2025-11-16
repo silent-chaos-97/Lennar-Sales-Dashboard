@@ -3918,7 +3918,6 @@
                 "total_chats_percent_change": 0,
                 "total_chats_texts": 0,
                 "total_chats_texts_percent_change": 0,
-                "total_sales": 0,
                 "total_texts": 0,
                 "total_texts_percent_change": 0,
                 "trifecta": {
@@ -21729,3 +21728,22 @@
             "current": "",
             "hour": 18,
             "prev": 113
+          }
+        ],
+        "LEADS": 19,
+        "LEADS_PERCENT_CHANGE": -37,
+        "HOURLY_LEADS_ARRAY": [
+          {
+            "current": 2,
+            "hour": 7,
+            "prev": 6
+          },
+          {
+            "current": 4,
+            "hour": 8,
+            "prev": 2
+          },
+          {
+            "current": 1,
+            "hour": 9,
+            "prev": 5

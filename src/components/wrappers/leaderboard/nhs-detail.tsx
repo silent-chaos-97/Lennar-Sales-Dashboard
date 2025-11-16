@@ -142,7 +142,6 @@ const NHSDetail = ({
                   <PercentValueText value={data?.incentive_rate || 0} hideChange suffix="%" />
                 </Grid>
                 <Grid item xs={1.5}>
-                  <CustomTooltip elementName="label-nhc-realtor-commission">
                     <Typography variant="caption" color="text.secondary" fontWeight={500}>
                       Realtor commisions
                     </Typography>

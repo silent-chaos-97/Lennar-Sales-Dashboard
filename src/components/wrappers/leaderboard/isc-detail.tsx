@@ -297,3 +297,4 @@ const ISCDetail = ({
                     secondValue={data?.appt_kept_division_rank || 0}
                     secondLabel="Appointments kept"
                     thirdValue={data?.sales_division_rank || 0}
+                    thirdLabel="Sales"

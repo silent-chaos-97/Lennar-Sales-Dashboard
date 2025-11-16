@@ -113,3 +113,4 @@ const IndicatorBarChart = ({
       const xAxisGroup = svg
         .append('g')
         .attr('transform', 'translate(0,' + height + ')')
+        .call(xAxis)

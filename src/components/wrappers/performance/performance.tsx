@@ -177,3 +177,4 @@ const Performance = () => {
               cornerRadius={20}
               enableRadialGrid={false}
               enableCircularGrid={false}
+              radialAxisStart={{

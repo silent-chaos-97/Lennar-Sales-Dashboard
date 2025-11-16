@@ -114,7 +114,6 @@ const PacingDetails = ({
       <Box
         sx={{
           position: 'absolute',
-          left: 0,
           top: 0,
           bottom: 0,
           right: 0,
@@ -143,6 +142,7 @@ const PacingDetails = ({
               <Stack
                 onClick={() => setShowList((prev) => !prev)}
                 direction="row"
+                alignItems="center"
                 spacing={1}
                 sx={{
                   cursor: 'pointer',

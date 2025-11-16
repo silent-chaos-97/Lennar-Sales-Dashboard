@@ -39,3 +39,4 @@ export const ScreenContextProvider = (props: PropsWithChildren) => {
     <ScreenContext.Provider
       value={{
         mode: screenMode,
+        currentScreen,

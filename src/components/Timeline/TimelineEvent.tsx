@@ -19,6 +19,7 @@ interface TimelineEventProps {
   event: JourneyArrayItem
   expanded: boolean
 }
+
 const icons = {
   text: <SmsIcon />,
   email: <EmailIcon />,

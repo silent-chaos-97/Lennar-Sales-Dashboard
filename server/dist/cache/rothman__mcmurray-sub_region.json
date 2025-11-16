@@ -50388,6 +50388,7 @@
             "activity_status": "Connected",
             "activity_time": "2023-10-03 14:15:00.000",
             "sort": 101
+          },
           {
             "activity_status": "Connected",
             "activity_time": "2023-10-03 14:30:00.000",
@@ -55952,3 +55953,212 @@
                     "body": "",
                     "sort": 4,
                     "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 10,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 20,
+                "sale_price": 284998,
+                "sale_title": "Arbor just sold in Ave Maria 4 Story",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.6321742,
+                26.5689918
+              ],
+              "type": "Point"
+            },
+            "id": 205,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 42,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_roy_marsh_lr_jpg",
+                    "name": "Roy Marsh",
+                    "national_rank": 355,
+                    "summary": "           $3,524,367 in sales QTD<br/>0.4% incentives QTD<br/>90% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "33 days post",
+                "home_size": "       1,941 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7368/62228/62228_eleB_lg.png",
+                "incentive_percent": 4,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 19,
+                "sale_price": 350000,
+                "sale_title": "Hartford just sold in Savanna Lakes 40",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.6530611,
+                26.5901762
+              ],
+              "type": "Point"
+            },
+            "id": 199,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 23,
+                    "image_url": "",
+                    "name": "Cody Johnson",
+                    "national_rank": 205,
+                    "summary": "           $3,403,933 in sales QTD<br/>0% incentives QTD<br/>67% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 13,
+                    "image_url": "",
+                    "name": "Ali Johnston",
+                    "national_rank": 139,
+                    "summary": "          $13,327,144 in sales QTD<br/>103 appointments QTD<br/>24% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "2 bd/2 ba",
+                "days_from_completion": "29 days prior",
+                "home_size": "       1,564 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7491/63289/63289_eleG_lg.jpg",
+                "incentive_percent": 17,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi, Javier -  Thank you for reaching out to inquire about our Ibis Landing condos and community. My name is Ali Johnston, and I am delighted to assist you as a member of Lennar Homes' Internet Sales Department for all things Southwest Florida from Lakewood Ranch to Naples!  We are so excited to be r...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 18,
+                "sale_price": 255000,
+                "sale_title": "Orchid just sold in Ibis Landing Villas",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.421566932,
+                26.310714594
+              ],
+              "type": "Point"
+            },
+            "id": 192,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 76,
+                    "image_url": "",
+                    "name": "Jamie Meisterheim",
+                    "national_rank": 643,
+                    "summary": "           $2,848,550 in sales QTD<br/>0.8% incentives QTD<br/>17% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "2 bd/2 ba",
+                "days_from_completion": "63 days prior",
+                "home_size": "       1,366 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5584/42931/42931_eleB_lg.jpg",
+                "incentive_percent": 4,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",

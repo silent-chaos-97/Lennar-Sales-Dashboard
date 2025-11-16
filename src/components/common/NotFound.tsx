@@ -13,6 +13,7 @@ const NotFound = () => {
             height: '76px',
             padding: '25px',
             marginTop: 0
+          }}
           width="100%"
         >
           <img src="/logo.svg" alt="Lennar" width="144" />
@@ -24,3 +25,4 @@ const NotFound = () => {
         <Typography sx={{ fontSize: '32px', lineHeight: '38px', marginTop: '50px' }}>
           Please try this address:
         </Typography>
+        <Typography sx={{ fontSize: '32px', lineHeight: '38px' }}>

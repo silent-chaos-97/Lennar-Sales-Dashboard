@@ -16,7 +16,6 @@ interface BarProps {
 interface TrackProps {
   color?: string
   percent: number
-}
 
 const Track = styled('span', {
   shouldForwardProp: (prop) => !['color', 'percent'].includes(prop as string)
@@ -43,3 +42,4 @@ const Bar = ({ label, percent = 0, value, change }: BarProps) => {
               (change > 0 ? <NorthEastIcon color="success" /> : <SouthEastIcon color="error" />)}
             <Typography
               component="span"
+              color={getValueChangeTextColor(change)}

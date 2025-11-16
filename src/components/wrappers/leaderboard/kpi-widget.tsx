@@ -25,6 +25,7 @@ const KPIWidget = ({
   return (
     <Box>
       <Typography variant="caption" color="text.secondary">
+        {title}
       </Typography>
       <Grid container direction="row">
         <Grid item minWidth={75}>

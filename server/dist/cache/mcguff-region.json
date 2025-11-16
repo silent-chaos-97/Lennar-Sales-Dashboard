@@ -6985,6 +6985,7 @@
             },
             {
               "cohort_rank": 5,
+              "division_name": "Las Vegas",
               "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_amber_collinslr_jpg",
               "name": "Amber Collins",
               "national_rank": 9,
@@ -174105,3 +174106,672 @@
                   },
                   {
                     "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 54,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 39,
+                "sale_price": 695500,
+                "sale_title": "Residence Three just sold in Whispering Wind at Country Lane",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.7448418,
+                38.658284
+              ],
+              "type": "Point"
+            },
+            "id": 141,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 24,
+                    "image_url": "",
+                    "name": "Ashley Eidson",
+                    "national_rank": 99,
+                    "summary": "           $9,482,672 in sales QTD<br/>5.1% incentives QTD<br/>47% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3.5 ba",
+                "days_from_completion": "71 days prior",
+                "home_size": "       3,425 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7004/59495/59495_eleD_lg.jpg",
+                "incentive_percent": 6,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-06-05",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-06-05",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-06-05",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 38,
+                "sale_price": 797088,
+                "sale_title": "Residence 3425 just sold in Cannon Pointe @ Pioneer 55's",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Bay Area",
+            "division_coordinates": [
+              -121.755126926,
+              37.655558046
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.4825358,
+                37.690854
+              ],
+              "type": "Point"
+            },
+            "id": 140,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 247,
+                    "image_url": "",
+                    "name": "Ken Cheung",
+                    "national_rank": 952,
+                    "summary": "           $2,381,383 in sales QTD<br/>6.9% incentives QTD<br/>0% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "29 days prior",
+                "home_size": "       2,580 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7060/59942/59942_eleB_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -5,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 37,
+                "sale_price": 828000,
+                "sale_title": "Residence 2 just sold in Greenwood",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.0829228,
+                38.6348324
+              ],
+              "type": "Point"
+            },
+            "id": 136,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "",
+                    "name": "Peter Pham",
+                    "national_rank": 2,
+                    "summary": "          $30,881,079 in sales QTD<br/>8.7% incentives QTD<br/>19% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "63 days prior",
+                "home_size": "       2,421 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7437/62780/62780_eleC_lg.jpg",
+                "incentive_percent": 14,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-16",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -16,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 36,
+                "sale_price": 690000,
+                "sale_title": "Residence 2421 just sold in Sterling Hills@Russell Ranch",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Colorado",
+            "division_coordinates": [
+              -104.888662203,
+              39.846040151
+            ],
+            "geometry": {
+              "coordinates": [
+                -105.0693556,
+                39.6802188
+              ],
+              "type": "Point"
+            },
+            "id": 130,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 105,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_nicole_zenk_lr_jpg",
+                    "name": "Nicole Zenk",
+                    "national_rank": 323,
+                    "summary": "           $7,360,592 in sales QTD<br/>4.1% incentives QTD<br/>70% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 4,
+                    "image_url": "",
+                    "name": "Nicole Kois",
+                    "national_rank": 7,
+                    "summary": "          $33,258,000 in sales QTD<br/>272 appointments QTD<br/>27% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "42 days prior",
+                "home_size": "       1,749 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7323/61875/61875_eleCL_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-21",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-21",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-21",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -8,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 35,
+                "sale_price": 740000,
+                "sale_title": "Oxford just sold in Green Gables Patio Ranches",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Utah",
+            "division_coordinates": [
+              -111.796837,
+              40.432818717
+            ],
+            "geometry": {
+              "coordinates": [
+                -111.398657572,
+                40.534535168
+              ],
+              "type": "Point"
+            },
+            "id": 129,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 69,
+                    "image_url": "",
+                    "name": "Michael P. Stone",
+                    "national_rank": 248,
+                    "summary": "           $6,546,092 in sales QTD<br/>10.1% incentives QTD<br/>55% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "146 days prior",
+                "home_size": "       1,663 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7305/61784/61784_ele4B1_lg.jpg",
+                "incentive_percent": 4,
+                "journey_array": [
+                  {
+                    "activity_date": "2021-09-20",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Hailey,  \tThank you for your interest in Lennar and Sunflower Fields townhomes in Saratoga Springs centrally located near Mountain View Corridor, Redwood Road, Harvest Hills and 2100 North, just minutes from Lehi, Bluffdale, and Silicon Slopes with quick access to restaurants, shopping, and enter...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2021-09-20",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Hailey,  \t   \tI know sometimes something ready now or in the near future works with better with timelines. A list of all of our quick move in homes is listed below.  \t  \t  \t \t \t \tPrimrose Single Family Homes at Wildflower in Saratoga Springs:  \t \t \tHomesite F2-74 - Sundance | Contemporary exterio...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2021-09-21",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "It was so nice meeting you and your husband. I will attach a blank contract to this email. Thank you. ",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-01-14",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Hailey,  \t   \t \tThank you for your interest in Jordanelle Ridge in Heber! See the Pricing, floorplans, available homes, Everything's Included® features, and the community siteplan HERE  \t   \tHere is an overview of Jordanelle Ridge Townhomes:  \t   \tAVAILABLE NOW:   \t   \tCanyon Series Townhomes:  \t...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-01-18",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-01-18",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-01-18",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Perfect. We look forward to it! Best, Hailey Bonny In-House Event Planner/ Coordinator River Bottoms Ranch www.?riverbottomsranch.?com 801-498-0795 From: Kaelee Graham <kaelee.?graham@?lennar.?com> Sent: Wednesday, January 18, 2023 11:?17 AM ZjQcmQRYFpfptBannerStartThis Message Is From an External S...",
+                    "sort": 7,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-02",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "If weather holds the foundation for 289 Sequoia is for the week of 3/13. So basically any time that week. I set a calendar invite to myself to call you. thanks  Michael Stone New Home Consultant Lennar Corporation  Michael.P.Stone@lennar.com www.lennar.com Office: 801.508.5524",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-13",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Here are the plans, option summary and plot plan for the homesite. thanks  Michael Stone New Home Consultant Lennar Corporation  Michael.P.Stone@lennar.com www.lennar.com Office: 801.508.5524",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-14",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "I just wanted to let you know the deposit was received. The contract is in your email. I refer you to page 7 of the contract (purchase price and payment addendum), it gives a full accounting of the transaction. the Lender incentive is on page 35 (the election form). Like we talked about last night, ...",
+                    "sort": 10,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-17",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-03-21",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Hailey! \t   \tMy name is Gabby Medeiros. I am the Sales Concierge and will be working with the community construction managers and your new home consultant to keep you in the loop on the status of your Lennar Home!   \t   \tAs of this week, your home is getting countertops.  \t   \tIf you have any ...",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-22",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Hailey!   My name is Gabby Medeiros. I am the Sales Concierge and will be working with the community construction managers and your new home consultant to keep you in the loop on the status of your Lennar Home!   As of this week, your ZjQcmQRYFpfptBannerStartThis Message Is From an External Se...",
+                    "sort": 13,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-23",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hey Hailey + Weston -  Attached is a letter our escrow coordinator puts together regarding closing. The last page has some helpful contact information for utilities and such.   Thanks,  Gabby Medeiros Sales Concierge  Lennar  Gabby.Medeiros@Lennar.com Mobile: (858) 386-3545  111 E Sego Lily Drive Su...",
+                    "sort": 14,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-24",
+                    "activity_type": "cancellation",
+                    "actor_type": "red",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Cancellation"
+                  },
+                  {
+                    "activity_date": "2023-09-13",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "After months and months, I am happy to report that I have new information on the opening and release of phase 2 of the Jordanelle Ridge community in Heber. There are a lot of moving parts because this community will be working off of a waitlist. I have detailed all the pertinent information below. I...",
+                    "sort": 16,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 34,
+                "sale_price": 564201,
+                "sale_title": "Residence E just sold in Jordanelle Canyon Townhomes",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Las Vegas",
+            "division_coordinates": [
+              -115.140858713,
+              36.12362889
+            ],
+            "geometry": {
+              "coordinates": [
+                -115.025686857,
+                36.210876571
+              ],
+              "type": "Point"
+            },
+            "id": 128,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 76,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_teri_sanchezlr_jpg",
+                    "name": "Teri Sanchez",
+                    "national_rank": 266,
+                    "summary": "           $5,276,032 in sales QTD<br/>8% incentives QTD<br/>73% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 30,
+                    "image_url": "",
+                    "name": "Christine Jacob",
+                    "national_rank": 77,
+                    "summary": "          $16,222,698 in sales QTD<br/>158 appointments QTD<br/>6% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "91 days post",
+                "home_size": "       2,270 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5973/45198/45198_eleB_lg.jpg",
+                "incentive_percent": 9,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-08-15",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Brizeida,        Marina here with Lennar Homes in Las Vegas! Thank you so much for your interest in our community of Dalton, within the eastern part of Las Vegas. This beautiful community features two-story homes and Lennar’s Everything’s Included package. The four floor plans range from approx. ...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-08-15",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Brizeida, this is Marina with LENNAR Homes here in Las Vegas! I just wanted to make sure you were able to access the models earlier without any trouble? Let me know if you have any questions about the community at all. Thank you & have a great day!",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-08-16",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Brizeida,   \t   \tAmber here from our Internet Team, with Lennar Homes Las Vegas. I wanted to reach out and see how your new home search is going and to let you know I am here to answer any questions you may have on any of our communities! Please let me know what I can assist with and when you wou...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-20",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-07-20",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-07-20",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-07-20",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-07-20",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Brizeida! Amber here with Lennar Homes. Thank you for taking advantage of our self-guided tour feature. Let me know if you would like me to send you our most current pricing and brochures. I can also schedule an appointment with of our new home consultants to go over availability and community de...",
+                    "sort": 8,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-20",
+                    "activity_type": "email",

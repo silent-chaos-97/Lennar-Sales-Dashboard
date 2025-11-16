@@ -116,3 +116,4 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
               days;&nbsp;
             </>
           )}
+          {insightState?.BOTTOM_SALES_INSIGHT?.color && (

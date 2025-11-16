@@ -14,6 +14,7 @@ const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
       <Scrollbar
         style={{ height: 1040, width: '100%', paddingRight: 24 }}
         contentProps={{ style: { paddingRight: '25px' } }}
+      >
         {Array.isArray(leaders) ? (
           leaders.map((leaderboard) => (
             <Section title={leaderboard.type} key={leaderboard.type}>

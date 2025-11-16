@@ -50,3 +50,4 @@ const HourlyActivity = ({
         <Typography variant="h2">{total.toLocaleString()}</Typography>
         <Stack>
           {change !== 0 &&
+            (change > 0 ? <NorthEastIcon color="success" /> : <SouthEastIcon color="error" />)}

@@ -44,6 +44,7 @@ export const Section = ({
 
   const alignmentStyle = useMemo(() => {
     if (dropdownAlignment === 'left') {
+      return { left: 0 }
     }
 
     if (dropdownAlignment === 'center') {

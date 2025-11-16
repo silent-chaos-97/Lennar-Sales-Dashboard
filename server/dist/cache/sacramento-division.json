@@ -69988,3 +69988,272 @@
           {
             "activity_status": "Connected",
             "activity_time": "2023-10-07 17:00:00.000",
+            "sort": 20
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-08 10:00:00.000",
+            "sort": 7
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-08 11:30:00.000",
+            "sort": 183
+          }
+        ],
+        "TIMEFRAME": "yesterday",
+        "WEB_VISITORS": 1520,
+        "WEB_VISITORS_PERCENT_CHANGE": -42,
+        "HOURLY_WEB_VISITORS_ARRAY": [
+          {
+            "current": 146,
+            "hour": 7,
+            "prev": 177
+          },
+          {
+            "current": 202,
+            "hour": 8,
+            "prev": 217
+          },
+          {
+            "current": 219,
+            "hour": 9,
+            "prev": 221
+          },
+          {
+            "current": 294,
+            "hour": 10,
+            "prev": 253
+          },
+          {
+            "current": 244,
+            "hour": 11,
+            "prev": 260
+          },
+          {
+            "current": 297,
+            "hour": 12,
+            "prev": 275
+          },
+          {
+            "current": 285,
+            "hour": 13,
+            "prev": 270
+          },
+          {
+            "current": 295,
+            "hour": 14,
+            "prev": 234
+          },
+          {
+            "current": 291,
+            "hour": 15,
+            "prev": 243
+          },
+          {
+            "current": 288,
+            "hour": 16,
+            "prev": 196
+          },
+          {
+            "current": 266,
+            "hour": 17,
+            "prev": 520
+          },
+          {
+            "current": 237,
+            "hour": 18,
+            "prev": 417
+          }
+        ],
+        "LEADS": 90,
+        "LEADS_PERCENT_CHANGE": -19,
+        "HOURLY_LEADS_ARRAY": [
+          {
+            "current": 4,
+            "hour": 7,
+            "prev": 5
+          },
+          {
+            "current": 2,
+            "hour": 8,
+            "prev": 1
+          },
+          {
+            "current": 2,
+            "hour": 9,
+            "prev": 6
+          },
+          {
+            "current": 8,
+            "hour": 10,
+            "prev": 4
+          },
+          {
+            "current": 5,
+            "hour": 11,
+            "prev": 11
+          },
+          {
+            "current": 3,
+            "hour": 12,
+            "prev": 15
+          },
+          {
+            "current": 7,
+            "hour": 13,
+            "prev": 4
+          },
+          {
+            "current": 5,
+            "hour": 14,
+            "prev": 10
+          },
+          {
+            "current": 3,
+            "hour": 15,
+            "prev": 8
+          },
+          {
+            "current": 9,
+            "hour": 16,
+            "prev": 9
+          },
+          {
+            "current": 3,
+            "hour": 17,
+            "prev": 7
+          },
+          {
+            "current": 6,
+            "hour": 18,
+            "prev": 6
+          }
+        ],
+        "TOTAL_CALLS": 170,
+        "TOTAL_CALLS_PERCENT_CHANGE": -18,
+        "TOTAL_CHATS_TEXTS": 56,
+        "TOTAL_CHATS_TEXTS_PERCENT_CHANGE": -33,
+        "APPOINTMENTS_SET": 89,
+        "APPOINTMENTS_SET_PERCENT_CHANGE": -18,
+        "LEADS_BY_CHANNEL": {
+          "non_paid": 22,
+          "non_paid_pct_change": -42,
+          "paid": 64,
+          "paid_pct_change": -4,
+          "third_party": 4,
+          "third_party_pct_change": -33
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:28.315"
+      }
+    },
+    "sales_timeframe": {
+      "MTD": {
+        "COHORT": "Sacramento",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "MTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.3800245,
+                38.7444885
+              ],
+              "type": "Point"
+            },
+            "id": 513,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Breanna Evans",
+                    "national_rank": 60,
+                    "summary": "          $45,724,789 in sales QTD<br/>168 appointments QTD<br/>12% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 19,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_dee_dahl_lr_jpg",
+                    "name": "Dee Dahl",
+                    "national_rank": 548,
+                    "summary": "           $3,566,361 in sales QTD<br/>0% incentives QTD<br/>29% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/3 ba",
+                "days_from_completion": "99 days prior",
+                "home_size": "       1,779 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6407/64871/64871_eleA_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2020-08-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "NewHomeSource lead created"
+                  },
+                  {
+                    "activity_date": "2021-02-01",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2021-02-03",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2021-02-03",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2021-02-03",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2021-02-03",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 6,
+                    "title": "NewHomeSource lead created"
+                  },
+                  {
+                    "activity_date": "2021-02-03",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2021-02-03",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Mary:     My name is Steve and I’m an Internet Sales Coordinator with Lennar’s Central Valley and Bakersfield Division. It’s exciting to learn that you’re interested in our homes. What is on your wish list for your new home search? Is there a community or area of town that interests you? Numbe...",
+                    "sort": 8,

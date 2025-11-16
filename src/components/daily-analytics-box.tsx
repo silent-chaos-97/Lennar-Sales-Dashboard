@@ -23,7 +23,6 @@ export interface DailyAnalyticsBoxProps {
 
 const DailyAnalyticsBox = ({
   isLargeSize = false,
-  title,
   value,
   grossValue,
   diffPercent,

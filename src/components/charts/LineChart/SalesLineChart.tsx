@@ -16,6 +16,7 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
     d3.select(`#${id}`).selectAll('*').remove()
     if (data.length) {
       const xValues = data.map((item) => item.x_axis)
+      const yValues = data.map((item) => item.y_axis)
 
       const margin = { top: 10, right: 24, bottom: 30, left: 24 },
         chartWidth = width - margin.left - margin.right,
@@ -42,7 +43,6 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .defined((d, i, data) => {
           if (i === data.length - 1 && d.y_axis === 0) return false
           return true
-        })
 
       // After defining your xScale and yScale
       const xAxis = d3.axisBottom(xScale).tickSize(0).tickPadding(30)

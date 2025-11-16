@@ -12224,7 +12224,6 @@
               "pop_out_details": {
                 "appt_kept_cohort_rank": 17,
                 "appt_kept_division_rank": 7,
-                "appt_kept_national_rank": 94,
                 "appt_set_cohort_rank": 17,
                 "appt_set_division_rank": 8,
                 "appt_set_national_rank": 95,
@@ -57247,6 +57246,7 @@
           },
           {
             "activity_status": "Connected",
+            "activity_time": "2023-10-07 13:00:00.000",
             "sort": 148
           },
           {
@@ -71377,3 +71377,277 @@
                 "realtor_commission": 0,
                 "sale_cohort_rank": 44,
                 "sale_price": 643910,
+                "sale_title": "Simmitano just sold in Storey Grove Estates",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Philly Metro",
+            "division_coordinates": [
+              -75.436299689,
+              40.105860689
+            ],
+            "geometry": {
+              "coordinates": [
+                -75.6140554,
+                39.2506726
+              ],
+              "type": "Point"
+            },
+            "id": 343,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 40,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_cheryl_simmons_lr_jpg",
+                    "name": "Cheryl Simmons",
+                    "national_rank": 390,
+                    "summary": "           $3,755,707 in sales QTD<br/>7.8% incentives QTD<br/>56% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "2.0 bd/2.0 ba",
+                "days_from_completion": "69 days post",
+                "home_size": "       1,728 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6191/55262/55262_eleCRS_lg.jpg",
+                "incentive_percent": 10,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -7,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 43,
+                "sale_price": 389080,
+                "sale_title": "Solano just sold in Auburn Meadows",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Coastal Carolinas",
+            "division_coordinates": [
+              -79.711786981,
+              33.235638319
+            ],
+            "geometry": {
+              "coordinates": [
+                -78.9612264,
+                33.7429594
+              ],
+              "type": "Point"
+            },
+            "id": 318,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 10,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_laura_finigan_lr_jpg",
+                    "name": "Laura Finigan",
+                    "national_rank": 114,
+                    "summary": "           $4,521,686 in sales QTD<br/>16.8% incentives QTD<br/>93% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "27 days prior",
+                "home_size": "       1,772 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7568/63770/63770_eleG6_lg.jpg",
+                "incentive_percent": 16,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -15,
+                "realtor_commission": 5,
+                "sale_cohort_rank": 42,
+                "sale_price": 315000,
+                "sale_title": "ST PHILLIPS just sold in Hidden Pines",
+                "sale_type": "Retail",
+                "web_content_score": "4"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Coastal Carolinas",
+            "division_coordinates": [
+              -79.711786981,
+              33.235638319
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.305933556,
+                32.091742444
+              ],
+              "type": "Point"
+            },
+            "id": 316,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 22,
+                    "image_url": "",
+                    "name": "Lesa Faucett",
+                    "national_rank": 212,
+                    "summary": "           $4,634,370 in sales QTD<br/>9.7% incentives QTD<br/>83% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 8,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_erica_arner_lr_jpg",
+                    "name": "Erica Arner",
+                    "national_rank": 60,
+                    "summary": "          $12,535,537 in sales QTD<br/>168 appointments QTD<br/>14% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "46 days post",
+                "home_size": "       2,464 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7225/61522/61522_eleN6_lg.jpg",
+                "incentive_percent": 13,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-07-26",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2022-07-26",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Chris,  Thank you for your call today, again my name is Victoria Gorby. I'm an Internet Sales Consultant with Lennar Homes. I've put info below on the home that we spoke about in the Cane Bay community in Lindera Preserve. Let me know if you would like to schedule an in-person visit to the com...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-03",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-08-03",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-08-03",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Chris Powell! This is a friendly reminder of your phone appointment with Lennar Homes on 08/03/2023 at 10:00 AM with Marta Perez. If you have any questions or need to please call or text us back! We will talk soon!",
+                    "sort": 5,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-08-11",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-08-11",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-08-12",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",

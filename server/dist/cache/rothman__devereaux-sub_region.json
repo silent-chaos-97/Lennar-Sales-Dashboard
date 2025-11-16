@@ -29782,7 +29782,6 @@
                 ],
                 "gross_sales": 1,
                 "gross_sales_division_rank": 5,
-                "gross_sales_national_rank": 91,
                 "incentive_rate": 13.8,
                 "net_revenue": 364090,
                 "net_revenue_division_rank": 5,
@@ -45233,3 +45232,176 @@
                   },
                   {
                     "activity_date": "2023-05-03",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good Afternoon Greg,  Homesites 150, 152, and 125 are all under construction and we can offer 15k towards closing on those homes.  These are estimated to be complete in October-November of this year.  Please see the attached map for locations.  If you do choose 140 it would be 7500 towards closing a...",
+                    "sort": 28,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 29,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 30,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 28,
+                "sale_price": 403885,
+                "sale_title": "TREVI just sold in Wexford Reserve 50S",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Jacksonville",
+            "division_coordinates": [
+              -81.873179476,
+              29.850980276
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.7647676,
+                30.0424766
+              ],
+              "type": "Point"
+            },
+            "id": 291,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 37,
+                    "image_url": "",
+                    "name": "Carlos J. Fernandez",
+                    "national_rank": 828,
+                    "summary": "           $1,192,434 in sales QTD<br/>9.2% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_penny_basslr_jpg",
+                    "name": "Penny Bass",
+                    "national_rank": 97,
+                    "summary": "          $10,739,663 in sales QTD<br/>137 appointments QTD<br/>25% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "35 days prior",
+                "home_size": "       2,088 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7774/65346/65346_eleHA_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Social lead created"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Lanisia! Take a look at this plan I have one in a near by community and it is priced at $315,985.  I can do the rate as low as 4.25% and It can close in Nov.  Let me know your thoughts.  Penny  Lennar Homes 904-467-4531 Direct",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 7,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 14,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "live_chat",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Completed live chat"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Lanisia, this is Anthony at Lennar.  You are set for 12 today at Granary Park in Green Cove Springs.  You will meet with Carlos Fernandez and the address is: 2717 Pointed Leaf Rd, Green Cove Springs, FL 32043 Anthony Wells Lennar Homes 904-902-0154",
+                    "sort": 10,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Ok thank u!",

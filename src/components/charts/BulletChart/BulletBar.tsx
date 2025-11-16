@@ -59,10 +59,3 @@ const BulletBar = ({
                   position: 'absolute',
                   bottom: -30,
                   left: '50%',
-                  transform: 'translateX(-50%)',
-                  whiteSpace: 'nowrap'
-                }}
-              >
-                {label}
-              </Typography>
-            )}

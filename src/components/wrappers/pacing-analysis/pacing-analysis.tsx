@@ -53,3 +53,4 @@ const PacingAnalysis = () => {
                   Change needed to meet pace
                 </DataAlert>
               </Typography>
+            </CustomTooltip>

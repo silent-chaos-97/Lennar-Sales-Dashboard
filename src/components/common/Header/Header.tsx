@@ -202,7 +202,6 @@ const Header = () => {
                     <Box sx={{ position: 'relative' }}>
                       <Box
                         sx={{
-                          position: 'absolute',
                           left: -225,
                           top: 20,
                           overflow: 'hidden'
@@ -267,3 +266,4 @@ const Header = () => {
             <Stack direction="row" justifyContent="center" alignItems="flex-end" width="100%">
               <Tabs
                 value={currentScreen}
+                onChange={handleTabChange}

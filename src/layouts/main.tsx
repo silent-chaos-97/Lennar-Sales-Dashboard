@@ -106,6 +106,7 @@ const MainLayout = () => {
         setPlaying(false)
         setCurrentCohort(cohortObject)
         setPrevSelectedDivisionType('')
+      }
     }
     adjustMode()
     document.addEventListener('resize', adjustMode)

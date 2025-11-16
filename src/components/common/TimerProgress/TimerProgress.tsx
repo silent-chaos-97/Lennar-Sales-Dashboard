@@ -8,7 +8,6 @@ interface TimerProgressProps {
   value: number
   playing: boolean
   onToggle: () => void
-}
 
 const TimerProgress = ({ value, playing, onToggle }: TimerProgressProps) => {
   return (

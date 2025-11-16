@@ -72,6 +72,7 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
     // Add x-axis labels
     svg
       .selectAll('.x-label')
+      .data(boxPlotData)
       .enter()
       .append('text')
       .attr('class', 'x-label')
