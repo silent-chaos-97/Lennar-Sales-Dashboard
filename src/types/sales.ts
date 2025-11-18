@@ -59,7 +59,6 @@ export interface DetailSalesItems {
   region: string
   sub_region: string
 }
-export interface SalesState extends Cohort {
   AVG_INCENTIVE?: SalesDetailObject
   AVG_PRICE?: SalesDetailObject
   AVG_REALTOR_COMMISSION?: SalesDetailObject

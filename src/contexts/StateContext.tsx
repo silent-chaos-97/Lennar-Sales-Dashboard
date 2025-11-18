@@ -183,3 +183,7 @@ export const StateProvider = (props: PropsWithChildren) => {
     const idx = subDivisions.findIndex((division) => division.name === currentCohort.name)
     let nextIdx = 0
     if (idx !== -1) nextIdx = (idx + 1) % subDivisions.length
+    setCurrentCohort({ ...subDivisions[nextIdx] })
+  }, [msd])
+
+  const fetchRegionDivisions = () => {

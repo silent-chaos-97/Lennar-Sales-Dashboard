@@ -4,7 +4,6 @@ export interface TickerItem {
   sort: number
 }
 
-export interface HourlyTicker {
   prev: number
   current: number
   hour: number
@@ -37,3 +36,4 @@ export interface CurrentActivityState {
   WEB_VISITORS_PREV?: number
   HOURLY_LEADS_ARRAY: HourlyTicker[]
   LEADS: number
+  LEADS_PERCENT_CHANGE: number

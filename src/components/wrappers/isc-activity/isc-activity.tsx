@@ -111,3 +111,6 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
           <Stack direction="row" alignItems="flex-end" spacing={1}>
             <Typography variant="h1">{(data?.APPOINTMENTS_SET || 0).toLocaleString()}</Typography>
             <Stack sx={{ pb: 0.75 }}>
+              {(data?.APPOINTMENTS_SET_PERCENT_CHANGE || 0) !== 0 &&
+                ((data?.APPOINTMENTS_SET_PERCENT_CHANGE || 0) > 0 ? (
+                  <NorthEastIcon color="success" />

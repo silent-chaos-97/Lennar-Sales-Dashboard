@@ -16,6 +16,7 @@ const NATIONAL_DIVISION = {
 }
 
 interface RegionSelectMenuProps {
+  onSelectMenu: (menu: Division) => void
 }
 
 const LogoSvg = () => (
@@ -31,7 +32,6 @@ const LogoSvg = () => (
       <g
         id="menu-logo"
         transform="translate(-558.000000, -115.000000)"
-        fill="#A5CFEF"
         fillRule="nonzero"
       >
         <g id="lennar-logo-copy-3" transform="translate(558.000000, 115.000000)">
@@ -80,3 +80,5 @@ const RegionSelectMenu = ({ onSelectMenu }: RegionSelectMenuProps) => {
                 fontSize: 24,
                 lineHeight: 2,
                 fontWeight: 700,
+                '&:hover': {
+                  color: 'white',

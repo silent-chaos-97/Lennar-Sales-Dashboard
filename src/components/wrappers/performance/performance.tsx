@@ -181,3 +181,8 @@ const Performance = () => {
                 tickSize: 0,
                 tickPadding: 12,
                 tickRotation: 0,
+                tickComponent: AxisXStartTickComponent
+              }}
+              radialAxisEnd={{
+                tickSize: 0,
+                tickPadding: 12,

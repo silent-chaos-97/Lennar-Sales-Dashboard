@@ -17,7 +17,6 @@ if (!process.env.SNOWFLAKE_ACCOUNT ||
     process.exit(1);
 }
 const snowflakeOptions = {
-// Temp comment
     account: process.env.SNOWFLAKE_ACCOUNT,
     username: process.env.SNOWFLAKE_USERNAME,
     password: process.env.SNOWFLAKE_PASSWORD,

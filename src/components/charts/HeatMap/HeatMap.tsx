@@ -81,3 +81,5 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
             width={size}
             height={size * (isScaled ? 2 : 1)}
             opacity={1}
+            rx={size}
+            fill={dotColors[d.activity_status]}

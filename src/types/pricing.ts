@@ -10,4 +10,5 @@ export interface PriceDetailItem {
   percentile_95?: number
   percentile_100?: number
 }
+
 export interface PricingState extends Cohort {

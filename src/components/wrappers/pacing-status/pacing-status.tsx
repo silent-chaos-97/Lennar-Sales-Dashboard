@@ -211,3 +211,8 @@ const PacingStatus = ({ mapWrapperRef }) => {
           height={696}
           sx={{
             position: 'relative',
+            borderRadius: '8px',
+            backgroundColor: '#191D26',
+            boxShadow: '0 8px 16px 0 rgba(0,0,0,0.5)',
+            overflow: 'hidden'
+          }}

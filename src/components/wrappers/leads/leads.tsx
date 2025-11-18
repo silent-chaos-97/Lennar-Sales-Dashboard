@@ -13,6 +13,7 @@ interface LeadsProps {
   data: CurrentActivityState
 }
 
+const Leads = ({ data, activityTimeframe }: LeadsProps) => {
   const scores = {
     paid: data?.LEADS_BY_CHANNEL.paid || 0,
     non_paid: data?.LEADS_BY_CHANNEL.non_paid || 0,
@@ -20,7 +21,6 @@ interface LeadsProps {
   }
 
   const maxValue = useMemo(() => {
-    return Math.max(...Object.values(scores))
   }, [scores])
 
   return (
@@ -59,3 +59,4 @@ interface LeadsProps {
           label="Non-paid"
           color="#33a3ff"
           percent={(scores.non_paid / maxValue) * 100}
+          value={scores.non_paid}

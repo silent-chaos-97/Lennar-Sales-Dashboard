@@ -17,3 +17,4 @@ function App() {
             <RouterProvider router={router} />
           </TimerProvider>
         </StateProvider>
+      </ScreenContextProvider>

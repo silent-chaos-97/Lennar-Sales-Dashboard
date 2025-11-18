@@ -66,3 +66,5 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
           color={member.type === 'ISC' ? 'primary' : 'secondary'}
           sx={{ px: 1 }}
         />
+      </Stack>
+      <Stack>

@@ -1,3 +1,4 @@
+import Stack from '@mui/material/Stack'
 import Typography from '@mui/material/Typography'
 import Avatar from '@mui/material/Avatar'
 import { getRandomColor } from '@/utils/helper'
@@ -68,3 +69,5 @@ const MemberItem = ({
       <Stack sx={{ flex: 1, width: 284 }}>
         <Typography variant="h3" sx={{ mb: 0.5 }}>
           {name}
+        </Typography>
+        <Typography

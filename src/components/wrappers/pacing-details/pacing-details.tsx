@@ -168,3 +168,6 @@ const PacingDetails = ({
                     <CloseIcon htmlColor="#dde3f6" />
                   ) : (
                     <KeyboardArrowDownIcon htmlColor="#dde3f6" />
+                  )}
+                </IconButton>
+              </Stack>

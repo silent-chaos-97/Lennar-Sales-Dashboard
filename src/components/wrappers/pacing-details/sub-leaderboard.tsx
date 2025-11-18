@@ -39,3 +39,4 @@ const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
                 imageSrc={leader.image_url}
                 name={leader.name}
                 national_rank={leader.national_rank}
+                summary={leader.summary}

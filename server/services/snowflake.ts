@@ -180,3 +180,7 @@ class SnowflakeService {
             } else {
               connection.destroy(() => {
                 console.log(`Fetching Cohort Data for ${cohort} is finished`)
+              })
+
+              resolve(result)
+            }

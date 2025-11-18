@@ -149,3 +149,7 @@ const MainLayout = () => {
   const isDesktop = mode === ScreenMode.desktop
   const notPanorama = mode !== ScreenMode.panorama
 
+  return (
+    <Main className="main-layout" ref={ref}>
+      <Box sx={{ position: 'relative', zoom: zoomRate }}>
+        <Header />

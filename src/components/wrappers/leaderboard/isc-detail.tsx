@@ -305,3 +305,10 @@ const ISCDetail = ({
                     firstLabel="Appointments set"
                     secondValue={data?.appt_kept_national_rank || 0}
                     secondLabel="Appointments kept"
+                    thirdValue={data?.sales_national_rank || 0}
+                    thirdLabel="Sales"
+                  />
+                </Stack>
+              </Grid>
+              <Grid item lg={6} sx={{ height: 560 }}>
+                <ResponsiveRadialBar

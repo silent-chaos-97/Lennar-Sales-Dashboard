@@ -53,3 +53,4 @@ const LeaderboardDetail = ({
       <NHSDetail
         open={open}
         name={name}
+        onPrev={onPrev}

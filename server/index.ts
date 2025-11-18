@@ -71,3 +71,4 @@ app.get('/api/data', async (req, res) => {
   try {
     fs.writeFileSync(cacheFilePath, JSON.stringify(timestampedResult, null, 2))
     console.log(`Result saved to ${cacheFilePath}`)
+  } catch (error) {

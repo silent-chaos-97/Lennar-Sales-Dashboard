@@ -1921,7 +1921,6 @@
             },
             "source": "composite",
             "source-layer": "natural_label",
-            "minzoom": 13,
             "filter": [
                 "all",
                 [
@@ -2146,3 +2145,56 @@
                 "text-halo-color": "rgba(14, 17, 23, 0.5)"
             }
         },
+        {
+            "id": "water-point-label",
+            "type": "symbol",
+            "metadata": {
+                "mapbox:featureComponent": "natural-features",
+                "mapbox:group": "Natural features, natural-labels"
+            },
+            "source": "composite",
+            "source-layer": "natural_label",
+            "minzoom": 1,
+            "filter": [
+                "all",
+                [
+                    "match",
+                    ["get", "class"],
+                    [
+                        "bay",
+                        "ocean",
+                        "reservoir",
+                        "sea",
+                        "water",
+                        "disputed_bay",
+                        "disputed_ocean",
+                        "disputed_reservoir",
+                        "disputed_sea",
+                        "disputed_water"
+                    ],
+                    ["match", ["get", "worldview"], ["all", "US"], true, false],
+                    false
+                ],
+                ["==", ["geometry-type"], "Point"]
+            ],
+            "layout": {
+                "text-line-height": 1.3,
+                "text-size": [
+                    "interpolate",
+                    ["linear"],
+                    ["zoom"],
+                    0,
+                    ["*", ["-", 16, ["sqrt", ["get", "sizerank"]]], 1],
+                    22,
+                    ["*", ["-", 22, ["sqrt", ["get", "sizerank"]]], 1]
+                ],
+                "text-font": ["DIN Pro Italic", "Arial Unicode MS Regular"],
+                "text-field": ["coalesce", ["get", "name_en"], ["get", "name"]],
+                "text-letter-spacing": [
+                    "match",
+                    ["get", "class"],
+                    "ocean",
+                    0.25,
+                    ["bay", "sea"],
+                    0.15,
+                    0.01

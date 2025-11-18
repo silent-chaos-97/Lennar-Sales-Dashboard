@@ -59,6 +59,7 @@ const NHSDetail = ({
             bgcolor: 'background.paper',
             boxShadow: 24,
             px: 3,
+            py: 2.5,
             borderRadius: 2
           }}
           ref={wrapperRef}
@@ -88,7 +89,6 @@ const NHSDetail = ({
                   <ArrowForwardIcon color="inherit" />
                   <Typography variant="caption" color="text.secondary">
                     vs same point last period
-                  </Typography>
                 </Stack>
               }
             >
@@ -219,3 +219,7 @@ const NHSDetail = ({
                     </Typography>
                   </CustomTooltip>
                   <Box sx={{ color: ' #A5CFEF' }}>
+                    <PercentValueText
+                      value={data?.appointments_kept_rate || 0}
+                      suffix="%"
+                      hideChange

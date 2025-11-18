@@ -1,5 +1,4 @@
 import Stack from '@mui/material/Stack'
-import Box from '@mui/material/Box'
 import Typography from '@mui/material/Typography'
 import PublicIcon from '@mui/icons-material/Public'
 import PersonAddAlt1Icon from '@mui/icons-material/PersonAddAlt1'
@@ -74,3 +73,5 @@ const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
           <Typography variant="caption" lineHeight="40px" color="grey.500">
             {event.title}
           </Typography>
+          <Typography variant="caption" lineHeight="40px" color="grey.500">
+            {formattedDate}

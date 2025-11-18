@@ -49,3 +49,4 @@ const LMap: React.FC<LMapProps> = ({
       padding={padding}
       style={style}
       ref={mapRef}
+      onMove={handleMoveMap}

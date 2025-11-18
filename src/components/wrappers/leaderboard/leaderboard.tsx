@@ -16,7 +16,6 @@ const LeaderboardItems = ({
   leaderboardItems,
   leaderboardData,
   currentCohort,
-  activeIdx,
   handleClickDetail
 }) => (
   <>
@@ -111,3 +110,6 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
             leaderboardData={leaderboardData}
             currentCohort={currentCohort}
             activeIdx={activeIdx}
+            handleClickDetail={handleClickDetail}
+          />
+        )}

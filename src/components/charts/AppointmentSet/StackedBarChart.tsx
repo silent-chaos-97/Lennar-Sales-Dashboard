@@ -108,3 +108,6 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
       .attr('rx', 5)
       .attr('fill', color('prv') as string)
 
+    svg
+      .append('g')
+      .attr('transform', `translate(0, 0)`)

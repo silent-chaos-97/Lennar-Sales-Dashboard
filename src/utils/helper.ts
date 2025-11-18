@@ -31,3 +31,4 @@ export const suffixTheNumber = (n: number) =>
     ? 'nd'
     : n % 10 === 3 && n % 100 !== 13
     ? 'rd'
+    : 'th')

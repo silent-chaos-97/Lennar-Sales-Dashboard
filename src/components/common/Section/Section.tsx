@@ -136,3 +136,6 @@ export const Section = ({
                   sx={{
                     position: 'absolute',
                     px: 2,
+                    pt: 2,
+                    zIndex: 100,
+                    borderRadius: '8px',

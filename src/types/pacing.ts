@@ -11,7 +11,6 @@ export interface WeeklyPacingItem {
 
 interface AvailableHomes {
   black_homes: number
-  green_homes: number
   red_homes: number
   total_available: number
   yellow_homes: number
@@ -52,3 +51,4 @@ export interface PacingState extends Cohort {
   NEXT_3W_PACE: number
   PAST_3W_SALES: number
   WEEKLY_PACING_GRAPH: WeeklyPacingItem[]
+  SUB_COHORT_MAP: SubCohortMap

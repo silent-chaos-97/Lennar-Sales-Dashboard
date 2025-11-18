@@ -92,3 +92,6 @@ export interface LeaderboardsState {
 
 export const LEADERBOARD_TIMEFRAMES = {
   WTD: 'WTD',
+  MTD: 'MTD',
+  QTD: 'QTD'
+}

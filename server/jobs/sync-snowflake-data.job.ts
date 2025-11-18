@@ -83,3 +83,5 @@ const run = async () => {
 
     // Add a timestamp field to the result
     const timestampedResult = {
+      timestamp: new Date().toISOString(),
+      data: cohortData

@@ -13,7 +13,6 @@ interface IndicatorBarChartProps {
   data: WeeklyPacingItem[]
   id: string
   currentWeekPrediction: number
-  hidePredictionBar?: boolean
 }
 
 const IndicatorBarChart = ({
@@ -99,6 +98,7 @@ const IndicatorBarChart = ({
                 L ${xVal + borderRadius},${yVal}
                 Q ${xVal},${yVal} ${xVal},${yVal + borderRadius}
                 Z`
+            : ''
         })
       // Add x axis
       const xAxis = d3
@@ -115,3 +115,6 @@ const IndicatorBarChart = ({
         .call(xAxis)
       xAxisGroup.select('.domain').style('stroke', 'rgba(255,255,255,0.18)')
       xAxisGroup
+        .selectAll('.tick text')
+        .style('fill', function (d) {
+          return d === currentMonday ? '#fff' : '#70747A'

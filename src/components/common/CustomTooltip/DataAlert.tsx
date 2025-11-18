@@ -29,3 +29,11 @@ const DataAlert = ({ elementName, truncateSize = 0, isSvg = false, children }: D
 
   return (
     <Tag style={{ cursor: 'help' }}>
+      <Icon sx={{ marginRight: '5px', lineHeight: 1.5 }}>
+        <WarningRoundIcon sx={{ color: '#DF5347' }} />
+      </Icon>
+      {truncateText(children, truncateSize)}
+    </Tag>
+  )
+}
+

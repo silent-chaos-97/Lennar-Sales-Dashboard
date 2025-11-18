@@ -195,3 +195,6 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
               fontSize: 24,
               lineHeight: '32px',
               pt: 0.5,
+              px: 2
+            }}
+            onClick={onClose}

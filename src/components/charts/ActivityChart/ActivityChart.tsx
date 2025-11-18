@@ -55,3 +55,4 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
       </Box>
       <Stack direction="row" justifyContent="space-between" mt={2}>
         <Typography variant="caption" color="#90949A">
+          7AM {TIMEZONE_VALUE[currentCohort.timezone]}

@@ -141,3 +141,6 @@ const AppointmentSet = ({
     <CustomTooltip elementName="chart-appointment-set">
       <Box
         sx={{
+          flex: 1,
+          borderBottom: '1px solid rgba(255, 255, 255, 0.18)',
+          display: 'flex',

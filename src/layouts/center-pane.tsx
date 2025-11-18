@@ -156,7 +156,6 @@ const CenterPane = () => {
 
         points.forEach((point: DetailSalesItems) => {
           const lat = point.geometry?.coordinates[1]
-          const lng = point.geometry?.coordinates[0]
 
           if (lat !== undefined) {
             minLat = Math.min(minLat, lat)
@@ -305,3 +304,11 @@ const CenterPane = () => {
   }
 
   const markers = useMemo(() => {
+    if (!clusters.length && lId === undefined) return null
+    return clusters.map((dot, idx) => {
+      const [longitude, latitude] = dot.geometry.coordinates
+      const { point_count: pointCount } = dot.properties
+      const cZoom = Math.ceil(mapViewState.zoom)
+      const cRadius = !pointCount ? 30 : 40 + (Math.min(pointCount, 100) / 25) * cZoom
+      return (
+        <Marker key={`salesPoint-${idx}`} latitude={latitude} longitude={longitude}>

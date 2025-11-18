@@ -58,3 +58,5 @@ const LeftPane = () => {
               </Grid>
             </Grid>
             <Performance />
+          </Section>
+        </Grid>

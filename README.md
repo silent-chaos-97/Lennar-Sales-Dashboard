@@ -75,3 +75,5 @@ Follow these steps to set up the frontend:
 ### Backend.
 
 We have two main processes running in the background: one for the Rest API and one for CronJob.
+
+1. CronJob

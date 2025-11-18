@@ -89,3 +89,5 @@ const DailyAnalyticsBox = ({
         <Stack direction="row" alignItems="flex-end" spacing={1}>
           <Typography variant="h1" {...(isLargeSize ? emStyle : {})}>
             {displayValue}
+          </Typography>
+          <Stack sx={{ pb: 0.75 }}>

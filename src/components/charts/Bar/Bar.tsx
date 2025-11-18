@@ -44,3 +44,15 @@ const Bar = ({ label, percent = 0, value, change }: BarProps) => {
             <Typography
               component="span"
               color={getValueChangeTextColor(change)}
+              variant="h6"
+              sx={{ ml: 1 }}
+            >
+              {change}%
+            </Typography>
+          </Stack>
+        </Stack>
+      </Stack>
+    </Stack>
+  )
+}
+

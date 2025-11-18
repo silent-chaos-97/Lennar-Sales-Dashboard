@@ -317,3 +317,11 @@ export const theme = createTheme({
     },
     MuiAccordionSummary: {
       styleOverrides: {
+        content: {
+          margin: 0,
+          '&.Mui-expanded': {
+            margin: 0
+          }
+        }
+      }
+    },

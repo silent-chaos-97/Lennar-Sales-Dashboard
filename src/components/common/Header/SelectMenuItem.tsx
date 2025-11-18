@@ -32,6 +32,7 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
             '&:hover': {
               color: 'white',
               textDecoration: 'underline'
+            }
           }}
           onClick={() => onSelectMenu(item)}
         />
@@ -45,6 +46,6 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
                 sx={{
                   fontSize: 24,
                   lineHeight: 2,
-                  color: 'grey.300',
                   '&:hover': {
                     color: 'white',
+                    textDecoration: 'underline'

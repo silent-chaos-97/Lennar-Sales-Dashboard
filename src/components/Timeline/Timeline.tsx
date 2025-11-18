@@ -71,3 +71,21 @@ const Timeline = ({ journeyData }: TimelineProps) => {
               position="relative"
               sx={{
                 marginRight: 4
+              }}
+            >
+              <Divider />
+              {journeyData.map((item, idx) => (
+                <TimelineEvent
+                  key={idx}
+                  event={item}
+                  expanded={idx === firstTextBody || expanded}
+                />
+              ))}
+            </Stack>
+          </Scrollbar>
+        </Box>
+      </AccordionDetails>
+    </Accordion>
+  )
+}
+
