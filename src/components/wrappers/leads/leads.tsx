@@ -13,7 +13,6 @@ interface LeadsProps {
   data: CurrentActivityState
 }
 
-const Leads = ({ data, activityTimeframe }: LeadsProps) => {
   const scores = {
     paid: data?.LEADS_BY_CHANNEL.paid || 0,
     non_paid: data?.LEADS_BY_CHANNEL.non_paid || 0,
@@ -58,3 +57,5 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
         />
         <Bar
           label="Non-paid"
+          color="#33a3ff"
+          percent={(scores.non_paid / maxValue) * 100}

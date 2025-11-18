@@ -17,6 +17,7 @@ if (!process.env.SNOWFLAKE_ACCOUNT ||
     process.exit(1);
 }
 const snowflakeOptions = {
+// Temp comment
     account: process.env.SNOWFLAKE_ACCOUNT,
     username: process.env.SNOWFLAKE_USERNAME,
     password: process.env.SNOWFLAKE_PASSWORD,
@@ -126,6 +127,7 @@ class SnowflakeService {
         return new Promise((resolve, reject) => {
             connection.connect((err) => {
                 if (err) {
+                    console.error('Error connecting to Snowflake:', err);
                     return reject(err);
                 }
                 connection.execute({

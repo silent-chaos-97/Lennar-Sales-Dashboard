@@ -1216,3 +1216,27 @@
               "y_axis": 5
             },
             {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 10
+            }
+          ],
+          "percent_change": 100,
+          "value": 10
+        },
+        "RETAIL_SALES": {
+          "percent_change": 100,
+          "value": 10
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 299500
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 1032486
+            },

@@ -57,3 +57,4 @@ const LeftPane = () => {
                 <IscActivity data={selectedActivity} activityTimeframe={activityTimeframe} />
               </Grid>
             </Grid>
+            <Performance />

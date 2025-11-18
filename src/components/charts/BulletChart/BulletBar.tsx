@@ -59,3 +59,4 @@ const BulletBar = ({
                   position: 'absolute',
                   bottom: -30,
                   left: '50%',
+                  transform: 'translateX(-50%)',

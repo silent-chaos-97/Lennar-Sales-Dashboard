@@ -43,6 +43,7 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
           <Typography
             variant="h4"
             fontWeight={700}
+            sx={{ width: 44, textAlign: 'center' }}
             color="grey.300"
           >
             {member.national_rank}
@@ -64,3 +65,4 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
           size="small"
           color={member.type === 'ISC' ? 'primary' : 'secondary'}
           sx={{ px: 1 }}
+        />

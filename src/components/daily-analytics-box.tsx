@@ -23,6 +23,7 @@ export interface DailyAnalyticsBoxProps {
 
 const DailyAnalyticsBox = ({
   isLargeSize = false,
+  title,
   value,
   grossValue,
   diffPercent,
@@ -86,3 +87,5 @@ const DailyAnalyticsBox = ({
           </Typography>
         </CustomTooltip>
         <Stack direction="row" alignItems="flex-end" spacing={1}>
+          <Typography variant="h1" {...(isLargeSize ? emStyle : {})}>
+            {displayValue}

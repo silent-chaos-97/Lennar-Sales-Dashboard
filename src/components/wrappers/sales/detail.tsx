@@ -182,3 +182,5 @@ const SalesDetails = ({
                 </Typography>
                 <Typography variant="h3" whiteSpace="nowrap">
                   {salesDetail.days_from_completion}
+                </Typography>
+              </Grid>

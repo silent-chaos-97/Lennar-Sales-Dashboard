@@ -23,7 +23,6 @@ const CustomDailyAnalyticsBox = ({
     return isDecreaseBenefit ? 'success.main' : 'error'
   }, [diffPercent, isDecreaseBenefit])
 
-  return (
     <Stack direction="row" sx={{ height: 15, mb: 5 }} alignItems="flex-end" spacing={1}>
       <Typography variant="caption">
         {unit !== '%' ? `${unit}${value.toLocaleString()} ${title}` : `${value}${unit}`}
@@ -32,3 +31,4 @@ const CustomDailyAnalyticsBox = ({
         (diffPercent > 0 ? (
           <NorthEastIcon color={isDecreaseBenefit ? 'error' : 'success'} />
         ) : (
+          <SouthEastIcon color={isDecreaseBenefit ? 'success' : 'error'} />

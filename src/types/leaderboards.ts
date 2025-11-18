@@ -90,3 +90,5 @@ export interface LeaderboardsState {
   NHC_LEADERBOARDS: LeaderboardObj
 }
 
+export const LEADERBOARD_TIMEFRAMES = {
+  WTD: 'WTD',

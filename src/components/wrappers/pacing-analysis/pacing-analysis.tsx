@@ -54,3 +54,4 @@ const PacingAnalysis = () => {
                 </DataAlert>
               </Typography>
             </CustomTooltip>
+            <Typography variant="h1">{pacingState?.CHANGE_NEEDED_TO_MEET_PACE}%</Typography>

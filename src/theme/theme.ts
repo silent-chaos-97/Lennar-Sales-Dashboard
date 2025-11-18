@@ -54,6 +54,7 @@ export const theme = createTheme({
     h1: {
       fontSize: 56,
       lineHeight: '68px',
+      fontWeight: 700,
       letterSpacing: '-0.66px'
     },
     h2: {
@@ -310,3 +311,9 @@ export const theme = createTheme({
           },
           '.MuiCollapse-root': {
             marginTop: -4
+          }
+        }
+      }
+    },
+    MuiAccordionSummary: {
+      styleOverrides: {

@@ -36,3 +36,4 @@ export interface CurrentActivityState {
   WEB_VISITORS_PERCENT_CHANGE: number
   WEB_VISITORS_PREV?: number
   HOURLY_LEADS_ARRAY: HourlyTicker[]
+  LEADS: number

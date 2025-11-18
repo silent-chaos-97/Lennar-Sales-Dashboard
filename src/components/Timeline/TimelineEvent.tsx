@@ -72,3 +72,5 @@ const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
       <Stack flex="1">
         <Stack direction="row" width="100%" justifyContent="space-between">
           <Typography variant="caption" lineHeight="40px" color="grey.500">
+            {event.title}
+          </Typography>

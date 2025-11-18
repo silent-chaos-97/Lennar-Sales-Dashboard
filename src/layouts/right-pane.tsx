@@ -38,3 +38,4 @@ const RightPane = () => {
                   <Leaderboard
                     leaderboardData={leaderboards?.NHC_LEADERBOARDS}
                     categoryList={NHC_LEADERBOARD_CATEGORIES}
+                  />

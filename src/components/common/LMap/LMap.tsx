@@ -12,6 +12,7 @@ interface LMapProps {
   }
   padding?: {
     top: number
+    bottom: number
     left: number
     right: number
   }
@@ -47,3 +48,4 @@ const LMap: React.FC<LMapProps> = ({
       }}
       padding={padding}
       style={style}
+      ref={mapRef}

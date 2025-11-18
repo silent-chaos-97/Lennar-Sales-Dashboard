@@ -99,7 +99,6 @@ const IndicatorBarChart = ({
                 L ${xVal + borderRadius},${yVal}
                 Q ${xVal},${yVal} ${xVal},${yVal + borderRadius}
                 Z`
-            : ''
         })
       // Add x axis
       const xAxis = d3
@@ -114,3 +113,5 @@ const IndicatorBarChart = ({
         .append('g')
         .attr('transform', 'translate(0,' + height + ')')
         .call(xAxis)
+      xAxisGroup.select('.domain').style('stroke', 'rgba(255,255,255,0.18)')
+      xAxisGroup

@@ -202,6 +202,7 @@ const Header = () => {
                     <Box sx={{ position: 'relative' }}>
                       <Box
                         sx={{
+                          position: 'absolute',
                           left: -225,
                           top: 20,
                           overflow: 'hidden'
@@ -267,3 +268,8 @@ const Header = () => {
               <Tabs
                 value={currentScreen}
                 onChange={handleTabChange}
+                textColor="primary"
+                TabIndicatorProps={{ sx: { height: 4, backgroundColor: '#fff' } }}
+              >
+                <Tab
+                  label="Leads"

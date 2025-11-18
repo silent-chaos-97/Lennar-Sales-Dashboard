@@ -109,3 +109,5 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
           <LeaderboardItems
             leaderboardItems={leaderboardItems}
             leaderboardData={leaderboardData}
+            currentCohort={currentCohort}
+            activeIdx={activeIdx}

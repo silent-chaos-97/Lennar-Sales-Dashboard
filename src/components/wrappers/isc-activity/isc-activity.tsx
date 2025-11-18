@@ -99,6 +99,7 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
           <CustomTooltip elementName="label-activity-appointment-set">
             <Typography
               variant="body1"
+              fontWeight={700}
               mb={-1.5}
               color="rgba(255, 255, 255, 0.67)"
             >
@@ -108,3 +109,5 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
             </Typography>
           </CustomTooltip>
           <Stack direction="row" alignItems="flex-end" spacing={1}>
+            <Typography variant="h1">{(data?.APPOINTMENTS_SET || 0).toLocaleString()}</Typography>
+            <Stack sx={{ pb: 0.75 }}>

@@ -206,3 +206,8 @@ const PacingStatus = ({ mapWrapperRef }) => {
             <BulletChart height={120} />
           </Box>
         </Stack>
+        <Box
+          width="100%"
+          height={696}
+          sx={{
+            position: 'relative',

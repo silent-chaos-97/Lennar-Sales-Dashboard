@@ -41,7 +41,6 @@ const HourlyActivity = ({
       <Box sx={{ borderBottom: '1px solid rgba(255,255,255,0.18)', mb: 2 }}>
         <LineChart
           id={id}
-          data={tickers}
           width={210}
           showCurrentFully={activityTimeframe !== 'today'}
         />
@@ -51,3 +50,4 @@ const HourlyActivity = ({
         <Stack>
           {change !== 0 &&
             (change > 0 ? <NorthEastIcon color="success" /> : <SouthEastIcon color="error" />)}
+          <Typography

@@ -59,3 +59,4 @@ const SubPacingAnalysis = ({
           <Box flex={1}>
             <Typography variant="caption" color="text.secondary" fontWeight={500}>
               Change needed to meet pace
+            </Typography>

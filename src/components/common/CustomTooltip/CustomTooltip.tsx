@@ -34,3 +34,4 @@ const CustomTooltip = ({ elementName, children }: CustomTooltipProps) => {
             cursor: 'default !important'
           }
         }
+      }}

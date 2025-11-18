@@ -70,7 +70,6 @@ const PerformanceBar = ({
 
   // Align Goal line with Value text
   const max = Math.min(goal * 1.35, 105)
-
   return (
     <Stack
       direction="row"
@@ -95,3 +94,5 @@ const PerformanceBar = ({
         </Box>
         {!!missed && (
           <Typography variant="caption" color="text.quaternary" mb={0.25}>
+            {missed} missed
+          </Typography>

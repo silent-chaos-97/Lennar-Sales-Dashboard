@@ -299,3 +299,9 @@ const CenterPane = () => {
 
   const handleClickNext = () => {
     if (selectedSalesItems.length > 1 && clusterIndex < selectedSalesItems.length - 1) {
+      setScroolProgress([false, false])
+      setClusterIndex(clusterIndex + 1)
+    }
+  }
+
+  const markers = useMemo(() => {

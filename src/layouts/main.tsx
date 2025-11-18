@@ -146,3 +146,6 @@ const MainLayout = () => {
     }
   }, [width, mode])
 
+  const isDesktop = mode === ScreenMode.desktop
+  const notPanorama = mode !== ScreenMode.panorama
+

@@ -52,7 +52,6 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
                 L ${xVal + barWidth},${yVal + barHeight}
                 L ${xVal + barWidth},${yVal + borderRadius}
                 Q ${xVal + barWidth},${yVal} ${xVal + barWidth - borderRadius},${yVal}
-                L ${xVal + borderRadius},${yVal}
                 Q ${xVal},${yVal} ${xVal},${yVal + borderRadius}
                 Z`
             : ''
@@ -80,3 +79,5 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
       const yAxis = d3
         .axisLeft(y)
         .ticks(d3.max(data, (d) => d.y_axis))
+        .tickSizeInner(-width)
+        .tickSizeOuter(0)

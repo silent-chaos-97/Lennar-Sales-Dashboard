@@ -16,6 +16,7 @@ interface BarProps {
 interface TrackProps {
   color?: string
   percent: number
+}
 
 const Track = styled('span', {
   shouldForwardProp: (prop) => !['color', 'percent'].includes(prop as string)

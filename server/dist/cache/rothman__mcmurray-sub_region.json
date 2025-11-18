@@ -56162,3 +56162,1150 @@
                 "journey_array": [
                   {
                     "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 17,
+                "sale_price": 322497,
+                "sale_title": "Diangelo II just sold in Ave Maria 2 Story",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.888443233,
+                26.760973757
+              ],
+              "type": "Point"
+            },
+            "id": 165,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_josepg_mcnamara_lr_jpg",
+                    "name": "Joseph McNamara",
+                    "national_rank": 23,
+                    "summary": "           $9,067,757 in sales QTD<br/>0% incentives QTD<br/>65% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 4,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_amber_day_lr_jpg",
+                    "name": "Amber Day",
+                    "national_rank": 26,
+                    "summary": "          $24,703,032 in sales QTD<br/>205 appointments QTD<br/>35% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "2 bd/2 ba",
+                "days_from_completion": "Not Available",
+                "home_size": "       1,154 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7918/66237/66237_eleB_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 16,
+                "sale_price": 280199,
+                "sale_title": "Birkdale just sold in Webbs Reserve 4 Story",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Tampa",
+            "division_coordinates": [
+              -82.356556448,
+              28.038879865
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.4398796,
+                28.3002602
+              ],
+              "type": "Point"
+            },
+            "id": 159,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 52,
+                    "image_url": "",
+                    "name": "Aaron P. Roberts",
+                    "national_rank": 425,
+                    "summary": "           $3,247,785 in sales QTD<br/>2.1% incentives QTD<br/>89% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Gina Borrero",
+                    "national_rank": 20,
+                    "summary": "          $13,473,383 in sales QTD<br/>243 appointments QTD<br/>47% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "5 bd/4 ba",
+                "days_from_completion": "76 days prior",
+                "home_size": "       3,326 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6207/46052/46052_eleQ_lg.jpg",
+                "incentive_percent": 4,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Haru, you can text me back at this number or call or text me at my cell.  Thank you, Anthony Fiore Lennar Homes 813-376-3327",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Haru! We're excited to see you for your tour of Big Connerton 50 PIN 09/09/2023 at 11:30 AM with Aaron P. Roberts. The Welcome Home Center is located at 20421 Rose Cottage Way, Land O Lakes, FL . See you soon!",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank. We are here.",
+                    "sort": 5,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 6,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Hi Anthony. Spoke with Aaron. We just finished the Preston. Can you open the Denali and give us the address?",
+                    "sort": 7,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "We'll meet Aaron in 25 min.",
+                    "sort": 8,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "We found the Denali.",
+                    "sort": 9,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Are you able to open it for us?",
+                    "sort": 10,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "My system says it is open already",
+                    "sort": 12,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "There is someone already here.",
+                    "sort": 13,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "We'll come back.",
+                    "sort": 14,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "sorry about the late response I was helping another customer",
+                    "sort": 15,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "No worries.",
+                    "sort": 16,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-10",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 17,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 18,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 19,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Haru! We're excited to see you for your tour of SouthShore Yacht Club WF 50 10/08/2023 at 12:30 PM with Rip Roup. The Welcome Home Center is located at 3079 Bermuda Sloop Circle, Ruskin, FL 33570. See you soon!",
+                    "sort": 21,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 22,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hey Haru & Hemie,  Thanks so much for taking your time to stop by our Homes today, it was nice meeting you!  I've attached the Plot Plan for site 268 and also the attachment that we looked at together to see the main selections in the Home, which are on the very last page.  Please let me know what q...",
+                    "sort": 23,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 24,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 15,
+                "sale_price": 599900,
+                "sale_title": "Preston just sold in Big Connerton 50 PIN",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Tampa",
+            "division_coordinates": [
+              -82.356556448,
+              28.038879865
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.534480625,
+                28.312632875
+              ],
+              "type": "Point"
+            },
+            "id": 155,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 36,
+                    "image_url": "",
+                    "name": "Phil Brockman",
+                    "national_rank": 323,
+                    "summary": "           $3,832,557 in sales QTD<br/>2.9% incentives QTD<br/>70% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 3,
+                    "image_url": "",
+                    "name": "Angie Aleman",
+                    "national_rank": 22,
+                    "summary": "          $17,546,923 in sales QTD<br/>233 appointments QTD<br/>24% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/3 ba",
+                "days_from_completion": "2 days prior",
+                "home_size": "       2,611 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6869/58496/58496_eleCT_lg.jpg",
+                "incentive_percent": 6,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-22",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-22",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-09-22",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Eirene  We look forward to seeing you at Angeline on Monday!  Here are the details for your visit:  Appointment Date : 9/25/23  Appointment Time:  10am   You will be meeting with: Phil Brockman - 859-391-2623  Please check in at the Welcome Home Center",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Domenic and Debra!, This is a friendly reminder that your tour of Angeline AA 50s with Phil Brockman is scheduled for tomorrow, Monday at 10:00 AM. The Welcome Home Center is located at 11342 Flora Crew Ct, Land O Lakes, FL 34638. If you need to cha",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Domenic and Debra! We're excited to see you for your tour of Angeline AA 50s 09/25/2023 at 10:00 AM with Phil Brockman. The Welcome Home Center is located at 11342 Flora Crew Court, Land O' Lakes, Florida 34638. See you soon!",
+                    "sort": 5,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-28",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 14,
+                "sale_price": 550990,
+                "sale_title": "Eventide II just sold in Angeline AA 60s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Tampa",
+            "division_coordinates": [
+              -82.356556448,
+              28.038879865
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.67766858,
+                28.20531712
+              ],
+              "type": "Point"
+            },
+            "id": 151,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_james_jessop_lr_jpg",
+                    "name": "James Jessop",
+                    "national_rank": 13,
+                    "summary": "           $8,233,872 in sales QTD<br/>2.4% incentives QTD<br/>76% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 16,
+                    "image_url": "",
+                    "name": "Dustin Chamness",
+                    "national_rank": 154,
+                    "summary": "           $8,559,530 in sales QTD<br/>90 appointments QTD<br/>26% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "20 days post",
+                "home_size": "       1,634 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6070/45368/45368_eleA_lg.jpg",
+                "incentive_percent": 3,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good Afternoon:  Please reply all to confirm the dates and times below. 10/11/2023  RE: Bryant Square -  8290 Corner Pine Way  Dear Megan Pargov:  The target date for the closing of your new Lennar home has been scheduled and these are the dates and times.               New Home Orientation:        ...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello:  We have reschedule your walks dates. Please use the below revised letter.  Thank You  Please reply all to confirm the dates and times below. 10/11/2023  RE: Bryant Square -  8290 Corner Pine Way  Dear Megan Pargov:  The target date for the closing of your new Lennar home has been scheduled a...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 12,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 13,
+                "sale_price": 309900,
+                "sale_title": "Hampton II just sold in Bryant Square 18 TH",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Tampa",
+            "division_coordinates": [
+              -82.356556448,
+              28.038879865
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.288768,
+                28.3101166
+              ],
+              "type": "Point"
+            },
+            "id": 149,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 26,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ali_myers_lr_jpg",
+                    "name": "Ali Myers",
+                    "national_rank": 237,
+                    "summary": "           $4,359,914 in sales QTD<br/>1.4% incentives QTD<br/>9% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 18,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_loni_brissenden_lr_jpg",
+                    "name": "Loni Brissenden",
+                    "national_rank": 163,
+                    "summary": "           $7,368,525 in sales QTD<br/>87 appointments QTD<br/>49% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "152 days prior",
+                "home_size": "       2,141 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5144/40412/40412_eleDT_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Timothy, this is Tara with Lennar Homes. I see you had a self tour at our Mirada community.  Please let me know if you would like someone to reach out to provide pricing, availability or to answer any additional questions you may have. Text 1 for YE",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank you for reaching out but at this time I have no other questions. If I do we will contact you. Have a great day",
+                    "sort": 5,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Sounds good.  Thank you for letting me know. Have a great evening!",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Timonthy,  Thank you for visiting the Connerton Community on 10-4. I have attached the HOA DOCS, which highlights the restrictions in the Community along with Lennar's Warranty.  Please click on the link to preview the Augusta Floor Plan  https://www.lennar.com/new-homes/florida/tampa-manatee/...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 9,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Timothy,   Here is the $2,000 Flex Money Voucher we spoke about.  **Please present the voucher to the New Home Consultant at the beginning of the appointment that we set for today.**  Thank you for your interest in Lennar.   https://tampaebooks.lennar.",
+                    "sort": 12,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi ! We're excited to see you for your tour of Mirada AA 50s 10/07/2023 at 1:00 PM with Ali Myers. The Welcome Home Center is located at 31800 Cannon Rush Drive, San Antonio, Florida 33576. See you soon!",
+                    "sort": 13,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Timothy and Kristine,  It was a pleasure spending time with you both today at Mirada. We would be lucky to have you join us.  Below is my contact information. If you need anything specific, please let me know.  Here is our website link to Mirada where you can navigate to all floorplans and includ...",
+                    "sort": 14,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 17,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 16,
+                    "title": "Self-guided tour"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 11,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 12,
+                "sale_price": 489900,
+                "sale_title": "Dawning  II just sold in Mirada AA 50s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.652060093,
+                26.444163582
+              ],
+              "type": "Point"
+            },
+            "id": 132,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 86,
+                    "image_url": "",
+                    "name": "Geoffrey Gaudet",
+                    "national_rank": 735,
+                    "summary": "           $3,341,486 in sales QTD<br/>0.4% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/3 ba",
+                "days_from_completion": "79 days prior",
+                "home_size": "       2,444 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6454/55296/55296_eleB_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 9,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 11,
+                "sale_price": 714783,
+                "sale_title": "The Summerville II just sold in Verdana Village 50",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.7289384,
+                26.581854
+              ],
+              "type": "Point"
+            },
+            "id": 108,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 46,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_shannon_ditmer_lr_jpg",
+                    "name": "Shannon Ditmer",
+                    "national_rank": 398,
+                    "summary": "           $4,944,276 in sales QTD<br/>0.8% incentives QTD<br/>67% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "36 days prior",
+                "home_size": "       2,361 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5556/44242/44242_eleD_lg.jpg",
+                "incentive_percent": 6,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 8,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 10,
+                "sale_price": 578000,
+                "sale_title": "Oakmont II just sold in Timber Creek 60",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Tampa",
+            "division_coordinates": [
+              -82.356556448,
+              28.038879865
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.216201667,
+                28.252045167
+              ],
+              "type": "Point"
+            },
+            "id": 93,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 30,
+                    "image_url": "",
+                    "name": "Joyela Valentine",
+                    "national_rank": 258,
+                    "summary": "           $3,878,338 in sales QTD<br/>0.8% incentives QTD<br/>64% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "131 days prior",
+                "home_size": "       2,584 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6988/59441/59441_eleB1_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 9,
+                "sale_price": 389430,
+                "sale_title": "Providence II just sold in Abbott Square 50s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.696221,
+                26.691981
+              ],
+              "type": "Point"
+            },
+            "id": 88,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 54,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lynn_galligan_lr_jpg",
+                    "name": "Lynn Galligan",
+                    "national_rank": 464,
+                    "summary": "           $3,201,326 in sales QTD<br/>2.4% incentives QTD<br/>38% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "28 days post",
+                "home_size": "       2,267 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations/25161_eleD_lg.jpg",
+                "incentive_percent": 6,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-06",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 11,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 8,
+                "sale_price": 399000,
+                "sale_title": "Tivoli just sold in Portico Manors",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Tampa",
+            "division_coordinates": [
+              -82.356556448,
+              28.038879865
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.1083336,
+                28.0636646
+              ],
+              "type": "Point"
+            },
+            "id": 67,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 79,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_rachel_masiellolr_jpg",
+                    "name": "Rachel Masiello",
+                    "national_rank": 667,
+                    "summary": "           $2,116,800 in sales QTD<br/>1% incentives QTD<br/>50% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "68 days prior",
+                "home_size": "       2,278 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7347/62064/62064_eleB_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2020-09-18",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2020-09-18",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-04-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Serena RE: Self Tour Appt Requested today for Lennar homes in Triple Creek We just started a new phase! When would like to have a New Home Consultant contact you today regarding available homes and pricing?  I will forward the New Home Consultant's name  and contact number along with the time they  ...",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-30",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-30",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Serena  This is Eric with Lennar Homes.  We NOW have two Great reason to Buy Now!  Our New and Now National Sales Event is running now through October 8th, 2023. We have special pricing and incentives on select move-in-ready homes – don’t miss out befo",
+                    "sort": 5,
+                    "title": "ISC text"
+                  },
+                  {

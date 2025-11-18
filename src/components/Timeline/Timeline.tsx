@@ -37,6 +37,7 @@ const Timeline = ({ journeyData }: TimelineProps) => {
     const startDate = DateTime.fromFormat(journeyData[0].activity_date, 'yyyy-MM-dd')
     const endDate = DateTime.fromFormat(
       journeyData[journeyData.length - 1].activity_date,
+      'yyyy-MM-dd'
     )
 
     const diffInDays = endDate.diff(startDate, 'days').days
@@ -68,3 +69,5 @@ const Timeline = ({ journeyData }: TimelineProps) => {
             <Stack
               spacing={1}
               position="relative"
+              sx={{
+                marginRight: 4

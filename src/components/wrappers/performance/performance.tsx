@@ -178,3 +178,6 @@ const Performance = () => {
               enableRadialGrid={false}
               enableCircularGrid={false}
               radialAxisStart={{
+                tickSize: 0,
+                tickPadding: 12,
+                tickRotation: 0,

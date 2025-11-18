@@ -100,3 +100,6 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         .attr('fill', 'none')
         .attr('stroke', '#33A3FF')
         .attr('stroke-width', 3)
+        .attr('d', curentLine)
+
+      // Draw Circle dot at the end of current ticker

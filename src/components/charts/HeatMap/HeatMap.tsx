@@ -79,3 +79,5 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
             x={xScale(parseTime(d.activity_time))}
             y={yScale(d.sort)}
             width={size}
+            height={size * (isScaled ? 2 : 1)}
+            opacity={1}

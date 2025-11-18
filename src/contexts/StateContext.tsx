@@ -168,6 +168,7 @@ export const StateProvider = (props: PropsWithChildren) => {
 
   useEffect(() => {
     refreshData()
+  }, [currentCohort])
 
   const fetchNextDivision = () => {
     const idx = sortedCohorts.findIndex((division) => division.name === currentCohort.name)
@@ -178,3 +179,7 @@ export const StateProvider = (props: PropsWithChildren) => {
   }
 
   useEffect(() => {
+    if (!subDivisions.length) return
+    const idx = subDivisions.findIndex((division) => division.name === currentCohort.name)
+    let nextIdx = 0
+    if (idx !== -1) nextIdx = (idx + 1) % subDivisions.length

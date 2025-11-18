@@ -57,3 +57,15 @@ export interface DetailSalesItems {
   division: string
   division_coordinates: [number, number]
   region: string
+  sub_region: string
+}
+export interface SalesState extends Cohort {
+  AVG_INCENTIVE?: SalesDetailObject
+  AVG_PRICE?: SalesDetailObject
+  AVG_REALTOR_COMMISSION?: SalesDetailObject
+  GROSS_SALES?: SalesDetailObject
+  NET_SALES?: SalesDetailObject
+  RETAIL_SALES?: SalesDetailObject
+  DETAIL_SALES_ARRAY: DetailSalesItems[]
+}
+

@@ -298,3 +298,10 @@ const ISCDetail = ({
                     secondLabel="Appointments kept"
                     thirdValue={data?.sales_division_rank || 0}
                     thirdLabel="Sales"
+                  />
+                  <KPIWidget
+                    title="National KPI rank QTD"
+                    firstValue={data?.appt_set_national_rank || 0}
+                    firstLabel="Appointments set"
+                    secondValue={data?.appt_kept_national_rank || 0}
+                    secondLabel="Appointments kept"

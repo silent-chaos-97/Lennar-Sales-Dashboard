@@ -194,3 +194,4 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
               fontWeight: 500,
               fontSize: 24,
               lineHeight: '32px',
+              pt: 0.5,

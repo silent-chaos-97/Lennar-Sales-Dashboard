@@ -133,3 +133,6 @@ export const Section = ({
             {showTimestampDropdown && (
               <ClickAwayListener onClickAway={() => setShowTimestampDropdown(false)}>
                 <Box
+                  sx={{
+                    position: 'absolute',
+                    px: 2,

@@ -52,3 +52,4 @@ const LeaderboardDetail = ({
     return (
       <NHSDetail
         open={open}
+        name={name}

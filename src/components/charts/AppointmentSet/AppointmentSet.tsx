@@ -139,3 +139,5 @@ const AppointmentSet = ({
 
   return (
     <CustomTooltip elementName="chart-appointment-set">
+      <Box
+        sx={{

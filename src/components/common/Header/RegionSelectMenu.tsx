@@ -16,7 +16,6 @@ const NATIONAL_DIVISION = {
 }
 
 interface RegionSelectMenuProps {
-  onSelectMenu: (menu: Division) => void
 }
 
 const LogoSvg = () => (
@@ -79,3 +78,5 @@ const RegionSelectMenu = ({ onSelectMenu }: RegionSelectMenuProps) => {
               sx={{
                 color: 'grey.300',
                 fontSize: 24,
+                lineHeight: 2,
+                fontWeight: 700,

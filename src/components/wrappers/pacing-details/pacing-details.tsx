@@ -114,6 +114,7 @@ const PacingDetails = ({
       <Box
         sx={{
           position: 'absolute',
+          left: 0,
           top: 0,
           bottom: 0,
           right: 0,
@@ -164,3 +165,6 @@ const PacingDetails = ({
                 </Typography>
                 <IconButton size="large">
                   {showList ? (
+                    <CloseIcon htmlColor="#dde3f6" />
+                  ) : (
+                    <KeyboardArrowDownIcon htmlColor="#dde3f6" />
