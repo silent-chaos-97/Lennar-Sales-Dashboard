@@ -17,4 +17,5 @@ export interface IscPerformanceState {
   LEADS_WITH_FOLLOWUP: PerformanceItem
   LEADS_WITH_TRIFECTA: PerformanceItem
   SALES_WITH_ISC_ATTACHED: PerformanceItem
+}
 

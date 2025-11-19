@@ -29426,3 +29426,347 @@
             "hour": 10,
             "prev": 60
           },
+          {
+            "current": 66,
+            "hour": 11,
+            "prev": 58
+          },
+          {
+            "current": 62,
+            "hour": 12,
+            "prev": 76
+          },
+          {
+            "current": 76,
+            "hour": 13,
+            "prev": 71
+          },
+          {
+            "current": 74,
+            "hour": 14,
+            "prev": 70
+          },
+          {
+            "current": 71,
+            "hour": 15,
+            "prev": 75
+          },
+          {
+            "current": 63,
+            "hour": 16,
+            "prev": 100
+          },
+          {
+            "current": 61,
+            "hour": 17,
+            "prev": 82
+          },
+          {
+            "current": 63,
+            "hour": 18,
+            "prev": 140
+          }
+        ],
+        "LEADS": 82,
+        "LEADS_PERCENT_CHANGE": -10,
+        "HOURLY_LEADS_ARRAY": [
+          {
+            "current": 0,
+            "hour": 7,
+            "prev": 4
+          },
+          {
+            "current": 6,
+            "hour": 8,
+            "prev": 3
+          },
+          {
+            "current": 3,
+            "hour": 9,
+            "prev": 5
+          },
+          {
+            "current": 4,
+            "hour": 10,
+            "prev": 4
+          },
+          {
+            "current": 8,
+            "hour": 11,
+            "prev": 2
+          },
+          {
+            "current": 2,
+            "hour": 12,
+            "prev": 5
+          },
+          {
+            "current": 9,
+            "hour": 13,
+            "prev": 5
+          },
+          {
+            "current": 7,
+            "hour": 14,
+            "prev": 3
+          },
+          {
+            "current": 4,
+            "hour": 15,
+            "prev": 7
+          },
+          {
+            "current": 2,
+            "hour": 16,
+            "prev": 3
+          },
+          {
+            "current": 6,
+            "hour": 17,
+            "prev": 3
+          },
+          {
+            "current": 3,
+            "hour": 18,
+            "prev": 3
+          }
+        ],
+        "TOTAL_CALLS": 85,
+        "TOTAL_CALLS_PERCENT_CHANGE": 31,
+        "TOTAL_CHATS_TEXTS": 32,
+        "TOTAL_CHATS_TEXTS_PERCENT_CHANGE": 19,
+        "APPOINTMENTS_SET": 10,
+        "APPOINTMENTS_SET_PERCENT_CHANGE": 25,
+        "LEADS_BY_CHANNEL": {
+          "non_paid": 11,
+          "non_paid_pct_change": 83,
+          "paid": 68,
+          "paid_pct_change": -17,
+          "third_party": 3,
+          "third_party_pct_change": 0
+        },
+        "DBT_UPDATED_AT": "2023-10-12 17:55:53.055"
+      },
+      "today": {
+        "COHORT": "Nashville",
+        "COHORT_TYPE": "division",
+        "CALLS_TICKER_ARRAY": [
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 08:40:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 08:50:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 08:55:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 09:00:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 09:05:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 09:10:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 09:50:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 10:10:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 10:10:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 10:25:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 10:25:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 10:25:00.000",
+            "sort": 3
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 10:30:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 10:30:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 10:35:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 10:35:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 10:40:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 11:05:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 11:30:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 11:30:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 11:35:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 11:40:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 11:40:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 11:45:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 11:45:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 11:50:00.000",
+            "sort": 1
+          }
+        ],
+        "CHATS_TEXTS_TICKER_ARRAY": [
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 10:10:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 10:25:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 10:35:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 10:55:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 11:05:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 11:10:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 11:15:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 11:25:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 11:25:00.000",
+            "sort": 2
+          }
+        ],
+        "APPOINTMENT_SET_TICKER_ARRAY": [
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-09 09:30:00.000",
+            "sort": 4
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-09 13:00:00.000",
+            "sort": 4
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-09 13:00:00.000",
+            "sort": 8
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-09 13:30:00.000",
+            "sort": 12
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-09 14:00:00.000",
+            "sort": 6
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-09 14:00:00.000",
+            "sort": 10
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-09 14:15:00.000",
+            "sort": 14
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-09 15:30:00.000",
+            "sort": 6
+          },

@@ -4,7 +4,6 @@ export interface Cohort {
   REGION: string
   SUB_REGION: string
   LATITUDE: number
-  LONGITUDE: number
   TIME_ZONE: string
 }
 

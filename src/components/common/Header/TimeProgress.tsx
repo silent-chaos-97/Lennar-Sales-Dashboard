@@ -8,9 +8,11 @@ const TimeProgress = () => {
 
   const handleToggle = () => {
     setPlaying(!playing)
+  }
 
   return (
     <TimerProgress
       value={(cycleTimerProgress / cycleTimeout) * 100}
       onToggle={handleToggle}
       playing={playing}
+    />

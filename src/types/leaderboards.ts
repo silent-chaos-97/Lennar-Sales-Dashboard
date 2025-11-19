@@ -95,3 +95,4 @@ export const LEADERBOARD_TIMEFRAMES = {
   MTD: 'MTD',
   QTD: 'QTD'
 }
+

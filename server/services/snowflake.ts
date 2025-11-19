@@ -184,3 +184,5 @@ class SnowflakeService {
 
               resolve(result)
             }
+          }
+        })

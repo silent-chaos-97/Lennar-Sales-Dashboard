@@ -186,3 +186,25 @@ const Performance = () => {
               radialAxisEnd={{
                 tickSize: 0,
                 tickPadding: 12,
+                tickRotation: 0,
+                tickComponent: AxisXEndTickComponent
+              }}
+              circularAxisOuter={null}
+              tracksColor="#000000"
+              colors={[
+                PERFORMANCE_COLORS[performanceState?.BEBACKS_WITH_FOLLOWUP.color || 'green'],
+                PERFORMANCE_COLORS[performanceState?.LEADS_WITH_FOLLOWUP.color || 'green'],
+                PERFORMANCE_COLORS[performanceState?.LEADS_WITH_TRIFECTA.color || 'green']
+              ]}
+              isInteractive={false}
+            />
+          </Grid>
+          <Grid item lg={3}>
+            <Stack sx={{ height: '100%', justifyContent: 'space-between' }} spacing={5}>
+              <PerformanceBar
+                title="Leads with appointment set"
+                color={performanceState?.LEADS_WITH_APPOINTMENT_SET.color}
+                value={performanceState?.LEADS_WITH_APPOINTMENT_SET.percent_value}
+                goal={performanceState?.LEADS_WITH_APPOINTMENT_SET.goal_value}
+              />
+              <PerformanceBar

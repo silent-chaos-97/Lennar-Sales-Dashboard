@@ -19,7 +19,6 @@ const NotFound = () => {
           <img src="/logo.svg" alt="Lennar" width="144" />
         </Stack>
         <WarningRoundIcon sx={{ fontSize: '60px', marginTop: '144px', marginBottom: '50px' }} />
-        <Typography sx={{ fontSize: '32px', lineHeight: '38px' }}>
           Hmm, no one seems to be home at the moment.
         </Typography>
         <Typography sx={{ fontSize: '32px', lineHeight: '38px', marginTop: '50px' }}>

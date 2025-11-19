@@ -13,6 +13,7 @@ interface IndicatorBarChartProps {
   data: WeeklyPacingItem[]
   id: string
   currentWeekPrediction: number
+  hidePredictionBar?: boolean
 }
 
 const IndicatorBarChart = ({
@@ -118,3 +119,4 @@ const IndicatorBarChart = ({
         .selectAll('.tick text')
         .style('fill', function (d) {
           return d === currentMonday ? '#fff' : '#70747A'
+        })

@@ -11,3 +11,4 @@ const LinkBehavior = React.forwardRef<
   if (isExternal) return <a href={href as string} ref={ref} {...other} />
   return <RouterLink ref={ref} to={href} {...other} />
 })
+

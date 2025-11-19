@@ -127,7 +127,10 @@ export const TimerProvider = (props: PropsWithChildren) => {
       setCycleTimerProgress,
       setCycleTimeout,
       setIdleTimerProgress,
+      setIdleTimeout,
       setPlaying,
       setDisableRotation
     ]
   )
+
+  const memoizedVariables = useMemo<TimerContextVariables>(

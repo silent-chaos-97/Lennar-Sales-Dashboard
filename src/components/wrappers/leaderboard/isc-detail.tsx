@@ -130,7 +130,6 @@ const ISCDetail = ({
               ((data?.trifecta.percent_value || 0) / (data?.trifecta.goal_value || 100)) * 100,
               100
             )
-          }
         ]
       }
     ]
@@ -312,3 +311,7 @@ const ISCDetail = ({
               </Grid>
               <Grid item lg={6} sx={{ height: 560 }}>
                 <ResponsiveRadialBar
+                  data={radialData}
+                  maxValue={100}
+                  valueFormat=">-.2f"
+                  innerRadius={0.05}

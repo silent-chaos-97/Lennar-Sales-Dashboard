@@ -280,3 +280,6 @@ const Header = () => {
                     color: '#77C1FF',
                     '&.Mui-selected': { color: '#fff' }
                   }}
+                />
+                <Tab
+                  label="Sales"

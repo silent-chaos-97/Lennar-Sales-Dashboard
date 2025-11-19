@@ -29889,7 +29889,6 @@
                     "y_axis": 4
                   },
                   {
-                    "x_axis": "Aug 21",
                     "y_axis": 3
                   },
                   {
@@ -74689,6 +74688,7 @@
             "activity_time": "2023-10-05 13:30:00.000",
             "sort": 257
           },
+          {
             "activity_status": "Connected",
             "activity_time": "2023-10-05 13:30:00.000",
             "sort": 264
@@ -84812,3 +84812,727 @@
                 "journey_array": [
                   {
                     "activity_date": "2023-09-28",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Direct lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 4,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Emerson,  \t \t \t   \t   \tOur preferred lender Is Lennar Mortgage and Karrie Stemler is the Loan Officer for the community you are interested in. Karrie can be reached by phone at 559-367-7377 or by email at KarrieStemler@lennarmortgage.com  \t   \tTo confirm, your preferred cell number is (619) 60...",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Emerson:  \t   \tThank you for your interest in our Avertine community. Have you found all the information you were looking for? Was there a particular floorplan you were interested in? If you have any questions regarding our homes we build at Avertine, I am here to help!  \t   \tOur current prici...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Emerson Cervantes! This is a friendly reminder of your phone appointment with Lennar Homes on 09/29/2023 at 1:00 PM with Joe Navarro. If you have any questions or need to reschedule, please call or text us back! We will talk soon! Seth Moranda  Lennar",
+                    "sort": 7,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "It was good speaking with you.  Joe Navarro New Home Consultant  Mobile: 559-259-9911 CalDRE Lic. # 01089942  This e-mail is intended only for the use of the person to whom it is addressed and contains information which may be confidential or privileged. If you are not the person to whom this e-mail...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Emerson & Christine,  Thank you for securing your new home at Avertine! We're excited that you've chosen this fabulous neighborhood for your purchase!  I am sending you some links to the blank Purchase Agreement documents and disclosures for your review.    Please note:  Some of the included P...",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Dear Emerson and Christine,  Thank you so much for choosing Lennar. I will be sending you two DocuSign emails each to complete. Emerson, on the first email you receive there will be a bubble to check, please check YES. I have attached a brief summary of the transaction, please keep in mind this is a...",
+                    "sort": 10,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Dear Emerson and Christine,  Thank you so much for choosing Lennar. I will be sending you two DocuSign emails each to complete. Emerson, on the first email you receive there will be a bubble to check, please check YES. I have attached a brief summary of the transaction, please keep in mind this is a...",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 22,
+                "sale_price": 478700,
+                "sale_title": "Pomegranate just sold in Orchard@Avertine-848-Lemoore",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Parness",
+            "type": "Feature"
+          },
+          {
+            "division": "Cal Coastal",
+            "division_coordinates": [
+              -118.140909779,
+              33.994888135
+            ],
+            "geometry": {
+              "coordinates": [
+                -117.710607182,
+                33.666781455
+              ],
+              "type": "Point"
+            },
+            "id": 405,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 35,
+                    "image_url": "",
+                    "name": "Rhonda Lopez",
+                    "national_rank": 456,
+                    "summary": "           $9,810,000 in sales QTD<br/>0% incentives QTD<br/>13% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3.5 ba",
+                "days_from_completion": "134 days prior",
+                "home_size": "       2,336 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6968/59320/59320_eleB_lg.png",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Rex!  \t \t   \t   \tThank you for taking a Self-Guided Tour of our models! My name is Chase and I am here to answer any additional questions you may have.   \t   \t   \tYou can call me with any questions at 888-292-6593 or by simply replying to this email.  \t   \t   \tI look forward to hearing about your...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 11,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 21,
+                "sale_price": 1329990,
+                "sale_title": "Cascade 3B just sold in Cascade at Solis Park",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Parness",
+            "type": "Feature"
+          },
+          {
+            "division": "Cal Coastal",
+            "division_coordinates": [
+              -118.140909779,
+              33.994888135
+            ],
+            "geometry": {
+              "coordinates": [
+                -117.847967376,
+                33.673920487
+              ],
+              "type": "Point"
+            },
+            "id": 404,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 49,
+                    "image_url": "",
+                    "name": "Esther Chen",
+                    "national_rank": 579,
+                    "summary": "           $7,759,229 in sales QTD<br/>0% incentives QTD<br/>71% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 7,
+                    "image_url": "",
+                    "name": "Diana Maldonado",
+                    "national_rank": 39,
+                    "summary": "          $44,333,570 in sales QTD<br/>187 appointments QTD<br/>13% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/3 ba",
+                "days_from_completion": "168 days prior",
+                "home_size": "       2,548 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6892/58701/58701_eleA_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-05-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Lead created"
+                  },
+                  {
+                    "activity_date": "2023-05-09",
+                    "activity_type": "live_chat",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Missed live chat"
+                  },
+                  {
+                    "activity_date": "2023-05-09",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello! Thank you for your interest in Lennar Homes! Please let me know if I can assist you with your new home search or would like to schedule a tour of any of our communities.  Christine Bausch Internet Sales Consultant  Cal Coastal Division Direct: 949.491.0631 DRE:00959653  My days off: Thurs/Fri...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "live_chat",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Completed live chat"
+                  },
+                  {
+                    "activity_date": "2023-05-11",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Laura!  I think our chat may have failed earlier, please see attached regarding Lexington! :)  Diana Maldonado Internet Sales Consultant DRE #02134090 Office: 949-478-0585 Diana.Maldonado@lennar.com",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-11",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-05-11",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Laura!  \t   \tThank you for your interest in Lexington at Central Park West, now selling in Irvine with mid 2023 move-ins. My name is Christine and I would be delighted to help you in your new home search.  \t   \tLocated in an urban-inspired masterplan residents of Lexington will enjoy exclusive am...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-27",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Laura,  Hope all is well!  I wanted to provide an update on Lexington in Irvine.  Please find the current price sheet and site map attached. Please let me know if would be interested in any of our available homes.    We have a Memorial Day promotion happening now until Monday!  We are giving $10,...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-04",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 9,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-06-05",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Laura,    It was a pleasure meeting you yesterday! !  I hope you enjoyed the tour.     Here is our preferred lender’s info if you have any questions or you would like to get prequalified. I included the link to the online application. We are offering $15,000 closing cost credit if financing with ...",
+                    "sort": 10,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-07",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Laura, We will have more in Building C 6th floor!  Do you want to join the priority list?  We offer  new releases to the priority list buyers first.   To join all I need is your preapproval letter. I can let you know if any becomes available.  There are 2 that people haven’t completed the purchas...",
+                    "sort": 11,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-11",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Laura,  We are releasing homes  2 homes at Lexington in Building C -  5th Floor for sale tomorrow Tuesday, July 11th at 4pm!    Please see the attached price sheet and site map for more details.   The home will be offered to the priority list buyers in the order of placement on the list.  If you ...",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-19",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Laura,  We are releasing homes  4 homes at Lexington in Building C -  5th Floor for sale tomorrow Wednesday, July 19th!  Please see the attached price sheet and site map for more details. New release homes are highlighted in purple.  The home will be offered to the priority list buyers in the ord...",
+                    "sort": 13,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-25",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Laura,  We are releasing the remaining homes in Building C (5th Floor) for sale Thursday, July 27th at 1pm!    Please see the attached price sheet and site map for more details.  New release homes are highlighted in purple.  The home will be offered to the priority list buyers in the order of pla...",
+                    "sort": 14,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-29",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Laura,  We are releasing the 6th floor of Building C at Lexington for sale tomorrow Saturday, July 29th!  Please see the attached price sheet and site map for more details. New release homes are highlighted in purple.  The home will be offered to the priority list buyers in the order of placement...",
+                    "sort": 15,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-04",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Laura,  We are releasing the remaining homes in Building C (6th Floor) for sale Saturday, August 5th at 1pm!    Please see the attached price sheet and site map for more details.  New release homes are highlighted in purple.  The home will be offered to the priority list buyers in the order of pl...",
+                    "sort": 16,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Laura,  We are releasing  Building C ~ 3rd Floor at Lexington for sale Thursday, August 10th at 3pm!    Please see the attached price sheet and site map for more details.  New release homes are highlighted in purple.  The home will be offered to the priority list buyers in the order of placement ...",
+                    "sort": 17,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-17",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Laura,  We are releasing for sale the remaining homes on  7th Floor in Building C  on Saturday, August 19th at 12pm!    Please see the attached price sheet and site map for more details.  New release homes are highlighted in purple.  The home will be offered to the priority list buyers in the ord...",
+                    "sort": 18,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-23",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Laura,  We are having a sales release of the 2nd & 3rd Floors in Building C on Thursday, August 24th!  Please see the attached price sheet and site map for more details.  New release homes are highlighted in purple.  The home will be offered to the priority list buyers in the order of placement o...",
+                    "sort": 19,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-21",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Laura,    We are releasing  Building D ~ 3rd floor for sale on Saturday, September 23rd!    Please see the attached price sheet and site map for more details.  New release homes are highlighted in purple.    The home will be offered to the priority list buyers in the order of placement on the lis...",
+                    "sort": 20,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Laura,  We are releasing for sale the 4th Floor of Building D on Thursday, October 5th!  Please see the attached price sheet and site map for more details.  New release homes are highlighted in purple.  The homes will be offered to the priority list buyers in the order of placement on the list.  ...",
+                    "sort": 21,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 22,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 23,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 7,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 20,
+                "sale_price": 1354990,
+                "sale_title": "Lexington 9 just sold in Lexington",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Parness",
+            "type": "Feature"
+          },
+          {
+            "division": "Cal Coastal",
+            "division_coordinates": [
+              -118.140909779,
+              33.994888135
+            ],
+            "geometry": {
+              "coordinates": [
+                -117.5853182,
+                33.5225494
+              ],
+              "type": "Point"
+            },
+            "id": 379,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 27,
+                    "image_url": "",
+                    "name": "Zoya Sattar",
+                    "national_rank": 323,
+                    "summary": "           $7,525,951 in sales QTD<br/>0% incentives QTD<br/>70% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 23,
+                    "image_url": "",
+                    "name": "Desiree Avilla",
+                    "national_rank": 223,
+                    "summary": "           $1,434,980 in sales QTD<br/>19 appointments QTD<br/>2% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "1 bd/1 ba",
+                "days_from_completion": "71 days prior",
+                "home_size": "         727 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6563/56428/56428_ele1A2_lg.jpg",
+                "incentive_percent": 9,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Bing SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Don!  \t   \tPleasure speaking with you.  Thank you for your interest in Portico  and Oasis ????? at Rienda in the Rancho Mission Viejo masterplan. My name is Desiree and I would be delighted to help you in your new home search.   \t   \tPortico offers flats with approximately 727 - 1,377 sq. ft. and...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Don!    Pleasure talking to you.    No problem.  As you review the available homesites, you will just want to click on the homesite you interested in then click “Property Details” to view what is included such as example of Homesite 1400 Lasso Way #201:  <img src='data:image/png;base64,iVBORw0KGg...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Sure, Don!        Portico Plan 1 unit’s HOA is Plan 1 $499 to Oct 2024/then $743.      Oasis Plan 1 HOA is $466 to Oct 2024/ then $777.        **HOA includes trash and fire insurance.      Best regards,             Desiree Avilla      Internet Sales Coordinator                          Desiree.Avill...",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Don,      Congratulations you have been prequalified to purchase at Portico.  Attached is your prequal letter.       Lennar homes is copied on this message and is aware of your approval.  Lennar can answer questions about model tours and pricing when available.       Details of your prequalificat...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 8,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Good Afternoon!!  Thank you for your interest in new homes by Lennar in Los Angeles & Orange County. My name is Brandon and I am delighted to help you in your new home search.   Lennar currently offers multiple new home opportunities throughout Orange County and Los Angeles, featuring attached and d...",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 19,
+                "sale_price": 494990,
+                "sale_title": "Portico 1 just sold in Portico",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Parness",
+            "type": "Feature"
+          },
+          {
+            "division": "Las Vegas",
+            "division_coordinates": [
+              -115.140858713,
+              36.12362889
+            ],
+            "geometry": {
+              "coordinates": [
+                -115.379265,
+                36.1608186
+              ],
+              "type": "Point"
+            },
+            "id": 352,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 6,
+                    "image_url": "",
+                    "name": "Roy Polany",
+                    "national_rank": 68,
+                    "summary": "           $7,431,791 in sales QTD<br/>4.3% incentives QTD<br/>47% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "2 bd/2 ba",
+                "days_from_completion": "174 days prior",
+                "home_size": "       1,422 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6016/46132/46132_eleB_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-02-04",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-02-04",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-03-20",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-09-03",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-09-05",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 18,
+                "sale_price": 534990,
+                "sale_title": "Connery just sold in Heritage Cromwell",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Parness",
+            "type": "Feature"
+          },
+          {
+            "division": "Cal Coastal",
+            "division_coordinates": [
+              -118.140909779,
+              33.994888135
+            ],
+            "geometry": {
+              "coordinates": [
+                -117.847967376,
+                33.673920487
+              ],
+              "type": "Point"
+            },
+            "id": 271,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 55,
+                    "image_url": "",
+                    "name": "Julie Hodges",
+                    "national_rank": 668,
+                    "summary": "           $8,129,884 in sales QTD<br/>0% incentives QTD<br/>50% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/3.5 ba",
+                "days_from_completion": "167 days prior",
+                "home_size": "       2,228 sqft.",

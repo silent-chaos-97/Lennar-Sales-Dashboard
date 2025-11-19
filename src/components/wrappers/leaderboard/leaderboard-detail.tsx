@@ -54,3 +54,4 @@ const LeaderboardDetail = ({
         open={open}
         name={name}
         onPrev={onPrev}
+        onNext={onNext}

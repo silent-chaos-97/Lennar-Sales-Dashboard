@@ -156,6 +156,7 @@ const CenterPane = () => {
 
         points.forEach((point: DetailSalesItems) => {
           const lat = point.geometry?.coordinates[1]
+          const lng = point.geometry?.coordinates[0]
 
           if (lat !== undefined) {
             minLat = Math.min(minLat, lat)
@@ -312,3 +313,7 @@ const CenterPane = () => {
       const cRadius = !pointCount ? 30 : 40 + (Math.min(pointCount, 100) / 25) * cZoom
       return (
         <Marker key={`salesPoint-${idx}`} latitude={latitude} longitude={longitude}>
+          <MarkerIcon
+            color="rgba(28,209,161,0.85)"
+            radius={cRadius}
+            className={`pulsatingDot ${activeDot === idx ? 'running' : ''}`}

@@ -171,3 +171,5 @@ const PacingDetails = ({
                   )}
                 </IconButton>
               </Stack>
+              {showList && pacingCohortsList.length && (
+                <List list={pacingCohortsList} choose={onSelect} showList={setShowList} />

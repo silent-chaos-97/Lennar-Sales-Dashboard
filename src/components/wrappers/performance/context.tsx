@@ -25,3 +25,4 @@ export const PerformanceProvider = ({
   const performanceState = performanceTimeframeState[timeframe]
 
   return (
+    <PerformanceContext.Provider value={{ performanceState }}>

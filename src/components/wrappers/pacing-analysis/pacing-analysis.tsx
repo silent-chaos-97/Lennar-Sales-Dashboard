@@ -7,7 +7,6 @@ import { useAppState } from '@/contexts/StateContext'
 import CustomTooltip from '@/components/common/CustomTooltip'
 import DataAlert from '@/components/common/CustomTooltip/DataAlert'
 
-const PacingAnalysis = () => {
   const { pacingState } = useAppState()
 
   return (
@@ -56,3 +55,4 @@ const PacingAnalysis = () => {
             </CustomTooltip>
             <Typography variant="h1">{pacingState?.CHANGE_NEEDED_TO_MEET_PACE}%</Typography>
           </Box>
+        </Stack>

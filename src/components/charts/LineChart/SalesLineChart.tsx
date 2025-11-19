@@ -95,8 +95,10 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         })
 
       svg.append('path').datum(data).attr('fill', 'url(#gradient)').attr('d', area)
+
       // Draw current ticker line
       svg
         .append('path')
         .datum(data)
         .attr('fill', 'none')
+        .attr('stroke', '#33A3FF')

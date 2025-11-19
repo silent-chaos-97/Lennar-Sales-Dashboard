@@ -19,7 +19,6 @@ const PercentValueText = ({
   hideChange = false,
   prefix = '',
   suffix = '',
-  fontWeight = ''
 }: PercentValueTextProps) => {
   return (
     <Stack direction="row" alignItems="flex-end" spacing={1}>

@@ -1,4 +1,5 @@
 import Stack from '@mui/material/Stack'
+import Box from '@mui/material/Box'
 import Typography from '@mui/material/Typography'
 import PublicIcon from '@mui/icons-material/Public'
 import PersonAddAlt1Icon from '@mui/icons-material/PersonAddAlt1'

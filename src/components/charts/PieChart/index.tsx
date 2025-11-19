@@ -112,3 +112,5 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
       .data(data_ready)
       .enter()
       .append('text')
+      .text(function (d) {
+        return d.data[1] ? `${d.value} ${STATUS_TEXT_BY_KEY[d.data[0]]}` : null

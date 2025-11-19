@@ -52,4 +52,4 @@ const HourlyActivity = ({
           {change !== 0 &&
             (change > 0 ? <NorthEastIcon color="success" /> : <SouthEastIcon color="error" />)}
           <Typography
-            component="span"
+            color={getValueChangeTextColor(change)}

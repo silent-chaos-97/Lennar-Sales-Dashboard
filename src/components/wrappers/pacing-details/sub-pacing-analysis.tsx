@@ -62,3 +62,4 @@ const SubPacingAnalysis = ({
             </Typography>
             <Typography variant="h1">{changeNeeded}%</Typography>
           </Box>
+        </Stack>

@@ -21,6 +21,7 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
   }
 
   const maxValue = useMemo(() => {
+    return Math.max(...Object.values(scores))
   }, [scores])
 
   return (
@@ -60,3 +61,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
           color="#33a3ff"
           percent={(scores.non_paid / maxValue) * 100}
           value={scores.non_paid}
+          change={data?.LEADS_BY_CHANNEL.non_paid_pct_change || 0}

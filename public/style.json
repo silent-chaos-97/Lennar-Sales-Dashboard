@@ -1921,6 +1921,7 @@
             },
             "source": "composite",
             "source-layer": "natural_label",
+            "minzoom": 13,
             "filter": [
                 "all",
                 [
@@ -2198,3 +2199,29 @@
                     ["bay", "sea"],
                     0.15,
                     0.01
+                ],
+                "text-max-width": [
+                    "match",
+                    ["get", "class"],
+                    "ocean",
+                    4,
+                    "sea",
+                    5,
+                    ["bay", "water"],
+                    7,
+                    10
+                ]
+            },
+            "paint": {
+                "text-color": [
+                    "match",
+                    ["get", "class"],
+                    ["bay", "ocean", "sea"],
+                    "rgb(68, 76, 97)",
+                    "rgb(230, 230, 230)"
+                ],
+                "text-halo-color": "rgba(14, 17, 23, 0.5)"
+            }
+        },
+        {
+            "id": "poi-label",

@@ -89,6 +89,7 @@ const NHSDetail = ({
                   <ArrowForwardIcon color="inherit" />
                   <Typography variant="caption" color="text.secondary">
                     vs same point last period
+                  </Typography>
                 </Stack>
               }
             >
@@ -223,3 +224,4 @@ const NHSDetail = ({
                       value={data?.appointments_kept_rate || 0}
                       suffix="%"
                       hideChange
+                      fontWeight="500"

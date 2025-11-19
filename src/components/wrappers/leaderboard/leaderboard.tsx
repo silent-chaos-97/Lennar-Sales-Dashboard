@@ -16,6 +16,7 @@ const LeaderboardItems = ({
   leaderboardItems,
   leaderboardData,
   currentCohort,
+  activeIdx,
   handleClickDetail
 }) => (
   <>
@@ -113,3 +114,4 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
             handleClickDetail={handleClickDetail}
           />
         )}
+      </Section>

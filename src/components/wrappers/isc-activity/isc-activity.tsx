@@ -114,3 +114,4 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
               {(data?.APPOINTMENTS_SET_PERCENT_CHANGE || 0) !== 0 &&
                 ((data?.APPOINTMENTS_SET_PERCENT_CHANGE || 0) > 0 ? (
                   <NorthEastIcon color="success" />
+                ) : (

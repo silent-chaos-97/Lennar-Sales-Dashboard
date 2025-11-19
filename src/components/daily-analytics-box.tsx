@@ -91,3 +91,4 @@ const DailyAnalyticsBox = ({
             {displayValue}
           </Typography>
           <Stack sx={{ pb: 0.75 }}>
+            {displayArrows}

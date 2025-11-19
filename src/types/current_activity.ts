@@ -4,6 +4,7 @@ export interface TickerItem {
   sort: number
 }
 
+export interface HourlyTicker {
   prev: number
   current: number
   hour: number

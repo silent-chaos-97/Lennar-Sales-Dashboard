@@ -120,3 +120,5 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
               <Typography variant="h3" fontWeight={700}>
                 ${(data?.resale_prices?.percentile_50 || 0).toLocaleString()}
               </Typography>
+              {priceChanges.resale !== 0 && (
+                <>

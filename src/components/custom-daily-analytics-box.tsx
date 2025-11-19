@@ -10,6 +10,7 @@ type CustomDailyAnalyticsBoxProps = Omit<
   'graphData' | 'isLargeSize' | 'color' | 'grossValue'
 >
 
+const CustomDailyAnalyticsBox = ({
   title,
   value,
   diffPercent,
@@ -32,3 +33,4 @@ type CustomDailyAnalyticsBoxProps = Omit<
           <NorthEastIcon color={isDecreaseBenefit ? 'error' : 'success'} />
         ) : (
           <SouthEastIcon color={isDecreaseBenefit ? 'success' : 'error'} />
+        ))}

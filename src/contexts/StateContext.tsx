@@ -187,3 +187,6 @@ export const StateProvider = (props: PropsWithChildren) => {
   }, [msd])
 
   const fetchRegionDivisions = () => {
+    const idx = sortedCohorts.findIndex((region) => region.name === currentCohort.name)
+    if (idx === -1) return
+

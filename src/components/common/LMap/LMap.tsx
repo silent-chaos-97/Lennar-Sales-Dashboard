@@ -50,3 +50,4 @@ const LMap: React.FC<LMapProps> = ({
       style={style}
       ref={mapRef}
       onMove={handleMoveMap}
+      mapStyle={mbStyle}

@@ -9,7 +9,6 @@ interface GrossSalesBarChartProps {
   id: string
   width: number
   height: number
-  data: []
 }
 
 const MARGIN = { top: 10, right: 0, bottom: 40, left: 20 }

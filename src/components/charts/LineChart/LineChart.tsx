@@ -105,3 +105,4 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
       // Draw Circle dot at the end of current ticker
       const lastPoint = {
         x: filteredCurrentTickers.length - 1,
+        y: filteredCurrentTickers[filteredCurrentTickers.length - 1]

@@ -61,3 +61,4 @@ const BulletBar = ({
                   left: '50%',
                   transform: 'translateX(-50%)',
                   whiteSpace: 'nowrap'
+                }}

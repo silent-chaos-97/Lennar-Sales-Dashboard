@@ -99,3 +99,4 @@ const PerformanceBar = ({
           </Typography>
         )}
       </Stack>
+      <Box

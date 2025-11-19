@@ -55,7 +55,6 @@ const SalesDetails = ({
           height={svgSize.height}
           style={{
             position: 'absolute',
-            top: svgSize.y,
             right: svgSize.x,
             zIndex: 0,
             filter: 'drop-shadow(0 0 16px rgba(0,0,0,0.5))'
@@ -98,6 +97,7 @@ const SalesDetails = ({
         </Stack>
         <Grid container spacing={5}>
           <Grid item lg={6}>
+            <Box
               borderRadius={1}
               sx={{
                 boxShadow: '6px 2px 4px 0 rgba(0,0,0,0.25)',
@@ -186,3 +186,4 @@ const SalesDetails = ({
               <Grid item lg={6} mb={2}>
                 <Typography variant="caption" color="text.secondary">
                   Web content score (1-5)
+                </Typography>

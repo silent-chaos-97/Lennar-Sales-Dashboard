@@ -29,7 +29,6 @@ const Screen = styled('div')({
   height: 0,
   paddingTop: 1350,
   position: 'relative'
-})
 
 const InnerScreen = styled('div')({
   position: 'absolute',
@@ -153,3 +152,4 @@ const MainLayout = () => {
     <Main className="main-layout" ref={ref}>
       <Box sx={{ position: 'relative', zoom: zoomRate }}>
         <Header />
+        <DashboardLayout

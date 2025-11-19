@@ -154,3 +154,5 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
         })
         .attr('stroke', idx === 0 ? '#33A3FF' : 'rgba(242,242,242,0.33)')
         .attr('stroke-width', 2)
+        .attr('opacity', idx === 0 ? 0.75 : 1)
+
