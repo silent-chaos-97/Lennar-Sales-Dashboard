@@ -96501,3 +96501,530 @@
               ],
               "type": "Point"
             },
+            "id": 266,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 198,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lauren_trigo_lr_jpg",
+                    "name": "Lauren Trigo",
+                    "national_rank": 930,
+                    "summary": "             $874,979 in sales QTD<br/>17.3% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 22,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jimma_hicks_lr_jpg",
+                    "name": "Jimma Hicks",
+                    "national_rank": 73,
+                    "summary": "           $9,295,726 in sales QTD<br/>161 appointments QTD<br/>10% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "27 days post",
+                "home_size": "       1,360 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7824/65550/65550_eleA_lg.png",
+                "incentive_percent": 9,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-01-15",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Greg, it’s Beverly w/Lennar! I would love to point you in the right direction your new home in New Braunfels, please tell me what is most important in your new home search?  Take a look at our homes offered in Parkside!  https://www.lennar.com/new-homes/texas/san-antonio/new-braunfels/parkside",
+                    "sort": 1,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-03-03",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-03-03",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Greg, this is Beverly with Lennar.  My pleasure to speak with you today by phone.  Here are 2 Lennar new home communities in New Braunfels!  When would you like to tour?    Parkside https://www.lennar.com/new-homes/texas/san-antonio/new-braunfels/parkside  Voss Farms https://www.lennar.com/new-ho...",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-03-30",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Lead created"
+                  },
+                  {
+                    "activity_date": "2023-03-30",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Greg! This is Beverly with Lennar. I wanted to personally reach out to let you know about our Spring Sales Event! We have special pricing and incentives on select move-in ready homes.  To make sure you don't miss out on these great savings, can I schedule you for a tour?  https://www.lennar.com/n...",
+                    "sort": 5,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-03-30",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Greg,         I wanted to check in with you to see how your new home search is going. Are you still in the market for a new home in New Braunfels/Seguin?   I'm here to help make your new home search easy! Please tell me, what is most important in your new home search?      Regards,        Beverly...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-04-04",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-04-05",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-04-05",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-04-08",
+                    "activity_type": "live_chat",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Missed live chat"
+                  },
+                  {
+                    "activity_date": "2023-04-08",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Greg,     Thank you for your interest in Lennar San Antonio!      My name is Rebecca Pilialoha and my job is to help you find the perfect new Lennar home, in the right community for you.  Navarro Ranch would be a wonderful community to call home! 9045 Austin Ridge is still available!  I would lov...",
+                    "sort": 11,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-04-14",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Greg,     I'm Rebecca Pilialoha, one of the Internet Sales Consultants here at Lennar San Antonio. Thank you for your interest in Lennar!      I am excited to share with you our April Savings event happening now through 4/16! April savings brings low rates and reduced pricing on select move-in re...",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-04-20",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Greg,         I'm Rebecca Pilialoha, one of the Internet Sales Consultants here at Lennar San Antonio.I wanted to check in with you to see how your new home search is going. Are you still in the market for a new home?   I'm here to help make your new home search easy! Please tell me, what is most...",
+                    "sort": 13,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-04-25",
+                    "activity_type": "cancellation",
+                    "actor_type": "red",
+                    "body": "",
+                    "sort": 14,
+                    "title": "Cancellation"
+                  },
+                  {
+                    "activity_date": "2023-04-25",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 16,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-04-25",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-04-26",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi __, this is Olivia w/ Lennar Homes -    I was just reaching out to see if you were still looking for a new home at our community Navarro Ranch?    We do have several 3-4 bed homes available including the plan you like (Huxley), and a program just for first time home buyers if applicable!     Happ...",
+                    "sort": 17,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-05",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 18,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "cancellation",
+                    "actor_type": "red",
+                    "body": "",
+                    "sort": 19,
+                    "title": "Cancellation"
+                  },
+                  {
+                    "activity_date": "2023-05-24",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Good morning, yes you can call us at 512-489-6838 and we would be happy to help. &#128522;  Kristal MilhollandInternet Sales Coordinator  Kristal.L.Milholland@Lennar.com 512-489-6838   13620 N FM 620 Bldg. B Suite 150 Austin, TX 78717  This e-mail is not a solicitation, offer, acceptance of an offer...",
+                    "sort": 20,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-13",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-06-16",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 23,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-06-16",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 22,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-06-17",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good afternoon to you both!!  I hope you are ending your Friday with joy as you are now contracted on your beautiful new home here in Sunset Oaks! I am reaching out to let you know I have processed your paperwork/deposit and we are official, Congratulations!!   I have attached the contract as well f...",
+                    "sort": 24,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-21",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Dear Mr. Consuelo,  Thank you again for choosing to purchase a Lennar Home.  At Lennar, our commitment to our homeowners extends beyond building quality homes in safe communities, and Lennar takes that commitment very seriously.  It is with that commitment in mind that we wanted to inform you of an ...",
+                    "sort": 25,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "cancellation",
+                    "actor_type": "red",
+                    "body": "",
+                    "sort": 26,
+                    "title": "Cancellation"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 27,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 28,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 29,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 30,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Greg-  First of all, thanks again for coming out to Summerside and Trinity Square. Enjoyed meeting you and your sister and showing you all around!  Per our conversation, attached are several items for your reference about Summerside/Trinity Square and homes currently available (listed below).   \t...",
+                    "sort": 31,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 32,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 43,
+                "sale_price": 226540,
+                "sale_title": "Pima just sold in Sunset Oaks Welton",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "San Antonio",
+            "division_coordinates": [
+              -98.427076386,
+              29.430584066
+            ],
+            "geometry": {
+              "coordinates": [
+                -98.7850874,
+                29.5347614
+              ],
+              "type": "Point"
+            },
+            "id": 262,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 30,
+                    "image_url": "",
+                    "name": "Mirna De Los Santos Ryan",
+                    "national_rank": 63,
+                    "summary": "           $3,280,282 in sales QTD<br/>12.1% incentives QTD<br/>89% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 25,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_olivia_cooneylr_jpg",
+                    "name": "Olivia Cooney",
+                    "national_rank": 78,
+                    "summary": "           $6,445,070 in sales QTD<br/>158 appointments QTD<br/>35% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "11 days post",
+                "home_size": "       1,440 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/4895/57441/57441_eleC_lg.jpg",
+                "incentive_percent": 20,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-08-13",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Display lead created"
+                  },
+                  {
+                    "activity_date": "2023-08-13",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Duvan, this is Olivia with Lennar. I wanted to follow up with you on your registration for Mission Del Lago.  A new home specialist is happy to provide further details about the community, homes available there, buying/financing process, programs offer",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-08-13",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Duvan, this is Olivia with Lennar.    I wanted to follow up with you on your registration for Mission Del Lago.    A new home specialist is happy to provide further details about the community, homes available there, buying/financing process, programs offered and current sales running as well as ...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-13",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 4,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-08-15",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-08-15",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -15,
+                "realtor_commission": 5,
+                "sale_cohort_rank": 42,
+                "sale_price": 219499,
+                "sale_title": "Collier just sold in Waterwheel 40s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "San Antonio",
+            "division_coordinates": [
+              -98.427076386,
+              29.430584066
+            ],
+            "geometry": {
+              "coordinates": [
+                -98.386560152,
+                29.30852137
+              ],
+              "type": "Point"
+            },
+            "id": 244,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 17,
+                    "image_url": "",
+                    "name": "Zilkia Olmeda-Martins",
+                    "national_rank": 30,
+                    "summary": "           $3,747,389 in sales QTD<br/>15.8% incentives QTD<br/>77% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "42 days post",
+                "home_size": "       1,360 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7211/61113/61113_eleC_lg.jpg",
+                "incentive_percent": 17,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -8,
+                "realtor_commission": 5,
+                "sale_cohort_rank": 41,
+                "sale_price": 177499,
+                "sale_title": "Rincon just sold in Presa Point-Wellton",
+                "sale_type": "Retail",
+                "web_content_score": "4"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "San Antonio",
+            "division_coordinates": [
+              -98.427076386,
+              29.430584066
+            ],
+            "geometry": {
+              "coordinates": [
+                -98.514242,
+                28.9553596
+              ],
+              "type": "Point"
+            },
+            "id": 243,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 73,
+                    "image_url": "",
+                    "name": "Phil Russell",

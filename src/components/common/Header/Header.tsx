@@ -271,7 +271,6 @@ const Header = () => {
                 textColor="primary"
                 TabIndicatorProps={{ sx: { height: 4, backgroundColor: '#fff' } }}
               >
-                <Tab
                   label="Leads"
                   sx={{
                     fontSize: 18,
@@ -283,3 +282,5 @@ const Header = () => {
                 />
                 <Tab
                   label="Sales"
+                  sx={{
+                    fontSize: 18,

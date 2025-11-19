@@ -69,7 +69,6 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .attr('x2', '0%')
         .attr('y2', '100%')
         .selectAll('stop')
-        .data([
           { offset: '0%', color: 'rgba(20,122,214,0.5)' },
           { offset: '100%', color: 'rgba(0,93,170,0)' }
         ])
@@ -102,3 +101,4 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .datum(data)
         .attr('fill', 'none')
         .attr('stroke', '#33A3FF')
+        .attr('stroke-width', 3)

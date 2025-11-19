@@ -51,6 +51,7 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
             <Typography variant="caption" color="text.secondary">
               vs same point last period
             </Typography>
+          </Stack>
         }
         dropdownAlignment="center"
       >
@@ -123,3 +124,4 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
               &nbsp;has the lowest ({insightState?.BOTTOM_SALES_INSIGHT.content})
             </>
           )}
+        </Typography>

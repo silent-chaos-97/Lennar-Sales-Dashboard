@@ -22826,3 +22826,146 @@
                 "incentive_percent": 4,
                 "journey_array": [
                   {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 9,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 4,
+                "sale_price": 655900,
+                "sale_title": "Sequoia just sold in Primrose Cottages",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Utah",
+            "division_coordinates": [
+              -111.796837,
+              40.432818717
+            ],
+            "geometry": {
+              "coordinates": [
+                -111.929297833,
+                40.406820333
+              ],
+              "type": "Point"
+            },
+            "id": 186,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 3,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_cathy_brown_lr_jpg",
+                    "name": "Cathy Brown",
+                    "national_rank": 313,
+                    "summary": "           $4,898,238 in sales QTD<br/>6.3% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "107 days prior",
+                "home_size": "       3,080 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5781/44417/44417_eleT_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-11-01",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2022-11-01",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-11-16",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Haley,  \t   \tWe've been in contact previously about our homes at Wildflower in Saratoga Springs, and see that you were added to our VIP interest list for our Estate homesites (774,775 & 776).Siteplan is attached for your reference. If you are still interested, please respond to this email by 5pm ...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-01-02",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-01-11",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-03-31",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Haley and Andrew,  I hope you are doing well.  Because there are so many people on the waitlist for the upcoming homesites in the Estates, we are requiring everyone to fill out, sign and return the waitlist form I have attached. If you have found another home and would like to be removed from the...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-31",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Haley and Andrew,     Thank you for joining our waitlist in Primrose!       We are reaching out to let you know that we will be changing our waitlist process.     This will not affect your placement on the list.     Here is how the new process will go:       Every Thursday, you will receive an em...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi this is Ally with Lennar Homes! We spoke a little while ago about our community in Saratoga Springs, and I wanted to see if you're still looking for a home. We have some great incentives on very low interest rates right now, as low as 4.625%. Happy to",
+                    "sort": 8,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Yeah, we are trying to get a Teton in Primrose. I believe we are on the list.",
+                    "sort": 9,

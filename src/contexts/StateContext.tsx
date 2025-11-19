@@ -190,3 +190,4 @@ export const StateProvider = (props: PropsWithChildren) => {
     const idx = sortedCohorts.findIndex((region) => region.name === currentCohort.name)
     if (idx === -1) return
 
+    const type = ['region', 'sub_region'].includes(currentCohort.type) ? currentCohort.type : null

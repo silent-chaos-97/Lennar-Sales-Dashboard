@@ -8,7 +8,6 @@ interface SubPacingLeaderBoardProps {
   leaders: LeaderboardObj[] | LeaderboardObj
 }
 
-const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
   return (
     <Stack spacing={2}>
       <Scrollbar
@@ -40,3 +39,4 @@ const SubPacingLeaderBoard = ({ leaders }: SubPacingLeaderBoardProps) => {
                 name={leader.name}
                 national_rank={leader.national_rank}
                 summary={leader.summary}
+              />

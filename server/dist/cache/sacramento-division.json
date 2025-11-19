@@ -74332,3 +74332,613 @@
                     "activity_type": "opp_created",
                     "actor_type": "green",
                     "body": "",
+                    "sort": 15,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 16,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 7,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 4,
+                "sale_price": 937490,
+                "sale_title": "Residence 3046 just sold in Brass Point@Russell Ranch",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.7434042,
+                38.6565558
+              ],
+              "type": "Point"
+            },
+            "id": 97,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Breanna Evans",
+                    "national_rank": 60,
+                    "summary": "          $45,724,789 in sales QTD<br/>168 appointments QTD<br/>12% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 4,
+                    "image_url": "",
+                    "name": "Ashley Eidson",
+                    "national_rank": 99,
+                    "summary": "           $9,482,672 in sales QTD<br/>5.1% incentives QTD<br/>47% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "41 days prior",
+                "home_size": "       2,620 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6989/59461/59461_eleB_lg.jpg",
+                "incentive_percent": 6,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-08-31",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-08-31",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-08-31",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-08-31",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-08-31",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Cannon Pointe and Casera Meadows at Pioneer Village Located in Woodland  \tNOW SELLING! Model homes are open!  \t   \t \t \t  \t  \t  \t   \tDear John 'Kent',  \tHello from Lennar Sacramento's Internet Sales Consultant team! You have successfully been added to the Interest List for Cannon Pointe and Casera Me...",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-31",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Kent!  This is Breanna with Lennar’s Digital Team. Thank you so much for scheduling your self-guided tour at Casera Meadows. Please let me know if you have any questions during or after your visit!",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-21",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -10,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 3,
+                "sale_price": 639472,
+                "sale_title": "Residence 2620 just sold in Casera Meadows @ Pioneer 45's",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.3205072,
+                38.893683
+              ],
+              "type": "Point"
+            },
+            "id": 67,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 6,
+                    "image_url": "",
+                    "name": "Gloria Franklin",
+                    "national_rank": 124,
+                    "summary": "           $7,800,431 in sales QTD<br/>9.6% incentives QTD<br/>29% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "30 days prior",
+                "home_size": "       2,679 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6782/57971/57971_eleB_lg.jpg",
+                "incentive_percent": 13,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-03-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -8,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 2,
+                "sale_price": 640000,
+                "sale_title": "Residence 2679 just sold in The Woods @ Fullerton Ranch",
+                "sale_type": "Retail",
+                "web_content_score": "3.5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.1061926,
+                38.640078
+              ],
+              "type": "Point"
+            },
+            "id": 57,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 20,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_chad_dowling_lr_jpg",
+                    "name": "Chad Dowling",
+                    "national_rank": 644,
+                    "summary": "           $3,952,332 in sales QTD<br/>12.1% incentives QTD<br/>17% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "111 days prior",
+                "home_size": "       3,046 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6723/57611/57611_eleB_lg.jpg",
+                "incentive_percent": 7,
+                "journey_array": [
+                  {
+                    "activity_date": "2020-09-17",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good morning,  I have reached out to talk about your issues three times. If I do not hear back by end of business day today (Thursday, 9/17/20, 5:00PM), I am going to have your case closed. My information is below if you need to contact me.  Kyle Boynton Customer Care Representative (916)223-2591 Ky...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2020-11-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good Afternoon,  Your 'TLC Walk Request' matter is scheduled to be resolved on November 23, 2020. Our trades partners will be arriving from 8:00am-12:00pm.  If you have any questions or concerns, please feel free to call, text or email. Have a wonderful day.  Kyle Boynton Customer Care Representativ...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Manasa,   Nice chatting on the phone.   As discussed, providing plan info and community for your review and our future discussion.     Link to complete Pre-approval at Lennar Mortgage:  https://www.lennarmortgage.com/victoriahuynh   Plan 3046 Virtual Tour:  https://my.matterport.com/show/?m=eTtYX...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 1,
+                "sale_price": 900000,
+                "sale_title": "Residence 3046 just sold in Brass Point@Russell Ranch",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 77
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 63
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 74
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 91
+            }
+          ],
+          "percent_change": 23,
+          "value": 91
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 70
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 54
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 67
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 83
+            }
+          ],
+          "percent_change": 23.9,
+          "value": 83
+        },
+        "RETAIL_SALES": {
+          "percent_change": 23,
+          "value": 91
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 708971
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 659632
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 641170
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 673404
+            }
+          ],
+          "percent_change": 5,
+          "value": 673404
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 4.89
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 5.71
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 6.49
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 9.53
+            }
+          ],
+          "percent_change": 46.8,
+          "value": 9.53
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 0.1
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 0.2
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 0.1
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 0.1
+            }
+          ],
+          "percent_change": 11.1,
+          "value": 0.1
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:32.880"
+      },
+      "QTD": {
+        "COHORT": "Sacramento",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "QTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.3800245,
+                38.7444885
+              ],
+              "type": "Point"
+            },
+            "id": 513,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Breanna Evans",
+                    "national_rank": 60,
+                    "summary": "          $45,724,789 in sales QTD<br/>168 appointments QTD<br/>12% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 19,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_dee_dahl_lr_jpg",
+                    "name": "Dee Dahl",
+                    "national_rank": 548,
+                    "summary": "           $3,566,361 in sales QTD<br/>0% incentives QTD<br/>29% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/3 ba",
+                "days_from_completion": "99 days prior",
+                "home_size": "       1,779 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6407/64871/64871_eleA_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2020-08-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "NewHomeSource lead created"
+                  },
+                  {
+                    "activity_date": "2021-02-01",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2021-02-03",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2021-02-03",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2021-02-03",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2021-02-03",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 6,
+                    "title": "NewHomeSource lead created"
+                  },
+                  {
+                    "activity_date": "2021-02-03",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2021-02-03",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Mary:     My name is Steve and I’m an Internet Sales Coordinator with Lennar’s Central Valley and Bakersfield Division. It’s exciting to learn that you’re interested in our homes. What is on your wish list for your new home search? Is there a community or area of town that interests you? Numbe...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2021-02-04",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Mary:     Congratulations on beginning your search for a new home! Recently you chose to inquire about Lennar's Coronet Series at Riverstone!  I have attached a price sheet to this email for the Coronet  Series.        Have you found all of the information you were looking for? Was there a par...",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2021-02-09",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Mary  This is Steve Kinney with Lennar Homes. I just wanted to check in with you to see if you had any questions, or needed any information after your visit to our beautiful Lennar Community.  You can always reach out to me at anytime via Text, Email, or phone with any requests you may have  Warm...",
+                    "sort": 10,
+                    "title": "Outbound email"
+                  },
+                  {

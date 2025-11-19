@@ -130,6 +130,7 @@ const ISCDetail = ({
               ((data?.trifecta.percent_value || 0) / (data?.trifecta.goal_value || 100)) * 100,
               100
             )
+          }
         ]
       }
     ]
@@ -277,7 +278,6 @@ const ISCDetail = ({
           <Section
             title="Performance"
             timestamp="Past 1W"
-            more={
               <Stack direction="row" alignItems="center" spacing={0.5}>
                 <Box width={24} height={4} borderRadius={2} bgcolor="rgba(255,255,255,0.5)" />
                 <Typography variant="caption" color="textSecondary">
@@ -315,3 +315,6 @@ const ISCDetail = ({
                   maxValue={100}
                   valueFormat=">-.2f"
                   innerRadius={0.05}
+                  padding={0.6}
+                  cornerRadius={20}
+                  enableRadialGrid={false}

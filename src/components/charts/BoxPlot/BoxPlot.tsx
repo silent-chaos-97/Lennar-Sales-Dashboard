@@ -156,3 +156,4 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
         .attr('stroke-width', 2)
         .attr('opacity', idx === 0 ? 0.75 : 1)
 
+      svg

@@ -61,6 +61,7 @@ Follow these steps to set up the frontend:
       ```bash
       cd server
       npm run build
+      cd ..
       npm run build
       ```
 
@@ -77,3 +78,4 @@ We have two main processes running in the background: one for the Rest API and o
 
 1. CronJob
 
+To handle the high-volume data load in each connection request to Snowflake, we've implemented a cache that stores JSON files in `./server/dist/cache`. This cache fetches data every 30 minutes, starting at every 00 and 30 minutes.

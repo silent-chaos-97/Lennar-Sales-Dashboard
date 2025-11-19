@@ -100,3 +100,4 @@ const PerformanceBar = ({
         )}
       </Stack>
       <Box
+        sx={{

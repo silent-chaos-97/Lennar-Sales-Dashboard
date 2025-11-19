@@ -150430,7 +150430,6 @@
             "activity_status": "Connected",
             "activity_time": "2023-10-11 09:15:00.000",
             "sort": 10
-          },
           {
             "activity_status": "Connected",
             "activity_time": "2023-10-11 09:15:00.000",
@@ -464026,3 +464025,351 @@
             "id": 388,
             "properties": {
               "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 15,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_leeca_woods_lr_jpg",
+                    "name": "Leeca Woods",
+                    "national_rank": 15,
+                    "summary": "           $5,023,035 in sales QTD<br/>12% incentives QTD<br/>92% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "63 days prior",
+                "home_size": "       1,494 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6954/59257/59257_eleB_lg.jpg",
+                "incentive_percent": 9,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 388,
+                "sale_price": 245000,
+                "sale_title": "Seabrook II just sold in Newport Preserve 40'",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.557460889,
+                28.190813778
+              ],
+              "type": "Point"
+            },
+            "id": 387,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 687,
+                    "image_url": "",
+                    "name": "Leonardo Macknight",
+                    "national_rank": 687,
+                    "summary": "           $2,360,450 in sales QTD<br/>7% incentives QTD<br/>67% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 86,
+                    "image_url": "",
+                    "name": "Jolene Barrais",
+                    "national_rank": 86,
+                    "summary": "           $3,675,749 in sales QTD<br/>152 appointments QTD<br/>19% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "72 days prior",
+                "home_size": "       2,109 sqft.",
+                "home_type": "Next Gen",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6631/56878/56878_eleB1_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-06-10",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-06-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-23",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-23",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Virtual tour"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 10,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 387,
+                "sale_price": 463870,
+                "sale_title": "Freedom just sold in Camden Ph4 50s (PN-19)",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Maryland",
+            "division_coordinates": [
+              -76.313061212,
+              38.896696978
+            ],
+            "geometry": {
+              "coordinates": [
+                -76.9017742,
+                39.299837
+              ],
+              "type": "Point"
+            },
+            "id": 386,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 513,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_david_paris_lr_jpg",
+                    "name": "David Paris",
+                    "national_rank": 513,
+                    "summary": "           $4,052,386 in sales QTD<br/>1.7% incentives QTD<br/>88% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.0 ba",
+                "days_from_completion": "46 days prior",
+                "home_size": "       1,985 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7130/63268/63268_ele1_lg.jpg",
+                "incentive_percent": 13,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-03-07",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sri and Ramya,  Please let me know when available to select your new home interior colors by 3/25. Cabinets, Flooring, Countertops, Tile  Monday - Sunday 10:00 AM - 4:00 PM  The selections model is in the community.  I'll check the calendar based on your request and get back to you with a confirm...",
+                    "sort": 15,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-11",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sir and Ramya,  Following up about your color selections.  Can you please forward your choices today and I will send back an addendum to sign adding these to your home.  Thank you  David Paris New Home Consultant Lennar Maryland | Delaware | Pennsylvania 410-336-3958  Patapsco Glen 2013 Patapsco ...",
+                    "sort": 16,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-13",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sri and Ramya,  Thank you for completing your interior color selections. These have been added to the new home purchase agreement.  Please open the email from Lennar DocuSign to initial and sign today.  Confirm all is as selected prior to signing.  INTERIOR COLOR SELECTION 1.5 DESIGNER SPEC PKG I...",
+                    "sort": 17,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-28",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sri and Ramya,  New option offering the cabinet pulls for kitchen / baths in lieu of the included knobs. Photo attached for included knobs. Cabinet pulls (hardware) option was seen in the model home. $500.  Please let me know by this Friday 3/31 if want to add.  Call with any questions. Thank you...",
+                    "sort": 18,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-04-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sri, Following up, I can send you the bank link for the $80,000 to be added as additional earnest money deposit.  Please let me know.  Thank you.  David Paris New Home Consultant Lennar Maryland | Delaware | Pennsylvania 410-336-3958  Patapsco Glen 2013 Patapsco Glen Rd Baltimore, MD 21244 Lennar...",
+                    "sort": 19,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-04-13",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sri and Ramya,  Attached is the copy of the additional deposit.  The earnest money deposit has been added to the purchase agreement.  Please open the email from Lennar DocuSign to initial, sign an click 'Finish' today.  Call with any questions. Thank you  David Paris New Home Consultant Lennar Ma...",
+                    "sort": 20,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-24",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sri,  There is a home coming back on the market.  September settlement  HS 177 End homesite Arcadia 3 level Facing East 3 Bedroom 2 1/2 baths 2 full baths Designer select package upgrade Deck 18 x10  $460,290  If interested, please let me know any questions.  Thank you  David Paris New Home Consu...",
+                    "sort": 21,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-05",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sri and Ramya,  Construction is on schedule.  This week: framing of your new home continues.  Estimating to be completed in September. An exact date will be available a few weeks prior.  Please continue to work with your lender to assure for an on time settlement.  Thank you  David Paris New Home...",
+                    "sort": 22,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-04",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sri and Ramya,  The rough-ins for the plumbing, electrical and HVAC are completed and ready for county inspections. Drywall install to follow after.  I'll be away from 7/5 - 7/14.  Please contact my co-worker for any questions while I am away. joanna.friel@lennar.com  Thank you  David Paris New H...",
+                    "sort": 23,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Congratulations on purchasing a Lennar home at Patapsco Glen! We look forward to welcoming you home and are pleased to provide your scheduled New Home Orientation and Settlement dates. Please read this email in its entirety for important information regarding closing on your new home.    \t \t \t \t \tNe...",
+                    "sort": 24,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-14",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi,  Construction is moving along.  Finishing up with the painting and final trades. Please let me know any questions.  Thank you  David Paris New Home Consultant Lennar Maryland | Delaware | Pennsylvania 410-336-3958  Lennar at Chapelgate 11510 Kirkleigh Dr Marriotsville, MD 21104 LennarMD.com davi...",
+                    "sort": 25,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-15",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Almost at settlement. Are you still planning to use Lennar Mortgage? If not, please provide a conditional loan approval with new lender contact today. I will send revised addendums removing $9,000 towards closing cost. Please be 100% sure your lender will be able to close on the scheduled date of...",
+                    "sort": 26,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-16",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good Afternoon –     Thank you kindly for giving us the opportunity to review the terms provided by UNFCU.  Unfortunately based on today’s market conditions – we cannot be competitive to get within the 6.75% Rate under the ARM program nor FIXED rate.  I wish you well in your investment property purc...",
+                    "sort": 27,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-16",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 28,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-17",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Ok. Thank you.        Is your friend interested in the Arcadia for 649,990?                              David Paris            New Home Consultant    Patapsco Glen            Lennar Maryland | Delaware | Pennsylvania            m:        410-336-3958            a:        2013 Patapsco Glen Rd      ...",
+                    "sort": 29,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-17",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Good Morning David My lender reached out and mentioned the rate is too high at this point and my monthly payment is almost $4700/month, where as the rental scenario around this area is only $3500. I will have to pass at this time. Will connect          ZjQcmQRYFpfptBannerStart               \t  \t Thi...",
+                    "sort": 30,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Mehari,I am the New Home Consultant working with Sri and Ramya as their new Lennar home is being built through settlement.  Attached is the water / sewer utilities addendum along with contact info for Lennar settlement and Lennar Title.  Settlement is scheduled for 9/27   I’ll be emailing weekly ...",
+                    "sort": 31,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-21",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Received and will review. Thank you        David Paris  New Home Consultant  Lennar MD | DE | PA   410-336-3958 david.paris@lennar.com 410-336-3958 Lennar.com     From: Sri <srishree2001@gmail.com>  Sent: Monday, August 21, 2023 1:19 PM To: David Paris <David.Paris@Lennar.com>; Mehari Dagnew <mdagne...",
+                    "sort": 32,

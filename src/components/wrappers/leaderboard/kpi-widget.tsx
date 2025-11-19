@@ -45,3 +45,4 @@ const KPIWidget = ({
           </Typography>
           <Typography variant="h5" lineHeight={2}>
             {secondLabel}
+          </Typography>

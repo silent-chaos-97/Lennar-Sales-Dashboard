@@ -92,3 +92,4 @@ const DailyAnalyticsBox = ({
           </Typography>
           <Stack sx={{ pb: 0.75 }}>
             {displayArrows}
+            <CustomTooltip elementName="value-percent-change">

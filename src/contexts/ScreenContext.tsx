@@ -42,3 +42,7 @@ export const ScreenContextProvider = (props: PropsWithChildren) => {
         currentScreen,
         setScreenMode,
         setCurrentScreen,
+        showTooltips,
+        setShowTooltips
+      }}
+    >

@@ -5521,6 +5521,7 @@
             },
             {
               "cohort_rank": 9,
+              "division_name": "Jacksonville",
               "image_url": "",
               "name": "Lauren Brawner",
               "national_rank": 156,
@@ -48039,3 +48040,397 @@
               "sort": 4,
               "x_axis": "Oct 12",
               "y_axis": 461
+            }
+          ],
+          "percent_change": -0.9,
+          "value": 461
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 140
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 405
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 406
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 364
+            }
+          ],
+          "percent_change": -10.3,
+          "value": 364
+        },
+        "RETAIL_SALES": {
+          "percent_change": -0.7,
+          "value": 434
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 368484
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 374834
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 373360
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 373016
+            }
+          ],
+          "percent_change": -0.1,
+          "value": 373016
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 3.19
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 2.78
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 3.82
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 6.09
+            }
+          ],
+          "percent_change": 59.4,
+          "value": 6.09
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 0.4
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 0.3
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 0.3
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 0.5
+            }
+          ],
+          "percent_change": 92.3,
+          "value": 0.5
+        },
+        "DBT_UPDATED_AT": "2023-10-12 17:56:03.737"
+      },
+      "WTD": {
+        "COHORT": "Rothman: Devereaux",
+        "COHORT_TYPE": "sub_region",
+        "TIMEFRAME": "WTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.8564258,
+                30.5081
+              ],
+              "type": "Point"
+            },
+            "id": 492,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 53,
+                    "image_url": "",
+                    "name": "Chris Raines",
+                    "national_rank": 990,
+                    "summary": "             $975,760 in sales QTD<br/>10.8% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "88 days prior",
+                "home_size": "       2,267 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7296/62794/62794_eleA_lg.jpg",
+                "incentive_percent": 15,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -9,
+                "realtor_commission": 6,
+                "sale_cohort_rank": 41,
+                "sale_price": 385000,
+                "sale_title": "Tivoli just sold in Live Oak Estates",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Jacksonville",
+            "division_coordinates": [
+              -81.873179476,
+              29.850980276
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.084610833,
+                29.153606833
+              ],
+              "type": "Point"
+            },
+            "id": 479,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 58,
+                    "image_url": "",
+                    "name": "Ralph McKenzie",
+                    "national_rank": 1017,
+                    "summary": "             $608,176 in sales QTD<br/>9.6% incentives QTD<br/>0% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_penny_basslr_jpg",
+                    "name": "Penny Bass",
+                    "national_rank": 97,
+                    "summary": "          $10,739,663 in sales QTD<br/>137 appointments QTD<br/>25% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "224 days prior",
+                "home_size": "       1,782 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6994/62530/62530_eleA_lg.jpg",
+                "incentive_percent": 3,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-28",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-28",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-09-28",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Joyce! My name is Penny, and I am the Internet Consultant for Lennar Homes. Thank you for your recent interest in our homes Oak Hammock   We would love to show you what we have to offer!     What day are available to see the community? Do you have spec",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-28",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Joyce! My name is Penny, and I am the Internet Consultant for Lennar Homes. Thank you for your recent interest in our homes Oak Hammock   We would love to show you what we have to offer!     What day are available to see the community? Do you have specific questions I can answer for you?  Please ...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Joyce what time works for tomorrow? Penny  Lennar Homes 904-467-4531 Direct",
+                    "sort": 5,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Penny can I have a tour of the property tomorrow 9/30/2023 On Thu, Sep 28, 2023 at 6:?56 PM Penny Bass <penny.?bass@?lennar.?com> wrote: Hi Joyce! My name is Penny, and I am the Internet Consultant for Lennar Homes. Thank you for your recent          ZjQcmQRYFpfptBannerStart               \t  \t This ...",
+                    "sort": 6,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "1PM",
+                    "sort": 7,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Joyce! You are all set for Oak Hammock at 1pm tomorrow.  Our Office is at another near by community at 400 SE 44th Rd  Ocala, FL 34480 You will meet with Ralph his number is (352) 346-2105 We look forward to seeing you tomorrow. Penny  Lennar Homes 904",
+                    "sort": 8,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 9,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 40,
+                "sale_price": 256999,
+                "sale_title": "Truman just sold in Oak Hammock Preserve Townhomes",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.692119286,
+                30.329605
+              ],
+              "type": "Point"
+            },
+            "id": 400,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 10,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_gaye_mayolr_jpg",
+                    "name": "Gaye Mayo",
+                    "national_rank": 373,
+                    "summary": "           $3,375,600 in sales QTD<br/>7.6% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "52 days post",
+                "home_size": "       2,033 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7095/60224/60224_eleA_lg.jpg",
+                "incentive_percent": 13,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",

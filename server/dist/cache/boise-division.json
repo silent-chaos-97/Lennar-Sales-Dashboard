@@ -173,7 +173,6 @@
                   "color": "green",
                   "goal_value": 90,
                   "percent_value": 100
-                }
               },
               "summary": "76 appointments kept"
             },
@@ -13435,3 +13434,114 @@
             "sub_region": "McGuff",
             "type": "Feature"
           },
+          {
+            "division": "Boise",
+            "division_coordinates": [
+              -116.516061851,
+              43.622363966
+            ],
+            "geometry": {
+              "coordinates": [
+                -116.531473583,
+                43.540908083
+              ],
+              "type": "Point"
+            },
+            "id": 14,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Natalie Gibson",
+                    "national_rank": 135,
+                    "summary": "           $5,582,160 in sales QTD<br/>1.7% incentives QTD<br/>79% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "26 days prior",
+                "home_size": "       1,474 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6844/62008/62008_eleD_lg.jpg",
+                "incentive_percent": 10,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-12",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 1,
+                "sale_price": 330400,
+                "sale_title": "Plan 1474 just sold in Mossy Creek",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 2
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 1
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 1
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 6
+            }
+          ],
+          "percent_change": 500,
+          "value": 6
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 2
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",

@@ -85,3 +85,4 @@ const run = async () => {
     const timestampedResult = {
       timestamp: new Date().toISOString(),
       data: cohortData
+    }

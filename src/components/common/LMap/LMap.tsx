@@ -51,3 +51,4 @@ const LMap: React.FC<LMapProps> = ({
       ref={mapRef}
       onMove={handleMoveMap}
       mapStyle={mbStyle}
+      mapboxAccessToken={mbAccessToken}

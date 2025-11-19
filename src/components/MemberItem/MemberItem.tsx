@@ -53,6 +53,7 @@ const MemberItem = ({
       </Stack>
       <Avatar
         sx={{
+          width: 72,
           height: 72,
           bgcolor: getRandomColor(name),
           color: 'primary.contrastText'

@@ -106,7 +106,6 @@ export const theme = createTheme({
         src: url(${MabryLight_WOFF2}) format('woff2'),
              url(${MabryLight_WOFF}) format('woff');
         font-weight: 300;
-      }
       @font-face {
         font-family: 'mabry-pro';
         src: url(${MabryRegular_WOFF});
@@ -329,3 +328,6 @@ export const theme = createTheme({
       styleOverrides: {
         root: {
           margin: '8px 0 0 0',
+          fontSize: 12,
+          fontWeight: 500,
+          lineHeight: 1,

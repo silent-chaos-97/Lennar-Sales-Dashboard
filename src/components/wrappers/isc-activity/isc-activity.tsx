@@ -91,7 +91,6 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
           </Stack>
         </Stack>
         {data?.CHATS_TEXTS_TICKER_ARRAY && (
-          <ActivityChart data={data?.CHATS_TEXTS_TICKER_ARRAY || []} />
         )}
       </Stack>
       <Stack direction="row" alignItems="flex-end" gap={2} mb={6}>
@@ -115,3 +114,4 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
                 ((data?.APPOINTMENTS_SET_PERCENT_CHANGE || 0) > 0 ? (
                   <NorthEastIcon color="success" />
                 ) : (
+                  <SouthEastIcon color="error" />

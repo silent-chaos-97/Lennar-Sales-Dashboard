@@ -59401,3 +59401,486 @@
                     "actor_type": "black",
                     "body": "Hello,   A DocuSign was sent to your e-mail with regards to the warranty service for your new home.   The email comes to you through DocuSign, would you be kind enough to locate that e-mail in your inbox and sign it for me?   Thank you and I hope you have a wonderful day!   If any future warrantable...",
                     "sort": 18,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-22",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello,   Sorry to bother you again with this, but needed to remind you about the DocuSign for warranty service. If you would please locate it in your inbox and sign it for me, I would greatly appreciate it.     Hope you have a wonderful day!  If any future warrantable issues arise, please submit you...",
+                    "sort": 19,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 9,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 46,
+                "sale_price": 578201,
+                "sale_title": "Marsala just sold in Lakespur @ Wellen Park",
+                "sale_type": "Retail",
+                "web_content_score": "2"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.888443233,
+                26.760973757
+              ],
+              "type": "Point"
+            },
+            "id": 444,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 40,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jeremy_ganss_lr_jpg",
+                    "name": "Jeremy Ganss",
+                    "national_rank": 339,
+                    "summary": "           $4,117,603 in sales QTD<br/>4.3% incentives QTD<br/>80% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "49 days prior",
+                "home_size": "       1,941 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6931/59024/59024_eleA_lg.png",
+                "incentive_percent": 11,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 45,
+                "sale_price": 364597,
+                "sale_title": "Hartford just sold in Cape Coral ADS",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Tampa",
+            "division_coordinates": [
+              -82.356556448,
+              28.038879865
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.3206098,
+                27.6944648
+              ],
+              "type": "Point"
+            },
+            "id": 441,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 20,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_carlo_torres_lr_jpg",
+                    "name": "Carlo Torres",
+                    "national_rank": 162,
+                    "summary": "           $4,712,925 in sales QTD<br/>5.4% incentives QTD<br/>69% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "126 days prior",
+                "home_size": "       2,145 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/3135/34113/34113_eleG_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-02-10",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Kathy,   Tara here from our Internet Team with Lennar Homes Tampa. Welcome and thank you for your interest in our age-qualified communities for adults 55 and better!   We have three age-qualified communities in the Tampa area, please click on the links below for more information:   Medley at Mira...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-02-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello! I see you’re interested in our active adult communities. Please let me know if you’d like to come out for a visit to see our models or if you would like a New Home Consultant to reach out to you? We are still showing by appointment only.   I am here to help! Thank you.  Tara – Lennar/WCI Inte...",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-02",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-02",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 18,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 44,
+                "sale_price": 439890,
+                "sale_title": "Dawning II just sold in Forest Brooke AA 50",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Tampa",
+            "division_coordinates": [
+              -82.356556448,
+              28.038879865
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.448870167,
+                28.286505667
+              ],
+              "type": "Point"
+            },
+            "id": 435,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 36,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_brent_woodward_lr_jpg",
+                    "name": "Brent Woodard",
+                    "national_rank": 323,
+                    "summary": "           $4,247,518 in sales QTD<br/>6.2% incentives QTD<br/>70% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 5,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_tara_wilson_lr_jpg",
+                    "name": "Tara Wilson",
+                    "national_rank": 31,
+                    "summary": "          $11,407,085 in sales QTD<br/>197 appointments QTD<br/>22% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.0 ba",
+                "days_from_completion": "164 days prior",
+                "home_size": "       1,851 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6339/47241/47241_eleTH_lg.jpg",
+                "incentive_percent": 7,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-08-16",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Lead created"
+                  },
+                  {
+                    "activity_date": "2023-08-16",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-08-16",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Aillen,  \t \tI received your online inquiry for our community Mirada . As a Lennar Internet Sales Coordinator, I’m here to help guide you through our home buying process and help answer any questions you may have about our collection of new homes. \t \t??????  \t \tCurrently, visits to this community ...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-16",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Aillen,  Tara here from our Internet Team with Lennar Homes Tampa. I am excited to hear that you're interested in our Mirada community. When you are ready, I can help you with the fun part of your home search - scheduling a tour or a phone call to a",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-30",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-30",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "rton TH  Brent Woodard  amsabaricos@yahoo.com  Elena Esquen <eesquen@teamrealtydelivers.com>  It was a pleasure to meet with you today and I wanted to send over some information. Please see the attached documents, community video, home videos, 3D tour and do not hesitate to reach me with any questio...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 43,
+                "sale_price": 334900,
+                "sale_title": "Celeste just sold in Big Connerton TH",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.5707876,
+                26.3043734
+              ],
+              "type": "Point"
+            },
+            "id": 409,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 32,
+                    "image_url": "",
+                    "name": "Adalberto (A.Rod.) Rodriguez",
+                    "national_rank": 266,
+                    "summary": "           $3,855,152 in sales QTD<br/>0% incentives QTD<br/>73% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 4,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_amber_day_lr_jpg",
+                    "name": "Amber Day",
+                    "national_rank": 26,
+                    "summary": "          $24,703,032 in sales QTD<br/>205 appointments QTD<br/>35% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "44 days prior",
+                "home_size": "       2,032 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/1674/13410/13410_eleC_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 20,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 42,
+                "sale_price": 499999,
+                "sale_title": "Trevi just sold in Orange Blossom Ranch",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Tampa",
+            "division_coordinates": [
+              -82.356556448,
+              28.038879865
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.294786317,
+                28.310013951
+              ],
+              "type": "Point"
+            },
+            "id": 405,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 23,
+                    "image_url": "",
+                    "name": "Joseph Castonguay",
+                    "national_rank": 205,
+                    "summary": "           $3,796,805 in sales QTD<br/>1.7% incentives QTD<br/>67% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "2 bd/2 ba",
+                "days_from_completion": "161 days prior",
+                "home_size": "       1,747 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5143/40408/40408_eleNG_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 5,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 41,
+                "sale_price": 344715,
+                "sale_title": "Aurora II* just sold in Mirada AA 35s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.691922757,
+                26.688397632
+              ],
+              "type": "Point"
+            },
+            "id": 404,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 112,
+                    "image_url": "",
+                    "name": "Rick Masterson",
+                    "national_rank": 959,

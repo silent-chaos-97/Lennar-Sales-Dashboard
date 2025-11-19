@@ -14735,6 +14735,7 @@
                 "total_chats": 0,
                 "total_chats_percent_change": 0,
                 "total_chats_texts": 0,
+                "total_chats_texts_percent_change": 0,
                 "total_sales": 0,
                 "total_texts": 0,
                 "total_texts_percent_change": 0,
@@ -49045,3 +49046,405 @@
                   {
                     "activity_date": "2022-04-04",
                     "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good morning,  As per our last conversation, you confirmed that Sunshine went to your home and fixed the issue that you had with the sliding glass door.  At this time, this case will be closed and I will send you a DocuSign for your signature.  Regards,  Doris Pinto Customer Relations Manager Lennar...",
+                    "sort": 23,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-11-18",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello,  I have been assigned to your case and will reach out to you to discuss your case and check your availability.  You can also reach me at the number below Monday-Friday from 8:00am-5:00pm.  Regards,  Doris Pinto Customer Relations Manager Lennar (305) 910-3975  ref:_00D36JZvE._5005b1gLTv6:ref",
+                    "sort": 24,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 25,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 26,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 10,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 22,
+                "sale_price": 722490,
+                "sale_title": "Napoli just sold in Siena Reserve Fontaine Collection",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Gonzalez",
+            "type": "Feature"
+          },
+          {
+            "division": "Southeast Florida",
+            "division_coordinates": [
+              -80.363312453,
+              25.73994069
+            ],
+            "geometry": {
+              "coordinates": [
+                -80.432944,
+                25.616232
+              ],
+              "type": "Point"
+            },
+            "id": 465,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 10,
+                    "image_url": "",
+                    "name": "Delanie Coleman",
+                    "national_rank": 398,
+                    "summary": "           $5,016,573 in sales QTD<br/>1.2% incentives QTD<br/>67% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 11,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_luis_ruiz_lr_jpg",
+                    "name": "Luis Ruiz",
+                    "national_rank": 134,
+                    "summary": "           $8,734,302 in sales QTD<br/>109 appointments QTD<br/>34% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "87 days prior",
+                "home_size": "       2,987 sqft.",
+                "home_type": "Next Gen",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7358/62174/62174_eleA_lg.jpg",
+                "incentive_percent": 6,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Lennar Realtor Policy:  Real estate agents/brokers representing the buyer, if any, must 1) accompany a prospective buyer during the buyer’s initial showing; and 2) register buyer virtually or in-person at a participating Welcome Home Center prior to the i",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello! Your visit is scheduled as follows: today Monday, 10/02/2023 04:00 PM  Salerno 13319 SW 184 Terrace Miami, FL 33177.  Ask for Delanie Coleman 817-789-0246 Realtor: Jonathan Parra (Realtor must be present)",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 21,
+                "sale_price": 806290,
+                "sale_title": "Piani just sold in Salerno",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Gonzalez",
+            "type": "Feature"
+          },
+          {
+            "division": "Southeast Florida",
+            "division_coordinates": [
+              -80.363312453,
+              25.73994069
+            ],
+            "geometry": {
+              "coordinates": [
+                -80.4329102,
+                25.6154986
+              ],
+              "type": "Point"
+            },
+            "id": 459,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "",
+                    "name": "Jonathan Lobato",
+                    "national_rank": 148,
+                    "summary": "           $6,025,713 in sales QTD<br/>2.3% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/3 ba",
+                "days_from_completion": "67 days prior",
+                "home_size": "       1,827 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7358/62175/62175_eleB_lg.jpg",
+                "incentive_percent": 4,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 20,
+                "sale_price": 704140,
+                "sale_title": "Centuri just sold in Salerno",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Gonzalez",
+            "type": "Feature"
+          },
+          {
+            "division": "Southeast Florida",
+            "division_coordinates": [
+              -80.363312453,
+              25.73994069
+            ],
+            "geometry": {
+              "coordinates": [
+                -80.46634775,
+                25.455833
+              ],
+              "type": "Point"
+            },
+            "id": 425,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 48,
+                    "image_url": "",
+                    "name": "Lilliam Perez",
+                    "national_rank": 930,
+                    "summary": "           $1,648,632 in sales QTD<br/>1.2% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 7,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_oscar_mena_lr_jpg",
+                    "name": "Oscar Mena",
+                    "national_rank": 109,
+                    "summary": "           $6,913,289 in sales QTD<br/>124 appointments QTD<br/>17% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3.5 ba",
+                "days_from_completion": "157 days prior",
+                "home_size": "       1,804 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7257/61410/61410_eleAE_lg.jpg",
+                "incentive_percent": 15,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-28",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-28",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Emmanuel,  \t   \tI’m excited to hear that you're interested in our New and Now National Sales Event, running now through October 8th, 2023. We have special pricing and incentives on select move-in-ready homes – don’t miss out before they’re gone! \t \tHere is a sample of the homes we have available:...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 19,
+                "sale_price": 494290,
+                "sale_title": "Water Lilly just sold in Terra Sol",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Gonzalez",
+            "type": "Feature"
+          },
+          {
+            "division": "Palm Atlantic",
+            "division_coordinates": [
+              -80.383603323,
+              27.191596641
+            ],
+            "geometry": {
+              "coordinates": [
+                -80.3452524,
+                26.6969004
+              ],
+              "type": "Point"
+            },
+            "id": 410,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 24,
+                    "image_url": "",
+                    "name": "Alex Lemmo",
+                    "national_rank": 622,
+                    "summary": "           $4,177,106 in sales QTD<br/>3% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 3,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_natasha_perezlr_jpg",
+                    "name": "Natasha Perez",
+                    "national_rank": 55,
+                    "summary": "          $10,477,895 in sales QTD<br/>173 appointments QTD<br/>16% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "5 bd/4 ba",
+                "days_from_completion": "8 days prior",
+                "home_size": "       3,360 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5929/44845/44845_eleD_lg.jpg",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 16,
+                "realtor_commission": 0,

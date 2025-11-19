@@ -55,6 +55,7 @@ const SalesDetails = ({
           height={svgSize.height}
           style={{
             position: 'absolute',
+            top: svgSize.y,
             right: svgSize.x,
             zIndex: 0,
             filter: 'drop-shadow(0 0 16px rgba(0,0,0,0.5))'
@@ -187,3 +188,4 @@ const SalesDetails = ({
                 <Typography variant="caption" color="text.secondary">
                   Web content score (1-5)
                 </Typography>
+                <Typography variant="h3" whiteSpace="nowrap">

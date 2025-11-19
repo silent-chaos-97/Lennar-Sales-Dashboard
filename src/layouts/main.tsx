@@ -29,6 +29,7 @@ const Screen = styled('div')({
   height: 0,
   paddingTop: 1350,
   position: 'relative'
+})
 
 const InnerScreen = styled('div')({
   position: 'absolute',
@@ -69,7 +70,6 @@ const MainLayout = () => {
   const [wrapperWidth, setWrapperWidth] = useState(2400)
   const [searchParams] = useSearchParams()
   const { cohorts, setCurrentCohort, setPrevSelectedDivisionType } = useAppState()
-  const { setPlaying } = useAppTimerSetters()
 
   const adjustMode = () => {
     switch (searchParams.get('display')) {
@@ -153,3 +153,4 @@ const MainLayout = () => {
       <Box sx={{ position: 'relative', zoom: zoomRate }}>
         <Header />
         <DashboardLayout
+          ref={dashboardRef}

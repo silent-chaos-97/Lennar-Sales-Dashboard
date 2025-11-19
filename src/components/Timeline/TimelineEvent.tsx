@@ -76,3 +76,4 @@ const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
           </Typography>
           <Typography variant="caption" lineHeight="40px" color="grey.500">
             {formattedDate}
+          </Typography>

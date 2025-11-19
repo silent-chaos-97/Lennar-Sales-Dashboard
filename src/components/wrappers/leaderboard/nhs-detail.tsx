@@ -225,3 +225,4 @@ const NHSDetail = ({
                       suffix="%"
                       hideChange
                       fontWeight="500"
+                    />

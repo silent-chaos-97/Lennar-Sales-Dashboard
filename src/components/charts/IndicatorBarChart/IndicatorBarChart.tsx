@@ -120,3 +120,4 @@ const IndicatorBarChart = ({
         .style('fill', function (d) {
           return d === currentMonday ? '#fff' : '#70747A'
         })
+        .style('font-size', '16px')

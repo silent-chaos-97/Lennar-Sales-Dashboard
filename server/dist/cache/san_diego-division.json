@@ -36100,3 +36100,241 @@
             "activity_status": "Missed",
             "activity_time": "2023-10-08 13:00:00.000",
             "sort": 39
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-08 14:00:00.000",
+            "sort": 9
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-08 16:00:00.000",
+            "sort": 36
+          }
+        ],
+        "TIMEFRAME": "yesterday",
+        "WEB_VISITORS": 1749,
+        "WEB_VISITORS_PERCENT_CHANGE": -1,
+        "HOURLY_WEB_VISITORS_ARRAY": [
+          {
+            "current": 113,
+            "hour": 7,
+            "prev": 142
+          },
+          {
+            "current": 142,
+            "hour": 8,
+            "prev": 183
+          },
+          {
+            "current": 527,
+            "hour": 9,
+            "prev": 201
+          },
+          {
+            "current": 391,
+            "hour": 10,
+            "prev": 246
+          },
+          {
+            "current": 321,
+            "hour": 11,
+            "prev": 259
+          },
+          {
+            "current": 247,
+            "hour": 12,
+            "prev": 219
+          },
+          {
+            "current": 262,
+            "hour": 13,
+            "prev": 516
+          },
+          {
+            "current": 245,
+            "hour": 14,
+            "prev": 397
+          },
+          {
+            "current": 241,
+            "hour": 15,
+            "prev": 360
+          },
+          {
+            "current": 239,
+            "hour": 16,
+            "prev": 266
+          },
+          {
+            "current": 224,
+            "hour": 17,
+            "prev": 280
+          },
+          {
+            "current": 226,
+            "hour": 18,
+            "prev": 244
+          }
+        ],
+        "LEADS": 119,
+        "LEADS_PERCENT_CHANGE": 1,
+        "HOURLY_LEADS_ARRAY": [
+          {
+            "current": 5,
+            "hour": 7,
+            "prev": 4
+          },
+          {
+            "current": 3,
+            "hour": 8,
+            "prev": 6
+          },
+          {
+            "current": 5,
+            "hour": 9,
+            "prev": 7
+          },
+          {
+            "current": 3,
+            "hour": 10,
+            "prev": 9
+          },
+          {
+            "current": 9,
+            "hour": 11,
+            "prev": 10
+          },
+          {
+            "current": 10,
+            "hour": 12,
+            "prev": 8
+          },
+          {
+            "current": 7,
+            "hour": 13,
+            "prev": 9
+          },
+          {
+            "current": 7,
+            "hour": 14,
+            "prev": 17
+          },
+          {
+            "current": 7,
+            "hour": 15,
+            "prev": 7
+          },
+          {
+            "current": 5,
+            "hour": 16,
+            "prev": 5
+          },
+          {
+            "current": 11,
+            "hour": 17,
+            "prev": 5
+          },
+          {
+            "current": 6,
+            "hour": 18,
+            "prev": 5
+          }
+        ],
+        "TOTAL_CALLS": 168,
+        "TOTAL_CALLS_PERCENT_CHANGE": 6,
+        "TOTAL_CHATS_TEXTS": 81,
+        "TOTAL_CHATS_TEXTS_PERCENT_CHANGE": 35,
+        "APPOINTMENTS_SET": 35,
+        "APPOINTMENTS_SET_PERCENT_CHANGE": 9,
+        "LEADS_BY_CHANNEL": {
+          "non_paid": 23,
+          "non_paid_pct_change": 92,
+          "paid": 92,
+          "paid_pct_change": -12,
+          "third_party": 4,
+          "third_party_pct_change": 100
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:28.315"
+      },
+      "prev_week": {
+        "COHORT": "San Diego",
+        "COHORT_TYPE": "division",
+        "CALLS_TICKER_ARRAY": [
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-05 07:05:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-05 07:05:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-05 07:25:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-05 08:35:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-05 08:45:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-05 08:45:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 09:05:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 09:15:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-05 09:25:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 09:45:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 09:50:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 09:55:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-05 10:00:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-05 10:00:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 10:00:00.000",
+            "sort": 3
+          },
+          {
+            "activity_status": "Missed",

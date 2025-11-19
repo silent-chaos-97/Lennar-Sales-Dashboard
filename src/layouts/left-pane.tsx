@@ -60,3 +60,4 @@ const LeftPane = () => {
             <Performance />
           </Section>
         </Grid>
+        <Grid item lg={3}>

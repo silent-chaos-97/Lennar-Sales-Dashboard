@@ -122,3 +122,4 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
               </Typography>
               {priceChanges.resale !== 0 && (
                 <>
+                  {priceChanges.resale > 0 ? (

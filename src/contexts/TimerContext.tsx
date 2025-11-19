@@ -134,3 +134,4 @@ export const TimerProvider = (props: PropsWithChildren) => {
   )
 
   const memoizedVariables = useMemo<TimerContextVariables>(
+    () => ({

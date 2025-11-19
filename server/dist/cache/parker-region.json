@@ -98194,3 +98194,809 @@
                   {
                     "activity_date": "2023-10-10",
                     "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 46,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -8,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 51,
+                "sale_price": 334600,
+                "sale_title": "Columbia just sold in Heritage Point",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Chicago",
+            "division_coordinates": [
+              -88.147005926,
+              41.894395371
+            ],
+            "geometry": {
+              "coordinates": [
+                -88.4699566,
+                41.908741
+              ],
+              "type": "Point"
+            },
+            "id": 265,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 103,
+                    "image_url": "",
+                    "name": "Todd Lesher",
+                    "national_rank": 577,
+                    "summary": "           $2,399,181 in sales QTD<br/>8.3% incentives QTD<br/>71% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "43 days prior",
+                "home_size": "       2,448 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6420/55391/55391_eleB_lg.jpg",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -1,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 50,
+                "sale_price": 439900,
+                "sale_title": "Brooklyn just sold in Fox Pointe",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Indianapolis",
+            "division_coordinates": [
+              -86.13181895,
+              39.882810671
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.3066408,
+                39.6564958
+              ],
+              "type": "Point"
+            },
+            "id": 263,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 15,
+                    "image_url": "",
+                    "name": "Monica Hubner",
+                    "national_rank": 125,
+                    "summary": "           $4,093,595 in sales QTD<br/>13% incentives QTD<br/>36% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 28,
+                    "image_url": "",
+                    "name": "Kim Yoder",
+                    "national_rank": 180,
+                    "summary": "          $10,319,790 in sales QTD<br/>71 appointments QTD<br/>24% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "3 days prior",
+                "home_size": "       2,736 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6079/55421/55421_eleB0_lg.png",
+                "incentive_percent": 16,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Organic lead created"
+                  },
+                  {
+                    "activity_date": "2023-06-30",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Mark,  \t \tThank you for your interest in Lennar at Glenwood. My name is Kim, and I'm responding to your inquiry on Lennar.com.I have scheduled for our onsite Sales Consultant, Monica, to call you on Saturday when she arrives to her office. She is off each week on Thursday & Friday. She will be...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-30",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Mark, Thank you for your interest in Lennar at Glenwood. I have scheduled for our onsite Sales Consultant, Monica, to call you tomorrow  when she arrives to her office. She is off each week on Thursday & Friday. She will be able to answer all of your questions for you. Thank you!    ???????Kin...",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-30",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 4,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-07-01",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-07-02",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Mark & Monica,  Below is information on my Ironwood 'C' elevation, 5 bedrooms, 3 full baths, 2 car with 4' side extension. This home is 2,460 sq ft and will have an ETA of the end of August. Home will also qualify for the 4.99% rate lock NFC program with Lennar Mortgage. The 5th bedroom is locate...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-03",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-07-03",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Mark & Monica,  Did you happen to review the information I sent on my Ironwood, homesite 103? Thoughts, questions that I can answer?  Monica Hubner NHC  Lennar Homes  Monica.Hubner@Lennar.com Mobile 630-715-5846  Glenwood Estates 8246 Ebaugh Drive Camby, IN 46113  This e-mail is not a solicitatio...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-05",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Mark,  I hope you had a great fourth!   I understand you had some concerns about taxes being on the high side, but wanted to follow up to see if you had found anything other than Marion County that you are showing interest in.  I would love to have the opportunity to continue to work with you and...",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Mark, Monica & Kyle,    Please find attached a copy of the home purchase agreement for Wilson/Rhea for review. Once you have reviewed the purchase agreement, please then open the Docusign email that was sent to each of your emails, sign and complete.     ANY questions please don't hesitate to ...",
+                    "sort": 10,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 49,
+                "sale_price": 350000,
+                "sale_title": "Kingston just sold in Glenwood",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Charlotte",
+            "division_coordinates": [
+              -81.287610882,
+              34.859795943
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.5716408,
+                34.8433324
+              ],
+              "type": "Point"
+            },
+            "id": 254,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 11,
+                    "image_url": "",
+                    "name": "Daniel Hoffman",
+                    "national_rank": 117,
+                    "summary": "           $3,432,139 in sales QTD<br/>8.6% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "21 days prior",
+                "home_size": "       1,955 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6075/57662/57662_eleC_lg.jpg",
+                "incentive_percent": 16,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-28",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -5,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 48,
+                "sale_price": 265999,
+                "sale_title": "Crane just sold in NorthView Dream",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Chicago",
+            "division_coordinates": [
+              -88.147005926,
+              41.894395371
+            ],
+            "geometry": {
+              "coordinates": [
+                -88.4678586,
+                41.9077498
+              ],
+              "type": "Point"
+            },
+            "id": 253,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 7,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ashley_vogelmann_lr_jpg",
+                    "name": "Ashley Vogelmann",
+                    "national_rank": 106,
+                    "summary": "          $21,385,009 in sales QTD<br/>126 appointments QTD<br/>8% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 161,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_gary_cudworth_jpg",
+                    "name": "Gary Cudworth",
+                    "national_rank": 809,
+                    "summary": "           $1,888,552 in sales QTD<br/>11% incentives QTD<br/>80% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "9 days prior",
+                "home_size": "       2,612 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6420/55364/55364_eleA_lg.jpg",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Social lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-30",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-30",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-30",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Maria,  \t   \tThank you for scheduling a self-tour! My name is Ashley, and I am reaching out regarding your Self-Guided Tour at Fox Pointe.  \t   \tTo better assist you in your new home search, why are you looking to move?  When are you looking to be in your new home?    \t   \tIf you are currently...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-01",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Maria,   Nice to see you and your Mom on Saturday!  I thought you might like to have a copy of the options summary from the Brooklyn Home we toured.   Old Price on the options summary is $477,350 New price with incentives is : $449,900 4.5% interest rate will save you hundreds of $ per month on y...",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 47,
+                "sale_price": 449900,
+                "sale_title": "Galveston just sold in Fox Pointe",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Raleigh",
+            "division_coordinates": [
+              -78.724091946,
+              35.828140677
+            ],
+            "geometry": {
+              "coordinates": [
+                -78.362422333,
+                35.769876333
+              ],
+              "type": "Point"
+            },
+            "id": 250,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 90,
+                    "image_url": "",
+                    "name": "Juan Leclair",
+                    "national_rank": 532,
+                    "summary": "           $2,938,914 in sales QTD<br/>0.5% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "37 days prior",
+                "home_size": "       2,293 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7477/64157/64157_eleG_lg.png",
+                "incentive_percent": 1,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Chinquana, Thank you for your interest in Lennar’s communities! We reviewed The Chadwick and Davidson home at Jasper Place and Milburnie Ridge and the Lansford home in Groves at Deerfield. The virtual tour links to those homes are below and if you would like to find out what a difference our spec...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good morning Melanie,   On behalf of my team here at Lennar, we would like to congratulate and thank Chinquana for her decision to move forward with the purchase of her new Lennar home at Groves at Deerfield!   I have attached her purchase agreement for review.  The “office docs” attachment has been...",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Sent from my iPhone On Oct 10, 2023, at 10:?07 AM, Juan Leclair <juan.?leclair@?lennar.?com> wrote: ? Thank you for sending the prequalification letter, Melanie. All I need is Chinquana’s id and I can send the purchase agreement. Thank you,          ZjQcmQRYFpfptBannerStart               \t  \t This M...",
+                    "sort": 6,
+                    "title": "Inbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 46,
+                "sale_price": 400165,
+                "sale_title": "Lansford just sold in Groves at Deerfield",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Minnesota",
+            "division_coordinates": [
+              -93.332178563,
+              45.00503384
+            ],
+            "geometry": {
+              "coordinates": [
+                -93.6552326,
+                44.830279
+              ],
+              "type": "Point"
+            },
+            "id": 248,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 70,
+                    "image_url": "",
+                    "name": "Laura Schulien",
+                    "national_rank": 458,
+                    "summary": "           $2,537,187 in sales QTD<br/>9.5% incentives QTD<br/>25% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "47 days post",
+                "home_size": "       1,804 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5512/43890/43890_eleD2_lg.jpg",
+                "incentive_percent": 9,
+                "journey_array": [
+                  {
+                    "activity_date": "2021-06-14",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2021-06-14",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 45,
+                "sale_price": 354990,
+                "sale_title": "Madison just sold in Laketown CMS",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Minnesota",
+            "division_coordinates": [
+              -93.332178563,
+              45.00503384
+            ],
+            "geometry": {
+              "coordinates": [
+                -93.526390667,
+                45.233794667
+              ],
+              "type": "Point"
+            },
+            "id": 247,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 24,
+                    "image_url": "",
+                    "name": "Shelby Burgess",
+                    "national_rank": 181,
+                    "summary": "           $4,511,308 in sales QTD<br/>8.8% incentives QTD<br/>92% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "7 days post",
+                "home_size": "       2,271 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/2664/41374/41374_eleB3_lg.jpg",
+                "incentive_percent": 7,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-28",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 9,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 44,
+                "sale_price": 499990,
+                "sale_title": "Vanderbilt just sold in The Meadows of River Pointe",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Chicago",
+            "division_coordinates": [
+              -88.147005926,
+              41.894395371
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.2609776,
+                41.416586
+              ],
+              "type": "Point"
+            },
+            "id": 241,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 7,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ashley_vogelmann_lr_jpg",
+                    "name": "Ashley Vogelmann",
+                    "national_rank": 106,
+                    "summary": "          $21,385,009 in sales QTD<br/>126 appointments QTD<br/>8% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 17,
+                    "image_url": "",
+                    "name": "Kris Malzone",
+                    "national_rank": 135,
+                    "summary": "           $4,131,116 in sales QTD<br/>20.7% incentives QTD<br/>79% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "31 days prior",
+                "home_size": "       1,792 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6947/59193/59193_eleB_lg.jpg",
+                "incentive_percent": 16,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -7,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 43,
+                "sale_price": 334990,
+                "sale_title": "Siena just sold in Aylesworth - Andare",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Chicago",
+            "division_coordinates": [
+              -88.147005926,
+              41.894395371
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.1596012,
+                41.5601772
+              ],
+              "type": "Point"
+            },
+            "id": 213,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 3,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_amanda_getter_lr_jpg",
+                    "name": "Amanda Getter",
+                    "national_rank": 91,
+                    "summary": "          $22,715,426 in sales QTD<br/>144 appointments QTD<br/>9% lead to appointment rate",
+                    "type": "ISC"

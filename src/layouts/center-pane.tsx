@@ -317,3 +317,5 @@ const CenterPane = () => {
             color="rgba(28,209,161,0.85)"
             radius={cRadius}
             className={`pulsatingDot ${activeDot === idx ? 'running' : ''}`}
+            role="button"
+            tabIndex={-1}
