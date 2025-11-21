@@ -226,3 +226,4 @@ const NHSDetail = ({
                       hideChange
                       fontWeight="500"
                     />
+                  </Box>

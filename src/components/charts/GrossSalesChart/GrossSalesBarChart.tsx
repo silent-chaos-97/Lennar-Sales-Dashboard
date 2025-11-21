@@ -85,3 +85,4 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
         .tickPadding(12)
       const yAxisGroup = svg.append('g').call(yAxis)
       yAxisGroup.select('.domain').remove()
+      yAxisGroup.selectAll('.tick text').style('fill', '#70747A')

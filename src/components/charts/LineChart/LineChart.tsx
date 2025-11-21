@@ -107,3 +107,4 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         x: filteredCurrentTickers.length - 1,
         y: filteredCurrentTickers[filteredCurrentTickers.length - 1]
       }
+

@@ -2243,3 +2243,25 @@
                     "step",
                     ["zoom"],
                     ["step", ["get", "sizerank"], 18, 5, 12],
+                    17,
+                    ["step", ["get", "sizerank"], 18, 13, 12]
+                ],
+                "icon-image": "",
+                "text-font": ["DIN Pro Italic", "Arial Unicode MS Regular"],
+                "text-offset": [0, 0],
+                "text-anchor": [
+                    "step",
+                    ["zoom"],
+                    ["step", ["get", "sizerank"], "center", 5, "top"],
+                    17,
+                    ["step", ["get", "sizerank"], "center", 13, "top"]
+                ],
+                "text-field": ["coalesce", ["get", "name_en"], ["get", "name"]]
+            },
+            "paint": {
+                "text-halo-color": "rgb(14, 17, 23)",
+                "text-halo-width": 0.5,
+                "text-halo-blur": 0.5,
+                "text-color": "rgb(119, 138, 173)"
+            }
+        },

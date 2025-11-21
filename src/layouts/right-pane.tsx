@@ -10,6 +10,7 @@ import { NHC_LEADERBOARD_CATEGORIES } from '@/types/leaderboards'
 
 const RightPane = () => {
   const { pricingState, leaderboards } = useAppState()
+  const wrapperRef = useRef<HTMLDivElement>(null)
 
   const pricingData = useMemo(() => {
     return {

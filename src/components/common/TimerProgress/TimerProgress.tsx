@@ -28,3 +28,4 @@ const TimerProgress = ({ value, playing, onToggle }: TimerProgressProps) => {
       >
         <IconButton onClick={onToggle}>
           {playing ? <PauseIcon htmlColor="#939BA8" /> : <PlayArrowIcon htmlColor="#939BA8" />}
+        </IconButton>

@@ -91,6 +91,7 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
           </Stack>
         </Stack>
         {data?.CHATS_TEXTS_TICKER_ARRAY && (
+          <ActivityChart data={data?.CHATS_TEXTS_TICKER_ARRAY || []} />
         )}
       </Stack>
       <Stack direction="row" alignItems="flex-end" gap={2} mb={6}>
@@ -115,3 +116,5 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
                   <NorthEastIcon color="success" />
                 ) : (
                   <SouthEastIcon color="error" />
+                ))}
+              <CustomTooltip elementName="value-percent-change">

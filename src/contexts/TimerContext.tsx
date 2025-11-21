@@ -87,7 +87,6 @@ export const TimerProvider = (props: PropsWithChildren) => {
     }, 1000)
 
     return () => {
-      clearInterval(cycleTimer)
     }
   }, [playing, cycleTimerProgress, cycleTimeout, disableRotation])
 
@@ -135,3 +134,4 @@ export const TimerProvider = (props: PropsWithChildren) => {
 
   const memoizedVariables = useMemo<TimerContextVariables>(
     () => ({
+      cycleTimeout,

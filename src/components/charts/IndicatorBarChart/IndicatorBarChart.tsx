@@ -121,3 +121,5 @@ const IndicatorBarChart = ({
           return d === currentMonday ? '#fff' : '#70747A'
         })
         .style('font-size', '16px')
+
+      // Add y axis

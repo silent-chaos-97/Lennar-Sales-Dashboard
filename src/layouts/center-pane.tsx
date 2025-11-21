@@ -319,3 +319,7 @@ const CenterPane = () => {
             className={`pulsatingDot ${activeDot === idx ? 'running' : ''}`}
             role="button"
             tabIndex={-1}
+            ref={idx === lId ? firstMarkerRef : undefined}
+            onClick={handleClickMarker(dot, idx, true)}
+          >
+            <Typography

@@ -54,3 +54,4 @@ const HourlyActivity = ({
           <Typography
             component="span"
             color={getValueChangeTextColor(change)}
+            variant="h6"

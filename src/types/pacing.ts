@@ -37,6 +37,7 @@ export interface SubCohortItem {
   weekly_pacing_graph: WeeklyPacingItem[]
   pricing_data: PricingData
   leaderboard: LeaderboardObj[] | LeaderboardObj
+}
 
 interface SubCohortMap {
   map_summary: string

@@ -125,3 +125,4 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
             </>
           )}
         </Typography>
+        <Typography variant="h5" mb={1.5}>

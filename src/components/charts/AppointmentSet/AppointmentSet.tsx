@@ -146,3 +146,4 @@ const AppointmentSet = ({
           display: 'flex',
           justifyContent: 'space-around'
         }}
+      >

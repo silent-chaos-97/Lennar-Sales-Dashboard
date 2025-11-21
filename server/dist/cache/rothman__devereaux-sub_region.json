@@ -48434,3 +48434,483 @@
                     "activity_date": "2023-10-09",
                     "activity_type": "opp_created",
                     "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 8,
+                "realtor_commission": 4,
+                "sale_cohort_rank": 39,
+                "sale_price": 336990,
+                "sale_title": "Residence 2033 just sold in Stonehaven",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "North Alabama",
+            "division_coordinates": [
+              -86.745174627,
+              34.701431311
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.745174627,
+                34.701431311
+              ],
+              "type": "Point"
+            },
+            "id": 396,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 51,
+                    "image_url": "",
+                    "name": "DTashia Smith",
+                    "national_rank": 971,
+                    "summary": "             $908,434 in sales QTD<br/>0% incentives QTD<br/>67% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "52 days prior",
+                "home_size": "       2,338 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7830/65651/65651_eleA_lg.jpg",
+                "incentive_percent": 16,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 38,
+                "sale_price": 346813,
+                "sale_title": "Residence 2338 just sold in Clift Farm - Ranchers",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Jacksonville",
+            "division_coordinates": [
+              -81.873179476,
+              29.850980276
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.7664908,
+                30.0433175
+              ],
+              "type": "Point"
+            },
+            "id": 390,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 19,
+                    "image_url": "",
+                    "name": "John Miller",
+                    "national_rank": 513,
+                    "summary": "           $2,900,532 in sales QTD<br/>0.9% incentives QTD<br/>88% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/2.5 ba",
+                "days_from_completion": "70 days prior",
+                "home_size": "       2,358 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7775/65341/65341_eleHA_lg.jpg",
+                "incentive_percent": 1,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 37,
+                "sale_price": 445894,
+                "sale_title": "BRIO just sold in Granary Park 50s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.741514833,
+                30.595271
+              ],
+              "type": "Point"
+            },
+            "id": 379,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 8,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_christy_childresslr_jpg",
+                    "name": "Christy Childress",
+                    "national_rank": 313,
+                    "summary": "           $3,429,956 in sales QTD<br/>3.9% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 8,
+                    "image_url": "",
+                    "name": "Christy Childress",
+                    "national_rank": 313,
+                    "summary": "           $3,429,956 in sales QTD<br/>3.9% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "31 days prior",
+                "home_size": "       2,267 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7369/62842/62842_eleB_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 36,
+                "sale_price": 379990,
+                "sale_title": "Tivoli just sold in Lakeland",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "North Alabama",
+            "division_coordinates": [
+              -86.745174627,
+              34.701431311
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.745174627,
+                34.701431311
+              ],
+              "type": "Point"
+            },
+            "id": 369,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 4,
+                    "image_url": "",
+                    "name": "Austin Rook",
+                    "national_rank": 177,
+                    "summary": "           $5,053,417 in sales QTD<br/>4.8% incentives QTD<br/>85% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "38 days prior",
+                "home_size": "       2,338 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7830/65651/65651_eleA_lg.jpg",
+                "incentive_percent": 17,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 35,
+                "sale_price": 347574,
+                "sale_title": "Residence 2338 just sold in Clift Farm - Ranchers",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "North Alabama",
+            "division_coordinates": [
+              -86.745174627,
+              34.701431311
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.824227,
+                34.704239333
+              ],
+              "type": "Point"
+            },
+            "id": 368,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 7,
+                    "image_url": "",
+                    "name": "Royce Archer",
+                    "national_rank": 304,
+                    "summary": "           $3,290,689 in sales QTD<br/>1.9% incentives QTD<br/>40% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3.5 ba",
+                "days_from_completion": "31 days prior",
+                "home_size": "       3,085 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://admin.lennar.com/api/images/images/elevations_v10/7349/62119/62119_eleA_lg.jpg",
+                "incentive_percent": 10,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 34,
+                "sale_price": 565760,
+                "sale_title": "Residence 3085 just sold in Moores Creek",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Jacksonville",
+            "division_coordinates": [
+              -81.873179476,
+              29.850980276
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.7642308,
+                30.0427386
+              ],
+              "type": "Point"
+            },
+            "id": 356,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 28,
+                    "image_url": "",
+                    "name": "Alicia Oliver",
+                    "national_rank": 705,
+                    "summary": "           $1,679,376 in sales QTD<br/>6.5% incentives QTD<br/>83% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_penny_basslr_jpg",
+                    "name": "Penny Bass",
+                    "national_rank": 97,
+                    "summary": "          $10,739,663 in sales QTD<br/>137 appointments QTD<br/>25% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "31 days prior",
+                "home_size": "       1,714 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7774/65335/65335_eleHB_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2021-03-20",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Good Morning Melissa, \t \tMy name is Lu Wei, Lennar Internet Sales Consultant. I received your request for information about our homes in N.E. Florida. Please let me know how I can help! \t \tSincerely, \t \tLu Wei Huang \tInternet Sales Consultant \tluwei.huang@lennar.com \twww.Lennar.com \t  \t \t \t \t \t \tCop...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "HI Melissa! Thank you for your interest in Lennar Homes.  We received your request about our communities in Trailmark.. Here is a digital brochure. https://www.lennar.com/new-homes/florida/jacksonville-st-augustine/st-augustine/trailmark/brochure Please let me know if any of the communities interest...",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Good Morning Penny. I'm looking in the Orange Park, Middleburg, Fleming Island area.",
+                    "sort": 3,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Good Morning! I have townhomes in Middleburgh.  I have Granary Pak which is Green Cove Springs not to far from Fleming Island and it is Single family would that work? Penny  Lennar Homes 904-467-4531 Direct",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Green Cove is actually on my radar as well. Im looking for a townhome or single family home. It's just me so I'm flexible on my options.  My downtown Jax apartment lease is up at the end of August so I'm trying to time it right. But can also break my lease if I find a good deal/home.",
+                    "sort": 5,
+                    "title": "Customer text recieved"
+                  },

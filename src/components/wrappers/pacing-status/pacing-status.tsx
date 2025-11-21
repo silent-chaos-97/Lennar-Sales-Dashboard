@@ -220,3 +220,5 @@ const PacingStatus = ({ mapWrapperRef }) => {
           <Stack
             sx={{
               position: 'absolute',
+              top: 0,
+              left: 0,

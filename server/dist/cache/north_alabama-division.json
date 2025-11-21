@@ -30994,3 +30994,310 @@
             "activity_status": "Connected",
             "activity_time": "2023-10-06 12:00:00.000",
             "sort": 10
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-07 12:00:00.000",
+            "sort": 9
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-07 13:00:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-07 13:00:00.000",
+            "sort": 9
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-07 13:00:00.000",
+            "sort": 27
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-08 12:00:00.000",
+            "sort": 14
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-08 13:00:00.000",
+            "sort": 7
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-08 14:00:00.000",
+            "sort": 1
+          }
+        ],
+        "TIMEFRAME": "today",
+        "WEB_VISITORS": 1226,
+        "WEB_VISITORS_PERCENT_CHANGE": -12,
+        "HOURLY_WEB_VISITORS_ARRAY": [
+          {
+            "current": 279,
+            "hour": 7,
+            "prev": 190
+          },
+          {
+            "current": 75,
+            "hour": 8,
+            "prev": 78
+          },
+          {
+            "current": 80,
+            "hour": 9,
+            "prev": 79
+          },
+          {
+            "current": 72,
+            "hour": 10,
+            "prev": 88
+          },
+          {
+            "current": 80,
+            "hour": 11,
+            "prev": 74
+          },
+          {
+            "current": "",
+            "hour": 12,
+            "prev": 59
+          },
+          {
+            "current": "",
+            "hour": 13,
+            "prev": 73
+          },
+          {
+            "current": "",
+            "hour": 14,
+            "prev": 83
+          },
+          {
+            "current": "",
+            "hour": 15,
+            "prev": 66
+          },
+          {
+            "current": "",
+            "hour": 16,
+            "prev": 79
+          },
+          {
+            "current": "",
+            "hour": 17,
+            "prev": 76
+          },
+          {
+            "current": "",
+            "hour": 18,
+            "prev": 58
+          }
+        ],
+        "LEADS": 30,
+        "LEADS_PERCENT_CHANGE": -12,
+        "HOURLY_LEADS_ARRAY": [
+          {
+            "current": 3,
+            "hour": 7,
+            "prev": 3
+          },
+          {
+            "current": 3,
+            "hour": 8,
+            "prev": 4
+          },
+          {
+            "current": 2,
+            "hour": 9,
+            "prev": 2
+          },
+          {
+            "current": 3,
+            "hour": 10,
+            "prev": 5
+          },
+          {
+            "current": 1,
+            "hour": 11,
+            "prev": 2
+          },
+          {
+            "current": "",
+            "hour": 12,
+            "prev": 4
+          },
+          {
+            "current": "",
+            "hour": 13,
+            "prev": 4
+          },
+          {
+            "current": "",
+            "hour": 14,
+            "prev": 3
+          },
+          {
+            "current": "",
+            "hour": 15,
+            "prev": 5
+          },
+          {
+            "current": "",
+            "hour": 16,
+            "prev": 1
+          },
+          {
+            "current": "",
+            "hour": 17,
+            "prev": 1
+          },
+          {
+            "current": "",
+            "hour": 18,
+            "prev": 4
+          }
+        ],
+        "TOTAL_CALLS": 18,
+        "TOTAL_CALLS_PERCENT_CHANGE": -58,
+        "TOTAL_CHATS_TEXTS": 3,
+        "TOTAL_CHATS_TEXTS_PERCENT_CHANGE": -80,
+        "APPOINTMENTS_SET": 1,
+        "APPOINTMENTS_SET_PERCENT_CHANGE": -80,
+        "LEADS_BY_CHANNEL": {
+          "non_paid": 0,
+          "non_paid_pct_change": -100,
+          "paid": 29,
+          "paid_pct_change": -12,
+          "third_party": 1,
+          "third_party_pct_change": 0
+        },
+        "DBT_UPDATED_AT": "2023-10-12 17:55:53.055"
+      }
+    },
+    "sales_timeframe": {
+      "QTD": {
+        "COHORT": "North Alabama",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "QTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "North Alabama",
+            "division_coordinates": [
+              -86.745174627,
+              34.701431311
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.745174627,
+                34.701431311
+              ],
+              "type": "Point"
+            },
+            "id": 396,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 10,
+                    "image_url": "",
+                    "name": "DTashia Smith",
+                    "national_rank": 971,
+                    "summary": "             $908,434 in sales QTD<br/>0% incentives QTD<br/>67% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "52 days prior",
+                "home_size": "       2,338 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7830/65651/65651_eleA_lg.jpg",
+                "incentive_percent": 16,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 9,
+                "sale_price": 346813,
+                "sale_title": "Residence 2338 just sold in Clift Farm - Ranchers",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "North Alabama",
+            "division_coordinates": [
+              -86.745174627,
+              34.701431311
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.745174627,
+                34.701431311
+              ],
+              "type": "Point"
+            },
+            "id": 369,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Austin Rook",
+                    "national_rank": 177,
+                    "summary": "           $5,053,417 in sales QTD<br/>4.8% incentives QTD<br/>85% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "38 days prior",
+                "home_size": "       2,338 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7830/65651/65651_eleA_lg.jpg",
+                "incentive_percent": 17,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",

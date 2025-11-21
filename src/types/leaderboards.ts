@@ -96,3 +96,4 @@ export const LEADERBOARD_TIMEFRAMES = {
   QTD: 'QTD'
 }
 
+export const ISC_LEADERBOARD_CATEGORIES = {

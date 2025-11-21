@@ -94,7 +94,6 @@ const SalesDetails = ({
             <IconButton onClick={onClose} size={'large'}>
               <CloseIcon htmlColor="#fff" />
             </IconButton>
-          </Stack>
         </Stack>
         <Grid container spacing={5}>
           <Grid item lg={6}>
@@ -189,3 +188,4 @@ const SalesDetails = ({
                   Web content score (1-5)
                 </Typography>
                 <Typography variant="h3" whiteSpace="nowrap">
+                  {salesDetail.web_content_score}

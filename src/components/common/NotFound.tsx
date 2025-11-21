@@ -1,4 +1,3 @@
-import { Box, Link, Stack, Typography } from '@mui/material'
 import WarningRoundIcon from '@mui/icons-material/WarningRounded'
 import { LENNAR_LIVE_URL } from '@/utils/constant'
 
@@ -27,3 +26,4 @@ const NotFound = () => {
         </Typography>
         <Typography sx={{ fontSize: '32px', lineHeight: '38px' }}>
           <Link href={LENNAR_LIVE_URL}>{LENNAR_LIVE_URL}</Link>
+        </Typography>

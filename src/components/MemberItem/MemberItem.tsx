@@ -72,3 +72,4 @@ const MemberItem = ({
         </Typography>
         <Typography
           width="100%"
+          variant="caption"

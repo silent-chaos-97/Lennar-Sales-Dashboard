@@ -6,6 +6,7 @@ import { TickerItem } from '@/types/current_activity'
 
 const MARGIN = { top: 0, right: 0, bottom: 0, left: 0 }
 
+type HeatmapProps = {
   cWidth?: number
   size?: number
   spacing?: number
@@ -84,3 +85,4 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
             fill={dotColors[d.activity_status]}
           />
         )
+      }),

@@ -97,7 +97,6 @@ class SnowflakeService {
                   })
 
                 return {
-                  type: rRow.COHORT_TYPE,
                   name: rRow.COHORT,
                   latitude: rRow.LATITUDE,
                   longitude: rRow.LONGITUDE,
@@ -125,6 +124,7 @@ class SnowflakeService {
       'isc_performance_timeframe',
       'current_activity_timeframe',
       'sales_timeframe',
+      'pacing',
       'pricing',
       'insights'
     ]
@@ -186,3 +186,5 @@ class SnowflakeService {
           }
         })
       })
+    })
+  }

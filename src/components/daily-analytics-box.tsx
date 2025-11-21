@@ -93,3 +93,4 @@ const DailyAnalyticsBox = ({
           <Stack sx={{ pb: 0.75 }}>
             {displayArrows}
             <CustomTooltip elementName="value-percent-change">
+              <Typography variant="subtitle1" color={diffColor} fontWeight={700}>

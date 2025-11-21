@@ -18,7 +18,6 @@ interface SectionProps {
 }
 
 export const Section = ({
-  title,
   timestamp,
   category,
   more,
@@ -142,3 +141,5 @@ export const Section = ({
                     backgroundColor: '#212936',
                     boxShadow: '0 8px 16px 0 rgba(0,0,0,0.80)',
                     cursor: 'pointer',
+                    color: '#ddd',
+                    ...alignmentStyle

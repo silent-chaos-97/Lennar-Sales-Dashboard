@@ -70,6 +70,7 @@ const MainLayout = () => {
   const [wrapperWidth, setWrapperWidth] = useState(2400)
   const [searchParams] = useSearchParams()
   const { cohorts, setCurrentCohort, setPrevSelectedDivisionType } = useAppState()
+  const { setPlaying } = useAppTimerSetters()
 
   const adjustMode = () => {
     switch (searchParams.get('display')) {
@@ -154,3 +155,4 @@ const MainLayout = () => {
         <Header />
         <DashboardLayout
           ref={dashboardRef}
+          sx={{

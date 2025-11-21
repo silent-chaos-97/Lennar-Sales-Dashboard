@@ -92,7 +92,6 @@ const ISCDetail = ({
 }: LeaderboardDetailProps) => {
   const wrapperRef = useRef<HTMLDivElement>(null)
   useClickAway(wrapperRef, () => onClose())
-
   const radialData = useMemo(() => {
     return [
       {
@@ -278,6 +277,7 @@ const ISCDetail = ({
           <Section
             title="Performance"
             timestamp="Past 1W"
+            more={
               <Stack direction="row" alignItems="center" spacing={0.5}>
                 <Box width={24} height={4} borderRadius={2} bgcolor="rgba(255,255,255,0.5)" />
                 <Typography variant="caption" color="textSecondary">
@@ -318,3 +318,6 @@ const ISCDetail = ({
                   padding={0.6}
                   cornerRadius={20}
                   enableRadialGrid={false}
+                  enableCircularGrid={false}
+                  radialAxisStart={{
+                    tickSize: 0,

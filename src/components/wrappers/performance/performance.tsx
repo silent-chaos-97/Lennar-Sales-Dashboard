@@ -13,7 +13,6 @@ import { PERFORMANCE_COLORS } from '@/utils/constant'
 import CustomTooltip from '@/components/common/CustomTooltip'
 import DataAlert from '@/components/common/CustomTooltip/DataAlert'
 import { PerformanceProvider, usePerformanceContext } from './context'
-import { PERFORMANCE_TIMEFRAMES } from '@/types/performance'
 
 const AxisXStartTickComponent = (props: RadialAxisTickProps) => {
   const { performanceState } = usePerformanceContext()

@@ -123,3 +123,4 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
               {priceChanges.resale !== 0 && (
                 <>
                   {priceChanges.resale > 0 ? (
+                    <NorthEastIcon color="success" />

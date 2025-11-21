@@ -5,6 +5,7 @@ module.exports = {
     alias: {
       '@': path.resolve(__dirname, 'src/')
     }
+  },
   jest: {
     configure: {
       moduleNameMapper: {

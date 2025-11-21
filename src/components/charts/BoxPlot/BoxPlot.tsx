@@ -157,3 +157,5 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
         .attr('opacity', idx === 0 ? 0.75 : 1)
 
       svg
+        .selectAll('toto')
+        .data([median])
