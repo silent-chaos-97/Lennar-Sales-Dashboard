@@ -66,7 +66,6 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
         .tickSize(0)
         .tickPadding(12)
 
-      const xAxisGroup = svg
         .append('g')
         .attr('transform', 'translate(0,' + height + ')')
         .call(xAxis)

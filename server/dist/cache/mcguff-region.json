@@ -93213,7 +93213,6 @@
             "sort": 6
           },
           {
-            "activity_status": "Connected",
             "activity_time": "2023-10-11 14:10:00.000",
             "sort": 7
           },
@@ -188276,3 +188275,613 @@
                   {
                     "cohort_rank": 168,
                     "image_url": "",
+                    "name": "Esther Chen",
+                    "national_rank": 577,
+                    "summary": "           $7,759,229 in sales QTD<br/>0% incentives QTD<br/>71% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/3 ba",
+                "days_from_completion": "167 days prior",
+                "home_size": "       2,548 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6892/58701/58701_eleA_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 6,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 67,
+                "sale_price": 1349990,
+                "sale_title": "Lexington 9 just sold in Lexington",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Parness",
+            "type": "Feature"
+          },
+          {
+            "division": "Phoenix",
+            "division_coordinates": [
+              -112.030993184,
+              33.41278159
+            ],
+            "geometry": {
+              "coordinates": [
+                -112.425658833,
+                33.554721
+              ],
+              "type": "Point"
+            },
+            "id": 251,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 110,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_angela_schnitzer_lr_jpg",
+                    "name": "Angela Schnitzer",
+                    "national_rank": 339,
+                    "summary": "           $4,018,336 in sales QTD<br/>1% incentives QTD<br/>80% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 8,
+                    "image_url": "",
+                    "name": "Elyse Snitzer",
+                    "national_rank": 17,
+                    "summary": "          $15,725,608 in sales QTD<br/>249 appointments QTD<br/>19% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "624 days post",
+                "home_size": "       1,968 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6501/56066/56066_eleH_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-11",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-11",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-09-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-11",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-09-11",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Diane,  \t   \tWe look forward to your visit at Northern Crossing.  I'm excited to introduce you to the New Home Consultant you will be meeting to help you find the perfect home!  Angela Schnitzer is copied on this email and her direct phone number is 480-234-3774.   Also, below are details and dir...",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-11",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Diane! We're excited to see you for your tour of Northern Crossing 45s 09/11/2023 at 4:00 PM with Angela Schnitzer. The Welcome Home Center is located at 17045 West Royal Palm Road, Waddell, Arizona 85355. See you soon! Elyse Snitzer 6236954618",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 10,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 66,
+                "sale_price": 469990,
+                "sale_title": "Ocotillo Plan 3520 just sold in Northern Crossing 45s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.5442534,
+                38.6825106
+              ],
+              "type": "Point"
+            },
+            "id": 249,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 87,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_anthony_howells_lr_jpg",
+                    "name": "Anthony Howells",
+                    "national_rank": 293,
+                    "summary": "           $6,256,164 in sales QTD<br/>5.2% incentives QTD<br/>0% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 38,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_elline_filcher_lr_jpg",
+                    "name": "Elline Filcher",
+                    "national_rank": 121,
+                    "summary": "          $21,589,545 in sales QTD<br/>117 appointments QTD<br/>9% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "20 days prior",
+                "home_size": "       2,114 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6161/45793/45793_eleB_lg.jpg",
+                "incentive_percent": 6,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-02-20",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2022-02-21",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-02-21",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-03-03",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-03-03",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-05-23",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello, This is Brandon, I’m an Internet Sales Coordinator with LENNAR. It’s been a couple months since you had toured our new home community in Sacramento, Northlake in North Natomas.  I wanted to check in and see if you are still in the market, wish to speak with a New Home Consultant regarding any...",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-07-20",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-07-21",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Amrinder, Great News we have new financing incentives coming out such as possible rate buy down or closing cost credits which will vary from home to home.  If you wish I could have a consultant and a loan officer  from the community reach out you to discuss in further detail  the  incentives that...",
+                    "sort": 8,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-07-21",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "America's Leading Homebuilder...  \tSince 1954, we've had the privilege of helping over one million families across America move into the next stage of their lives with a new home.  \tOur communities cater to all lifestyles and stages of life, we have options for first-time homebuyers, active adult li...",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-25",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Lennar at Northlake  \t   \tSchedule your Self Guided tour NOW.  \t \t   \tHello from Lennar’s Internet Sales Consultants!  \t   \tThank you for your interest in Northlake. A brand new master-planned community in Sacramento's North Natomas. Resort inspired living at its finest where life by the lake is the...",
+                    "sort": 10,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-30",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-30",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Good Day Amrinder Singh, \t  \t \tHello from your Internet Sales Consultant Team for Lennar Homes.  \t   \tLennar Mortgage has been providing homebuyers with options and opportunities for over 40 years. Our team of professionals will ensure that you receive the guidance and support to make sound borrowin...",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-31",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-09-17",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good morning.  This is a friendly reminder that your new home orientation is tomorrow, September 18, at 10 a.m. at your Lennar home.  Thank you Betty",
+                    "sort": 14,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 16,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good evening.  This is a friendly reminder that your final walk is tomorrow, September 25, at 9 a.m.  Thank you Betty",
+                    "sort": 17,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 19,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "cancellation",
+                    "actor_type": "red",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Cancellation"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 65,
+                "sale_price": 610000,
+                "sale_title": "Residence 2114 just sold in Lakelet @ Northlake",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Las Vegas",
+            "division_coordinates": [
+              -115.140858713,
+              36.12362889
+            ],
+            "geometry": {
+              "coordinates": [
+                -115.34598,
+                36.187375375
+              ],
+              "type": "Point"
+            },
+            "id": 235,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 76,
+                    "image_url": "",
+                    "name": "Bryan Todd",
+                    "national_rank": 266,
+                    "summary": "           $6,789,840 in sales QTD<br/>6.3% incentives QTD<br/>73% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "42 days post",
+                "home_size": "       1,956 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6303/54805/54805_eleC_lg.jpg",
+                "incentive_percent": 7,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 64,
+                "sale_price": 500000,
+                "sale_title": "Marigold just sold in Highline I",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Parness",
+            "type": "Feature"
+          },
+          {
+            "division": "Colorado",
+            "division_coordinates": [
+              -104.888662203,
+              39.846040151
+            ],
+            "geometry": {
+              "coordinates": [
+                -104.7030664,
+                39.6814444
+              ],
+              "type": "Point"
+            },
+            "id": 232,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 43,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jane_kahn_jpg",
+                    "name": "Jane Kahn",
+                    "national_rank": 162,
+                    "summary": "           $6,650,501 in sales QTD<br/>10.7% incentives QTD<br/>69% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "86 days prior",
+                "home_size": "       1,868 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7318/61868/61868_eleFH_lg.jpg",
+                "incentive_percent": 9,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 63,
+                "sale_price": 515000,
+                "sale_title": "Alto just sold in Harvest Ridge Cluster",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Inland",
+            "division_coordinates": [
+              -117.19750994,
+              33.894448864
+            ],
+            "geometry": {
+              "coordinates": [
+                -117.616320286,
+                33.953533429
+              ],
+              "type": "Point"
+            },
+            "id": 229,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 159,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_sophie_kobayashi_lr_jpg",
+                    "name": "Sophie Kobayashi",
+                    "national_rank": 543,
+                    "summary": "           $4,116,693 in sales QTD<br/>0% incentives QTD<br/>14% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 24,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/jaycee_headshot_jpg",
+                    "name": "Jaycee Chavez",
+                    "national_rank": 59,
+                    "summary": "          $16,139,667 in sales QTD<br/>168 appointments QTD<br/>14% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/3 ba",
+                "days_from_completion": "126 days prior",
+                "home_size": "       1,838 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6254/46695/46695_eleB4_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-07-31",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Direct lead created"
+                  },
+                  {
+                    "activity_date": "2023-07-31",
+                    "activity_type": "email",

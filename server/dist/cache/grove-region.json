@@ -97748,3 +97748,115 @@
                   }
                 ],
                 "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -5,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 35,
+                "sale_price": 240999,
+                "sale_title": "Drexel just sold in Navarro Ranch",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "San Antonio",
+            "division_coordinates": [
+              -98.427076386,
+              29.430584066
+            ],
+            "geometry": {
+              "coordinates": [
+                -98.2309342,
+                29.4584804
+              ],
+              "type": "Point"
+            },
+            "id": 223,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 178,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_john_tarnowlr_jpg",
+                    "name": "John Tarnow",
+                    "national_rank": 758,
+                    "summary": "             $878,454 in sales QTD<br/>9.9% incentives QTD<br/>0% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "23 days prior",
+                "home_size": "       1,129 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7464/63044/63044_eleC_lg.png",
+                "incentive_percent": 19,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -16,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 34,
+                "sale_price": 185999,
+                "sale_title": "Remsen just sold in Spring Grove Belmar",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "Dallas/Ft Worth",
+            "division_coordinates": [
+              -96.865064017,
+              33.003071631
+            ],
+            "geometry": {
+              "coordinates": [
+                -97.3020916,
+                32.7081562
+              ],
+              "type": "Point"
+            },
+            "id": 204,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 41,
+                    "image_url": "",
+                    "name": "Omar Silva",
+                    "national_rank": 89,
+                    "summary": "           $3,434,123 in sales QTD<br/>9.4% incentives QTD<br/>75% realtor attachment",

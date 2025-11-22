@@ -3748,7 +3748,6 @@
                 "total_chats_percent_change": 0,
                 "total_chats_texts": 0,
                 "total_chats_texts_percent_change": 0,
-                "total_sales": 0,
                 "total_texts": 0,
                 "total_texts_percent_change": 0,
                 "trifecta": {
@@ -12486,6 +12485,7 @@
                   },
                   {
                     "x_axis": "Sep 04",
+                    "y_axis": 1
                   },
                   {
                     "x_axis": "Sep 11",
@@ -18107,3 +18107,61 @@
         "PRIOR_WEEK_APPOINTMENT_SET_TICKER_ARRAY": [
           {
             "activity_status": "Connected",
+            "activity_time": "2023-10-02 10:30:00.000",
+            "sort": 10
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-02 10:30:00.000",
+            "sort": 21
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-02 11:00:00.000",
+            "sort": 9
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-02 11:00:00.000",
+            "sort": 20
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-02 11:00:00.000",
+            "sort": 32
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-02 11:00:00.000",
+            "sort": 42
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-02 11:30:00.000",
+            "sort": 46
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-02 12:00:00.000",
+            "sort": 3
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-02 13:00:00.000",
+            "sort": 3
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-02 14:00:00.000",
+            "sort": 10
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-02 14:00:00.000",
+            "sort": 14
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-02 14:30:00.000",
+            "sort": 33
+          },

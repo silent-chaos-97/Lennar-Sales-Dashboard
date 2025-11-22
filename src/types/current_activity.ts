@@ -23,6 +23,7 @@ export interface CurrentActivityState {
   APPOINTMENT_SET_TICKER_ARRAY: TickerItem[]
   PRIOR_WEEK_APPOINTMENT_SET_TICKER_ARRAY: TickerItem[]
   CALLS_TICKER_ARRAY: TickerItem[] | null
+  CHATS_TEXTS_TICKER_ARRAY: null | TickerItem[]
   LEADS_BY_CHANNEL: {
     paid: number
     paid_pct_change: number
@@ -30,7 +31,6 @@ export interface CurrentActivityState {
     non_paid_pct_change: number
     third_party: number
     third_party_pct_change: number
-  }
   WEB_VISITORS: null | number
   WEB_VISITORS_PERCENT_CHANGE: number
   WEB_VISITORS_PREV?: number

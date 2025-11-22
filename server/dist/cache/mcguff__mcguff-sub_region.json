@@ -95638,3 +95638,313 @@
               -121.335061572,
               38.629452271
             ],
+            "geometry": {
+              "coordinates": [
+                -121.5513896,
+                38.6796926
+              ],
+              "type": "Point"
+            },
+            "id": 294,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 43,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_anthony_howells_lr_jpg",
+                    "name": "Anthony Howells",
+                    "national_rank": 293,
+                    "summary": "           $6,256,164 in sales QTD<br/>5.2% incentives QTD<br/>0% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3.5 ba",
+                "days_from_completion": "49 days prior",
+                "home_size": "       3,180 sqft.",
+                "home_type": "Next Gen",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6157/45773/45773_eleB_lg.jpg",
+                "incentive_percent": 1,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 22,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 34,
+                "sale_price": 815325,
+                "sale_title": "Residence 3180 just sold in Bleau @ Northlake",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.3469398,
+                38.7133234
+              ],
+              "type": "Point"
+            },
+            "id": 285,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Devin McCraw",
+                    "national_rank": 1,
+                    "summary": "          $20,667,582 in sales QTD<br/>7.8% incentives QTD<br/>34% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "126 days prior",
+                "home_size": "       1,653 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6388/63777/63777_eleA_lg.jpg",
+                "incentive_percent": 10,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 33,
+                "sale_price": 510000,
+                "sale_title": "Residence 1653 just sold in Sunstone @ Barrett Ranch",
+                "sale_type": "Retail",
+                "web_content_score": "4"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Seattle",
+            "division_coordinates": [
+              -121.068986031,
+              47.54677194
+            ],
+            "geometry": {
+              "coordinates": [
+                -117.477817,
+                47.7562546
+              ],
+              "type": "Point"
+            },
+            "id": 277,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 56,
+                    "image_url": "",
+                    "name": "Marc Albert",
+                    "national_rank": 323,
+                    "summary": "           $4,956,457 in sales QTD<br/>1.5% incentives QTD<br/>70% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_callie_gauderault_lr_jpg",
+                    "name": "Callie Gaudreault",
+                    "national_rank": 2,
+                    "summary": "          $32,776,450 in sales QTD<br/>353 appointments QTD<br/>48% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "55 days prior",
+                "home_size": "       3,081 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7021/59628/59628_eleB_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Direct lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 32,
+                "sale_price": 634950,
+                "sale_title": "Meridian just sold in Woodridge Platinum Collection",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.3955997,
+                38.7559815
+              ],
+              "type": "Point"
+            },
+            "id": 271,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Devin McCraw",
+                    "national_rank": 1,
+                    "summary": "          $20,667,582 in sales QTD<br/>7.8% incentives QTD<br/>34% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 19,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_danielle_koski_lr_jpg",
+                    "name": "Danielle Koski",
+                    "national_rank": 145,
+                    "summary": "          $20,738,773 in sales QTD<br/>100 appointments QTD<br/>8% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "135 days prior",
+                "home_size": "       2,179 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6390/63775/63775_eleC_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-20",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-20",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Damon! This is Danielle with Lennar, nice talking with you.  I have set you up to meet with Devin Sunday at 10am at Sierra West.  The office is located at 1120 Mambo Way Roseville.  Her number is 916-886-6077. She will call to confirm appointment detai",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-20",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Liked “Hi Damon! This is Danielle with Lennar, nice talki…”",
+                    "sort": 3,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-20",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "text",
+                    "actor_type": "purple",

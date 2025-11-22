@@ -47,7 +47,6 @@ const LeaderboardDetail = ({
         nationalRank={nationalRank}
         disablePrevNext={disablePrevNext}
       />
-    )
   } else {
     return (
       <NHSDetail

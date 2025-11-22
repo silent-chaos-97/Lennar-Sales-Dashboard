@@ -34,3 +34,4 @@ const CustomDailyAnalyticsBox = ({
         ) : (
           <SouthEastIcon color={isDecreaseBenefit ? 'success' : 'error'} />
         ))}
+      <Typography variant="caption" color={diffColor} fontWeight={700}>

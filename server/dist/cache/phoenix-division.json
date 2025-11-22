@@ -1261,6 +1261,7 @@
                 "appt_set_division_rank": 3,
                 "appt_set_national_rank": 50,
                 "appts_kept": {
+                  "color": "green",
                   "goal_value": 75,
                   "percent_value": 103.33
                 },
@@ -89350,3 +89351,278 @@
             "division_coordinates": [
               -112.030993184,
               33.41278159
+            ],
+            "geometry": {
+              "coordinates": [
+                -112.425658833,
+                33.554721
+              ],
+              "type": "Point"
+            },
+            "id": 264,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Elyse Snitzer",
+                    "national_rank": 17,
+                    "summary": "          $15,725,608 in sales QTD<br/>249 appointments QTD<br/>19% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 12,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_angela_schnitzer_lr_jpg",
+                    "name": "Angela Schnitzer",
+                    "national_rank": 339,
+                    "summary": "           $4,018,336 in sales QTD<br/>1% incentives QTD<br/>80% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "624 days post",
+                "home_size": "       1,968 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6501/56066/56066_eleH_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-11",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-11",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-09-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-11",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-09-11",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Diane,  \t   \tWe look forward to your visit at Northern Crossing.  I'm excited to introduce you to the New Home Consultant you will be meeting to help you find the perfect home!  Angela Schnitzer is copied on this email and her direct phone number is 480-234-3774.   Also, below are details and dir...",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-11",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Diane! We're excited to see you for your tour of Northern Crossing 45s 09/11/2023 at 4:00 PM with Angela Schnitzer. The Welcome Home Center is located at 17045 West Royal Palm Road, Waddell, Arizona 85355. See you soon! Elyse Snitzer 6236954618",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 10,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 14,
+                "sale_price": 469990,
+                "sale_title": "Ocotillo Plan 3520 just sold in Northern Crossing 45s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Phoenix",
+            "division_coordinates": [
+              -112.030993184,
+              33.41278159
+            ],
+            "geometry": {
+              "coordinates": [
+                -112.425981429,
+                33.554872286
+              ],
+              "type": "Point"
+            },
+            "id": 215,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 32,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_max_ecker_lr_jpg",
+                    "name": "Max Ecker",
+                    "national_rank": 1046,
+                    "summary": "             $929,980 in sales QTD<br/>0% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "625 days post",
+                "home_size": "       2,524 sqft.",
+                "home_type": "Next Gen",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6502/56070/56070_eleM_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 7,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 13,
+                "sale_price": 559990,
+                "sale_title": "Revolution Plan 4083 just sold in Northern Crossing 50s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Phoenix",
+            "division_coordinates": [
+              -112.030993184,
+              33.41278159
+            ],
+            "geometry": {
+              "coordinates": [
+                -112.425822857,
+                33.554784857
+              ],
+              "type": "Point"
+            },
+            "id": 207,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 32,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_max_ecker_lr_jpg",
+                    "name": "Max Ecker",
+                    "national_rank": 1046,
+                    "summary": "             $929,980 in sales QTD<br/>0% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "625 days post",
+                "home_size": "       1,797 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6503/56072/56072_eleA_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 6,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 12,
+                "sale_price": 439990,
+                "sale_title": "Barbaro Plan 3570 just sold in Northern Crossing 45s Disc",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Phoenix",
+            "division_coordinates": [
+              -112.030993184,
+              33.41278159
+            ],
+            "geometry": {
+              "coordinates": [
+                -112.2605692,
+                33.4949256
+              ],
+              "type": "Point"
+            },
+            "id": 197,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Elyse Snitzer",
+                    "national_rank": 17,
+                    "summary": "          $15,725,608 in sales QTD<br/>249 appointments QTD<br/>19% lead to appointment rate",
+                    "type": "ISC"
+                  },

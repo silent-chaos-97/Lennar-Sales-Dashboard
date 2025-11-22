@@ -19546,6 +19546,7 @@
                     "x_axis": "Jul 31",
                     "y_axis": 1
                   },
+                  {
                     "x_axis": "Aug 07",
                     "y_axis": 4
                   },
@@ -26915,7 +26916,6 @@
                   },
                   {
                     "x_axis": "Sep 18",
-                    "y_axis": 1
                   },
                   {
                     "x_axis": "Sep 25",
@@ -60472,3 +60472,195 @@
                 "bed_bath": "3 bd/2 ba",
                 "days_from_completion": "45 days prior",
                 "home_size": "       1,634 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7300/61749/61749_eleTH_lg.jpg",
+                "incentive_percent": 5,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-09-16",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi JK,  \t   \tThank you for requesting more information through our website. I see you spoke with Alex and based off what you're looking for in a new home, I think these communities would work well! Let me know what you think!  \t   \t   \t   \t   \tChester County  \t   \tMagnolia Reserve - East Vincent Tow...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-01",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-09-01",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Rohit,  \t   \tThank you for your interest in Clover Mill by Lennar located in Downingtown, PA! This beautiful community will feature 140 new homes including townhomes and carriage homes priced from the $500's.   \t   \tClover Mill will belong to the Downingtown Area School District! These homes will...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-01",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-09-02",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-09-02",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Rohit,  I look forward to our meeting today at Clover Mill to tour our Model Homes and discuss availability.   Matt Avrich New Home Consultant Matthew.Avrich@Lennar.com Mobile 215-460-6162 1285 Drummers Lane Suite 100 Wayne, PA 19087  This e-mail is not a solicitation, offer, acceptance of an off...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-03",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 37,
+                "sale_price": 290990,
+                "sale_title": "Hampton just sold in Mirada 18 THs",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "McMurray",
+            "type": "Feature"
+          },
+          {
+            "division": "Southwest Florida",
+            "division_coordinates": [
+              -81.888443233,
+              26.760973757
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.5698128,
+                26.3043844
+              ],
+              "type": "Point"
+            },
+            "id": 347,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 63,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_brad_wenstrom_lr_jpg",
+                    "name": "Brad Wenstrom",
+                    "national_rank": 513,
+                    "summary": "           $3,304,560 in sales QTD<br/>0% incentives QTD<br/>88% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 17,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_kaleigh_paul_lr_jpg",
+                    "name": "Kaleigh Paul",
+                    "national_rank": 156,
+                    "summary": "          $13,458,271 in sales QTD<br/>89 appointments QTD<br/>18% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "34 days prior",
+                "home_size": "       2,032 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/1674/13410/13410_eleC_lg.jpg",
+                "incentive_percent": 7,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-05-24",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Zillow lead created"
+                  },
+                  {
+                    "activity_date": "2023-05-24",
+                    "activity_type": "live_chat",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Missed live chat"
+                  },
+                  {
+                    "activity_date": "2023-05-24",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Susan,  \t   \tMy name is Daniel Retheford. I am your Internet Sales Representative for Lennar Homes. I understand we missed your inquiry on Live Chat. What information for which Lennar/WCI community may I assist you with?  \t   \tKind Regards,  \tDaniel Retheford \tInternet Sales Coordinator | Lennar ...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-24",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Susan,  My name is Kaleigh Paul. I am your Internet Sales Representative for Lennar Homes. I understand we missed your inquiry on Live Chat. What information for which Lennar/WCI community may I assist you with?  Kind Regards,  Kaleigh Paul Internet Sales Consultant | Lennar Southwest Florida 941...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-30",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",

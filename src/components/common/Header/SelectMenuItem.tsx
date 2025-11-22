@@ -51,3 +51,4 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
                     color: 'white',
                     textDecoration: 'underline'
                   }
+                }}

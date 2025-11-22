@@ -7,5 +7,4 @@ export interface InsightItem {
 }
 
 export interface InsightState extends Cohort {
-  BOTTOM_INCENTIVE_INSIGHT: InsightItem
   BOTTOM_SALES_INSIGHT: InsightItem

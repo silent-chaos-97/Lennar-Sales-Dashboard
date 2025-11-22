@@ -335,3 +335,4 @@ export const theme = createTheme({
           color: '#515468'
         }
       }
+    },

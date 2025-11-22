@@ -66970,7 +66970,6 @@
           },
           {
             "activity_status": "Missed",
-            "activity_time": "2023-10-09 15:00:00.000",
             "sort": 19
           },
           {
@@ -74681,6 +74680,7 @@
         "GROSS_SALES": {
           "graph": [
             {
+              "sort": 1,
               "x_axis": "Jul 13",
               "y_axis": 77
             },
@@ -75683,3 +75683,248 @@
                   {
                     "cohort_rank": 8,
                     "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_teresa_cash_lr_jpg",
+                    "name": "Teresa Cash",
+                    "national_rank": 196,
+                    "summary": "           $7,325,708 in sales QTD<br/>0% incentives QTD<br/>25% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "126 days prior",
+                "home_size": "       1,944 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5884/63579/63579_eleC_lg.jpg",
+                "incentive_percent": 11,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Good Day Anatoliy, \t  \t \tHello from your Internet Sales Consultant Team for Lennar Homes.  \t   \tLennar Mortgage has been providing homebuyers with options and opportunities for over 40 years. Our team of professionals will ensure that you receive the guidance and support to make sound borrowing deci...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 16,
+                "sale_price": 540000,
+                "sale_title": "Residence 1944 just sold in Andorra Sierra West   KT3B&4",
+                "sale_type": "Retail",
+                "web_content_score": "4"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.392418571,
+                38.049113571
+              ],
+              "type": "Point"
+            },
+            "id": 314,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 3,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_danielle_koski_lr_jpg",
+                    "name": "Danielle Koski",
+                    "national_rank": 145,
+                    "summary": "          $20,738,773 in sales QTD<br/>100 appointments QTD<br/>8% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 14,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_valerie_ramoslr_jpg",
+                    "name": "Valerie Ramos",
+                    "national_rank": 298,
+                    "summary": "           $5,976,019 in sales QTD<br/>0% incentives QTD<br/>10% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3.5 ba",
+                "days_from_completion": "35 days post",
+                "home_size": "       2,776 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7205/61041/61041_eleA_lg.jpg",
+                "incentive_percent": 7,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -5,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 15,
+                "sale_price": 600000,
+                "sale_title": "Residence 2776 just sold in Shoreside @ Westlake Vil G",
+                "sale_type": "Retail",
+                "web_content_score": "4"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.0831344,
+                38.6355362
+              ],
+              "type": "Point"
+            },
+            "id": 312,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Breanna Evans",
+                    "national_rank": 60,
+                    "summary": "          $45,724,789 in sales QTD<br/>168 appointments QTD<br/>12% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "",
+                    "name": "Peter Pham",
+                    "national_rank": 2,
+                    "summary": "          $30,881,079 in sales QTD<br/>8.7% incentives QTD<br/>19% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "48 days post",
+                "home_size": "       3,008 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7437/62781/62781_eleB_lg.jpg",
+                "incentive_percent": 18,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Sterling Hills at Russell Ranch  \t \tSelling now!  \tNeed to get pre-qualified? Click here to start your easy application with Lennar Mortgage.  \t  \t  \t \t \t  \t  \t  \t   \tDear Lavanya,  \tHello from Lennar Sacramento's Internet Sales Consultant team! Thank you for your interested in our Sterling Hills at...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Lavanya!  This is Breanna with Lennar’s Digital Team. Just a quick check in to make sure your tour is going well. Please let me know if you have any questions or are interested in any of the homes.",
+                    "sort": 8,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",

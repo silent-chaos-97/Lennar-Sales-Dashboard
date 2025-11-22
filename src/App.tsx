@@ -18,3 +18,4 @@ function App() {
           </TimerProvider>
         </StateProvider>
       </ScreenContextProvider>
+    </ThemeProvider>

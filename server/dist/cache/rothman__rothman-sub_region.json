@@ -77183,3 +77183,252 @@
                 "sale_price": 290045,
                 "sale_title": "DOVER just sold in Cooper's Bluff",
                 "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "NJ / NY",
+            "division_coordinates": [
+              -74.469322331,
+              40.464021311
+            ],
+            "geometry": {
+              "coordinates": [
+                -74.7403548,
+                40.003686
+              ],
+              "type": "Point"
+            },
+            "id": 449,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 48,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_gerry_fish_2_lr_jpg",
+                    "name": "Gerard Fish",
+                    "national_rank": 547,
+                    "summary": "           $3,201,705 in sales QTD<br/>0.6% incentives QTD<br/>29% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 23,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_colleen_harrisonlr_jpg",
+                    "name": "Colleen Harrison",
+                    "national_rank": 188,
+                    "summary": "          $17,744,920 in sales QTD<br/>66 appointments QTD<br/>17% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "134 days prior",
+                "home_size": "       1,846 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5244/40139/40139_eleC_lg.jpg",
+                "incentive_percent": 3,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-06-25",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Organic lead created"
+                  },
+                  {
+                    "activity_date": "2023-06-26",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-06-26",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Michael,  \t   \tThank you for your interest in the loft homes Lennar is building at Monroe Parke, in Monroe Township, NJ. My name is Colleen and I am here to answer any questions you have about our homes.   \t   \tLOFT HOMES:  \tPricing will starts in the $400s and the homes are anywhere between 1,18...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-26",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Michael this is Colleen Harrison from Lennar in New Jersey! Thank you for your interest in our community, The Lofts At Monroe Parke.   I would be happy to help with any initial questions or any information about the community! Also, when is a good time for you to stop by for a tour?  Feel free to...",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-26",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 5,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-06-26",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Absolutely! What time on Thursday morning is best for you? We open at 10am   Warm Regards,  Colleen Harrison Internet Sales Coordinator    Colleen.Harrison@Lennar.com<mailto:Colleen.Harrison@Lennar.com> Phone: 609-349-8258  2465 Kuser Road Floor 3 Hamilton, NJ 08690    This e-mail is not a solicitat...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-26",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Michael,  This is Colleen Harrison from Lennar Homes!  Your private tour is set on Thursday 06/29/2023 10:30 AM at The Lofts At Monroe Parke:  1601 Swales Court Monroe Township, NJ 08831  You will be meeting on site with Antoinette!   If you have any questions or need to reschedule, please call o...",
+                    "sort": 7,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-26",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Great! I texted over a confirmation for 10:30am on Thursday  If anything changes and you are running a little late just let us know, no worries!  Warm Regards,  Colleen Harrison Internet Sales Coordinator    Colleen.Harrison@Lennar.com<mailto:Colleen.Harrison@Lennar.com> Phone: 609-349-8258  2465 Ku...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-26",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Ok thanks  I'll text you only if we think we're running late",
+                    "sort": 9,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-06-28",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "We are so glad you are interested in our The Lofts At Monroe Parke Community. We look forward to seeing you 06/29/2023 at 10:30 AM. See you soon!",
+                    "sort": 10,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 11,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hello Michael  I just confriming our appointment for today at 1030 at Monroe Parke.  Address: 1601 Swales Court Monroe NJ 08831 Please advise Thank you  Antoinette 732-546-8049",
+                    "sort": 13,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hello Michael  I just confriming our appointment for today at 1030 at Monroe Parke.  Address: 1601 Swales Court Monroe NJ 08831 Please advise Thank you  Antoinette 732-546-8049",
+                    "sort": 14,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "On our way",
+                    "sort": 15,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Michael. ,  Please confirm our 1030 am appointment today at Monroe Parke today Address; 1601 swales Court Monroe NJ 08831  Antoinette Chenoweth Monroe Parke 1601 Swales Court Monroe NJ 08831 732-546-8049 Thursday - Monday 10am to 6 pm",
+                    "sort": 16,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "We're in front of 1601",
+                    "sort": 17,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Michael & Judy,  Thank you for visiting us Monroe Parke lofts & towns:)  Acadia at Monroe Parke Bryce at Monroe Parke Denali Model at Monroe Parke  Hopewell Parc Lofts & towns I now also selling in Hopewell Parc Great Price points. We have Great Price Point upper $400's to mid $600's. Great Lo...",
+                    "sort": 18,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 19,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-07-05",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Michael & Judy,  We also spoke about Hopewell Parc the Collins 2 bedrooms,2 baths, 1 car Garage,   We have Great Price Point upper $400's to mid $600's. Great Location, Great Amenities, and this is going to increase in value quickly.  2 Bedrooms, 2 baths, 1 car garage 1300 Sq. Ft The Terrace C...",
+                    "sort": 21,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-06",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 22,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-07",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 23,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-08-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Michael this is Chris with Lennar homes. It was great speaking with you! Feel free to let me know if you have any further questions and/or when you are ready to set up a tour after the sale of your home. You can call or text me right at this number. Lo",
+                    "sort": 24,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 25,
+                    "title": "Sale"
+                  }

@@ -2265,3 +2265,11 @@
                 "text-color": "rgb(119, 138, 173)"
             }
         },
+        {
+            "id": "settlement-subdivision-label",
+            "type": "symbol",
+            "metadata": {
+                "mapbox:featureComponent": "place-labels",
+                "mapbox:group": "Place labels, place-labels"
+            },
+            "source": "composite",

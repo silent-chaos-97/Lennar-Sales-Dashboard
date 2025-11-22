@@ -7758,6 +7758,7 @@
                   {
                     "x_axis": "Oct 09",
                     "y_axis": 2
+                  }
                 ],
                 "gross_sales": 14,
                 "gross_sales_division_rank": 1,
@@ -13679,3 +13680,47 @@
                 ],
                 "bed_bath": "4 bd/3 ba",
                 "days_from_completion": "7 days prior",
+                "home_size": "       2,170 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6845/63634/63634_eleA3C_lg.jpg",
+                "incentive_percent": 10,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-07-30",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Social lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 6,
+                "sale_price": 399900,
+                "sale_title": "Carlton just sold in Mandalay Ranch 35",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"

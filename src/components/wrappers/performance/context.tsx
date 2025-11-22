@@ -26,3 +26,4 @@ export const PerformanceProvider = ({
 
   return (
     <PerformanceContext.Provider value={{ performanceState }}>
+      {children}

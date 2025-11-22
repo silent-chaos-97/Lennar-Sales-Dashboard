@@ -97,3 +97,4 @@ export const LEADERBOARD_TIMEFRAMES = {
 }
 
 export const ISC_LEADERBOARD_CATEGORIES = {
+  appointments_kept: 'Appointments kept',

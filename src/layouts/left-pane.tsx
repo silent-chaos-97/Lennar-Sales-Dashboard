@@ -36,6 +36,7 @@ const LeftPane = () => {
         <Grid item lg={9}>
           <Section
             title="Current activity"
+            more={
               <Stack direction="row" alignItems="center" spacing={1} color="text.secondary">
                 <ArrowForwardIcon color="inherit" />
                 <Typography variant="caption" color="text.secondary">
@@ -60,3 +61,4 @@ const LeftPane = () => {
           </Section>
         </Grid>
         <Grid item lg={3}>
+          {leaderboards?.ISC_LEADERBOARDS && (

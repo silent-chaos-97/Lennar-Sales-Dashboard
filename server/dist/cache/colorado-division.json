@@ -60596,7 +60596,6 @@
           {
             "activity_status": "Connected",
             "activity_time": "2023-10-10 14:00:00.000",
-            "sort": 2
           },
           {
             "activity_status": "Connected",
@@ -64979,3 +64978,214 @@
           {
             "activity_status": "Missed",
             "activity_time": "2023-10-01 15:00:00.000",
+            "sort": 31
+          }
+        ],
+        "TIMEFRAME": "prev_week",
+        "WEB_VISITORS": 1865,
+        "WEB_VISITORS_PERCENT_CHANGE": 8,
+        "HOURLY_WEB_VISITORS_ARRAY": [
+          {
+            "current": 128,
+            "hour": 7,
+            "prev": 0
+          },
+          {
+            "current": 197,
+            "hour": 8,
+            "prev": 0
+          },
+          {
+            "current": 221,
+            "hour": 9,
+            "prev": 0
+          },
+          {
+            "current": 200,
+            "hour": 10,
+            "prev": 0
+          },
+          {
+            "current": 233,
+            "hour": 11,
+            "prev": 0
+          },
+          {
+            "current": 253,
+            "hour": 12,
+            "prev": 0
+          },
+          {
+            "current": 232,
+            "hour": 13,
+            "prev": 0
+          },
+          {
+            "current": 215,
+            "hour": 14,
+            "prev": 0
+          },
+          {
+            "current": 209,
+            "hour": 15,
+            "prev": 0
+          },
+          {
+            "current": 242,
+            "hour": 16,
+            "prev": 0
+          },
+          {
+            "current": 190,
+            "hour": 17,
+            "prev": 0
+          },
+          {
+            "current": 186,
+            "hour": 18,
+            "prev": 0
+          }
+        ],
+        "LEADS": 140,
+        "LEADS_PERCENT_CHANGE": -8,
+        "HOURLY_LEADS_ARRAY": [
+          {
+            "current": 9,
+            "hour": 7,
+            "prev": 8
+          },
+          {
+            "current": 8,
+            "hour": 8,
+            "prev": 10
+          },
+          {
+            "current": 12,
+            "hour": 9,
+            "prev": 10
+          },
+          {
+            "current": 4,
+            "hour": 10,
+            "prev": 13
+          },
+          {
+            "current": 12,
+            "hour": 11,
+            "prev": 9
+          },
+          {
+            "current": 3,
+            "hour": 12,
+            "prev": 14
+          },
+          {
+            "current": 7,
+            "hour": 13,
+            "prev": 9
+          },
+          {
+            "current": 12,
+            "hour": 14,
+            "prev": 10
+          },
+          {
+            "current": 4,
+            "hour": 15,
+            "prev": 11
+          },
+          {
+            "current": 7,
+            "hour": 16,
+            "prev": 13
+          },
+          {
+            "current": 7,
+            "hour": 17,
+            "prev": 9
+          },
+          {
+            "current": 14,
+            "hour": 18,
+            "prev": 15
+          }
+        ],
+        "TOTAL_CALLS": 215,
+        "TOTAL_CALLS_PERCENT_CHANGE": 13,
+        "TOTAL_CHATS_TEXTS": 56,
+        "TOTAL_CHATS_TEXTS_PERCENT_CHANGE": -7,
+        "APPOINTMENTS_SET": 34,
+        "APPOINTMENTS_SET_PERCENT_CHANGE": -35,
+        "LEADS_BY_CHANNEL": {
+          "non_paid": 14,
+          "non_paid_pct_change": -42,
+          "paid": 125,
+          "paid_pct_change": -1,
+          "third_party": 1,
+          "third_party_pct_change": -50
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:28.315"
+      },
+      "today": {
+        "COHORT": "Colorado",
+        "COHORT_TYPE": "division",
+        "CALLS_TICKER_ARRAY": [
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 08:40:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 08:45:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 08:50:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 08:50:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 08:50:00.000",
+            "sort": 3
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 08:55:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 09:00:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 09:05:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 09:10:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 09:15:00.000",
+            "sort": 1
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 09:15:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-12 09:20:00.000",
+            "sort": 1

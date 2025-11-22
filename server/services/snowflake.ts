@@ -97,6 +97,7 @@ class SnowflakeService {
                   })
 
                 return {
+                  type: rRow.COHORT_TYPE,
                   name: rRow.COHORT,
                   latitude: rRow.LATITUDE,
                   longitude: rRow.LONGITUDE,

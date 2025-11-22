@@ -293,7 +293,6 @@ const CenterPane = () => {
   const handleClickPrev = () => {
     if (selectedSalesItems.length > 1 && clusterIndex > 0) {
       setScroolProgress([false, false])
-      setClusterIndex(clusterIndex - 1)
     }
   }
 
@@ -323,3 +322,4 @@ const CenterPane = () => {
             onClick={handleClickMarker(dot, idx, true)}
           >
             <Typography
+              style={{

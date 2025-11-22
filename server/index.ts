@@ -25,6 +25,7 @@ app.get('/api/metrics', async (req, res) => {
 })
 
 const CACHE_DIRECTORY = path.join(__dirname, 'cache')
+
 // Create the cache directory if it doesn't exist
 if (!fs.existsSync(CACHE_DIRECTORY)) {
   fs.mkdirSync(CACHE_DIRECTORY)
@@ -59,7 +60,6 @@ app.get('/api/data', async (req, res) => {
     }
   }
 
-  console.log(`Fetching data from snowflake`)
 
   const result = await SnowflakeService.getCohortData(cohort as string, cohort_type as string)
   const timestampedResult = {

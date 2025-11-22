@@ -156,3 +156,4 @@ const MainLayout = () => {
         <DashboardLayout
           ref={dashboardRef}
           sx={{
+            placeContent: isDesktop ? 'unset' : 'center',

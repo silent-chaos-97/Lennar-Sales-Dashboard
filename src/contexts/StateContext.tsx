@@ -193,3 +193,4 @@ export const StateProvider = (props: PropsWithChildren) => {
     const type = ['region', 'sub_region'].includes(currentCohort.type) ? currentCohort.type : null
     if (type) {
       if (type === 'region') setPrevSelectedDivisionType(type)
+      if (prevSelectedDivisionType !== 'region') {

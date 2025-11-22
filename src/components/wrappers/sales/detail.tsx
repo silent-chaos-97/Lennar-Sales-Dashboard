@@ -94,6 +94,7 @@ const SalesDetails = ({
             <IconButton onClick={onClose} size={'large'}>
               <CloseIcon htmlColor="#fff" />
             </IconButton>
+          </Stack>
         </Stack>
         <Grid container spacing={5}>
           <Grid item lg={6}>

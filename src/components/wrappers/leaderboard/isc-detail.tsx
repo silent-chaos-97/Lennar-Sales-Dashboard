@@ -92,6 +92,7 @@ const ISCDetail = ({
 }: LeaderboardDetailProps) => {
   const wrapperRef = useRef<HTMLDivElement>(null)
   useClickAway(wrapperRef, () => onClose())
+
   const radialData = useMemo(() => {
     return [
       {
@@ -321,3 +322,4 @@ const ISCDetail = ({
                   enableCircularGrid={false}
                   radialAxisStart={{
                     tickSize: 0,
+                    tickPadding: 12,

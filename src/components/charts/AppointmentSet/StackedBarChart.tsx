@@ -114,3 +114,4 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
       .selectAll('g')
       .data(curData)
       .enter()
+      .append('rect')

@@ -108,3 +108,4 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         y: filteredCurrentTickers[filteredCurrentTickers.length - 1]
       }
 
+      svg
