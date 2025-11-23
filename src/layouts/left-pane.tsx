@@ -38,7 +38,6 @@ const LeftPane = () => {
             title="Current activity"
             more={
               <Stack direction="row" alignItems="center" spacing={1} color="text.secondary">
-                <ArrowForwardIcon color="inherit" />
                 <Typography variant="caption" color="text.secondary">
                   vs same day and time previous week
                 </Typography>
@@ -62,3 +61,4 @@ const LeftPane = () => {
         </Grid>
         <Grid item lg={3}>
           {leaderboards?.ISC_LEADERBOARDS && (
+            <Leaderboard

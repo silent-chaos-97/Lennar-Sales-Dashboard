@@ -1310,3 +1310,24 @@
       }
     },
     "pacing": {
+      "COHORT": "Bay Area Urban",
+      "COHORT_TYPE": "division",
+      "PAST_3W_SALES": 0.333333,
+      "NEXT_3W_PACE": 1,
+      "WEEKLY_PACING_GRAPH": [
+        {
+          "future_pace": 0,
+          "gross_sales": 2,
+          "sort": 0,
+          "x_axis": "Aug 28"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 1,
+          "sort": 1,
+          "x_axis": "Sep 04"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 2,
+          "sort": 2,

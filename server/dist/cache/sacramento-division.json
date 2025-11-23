@@ -56858,7 +56858,6 @@
             "sort": 2
           },
           {
-            "activity_status": "Connected",
             "activity_time": "2023-10-05 16:55:00.000",
             "sort": 3
           },
@@ -66970,6 +66969,7 @@
           },
           {
             "activity_status": "Missed",
+            "activity_time": "2023-10-09 15:00:00.000",
             "sort": 19
           },
           {
@@ -75928,3 +75928,1200 @@
                     "activity_date": "2023-10-10",
                     "activity_type": "sale",
                     "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank-you Breanna. The tour went well.",
+                    "sort": 9,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Self-guided tour"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -18,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 14,
+                "sale_price": 750000,
+                "sale_title": "Residence 3008 just sold in Sterling Hills@Russell Ranch",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.5513896,
+                38.6796926
+              ],
+              "type": "Point"
+            },
+            "id": 307,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 12,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_anthony_howells_lr_jpg",
+                    "name": "Anthony Howells",
+                    "national_rank": 293,
+                    "summary": "           $6,256,164 in sales QTD<br/>5.2% incentives QTD<br/>0% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3.5 ba",
+                "days_from_completion": "49 days prior",
+                "home_size": "       3,180 sqft.",
+                "home_type": "Next Gen",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6157/45773/45773_eleB_lg.jpg",
+                "incentive_percent": 1,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 22,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 13,
+                "sale_price": 815325,
+                "sale_title": "Residence 3180 just sold in Bleau @ Northlake",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.3469398,
+                38.7133234
+              ],
+              "type": "Point"
+            },
+            "id": 298,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Devin McCraw",
+                    "national_rank": 1,
+                    "summary": "          $20,667,582 in sales QTD<br/>7.8% incentives QTD<br/>34% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "126 days prior",
+                "home_size": "       1,653 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6388/63777/63777_eleA_lg.jpg",
+                "incentive_percent": 10,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 12,
+                "sale_price": 510000,
+                "sale_title": "Residence 1653 just sold in Sunstone @ Barrett Ranch",
+                "sale_type": "Retail",
+                "web_content_score": "4"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.3955997,
+                38.7559815
+              ],
+              "type": "Point"
+            },
+            "id": 284,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 3,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_danielle_koski_lr_jpg",
+                    "name": "Danielle Koski",
+                    "national_rank": 145,
+                    "summary": "          $20,738,773 in sales QTD<br/>100 appointments QTD<br/>8% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Devin McCraw",
+                    "national_rank": 1,
+                    "summary": "          $20,667,582 in sales QTD<br/>7.8% incentives QTD<br/>34% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "135 days prior",
+                "home_size": "       2,179 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6390/63775/63775_eleC_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-20",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-20",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Damon! This is Danielle with Lennar, nice talking with you.  I have set you up to meet with Devin Sunday at 10am at Sierra West.  The office is located at 1120 Mambo Way Roseville.  Her number is 916-886-6077. She will call to confirm appointment detai",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-20",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Liked “Hi Damon! This is Danielle with Lennar, nice talki…”",
+                    "sort": 3,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-20",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Hello.  I never received a confirmation text from Devon",
+                    "sort": 5,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Do we still have an appointment for 10 AM Sunday morning?",
+                    "sort": 6,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 14,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Damon,   Here is the link to schedule your self-guided tour of our Windham collection at Sierra West: https://selftournow.com/property/125a741b-2afd-4f4c-a36e-67b6e55f6192/units  The address is 9041 Himalaya Way, Roseville.   The Link for our Andorra c",
+                    "sort": 16,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 17,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 19,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 11,
+                "sale_price": 580000,
+                "sale_title": "Residence 2179 just sold in Windham at Sierra West",
+                "sale_type": "Retail",
+                "web_content_score": "4"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.5442534,
+                38.6825106
+              ],
+              "type": "Point"
+            },
+            "id": 262,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_elline_filcher_lr_jpg",
+                    "name": "Elline Filcher",
+                    "national_rank": 121,
+                    "summary": "          $21,589,545 in sales QTD<br/>117 appointments QTD<br/>9% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 12,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_anthony_howells_lr_jpg",
+                    "name": "Anthony Howells",
+                    "national_rank": 293,
+                    "summary": "           $6,256,164 in sales QTD<br/>5.2% incentives QTD<br/>0% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "20 days prior",
+                "home_size": "       2,114 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6161/45793/45793_eleB_lg.jpg",
+                "incentive_percent": 6,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-02-20",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2022-02-21",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-02-21",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-03-03",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-03-03",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-05-23",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello, This is Brandon, I’m an Internet Sales Coordinator with LENNAR. It’s been a couple months since you had toured our new home community in Sacramento, Northlake in North Natomas.  I wanted to check in and see if you are still in the market, wish to speak with a New Home Consultant regarding any...",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-07-20",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-07-21",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Amrinder, Great News we have new financing incentives coming out such as possible rate buy down or closing cost credits which will vary from home to home.  If you wish I could have a consultant and a loan officer  from the community reach out you to discuss in further detail  the  incentives that...",
+                    "sort": 8,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-07-21",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "America's Leading Homebuilder...  \tSince 1954, we've had the privilege of helping over one million families across America move into the next stage of their lives with a new home.  \tOur communities cater to all lifestyles and stages of life, we have options for first-time homebuyers, active adult li...",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-25",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Lennar at Northlake  \t   \tSchedule your Self Guided tour NOW.  \t \t   \tHello from Lennar’s Internet Sales Consultants!  \t   \tThank you for your interest in Northlake. A brand new master-planned community in Sacramento's North Natomas. Resort inspired living at its finest where life by the lake is the...",
+                    "sort": 10,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-30",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-30",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Good Day Amrinder Singh, \t  \t \tHello from your Internet Sales Consultant Team for Lennar Homes.  \t   \tLennar Mortgage has been providing homebuyers with options and opportunities for over 40 years. Our team of professionals will ensure that you receive the guidance and support to make sound borrowin...",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-31",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-09-17",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good morning.  This is a friendly reminder that your new home orientation is tomorrow, September 18, at 10 a.m. at your Lennar home.  Thank you Betty",
+                    "sort": 14,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-24",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 16,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good evening.  This is a friendly reminder that your final walk is tomorrow, September 25, at 9 a.m.  Thank you Betty",
+                    "sort": 17,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 19,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "cancellation",
+                    "actor_type": "red",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Cancellation"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 10,
+                "sale_price": 610000,
+                "sale_title": "Residence 2114 just sold in Lakelet @ Northlake",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.106798182,
+                38.641169636
+              ],
+              "type": "Point"
+            },
+            "id": 232,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "",
+                    "name": "Peter Pham",
+                    "national_rank": 2,
+                    "summary": "          $30,881,079 in sales QTD<br/>8.7% incentives QTD<br/>19% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3.5 ba",
+                "days_from_completion": "161 days prior",
+                "home_size": "       3,182 sqft.",
+                "home_type": "Next Gen",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6723/65155/65155_eleC_lg.jpg",
+                "incentive_percent": 1,
+                "journey_array": [
+                  {
+                    "activity_date": "2021-11-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2021-11-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2021-11-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-08-13",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-08-13",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2022-08-13",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-08-13",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-08-13",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "America's Leading Homebuilder...  \tSince 1954, we've had the privilege of helping over one million families across America move into the next stage of their lives with a new home.  \tOur communities cater to all lifestyles and stages of life, we have options for first-time homebuyers, active adult li...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-08-14",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Shabaz, This is Carolyn, I’m an Internet Sales Coordinator with LENNAR, thank you for taking a self-guided tour at our New Home community in Northlake.  I wanted to check in and see if you wish to speak with a New Home Consultant regarding any questions?  I also sent you an e-mail outlining ev...",
+                    "sort": 9,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-11-27",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-11-27",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-11-27",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-11-27",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-11-27",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 14,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-12-02",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-12-03",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 16,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-12-11",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 17,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-12-17",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-12-17",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 19,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-12-17",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2023-01-02",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-01-03",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "HI Shahbaz,   It was a pleasure speaking with you earlier. Please see the close map showing the lots with the 3159 plan and let me know so I can add you to the interest list.        Best Regards.         Peter Pham New Home Consultant  CA DRE# 01223101    El Dorado Hills - Hawk View/Emerald Peak/Sap...",
+                    "sort": 22,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 9,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 9,
+                "sale_price": 1010490,
+                "sale_title": "Residence 3182 just sold in Brass Point@Russell Ranch",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Sacramento",
+            "division_coordinates": [
+              -121.335061572,
+              38.629452271
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.3812254,
+                38.758271
+              ],
+              "type": "Point"
+            },
+            "id": 170,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_elline_filcher_lr_jpg",
+                    "name": "Elline Filcher",
+                    "national_rank": 121,
+                    "summary": "          $21,589,545 in sales QTD<br/>117 appointments QTD<br/>9% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Devin McCraw",
+                    "national_rank": 1,
+                    "summary": "          $20,667,582 in sales QTD<br/>7.8% incentives QTD<br/>34% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "85 days prior",
+                "home_size": "       3,167 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5870/44346/44346_eleA_lg.jpg",
+                "incentive_percent": 7,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-01-25",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "NewHomeSource lead created"
+                  },
+                  {
+                    "activity_date": "2022-01-26",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Lead created"
+                  },
+                  {
+                    "activity_date": "2022-01-27",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-27",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-27",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-27",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-27",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-27",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-27",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-27",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-27",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-28",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-29",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-30",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 14,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-30",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-30",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 16,
+                    "title": "NewHomeSource lead created"
+                  },
+                  {
+                    "activity_date": "2022-01-31",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 17,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-31",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-01-31",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 19,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-01-31",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-01-31",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-02-01",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 22,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-01",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 23,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-01",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 24,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-01",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 25,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-01",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 26,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-04",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 27,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 28,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 29,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 30,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 31,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 32,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 33,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 34,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 35,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 36,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 37,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-02-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",

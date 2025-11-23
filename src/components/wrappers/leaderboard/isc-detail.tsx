@@ -323,3 +323,8 @@ const ISCDetail = ({
                   radialAxisStart={{
                     tickSize: 0,
                     tickPadding: 12,
+                    tickRotation: 0,
+                    tickComponent: (tickProps) => (
+                      <AxisXStartTickComponent
+                        {...tickProps}
+                        value={

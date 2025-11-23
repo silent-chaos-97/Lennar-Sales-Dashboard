@@ -194,3 +194,6 @@ export const StateProvider = (props: PropsWithChildren) => {
     if (type) {
       if (type === 'region') setPrevSelectedDivisionType(type)
       if (prevSelectedDivisionType !== 'region') {
+        const nextCohorts = sortedCohorts.slice(idx + 1)
+        const nextRegionIdx = nextCohorts.findIndex((region) => region.type === type)
+        const division = sortedCohorts.slice(idx + 1, idx + 1 + nextRegionIdx)

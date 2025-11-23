@@ -37,3 +37,4 @@ const PercentValueText = ({
             sx={{ ml: 1 }}
           >
             {change || 0}%
+          </Typography>

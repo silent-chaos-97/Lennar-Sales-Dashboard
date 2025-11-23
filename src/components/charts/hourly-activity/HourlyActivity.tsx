@@ -55,3 +55,4 @@ const HourlyActivity = ({
             component="span"
             color={getValueChangeTextColor(change)}
             variant="h6"
+            sx={{ ml: 1 }}

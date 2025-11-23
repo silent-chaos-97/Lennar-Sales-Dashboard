@@ -16871,6 +16871,7 @@
                     "y_axis": 1
                   },
                   {
+                    "x_axis": "Sep 18",
                     "y_axis": 0
                   },
                   {
@@ -49072,3 +49073,776 @@
                 "realtor_commission": 0,
                 "sale_cohort_rank": 33,
                 "sale_price": 325985,
+                "sale_title": "ALEXIA just sold in Granary Park 40s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "North Alabama",
+            "division_coordinates": [
+              -86.745174627,
+              34.701431311
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.564162,
+                34.8864278
+              ],
+              "type": "Point"
+            },
+            "id": 349,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 51,
+                    "image_url": "",
+                    "name": "DTashia Smith",
+                    "national_rank": 971,
+                    "summary": "             $908,434 in sales QTD<br/>0% incentives QTD<br/>67% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 8,
+                    "image_url": "",
+                    "name": "Lauren Hudgins",
+                    "national_rank": 174,
+                    "summary": "           $5,223,954 in sales QTD<br/>79 appointments QTD<br/>18% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "41 days prior",
+                "home_size": "       1,660 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7070/60039/60039_eleA_lg.png",
+                "incentive_percent": 22,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-06-15",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Display lead created"
+                  },
+                  {
+                    "activity_date": "2023-06-15",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hey Alesia, this is Alan with Lennar Homes. I just left you a voicemail. I wanted to see if you had any questions about our communities. Are you free this weekend for a tour?",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-15",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 3,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-06-15",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Good Afternoon Alesia  \t \tMy name is Alan, your Lennar Internet Sales Coordinator. I received your request for information about our homes in North Alabama. I would love to help you in your search! Please contact me as soon as you are able. You can reply to this email or call me directly at 904-659-...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-15",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "I am free this weekend my price range is 250ish do you have home available for that price",
+                    "sort": 5,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-06-15",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "I do not think we have anything in that price range. We will be starting off around 289K. Have you applied for financing?",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-15",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "I was pre-approved for $250,000",
+                    "sort": 7,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "HUGE SALE ON LENNAR HOMES, Last chance to get 4.99% Interest rate, NO CLOSING COST, and Up to $125k Price Reduction.  Please call to get more info, sale ends October 8th.   If you have any questions or would like to take a tour of the community, you can r",
+                    "sort": 9,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hey,   HUGE SALE ON LENNAR HOMES, Last chance to get 4.99% Interest rate, NO CLOSING COST, and Up to $125k Price Reduction.  Please call to get more info, sale ends October 8th .   If you have any questions or would like to take a tour of the community, you can reply to this txt or call me directly ...",
+                    "sort": 10,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 11,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 32,
+                "sale_price": 259713,
+                "sale_title": "Residence 1660 just sold in The Retreat (All Phases)",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.361761659,
+                30.511948938
+              ],
+              "type": "Point"
+            },
+            "id": 335,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_rebecca_purvislr_jpg",
+                    "name": "Rebecca Purvis",
+                    "national_rank": 33,
+                    "summary": "           $6,467,011 in sales QTD<br/>4.6% incentives QTD<br/>95% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "82 days prior",
+                "home_size": "       1,544 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7297/64896/64896_eleHB_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 31,
+                "sale_price": 305990,
+                "sale_title": "Elan just sold in Saddle Ridge",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.5542516,
+                30.7280056
+              ],
+              "type": "Point"
+            },
+            "id": 333,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 19,
+                    "image_url": "",
+                    "name": "Melissa Powell",
+                    "national_rank": 513,
+                    "summary": "           $2,242,831 in sales QTD<br/>4.4% incentives QTD<br/>88% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "35 days prior",
+                "home_size": "       1,703 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7299/64296/64296_eleA_lg.jpg",
+                "incentive_percent": 10,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 30,
+                "sale_price": 314990,
+                "sale_title": "Halle just sold in Magnolia Creeks",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Jacksonville",
+            "division_coordinates": [
+              -81.873179476,
+              29.850980276
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.6609092,
+                30.5240634
+              ],
+              "type": "Point"
+            },
+            "id": 323,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 58,
+                    "image_url": "",
+                    "name": "Andrew Simpson",
+                    "national_rank": 1017,
+                    "summary": "             $695,060 in sales QTD<br/>0% incentives QTD<br/>0% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 10,
+                    "image_url": "",
+                    "name": "Susan Beecher",
+                    "national_rank": 200,
+                    "summary": "           $3,689,725 in sales QTD<br/>50 appointments QTD<br/>22% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "212 days prior",
+                "home_size": "       2,124 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6857/60314/60314_eleHB_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-02-06",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Good Afternoon, My name is Susan, and I am the Internet Sales Consultant for Lennar.  I just left you a voicemail  I just wanted to reach out and see if you are still interested in finding a new home with Lennar Homes.  We would love to show you what we have to offer.  Are you available to come out ...",
+                    "sort": 1,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-02-06",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello,  My name is Susan, I am an Internet Sales Coordination with Lennar Homes.  I did not see a community on your inquiry.  I am including a link below, please let me know if you would like to tour the models of any of these communities.  Or how I can assist you?  https://www.lennar.com/find-a-hom...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-13",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-03-13",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello, you are all set for today at 3:30 PM with Andrew at Highland Chase, the address is .9785 Lemon Grass Lane  Jacksonville, FL 32219.  Enjoy your visit.  Susan with Lennar, 904-300-7756.",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-04-20",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 5,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-04-20",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Good afternoon, My name is Susan, and I am the Internet Sales Consultant for Lennar.  I just want to follow up with you on your recent inquiry to our website.  I just left you a voicemail.  Please give me a call when you ae available to talk about what you are looking for in your next new home and s...",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-04-20",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello,   This is Susan Beecher with Lennar Homes. I just wanted to check in with you and say Hello, and to see if you had any questions or needed any information regarding our homes or communities?   I am available any time by phone call, text, or email to set up your community visit or answer your ...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-05",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 8,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-05-05",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Good afternoon, My name is Susan, and I am the Internet Sales Consultant for Lennar.  I just want to follow up with you on your recent inquiry to our website.  I just left you a voicemail.  Please give me a call when you ae available to talk about what you are looking for in your next new home and s...",
+                    "sort": 9,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-05-05",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello,  My name is Susan, I am an Internet Sales Coordination with Lennar Homes. I am following up with you on your inquiry through our website.  Please take a look at the link below, let me know if you would like to tour our models of any of our communities.  Or how else I can assist you?  You are ...",
+                    "sort": 10,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 11,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-05-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Dear Cheryl,  Thank you again for your interest in Lennar homes! I’m just following up regarding your recent request for more information. Did you receive all the information you needed? If you have any additional questions or would like any other specific information about any of our communities or...",
+                    "sort": 12,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-04",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 13,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-07-04",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Cheryl! Just checking in to see how we can help with your home search? Penny  Lennar Homes 904-467-4531 Direct",
+                    "sort": 14,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-04",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Cheryl! Just checking in to see how we can help with your home search?  Warm regards,  Penny Bass Direct:904-467-4531 Penny.bass@lennar.com",
+                    "sort": 15,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-28",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 16,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-09-28",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 17,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-09-28",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Ms. Roberts, \t \tIt has been a while since I have heard from you, and I wanted to see how things were going. Buying a new home is all about decision making and you can only make the right decision when you have all the best available information. \t \tAs a Lennar Internet Sales Consultant, I have...",
+                    "sort": 18,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-28",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi  Ms. Roberts.  My name is Susan with Lennar Homes.  Are you still in the market for a new home? Susan Beecher Lennar Internet Sales Consultant 904-659-0127 susan.beecher@lennar.com",
+                    "sort": 19,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 21,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 22,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 23,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -6,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 29,
+                "sale_price": 322085,
+                "sale_title": "Charle just sold in Seaton Creek 50s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Jacksonville",
+            "division_coordinates": [
+              -81.873179476,
+              29.850980276
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.151280043,
+                29.409948129
+              ],
+              "type": "Point"
+            },
+            "id": 310,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 21,
+                    "image_url": "",
+                    "name": "Monica Turner",
+                    "national_rank": 553,
+                    "summary": "           $2,378,006 in sales QTD<br/>5.2% incentives QTD<br/>43% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_penny_basslr_jpg",
+                    "name": "Penny Bass",
+                    "national_rank": 97,
+                    "summary": "          $10,739,663 in sales QTD<br/>137 appointments QTD<br/>25% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "Not Available",
+                "home_size": "       2,028 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6647/56987/56987_eleHA_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2020-05-05",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Please look for an email from Docu-sign and sign off on completed warranty request.  ***Automated Response***  ref:_00D36JZvE._5001QybKzX:ref",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2020-07-13",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Gregory, your service request has been received. Currently, due to Covid-19 all non-emergency services will be placed on a temporary hold. We do apologize for the inconvenience. This case will be documented and handled as soon a representative from our Lennar Customer Care Team reaches out and sc...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2020-07-28",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Greg, never recieved the picture of the overflowing downspout from you. Please send.  Thanks!  Gary Hamilton Lennar Customer Care  --------------- Original Message --------------- From: Gary Hamilton [gary.hamilton@lennar.com] Sent: 07/13/2020 03:58 PM To: nagbac2@gmail.com Subject: roofing/hvac/lan...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2020-08-06",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Mr. Charles,   I would like to schedule a time with you to review the service items for Case #03598989. Please advise if you have any availability this evening or your earliest for next week. Feel free to reach out for additional concerns or questions. Thank You   Cody Hacker Customer Care Rep...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2020-09-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Greg, all warrantable work on this case is complete. Per our discussion, the decision on the lawn is being handled by another CCR. I have closed this case and noted this. I am sending you a DocuSign to confirm. Thank You.  Best Regards, Gary Hamilton Lennar Customer Care  --------------- Original...",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2020-09-24",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Please locate the docusign email for Case #03598989 to complete the case document. Thank You   --------------- Original Message --------------- From: Cody Hacker [cody.hacker@lennar.com] Sent: 08/06/2020 11:40 AM To: nagbac2@gmail.com Subject: multiple issue [ ref:_00D36JZvE._5001Q11ILKR:ref ]  Hell...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2020-10-08",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Please look for an email from docu-sign and sign off on completed warranty request.   ***Automated Response***  Chris Mayo Director of Customer Care Jax Email: Chris.Mayo@Lennar.com Mobile : (904) 859-7763  Lennar Corporation | Jacksonville Division 9440 Phillips Hwy, Suite 7 Jacksonville, FL 32256 ...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2021-02-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Greg, I have received your case. Unfortunately, grout cracks are not covered at this point in your warranty. These are an easy fix and are considered homeowner maintenance. I have closed this case.  Please contact a qualified tile company and they can take care of this for you. If you need the co...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2021-03-23",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "eg,    Marina here with Lennar Homes in Las Vegas, we spoke on the phone earlier. Here are a few condo options for you under 300K, as we discussed. Just click on the links to view the floor plans, pricing, virtual tours, what is included, and so much more. Email or call if you have specific question...",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2021-05-03",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Greg, all work on this case is now completed or otherwise addressed. I have closed the case and will send a DocuSign for confirmation. I would appreciate your 5 Star Review, Thanks!  Best Regards, Gary Hamilton Lennar Customer Care  ref:_00D36JZvE._5005b19m5yg:ref",
+                    "sort": 10,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-01",
+                    "activity_type": "live_chat",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Missed live chat"
+                  },
+                  {
+                    "activity_date": "2023-03-02",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-03-02",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Charles!It was so nice to speak to you today!Please see the availability for Wexford Reserve.  It is a great community with oversized homesites!  Please let me know  if you have an questions or need additional information! 50ftWexford Reserve Floorplans Community-Phase: Community/Phase  ?LotLo...",
+                    "sort": 13,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-04-06",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 14,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-04-07",
+                    "activity_type": "live_chat",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Completed live chat"
+                  },
+                  {
+                    "activity_date": "2023-04-08",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 16,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-04-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Greg! Can you come see Wexford Reserve this weekend?  We had you for an appointment, but something must of come up.. Would you like to reschedule?  Penny  Lennar Homes 321-354-8674 Direct",
+                    "sort": 17,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-04-08",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 18,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-04-08",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Charles! My name is Penny, your Lennar Internet Sales Coordinator. I received your request for information about our homes in Jacksonville. I would love to help you in your search! Let me know if you would like me to set up a tour of one of our beautiful communities.  Are there certain things you...",
+                    "sort": 19,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-04-08",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "I'm returning the Vegas today",
+                    "sort": 20,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-04-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Did you ever go by Wexford? Penny  Lennar Homes 321-354-8674 Direct",
+                    "sort": 21,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-04-08",

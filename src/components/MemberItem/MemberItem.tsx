@@ -73,3 +73,5 @@ const MemberItem = ({
         <Typography
           width="100%"
           variant="caption"
+          color="rgba(255, 255, 255, 0.67)"
+          fontWeight={500}

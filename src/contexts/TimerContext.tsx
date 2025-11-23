@@ -137,3 +137,5 @@ export const TimerProvider = (props: PropsWithChildren) => {
     () => ({
       cycleTimeout,
       idleTimeout,
+      disableRotation
+    }),

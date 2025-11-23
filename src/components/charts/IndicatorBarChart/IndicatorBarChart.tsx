@@ -123,3 +123,5 @@ const IndicatorBarChart = ({
         .style('font-size', '16px')
 
       // Add y axis
+      const yAxis = d3.axisLeft(y).ticks(5).tickSizeInner(-width).tickSizeOuter(0).tickPadding(12)
+      const yAxisGroup = svg.append('g').call(yAxis)

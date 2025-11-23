@@ -40,3 +40,5 @@ const RightPane = () => {
                     categoryList={NHC_LEADERBOARD_CATEGORIES}
                   />
                 )}
+              </Grid>
+            </Grid>

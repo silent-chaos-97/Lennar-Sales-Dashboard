@@ -49,7 +49,6 @@ const SalesDetails = ({
   return (
     <>
       {svgSize.width > 0 && (
-        <svg
           id="triangleSvg"
           width={svgSize.width}
           height={svgSize.height}
@@ -190,3 +189,5 @@ const SalesDetails = ({
                 </Typography>
                 <Typography variant="h3" whiteSpace="nowrap">
                   {salesDetail.web_content_score}
+                </Typography>
+              </Grid>

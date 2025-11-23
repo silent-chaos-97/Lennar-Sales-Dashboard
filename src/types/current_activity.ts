@@ -31,6 +31,7 @@ export interface CurrentActivityState {
     non_paid_pct_change: number
     third_party: number
     third_party_pct_change: number
+  }
   WEB_VISITORS: null | number
   WEB_VISITORS_PERCENT_CHANGE: number
   WEB_VISITORS_PREV?: number
@@ -38,3 +39,4 @@ export interface CurrentActivityState {
   LEADS: number
   LEADS_PERCENT_CHANGE: number
   HOURLY_WEB_VISITORS_ARRAY: HourlyTicker[]
+  TIMEFRAME: string

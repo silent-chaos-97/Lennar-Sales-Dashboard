@@ -75,6 +75,7 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
                   )}
                 </>
               )}
+              <Typography
                 variant="subtitle1"
                 color={diffColor(priceChanges.lennar)}
                 fontWeight={700}
@@ -123,3 +124,5 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
                 <>
                   {priceChanges.resale > 0 ? (
                     <NorthEastIcon color="success" />
+                  ) : (
+                    <SouthEastIcon color="error" />

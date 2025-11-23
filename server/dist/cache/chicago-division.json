@@ -72396,3 +72396,656 @@
                     "body": "",
                     "sort": 1,
                     "title": "Lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Tyrone,  \t   \tThank you for your interest in Lennar Mortgage.  I am an Internet Sales Consultant with Lennar. I am responding to the registration you completed on the Lennar Mortgage website. Whether you are just starting the process of buying a home, or if you have already purchased and are j...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 4,
+                "sale_price": 377990,
+                "sale_title": "Starling just sold in Brookside - SF",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Chicago",
+            "division_coordinates": [
+              -88.147005926,
+              41.894395371
+            ],
+            "geometry": {
+              "coordinates": [
+                -88.23571375,
+                41.588952625
+              ],
+              "type": "Point"
+            },
+            "id": 178,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 4,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_connie_delgado_jpg",
+                    "name": "Connie Delgado",
+                    "national_rank": 145,
+                    "summary": "           $7,231,507 in sales QTD<br/>3.1% incentives QTD<br/>86% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_amanda_getter_lr_jpg",
+                    "name": "Amanda Getter",
+                    "national_rank": 91,
+                    "summary": "          $22,715,426 in sales QTD<br/>144 appointments QTD<br/>9% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "8 days prior",
+                "home_size": "       2,772 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/992/45147/45147_eleE_lg.jpg",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Organic lead created"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Sahiti, \t   \tWe received your online inquiry - thank you.  My name is Amanda, and I am an Internet Sales Consultant with Lennar.  I am responding to your registration you filled out on Lennar.com.  \t   \tI see that you typed in a request for an appointment to meet with us.   \t \tWhat time best work...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Thank you for reaching out. I’d be happy to schedule you an appointment today. We can do 4pm. Does that work for you?  Kindly, Amanda GetterInternet Sales Consultant  Amanda.Getter@Lennar.com Mobile 224-762-8394 1141 E Main Street STE 108 East Dundee, IL 60118  This e-mail is not a solicitation, off...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Thanks, Sahiti. Our New Home Consultant is out of office Thursdays/Fridays as we are open on the weekend. You may schedule an on-site self-guided tour today at 4:30. I have registered you for this and you will receive a separate email/link invitation to schedule. Feel free to reach out with any ques...",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi, Sahiti! Amanda with Lennar. Thank you for scheduling a self-guided tour at Prairie Commons! Feel free to reach out if you have any questions after touring. I am here to help. :) Enjoy!",
+                    "sort": 10,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "You were registered for a self-guided tour of both the Traditional and Urban style townhomes. They will have to be scheduled separately. Our three bedroom model is an Urban Townhome. We do not have a model on site of our three bedroom Everton II in Traditional on site at this community. Our Everton ...",
+                    "sort": 11,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-17",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Yes, you are welcome to complete the self-guided tour this afternoon that was scheduled. Our New Home Consultant is out of office Thurs/Fri so there will not be anyone else on site today. I’d be happy to schedule you an appointment to meet with our New Home Consultant this weekend if you would like....",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-18",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Good morning, I apologize for missing your email while out of office. Unfortunately, I do not have the code as it is personalized to each tour. I hope you were able to successfully complete your tour and it went well. If you have any questions, feel free to reach out. Kindly, Amanda GetterInternet S...",
+                    "sort": 13,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-18",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Good morning, Sahiti! I apologize for missing your call while out of office. I received your voicemail in regards to our Linden and Dunham at Prairie Commons. I am going to send you a separate email with information on these homes.",
+                    "sort": 14,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-03-18",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Good morning Sahiti, Per your request, I have included information on pricing and availability of our Linden and Dunham models at Prairie Commons – Traditional and Urban Townhomes. At this time, we do not have a Linden available. We do have a Dunham in construction and available now. It’s currently ...",
+                    "sort": 15,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-18",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "CAUTION: External email from: mustirao@live.com. If suspicious, forward to:notifysecurity@lennar.com          I meant interested* in the linden subtype            Get Outlook for iOS        From: Amanda Getter <Amanda.Getter@Lennar.com>   Sent: Friday, March 18, 2022 9:16:47 AM   To: musti rao <must...",
+                    "sort": 16,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-18",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Sahiti, Our Linden model is not currently in construction or available. The model is not for sale, as there are many homesites remaining at this community and the model is typically the last homesites sold.  Kindly,  Amanda GetterInternet Sales Consultant  Amanda.Getter@Lennar.com Mobile 224-762-...",
+                    "sort": 17,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-18",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Sahiti, I’d be happy to ask our New Home Consultant at Prairie Commons to add you to the interest list for our model Linden home. This model is also offered at Raintree Village Townhomes in Yorkville. Kindly,  Amanda GetterInternet Sales Consultant  Amanda.Getter@Lennar.com Mobile 224-762-8394 1141 ...",
+                    "sort": 18,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-18",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Sahiti, Sure! I will have you added to the interest list. Unfortunately, we do not have any Linden’s in construction at Raintree Village either at this time. We currently have our Everton II and Dunham II available at Raintree Village – Townhomes.  Kindly, Amanda GetterInternet Sales Consultant  Ama...",
+                    "sort": 19,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-19",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-03-22",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-22",
+                    "activity_type": "live_chat",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 22,
+                    "title": "Completed live chat"
+                  },
+                  {
+                    "activity_date": "2022-03-24",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 23,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-31",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 24,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-04-07",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 25,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-04-07",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 26,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-04-08",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 27,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-04-08",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 28,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-04-09",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 29,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-04-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 30,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2022-05-02",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 31,
+                    "title": "Organic lead created"
+                  },
+                  {
+                    "activity_date": "2022-05-03",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Good morning, Sahiti! Thanks for your interest in Kerry Ridge at Lennar! I received your online inquiry. This is Amanda, your Internet Sales Consultant checking in. We have one Townhome remaining at this community you may view here: https://www.lennar.com/new-homes/illinois/chicago/chicago-ridge/ker...",
+                    "sort": 32,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-05-11",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 33,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-10",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 34,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-14",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 35,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-16",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 36,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-16",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 37,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-16",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 38,
+                    "title": "Organic lead created"
+                  },
+                  {
+                    "activity_date": "2022-06-17",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Sahiti, \t   \tWe received your online inquiry - thank you.  My name is Kristyn, and I am an Internet Sales Consultant with Lennar.  I am responding to your registration you filled out on .  \t   \tI see that you typed in a request for an appointment to meet with us at Prairie Commons in Batavia.   \t...",
+                    "sort": 39,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-06-17",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Sahiti! Kristyn from Lennar checking in regarding your appointment request for Prairie Commons in Batavia. I'm happy to help. Please let me know what day/time works for you",
+                    "sort": 40,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-06-17",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Till what time are you open today?",
+                    "sort": 41,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2022-06-17",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Thank you. She is currently scheduled for another appointment from 330 to 5pm. Would you be able to come by around 2 or 230?Sunday she is open from 11 to 5pm and is currently available anytime.Thank you,  Kristyn BerryInternet Sales Manager  Mobile: 224-354-1022 Office: 224-293-3162 Email: kristyn.b...",
+                    "sort": 42,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-06-19",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 43,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-19",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 44,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-19",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 45,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2022-06-19",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 46,
+                    "title": "Organic lead created"
+                  },
+                  {
+                    "activity_date": "2022-06-20",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 47,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-20",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 48,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-20",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 49,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-20",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 50,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2022-06-21",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 51,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-21",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Sahiti,  \t   \tI hope this email finds you well!  Checking in to see how your visit went returning to Prairie Commons. Do you have any additional questions, or may I provide anything further to assist with your home search at this time?  \t \tAs always, we appreciate any feedback and look forward to...",
+                    "sort": 52,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-06-22",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 53,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-22",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 54,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-23",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 55,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-23",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 56,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-29",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 57,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-07-30",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 58,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-07-30",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 59,
+                    "title": "Email lead created"
+                  },
+                  {
+                    "activity_date": "2022-07-30",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Sahiti, \t   \tWe received your online inquiry - thank you.  My name is Ashley, and I am an Internet Sales Consultant with Lennar.  I am responding to your registration you filled out on LennarMobileSite.  \t   \tI see that you typed in a request for an appointment to meet with us at Tall Oaks.   \t \t...",
+                    "sort": 60,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-07-31",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Good morning, Sahiti! This is Amanda, your Internet Sales Consultant with Lennar. I apologize for missing your message while out of office. I am happy to assist in scheduling an appointment for Tall Oaks in Elgin, IL. What time/date works best for you?",
+                    "sort": 61,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-08-06",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 62,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-08-07",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 63,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-08-08",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 64,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-08-08",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 65,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-08-10",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 66,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-08-10",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 67,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-08-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 68,
+                    "title": "Direct lead created"
+                  },
+                  {
+                    "activity_date": "2022-08-10",
+                    "activity_type": "live_chat",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 69,
+                    "title": "Completed live chat"
+                  },
+                  {
+                    "activity_date": "2022-08-13",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 70,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-08-16",

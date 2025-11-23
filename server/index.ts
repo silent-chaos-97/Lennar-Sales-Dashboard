@@ -60,6 +60,7 @@ app.get('/api/data', async (req, res) => {
     }
   }
 
+  console.log(`Fetching data from snowflake`)
 
   const result = await SnowflakeService.getCohortData(cohort as string, cohort_type as string)
   const timestampedResult = {
@@ -71,3 +72,4 @@ app.get('/api/data', async (req, res) => {
     fs.writeFileSync(cacheFilePath, JSON.stringify(timestampedResult, null, 2))
     console.log(`Result saved to ${cacheFilePath}`)
   } catch (error) {
+    console.error('Error saving result to cache:', error)

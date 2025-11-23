@@ -1,5 +1,4 @@
 import Box from '@mui/material/Box'
-import Stack from '@mui/material/Stack'
 import Typography from '@mui/material/Typography'
 import SouthEastIcon from '@mui/icons-material/SouthEast'
 import NorthEastIcon from '@mui/icons-material/NorthEast'
@@ -94,3 +93,5 @@ const DailyAnalyticsBox = ({
             {displayArrows}
             <CustomTooltip elementName="value-percent-change">
               <Typography variant="subtitle1" color={diffColor} fontWeight={700}>
+                {displayPercentChange}
+              </Typography>

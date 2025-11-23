@@ -289,3 +289,8 @@ const Header = () => {
                     fontWeight: 700,
                     color: '#77C1FF',
                     '&.Mui-selected': { color: '#fff' }
+                  }}
+                />
+                <Tab
+                  label="Pacing"
+                  sx={{

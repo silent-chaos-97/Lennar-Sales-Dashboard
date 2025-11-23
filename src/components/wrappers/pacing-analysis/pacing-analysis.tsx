@@ -58,3 +58,4 @@ const PacingAnalysis = () => {
           </Box>
         </Stack>
         <IndicatorBarChart
+          id="pacing-analysis"

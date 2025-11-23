@@ -11,4 +11,5 @@ export interface PriceDetailItem {
   percentile_100?: number
 }
 
+export interface PricingState extends Cohort {
   LENNAR_PRICES: PriceDetailItem

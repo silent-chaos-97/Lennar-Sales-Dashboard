@@ -144,3 +144,5 @@ export const Section = ({
                     cursor: 'pointer',
                     color: '#ddd',
                     ...alignmentStyle
+                  }}
+                >

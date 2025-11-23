@@ -42,7 +42,6 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
   // x and y scales
 
   const today = data[0]?.activity_time ? parseTime(data[0].activity_time) : new Date()
-  const startOfDay = new Date(today.getFullYear(), today.getMonth(), today.getDate(), 7, 0, 0) // Set the start time to 9am
   const endOfDay = new Date(today.getFullYear(), today.getMonth(), today.getDate(), 19, 0, 0) // Set the end time to 9pm
 
   const xScale = useMemo(() => {
@@ -59,6 +58,7 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
   }, [xScale])
 
   const yScale = useMemo(() => {
+    return d3.scaleBand().range([boundsHeight, 0]).domain(allYGroups) //.padding(0.01)
   }, [boundsHeight, allYGroups])
 
   const dotColors = {
@@ -85,3 +85,4 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
           />
         )
       }),
+    [data, xScale, yScale, allYGroups]

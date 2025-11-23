@@ -227,3 +227,6 @@ const NHSDetail = ({
                       fontWeight="500"
                     />
                   </Box>
+                </Grid>
+                <Grid item xs={2.5}>
+                  <CustomTooltip elementName="label-nhc-realtor-atten-rate">

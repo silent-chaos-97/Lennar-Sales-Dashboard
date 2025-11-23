@@ -56,3 +56,4 @@ export const TIMEZONE = {
 }
 
 export const TIMEZONE_VALUE = {
+  'US/Eastern': 'ET',

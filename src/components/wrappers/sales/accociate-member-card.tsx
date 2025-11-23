@@ -15,6 +15,7 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
   return (
     <Stack
       direction="row"
+      borderRadius={2}
       sx={{ backgroundColor: 'background.default', px: 2, pt: 1, pb: 2.5, boxShadow: 3 }}
       spacing={1.5}
     >
@@ -69,3 +70,4 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
       <Stack>
         <Typography variant="h5" fontWeight={700} whiteSpace="nowrap" sx={{ mb: 1 }}>
           {truncateText(member.name, 16)}
+        </Typography>

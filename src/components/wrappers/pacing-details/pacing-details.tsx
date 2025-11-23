@@ -49,6 +49,7 @@ const List = ({ list, choose, showList }: ListProps) => {
         backgroundColor: '#212936',
         width: 460,
         boxShadow: '0 8px 16px 0 rgba(0,0,0,0.80)',
+        cursor: 'pointer',
         color: '#ddd'
       }}
     >
@@ -174,3 +175,5 @@ const PacingDetails = ({
                 <List list={pacingCohortsList} choose={onSelect} showList={setShowList} />
               )}
             </Stack>
+            <IconButton size="large" onClick={onClose}>
+              <CloseIcon htmlColor="#dde3f6" />

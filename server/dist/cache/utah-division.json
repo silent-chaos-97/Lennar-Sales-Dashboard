@@ -10551,7 +10551,6 @@
               },
               "summary": "1% incentives"
             },
-            {
               "cohort_rank": 4,
               "division_name": "Utah",
               "image_url": "",
@@ -23197,3 +23196,334 @@
             "id": 63,
             "properties": {
               "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ally_hendersonlr_jpg",
+                    "name": "Ally Henderson",
+                    "national_rank": 182,
+                    "summary": "           $7,900,100 in sales QTD<br/>69 appointments QTD<br/>9% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Hannah Womack",
+                    "national_rank": 249,
+                    "summary": "           $5,959,341 in sales QTD<br/>6.2% incentives QTD<br/>55% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "21 days prior",
+                "home_size": "       2,777 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7593/64014/64014_eleT_lg.jpg",
+                "incentive_percent": 3,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 3,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hey this is Ally with Lennar Homes! Hannah said she'll give you a call at 6pm to talk about the home. Hannah is so great - you'll love her.  Have a great rest of your day!",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "That's great!",
+                    "sort": 5,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": ":)",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Chanelecarter@gmail.com for Tonjala cooke",
+                    "sort": 7,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Good evening are you going to send the contract and the address for the earnest money",
+                    "sort": 8,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "I know it's late thank you",
+                    "sort": 9,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Thank you! I'll pass this info over to Hannah this morning.",
+                    "sort": 10,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank you",
+                    "sort": 11,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "You're welcome!",
+                    "sort": 12,
+                    "title": "ISC text"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 1,
+                "sale_price": 579900,
+                "sale_title": "Redwood just sold in Parkway Fields Cottages",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 12
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 17
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 17
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 13
+            }
+          ],
+          "percent_change": -23.5,
+          "value": 13
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 9
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 11
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 12
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 12
+            }
+          ],
+          "percent_change": 0,
+          "value": 12
+        },
+        "RETAIL_SALES": {
+          "percent_change": -23.5,
+          "value": 13
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 567433
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 604612
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 592382
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 643740
+            }
+          ],
+          "percent_change": 8.7,
+          "value": 643740
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 9.01
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 7.98
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 9.81
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 3.94
+            }
+          ],
+          "percent_change": -59.8,
+          "value": 3.94
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 0.2
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 0
+            }
+          ],
+          "percent_change": -100,
+          "value": 0
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:32.880"
+      },
+      "WTD": {
+        "COHORT": "Utah",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "WTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Utah",
+            "division_coordinates": [
+              -111.796837,
+              40.432818717
+            ],
+            "geometry": {
+              "coordinates": [
+                -112.0144116,
+                40.2973754
+              ],
+              "type": "Point"
+            },
+            "id": 301,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_melanie_ataatalr_jpg",
+                    "name": "Melanie Ataata",
+                    "national_rank": 185,
+                    "summary": "           $9,544,016 in sales QTD<br/>68 appointments QTD<br/>12% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 5,
+                    "image_url": "",
+                    "name": "Jillian Blakley",
+                    "national_rank": 687,
+                    "summary": "           $2,899,153 in sales QTD<br/>5.8% incentives QTD<br/>67% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "55 days prior",
+                "home_size": "       1,831 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7592/64001/64001_eleC_lg.jpg",
+                "incentive_percent": 1,
+                "journey_array": [],
+                "key_attribute": "",

@@ -86,3 +86,4 @@ const RegionSelectMenu = ({ onSelectMenu }: RegionSelectMenuProps) => {
                   textDecoration: 'underline'
                 }
               }}
+              onClick={() => onSelectMenu(region)}

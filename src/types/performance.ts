@@ -1,4 +1,5 @@
 export interface PerformanceItem {
+  color: string
   goal_value: number
   percent_value: number
   missed?: number
@@ -18,3 +19,4 @@ export interface IscPerformanceState {
   SALES_WITH_ISC_ATTACHED: PerformanceItem
 }
 
+export const PERFORMANCE_TIMEFRAMES = {

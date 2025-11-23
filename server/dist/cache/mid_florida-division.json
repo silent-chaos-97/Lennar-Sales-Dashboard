@@ -5423,7 +5423,6 @@
                 "net_sales": 0,
                 "realtor_attachment_rate": 0,
                 "realtor_attachment_rate_division_rank": 2,
-                "realtor_attachment_rate_national_rank": 1062,
                 "realtor_commission_rate": 0
               },
               "summary": "50% appointments kept"
@@ -23225,3 +23224,158 @@
           },
           {
             "current": 4,
+            "hour": 9,
+            "prev": 5
+          },
+          {
+            "current": 6,
+            "hour": 10,
+            "prev": 6
+          },
+          {
+            "current": 2,
+            "hour": 11,
+            "prev": 5
+          },
+          {
+            "current": 4,
+            "hour": 12,
+            "prev": 2
+          },
+          {
+            "current": 5,
+            "hour": 13,
+            "prev": 4
+          },
+          {
+            "current": 6,
+            "hour": 14,
+            "prev": 4
+          },
+          {
+            "current": 2,
+            "hour": 15,
+            "prev": 4
+          },
+          {
+            "current": 7,
+            "hour": 16,
+            "prev": 7
+          },
+          {
+            "current": 6,
+            "hour": 17,
+            "prev": 4
+          },
+          {
+            "current": 3,
+            "hour": 18,
+            "prev": 5
+          }
+        ],
+        "TOTAL_CALLS": 0,
+        "TOTAL_CALLS_PERCENT_CHANGE": null,
+        "TOTAL_CHATS_TEXTS": 0,
+        "TOTAL_CHATS_TEXTS_PERCENT_CHANGE": null,
+        "APPOINTMENTS_SET": 0,
+        "APPOINTMENTS_SET_PERCENT_CHANGE": null,
+        "LEADS_BY_CHANNEL": {
+          "non_paid": 1,
+          "non_paid_pct_change": -80,
+          "paid": 58,
+          "paid_pct_change": 38,
+          "third_party": 5,
+          "third_party_pct_change": 67
+        },
+        "DBT_UPDATED_AT": "2023-12-26 02:47:41.994"
+      }
+    },
+    "sales_timeframe": {
+      "WTD": {
+        "COHORT": "Mid Florida",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "WTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Mid Florida",
+            "division_coordinates": [
+              -82.282127687,
+              29.315958691
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.0894674,
+                29.2267832
+              ],
+              "type": "Point"
+            },
+            "id": 9,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "42 days post",
+                "home_size": "       1,544 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6963/62574/62574_eleHA_lg.jpg",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-10-17",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2022-10-17",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-02-26",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-04-06",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 4,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-04-06",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 5,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-12-22",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-12-25",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",

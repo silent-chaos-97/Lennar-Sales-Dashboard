@@ -59,7 +59,6 @@ const PerformanceBar = ({
   color = 'red',
   title,
   value = 0,
-  goal = 0,
   missed = 0
 }: PerformanceBarProps) => {
   const colors = {
@@ -102,3 +101,4 @@ const PerformanceBar = ({
       <Box
         sx={{
           height: '90%',
+          display: 'flex',

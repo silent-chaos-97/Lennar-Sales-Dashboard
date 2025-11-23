@@ -223,3 +223,6 @@ const PacingStatus = ({ mapWrapperRef }) => {
               top: 0,
               left: 0,
               right: 0,
+              pt: 2,
+              px: 2,
+              height: 300,

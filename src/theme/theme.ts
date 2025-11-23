@@ -205,7 +205,6 @@ export const theme = createTheme({
       .pulsatingDot {
         background-color: rgba(28,209,161,0.85);
         border-radius: 50%;
-        box-sizing: border-box;
         height: 32px;
         width: 32px;
         opacity: 0.85;
@@ -336,3 +335,9 @@ export const theme = createTheme({
         }
       }
     },
+    MuiChip: {
+      styleOverrides: {
+        sizeMedium: {
+          height: 40,
+          borderRadius: 20,
+          fontSize: 16

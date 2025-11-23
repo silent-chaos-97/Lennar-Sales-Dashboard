@@ -208,3 +208,4 @@ const Performance = () => {
                 goal={performanceState?.LEADS_WITH_APPOINTMENT_SET.goal_value}
               />
               <PerformanceBar
+                title="Appointments kept"

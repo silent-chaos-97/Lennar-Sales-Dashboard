@@ -50100,3 +50100,792 @@
                     "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_luis_ruiz_lr_jpg",
                     "name": "Luis Ruiz",
                     "national_rank": 134,
+                    "summary": "           $8,734,302 in sales QTD<br/>109 appointments QTD<br/>34% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "36 days post",
+                "home_size": "       1,362 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6900/58904/58904_eleTH_lg.jpg",
+                "incentive_percent": 13,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Roland! Your visit is scheduled as follows: Tuesday, 10/10/2023 04:00 PM  Sunset Trails 4610 NW 120th Way Coral Springs, FL 33076.  Ask for Joyce Mason 305-331-7485 Realtor: Travis Julmis (Realtor must be present)",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 2,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 12,
+                "sale_price": 577990,
+                "sale_title": "Althea just sold in Sunset Trails",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Gonzalez",
+            "type": "Feature"
+          },
+          {
+            "division": "Palm Atlantic",
+            "division_coordinates": [
+              -80.383603323,
+              27.191596641
+            ],
+            "geometry": {
+              "coordinates": [
+                -80.1166168,
+                26.5985788
+              ],
+              "type": "Point"
+            },
+            "id": 193,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 18,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_barbara_bloch_lr_jpg",
+                    "name": "Barbara Bloch",
+                    "national_rank": 553,
+                    "summary": "           $4,210,959 in sales QTD<br/>2% incentives QTD<br/>43% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "35 days prior",
+                "home_size": "       1,635 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://admin.lennar.com/api/images/images/elevations_v10/7222/61927/61927_eleAI_lg.jpg",
+                "incentive_percent": 5,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Michelle - congratulations!  Attached is the one year warranty and the HOA documents. These are for informational purposes only and don't have to be signed.  Thank you!  Carol Ellis Lennar Homes",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 5,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 11,
+                "sale_price": 475665,
+                "sale_title": "COCCO just sold in Heathwood Reserve TH",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Gonzalez",
+            "type": "Feature"
+          },
+          {
+            "division": "Southeast Florida",
+            "division_coordinates": [
+              -80.363312453,
+              25.73994069
+            ],
+            "geometry": {
+              "coordinates": [
+                -80.3291116,
+                25.658518
+              ],
+              "type": "Point"
+            },
+            "id": 183,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 24,
+                    "image_url": "",
+                    "name": "Rafael Comas",
+                    "national_rank": 622,
+                    "summary": "           $5,604,750 in sales QTD<br/>0.5% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/5.5 ba",
+                "days_from_completion": "15 days prior",
+                "home_size": "       4,032 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7200/61390/61390_eleB_lg.jpg",
+                "incentive_percent": 11,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-05-26",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-05-26",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-05-28",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -5,
+                "realtor_commission": 5,
+                "sale_cohort_rank": 10,
+                "sale_price": 2024990,
+                "sale_title": "Niagara just sold in Centris Diamond Collection",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Gonzalez",
+            "type": "Feature"
+          },
+          {
+            "division": "Southeast Florida",
+            "division_coordinates": [
+              -80.363312453,
+              25.73994069
+            ],
+            "geometry": {
+              "coordinates": [
+                -80.3611438,
+                26.004616
+              ],
+              "type": "Point"
+            },
+            "id": 182,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 39,
+                    "image_url": "",
+                    "name": "Luciana Martins",
+                    "national_rank": 828,
+                    "summary": "           $3,847,218 in sales QTD<br/>0% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "",
+                    "name": "Dayana Garcia",
+                    "national_rank": 51,
+                    "summary": "           $8,893,150 in sales QTD<br/>175 appointments QTD<br/>30% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "89 days prior",
+                "home_size": "       1,697 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6289/55981/55981_eleAI_lg.jpg",
+                "incentive_percent": 3,
+                "journey_array": [
+                  {
+                    "activity_date": "2020-09-03",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Julio My name is Oscar Mena from Lennar Homes.  I'm inviting you to speak to one of our new home consultants about the process of purchasing your new home and discuss offers we have for you.   ​​​Plus, if you are not working with a realtor I can provide a $2,000* voucher towards the purchase o...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2020-09-03",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Julio My name is Oscar Mena from Lennar Homes.  I'm inviting you to speak to one of our new home consultants about the process of purchasing your new home and discuss offers we have for you.   ​​​Plus, if you are not working with a realtor I can provide a $2,000* voucher towards the purchase o...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2020-09-07",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Julio My name is Oscar Mena from Lennar Homes.  I'm inviting you to speak to one of our new home consultants about the process of purchasing your new home and discuss offers we have for you.   ​​​Plus, if you are not working with a realtor I can provide a $2,000* voucher towards the purchase o...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2020-09-11",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Julio My name is Oscar Mena from Lennar Homes.  I'm inviting you to speak to one of our new home consultants about the process of purchasing your new home and discuss offers we have for you.   ​​​Plus, if you are not working with a realtor I can provide a $2,000* voucher towards the purchase o...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2020-09-13",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Julio My name is Oscar Mena from Lennar Homes.  I'm inviting you to speak to one of our new home consultants about the process of purchasing your new home and discuss offers we have for you.   ​​​Plus, if you are not working with a realtor I can provide a $2,000* voucher towards the purchase o...",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Julio,  \t   \tI’m excited to hear that you're interested in our New and Now National Sales Event, running now through October 8th, 2023. We have special pricing and incentives on select move-in-ready homes – don’t miss out before they’re gone! \t \tHere is a sample of the homes we have available: ht...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Julio,  This is Oscar with Lennar Homes.  I’m excited to hear that you're interested in our New and Now National Sales Event, running now through October 8th, 2023. We have special pricing and incentives on select move-in-ready homes – don’t miss out b",
+                    "sort": 7,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Julio,  \t   \tI’m excited to hear that you're interested in our New and Now National Sales Event, running now through October 8th, 2023. We have special pricing and incentives on select move-in-ready homes – don’t miss out before they’re gone! \t \tHere is a sample of the homes we have available: ht...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Julio,  This is Oscar with Lennar Homes.  I’m excited to hear that you're interested in our New and Now National Sales Event, running now through October 8th, 2023. We have special pricing and incentives on select move-in-ready homes – don’t miss out b",
+                    "sort": 9,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 10,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 11,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 9,
+                "sale_price": 646175,
+                "sale_title": "Dijon just sold in Sunset Pines",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Gonzalez",
+            "type": "Feature"
+          },
+          {
+            "division": "Southeast Florida",
+            "division_coordinates": [
+              -80.363312453,
+              25.73994069
+            ],
+            "geometry": {
+              "coordinates": [
+                -80.2852238,
+                26.2881274
+              ],
+              "type": "Point"
+            },
+            "id": 179,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 29,
+                    "image_url": "",
+                    "name": "Raymond Suter",
+                    "national_rank": 705,
+                    "summary": "           $4,534,714 in sales QTD<br/>1.2% incentives QTD<br/>83% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 12,
+                    "image_url": "",
+                    "name": "Anastasia Rojas",
+                    "national_rank": 135,
+                    "summary": "          $11,806,673 in sales QTD<br/>108 appointments QTD<br/>21% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "21 days prior",
+                "home_size": "       1,362 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6900/58904/58904_eleTH_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-03-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-03-08",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hey Latosha,  Thank you for your interest in Lennar Homes!  My name is Javier, and I am your Internet Sales Coordinator. I'm here to assist you every step of the way in your new home search.  CLICK the link below to view all of our locations: Miami Dade/ Broward Community Map  Below is a table showi...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hey Latosha,  This is Javier with Lennar Homes. I'm reaching out because it looks like you expressed interest in our new homes in the Miami/Broward area.  Let me know how I can help.  If you want to schedule a visit or a call with a specialist to learn more about our new homes, click on this link: h...",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-03-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-03-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-03-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-03-11",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Schedule your Appointment here: https://form.jotform.com/222906938117158   Welcome to Sunset Trails, a private community of new townhomes coming soon to Wiles Road and Coral Ridge Drive in Coral Springs, FL.  Homeowners have exclusive access to a wide range of amenities, including a swimming pool, c...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "LENNAR HOMESFor more information, request your visit here:https://form.jotform.com/222906938117158  Pines Blvd and Dykes Rd. 33027 New Home. New Adventures.Welcome home to Sunset Pines, Lennar’s newest community of townhomes conveniently located in the heart of beautiful Pembroke Pines!Residents wil...",
+                    "sort": 10,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Latosha / Roxana!   Your visit is scheduled as follows:  Saturday, 10/07/2023 03:00 PM Sunset Trails 4610 NW 120th Way Coral Springs, FL 33076.  Ask for Raymond Suter  Realtor: Roxana Gross (Realtor must be present with client at time of appointment",
+                    "sort": 11,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank you!",
+                    "sort": 12,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "You are so welcome !!! Re member to send this message to your Realtor.",
+                    "sort": 13,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "I just did!",
+                    "sort": 14,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 16,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hello Latosha / Roxana!  Your visit is scheduled as follows:  Saturday, 10/07/2023 03:00 PM Sunset Trails 4610 NW 120th Way Coral Springs, FL 33076.  Ask for Raymond Suter / 954-471-9177  Realtor: Roxana Gross (Realtor must be present with client at time",
+                    "sort": 17,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank you we will be there",
+                    "sort": 18,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 19,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 8,
+                "sale_price": 583315,
+                "sale_title": "Althea just sold in Sunset Trails",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Gonzalez",
+            "type": "Feature"
+          },
+          {
+            "division": "Southeast Florida",
+            "division_coordinates": [
+              -80.363312453,
+              25.73994069
+            ],
+            "geometry": {
+              "coordinates": [
+                -80.402811656,
+                25.554862231
+              ],
+              "type": "Point"
+            },
+            "id": 158,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 26,
+                    "image_url": "",
+                    "name": "Jesus Palacios",
+                    "national_rank": 667,
+                    "summary": "           $2,804,072 in sales QTD<br/>2.2% incentives QTD<br/>50% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 6,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_karina_penabad_lr_jpg",
+                    "name": "Karina Penabad",
+                    "national_rank": 102,
+                    "summary": "          $13,394,640 in sales QTD<br/>130 appointments QTD<br/>20% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/3 ba",
+                "days_from_completion": "6 days prior",
+                "home_size": "       1,827 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6088/54502/54502_eleA_lg.jpg",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2019-12-15",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Juan carlos   I hope this email finds you well!   My name is Oscar Mena from Lennar Homes. I am reaching out to you because you requested more information about our brand new communities.  I wanted to invite you to come in and speak to one of our new home consultants about our process of purch...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2021-09-08",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-10-16",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-03-04",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-04-05",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-05-20",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hola Juan carlos  Su cita está confirmada para hoy a las 4:00 PM con Lilly Perez\t  Corsica Santorini Collection 11882 SW 244 Street  Miami, FL 33032  Si no puede localizar la oficina, llame a Lilly Perez 305-710-8017  Gracias!",
+                    "sort": 7,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-06-07",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Juan carlos \tIt is with great pleasure that I present to you this $2,000* voucher that can be use towards your closing costs and/or upgrades to your new home, simply because you reached out to us and made an appointment directly with Lennar without using an agent realtor. \t \tBuyer must qualify...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-06-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hola Juan carlos  Su cita está confirmada para hoy a las 4:00 PM con Lilly Perez\t  Corsica Santorini Collection 11882 SW 244 Street  Miami, FL 33032  Si no puede localizar la oficina, llame a Lilly Perez 305-710-8017  Gracias!",
+                    "sort": 9,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-06-13",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hola Juan  Lamentamos que haya perdido su cita la semana pasada para nuestra comunidad Campo Bello por Lennar. Por favor, hágame saber si desea reprogramar para esta semana. Estamos abiertos de 10 a 5 p. m. los 7 días de la semana.  ¡Gracias!",
+                    "sort": 10,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-08-14",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hola, La entrega es para Febrero 2023. Karina PenabadInternet Sales Coordinator  Karina.Penabad@Lennar.com Mobile (786) 522-3897 Selling your home? Get a free cash offer here: https://open.do/lennar/Karina-Penabad  This e-mail is not a solicitation, offer, acceptance of an offer, a negotiation or am...",
+                    "sort": 11,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-08-14",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "When Obtener Outlook para iOS De: Karina Penabad <Karina.?Penabad@?lennar.?com> Enviado: Saturday, August 13, 2022 4:?30:?22 PM Asunto: Last 2 Ravello SFH at Artesa by Lennar! ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ...",
+                    "sort": 12,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2022-08-15",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Si. A que hora es major para usted? Karina PenabadInternet Sales Coordinator  Karina.Penabad@Lennar.com Mobile (786) 522-3897 Selling your home? Get a free cash offer here: https://open.do/lennar/Karina-Penabad  This e-mail is not a solicitation, offer, acceptance of an offer, a negotiation or amend...",
+                    "sort": 13,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-08-16",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 14,
+                    "title": "In-person appointment kept"
+                  },

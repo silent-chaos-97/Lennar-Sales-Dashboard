@@ -135,7 +135,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
         .attr('ry', 5)
         .attr('height', y(q1) - y(q3))
         .attr('width', boxWidth)
-        .attr('stroke', 'none')
         .style('fill', idx === 0 ? '#33A3FF' : '#70747A')
 
       // show median, min and max horizontal lines
@@ -159,3 +158,6 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       svg
         .selectAll('toto')
         .data([median])
+        .enter()
+        .append('line')
+        .attr('x1', boxCenter - boxWidth)

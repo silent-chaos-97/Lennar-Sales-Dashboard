@@ -47022,3 +47022,211 @@
                     "activity_date": "2023-09-20",
                     "activity_type": "text",
                     "actor_type": "black",
+                    "body": "Hi Jamie!  This is Jen with Lennar Homebuilders. Please give me a call back as soon as you get a moment.",
+                    "sort": 3,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-09-20",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "I called and emailed yesterday as well.  Please respond when you can.",
+                    "sort": 4,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-09-23",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-23",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 2,
+                "sale_price": 149791,
+                "sale_title": "COAH Unit 976 just sold in Manalapan Grove COAH",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "NJ / NY",
+            "division_coordinates": [
+              -74.469322331,
+              40.464021311
+            ],
+            "geometry": {
+              "coordinates": [
+                -74.35913,
+                40.3110936
+              ],
+              "type": "Point"
+            },
+            "id": 15,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 8,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_antoinette_chenoweth_lr_jpg",
+                    "name": "Antoinette Chenoweth",
+                    "national_rank": 763,
+                    "summary": "           $3,053,520 in sales QTD<br/>4.1% incentives QTD<br/>20% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_katy_gregorlr_jpg",
+                    "name": "Katy Gregor",
+                    "national_rank": 82,
+                    "summary": "          $11,929,405 in sales QTD<br/>154 appointments QTD<br/>19% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "Not Available",
+                "home_size": "       2,201 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7596/64123/64123_eleA_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-10-14",
+                    "activity_type": "live_chat",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Missed live chat"
+                  },
+                  {
+                    "activity_date": "2022-10-14",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello RAJKUMAR,  \t   \tThank you for inquiring about Lennar Homebuilders in New Jersey! I would be happy to help narrow down one of our communities that would work best for you.  Below are a few things that can get us started.  \t   \t \t       Price Point \t       Bedroom and Bath Count \t       Desired ...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-02",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi RAJKUMAR, \t \tThank you for your interest in the homes Lennar is building in our new construction community, The Parke at Little Falls! We are excited to be opening a new community in such an amazing location!   \t   \t \tHOMES:  \tAt the Parke at Little Falls the townhomes range from 2-3 beds, 2-3 ba...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-02",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello RAJKUMAR! This is Colleen with Lennar Homebuilders. I just emailed over some information on our Parke at Little Falls community, but I wanted to send a quick text to let you know I am here to answer any additional questions you may have or set up a time to visit the community. You can text me ...",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-02",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 5,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-06-02",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi RAJKUMAR,  \t \t   \t   \tThank you for inquiring about Lennar Homebuilders in New Jersey! I would be happy to help narrow down one of our communities that would work best for you. Below is information on all of our communities throughout NJ. After you take a look into these, let me know which might ...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-02",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-06-12",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello RAJKUMAR,  \t  \tThank you so much for your interest in our exciting new community, Manalapan Grove! We recently opened up for pre-construction opportunities! However, we have booked up for our first round of appointments. We will be opening up more appointments in the next couple of weeks. As s...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-12",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 9,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-06-12",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-06-27",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 11,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-06-27",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello RAJKUMAR, \t \tThank you for inquiring about our exciting new community, Hopewell Parc! We are excited to start building in such an amazing location. Click HERE for a digital brochure which shows our floorplans, community amenities, details, and more! I have also included a few details below. \t ...",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-27",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi RAJKUMAR,  \t   \tThank you for your interest in the homes Lennar is building at Monroe Parke, in Monroe Township, NJ. My name is Katy and I am here to answer any questions you have about our homes.   \t   \tTHE TOWNHOMES:  \tThe Pinehurst is a 3-story townhome priced from the $600s featuring 3 bedroo...",
+                    "sort": 13,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-27",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Rajkumar! This is Katy with Lennar Homebuilders. It was great speaking with you! I just emailed over some information, but I wanted to send a quick text to let you know I am here to answer any additional questions you may have :)",
+                    "sort": 14,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-27",

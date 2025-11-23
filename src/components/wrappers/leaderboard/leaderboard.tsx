@@ -117,3 +117,4 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
       </Section>
       {activeIdx !== null &&
         !!leaderboardItems.length &&
+        !!leaderboardItems[activeIdx]?.pop_out_details && (

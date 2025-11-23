@@ -47,7 +47,6 @@ const AppointmentSet = ({
               } else if (hour >= 9 && hour < 12) {
                 nWeekdayEvents[weekdate].byTimeframe[1] =
                   nWeekdayEvents[weekdate].byTimeframe[1] + 1
-              } else if (hour >= 12 && hour < 15) {
                 nWeekdayEvents[weekdate].byTimeframe[2] =
                   nWeekdayEvents[weekdate].byTimeframe[2] + 1
               } else {
@@ -147,3 +146,5 @@ const AppointmentSet = ({
           justifyContent: 'space-around'
         }}
       >
+        {appointmentData.map((day) => (
+          <Stack key={day.weekday} alignItems="center" sx={{ mb: -4.5 }}>

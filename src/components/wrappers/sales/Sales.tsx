@@ -126,3 +126,6 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
           )}
         </Typography>
         <Typography variant="h5" mb={1.5}>
+          {insightState?.TOP_INCENTIVE_INSIGHT?.color && (
+            <>
+              <StrongText sx={{ color: colors[insightState?.TOP_INCENTIVE_INSIGHT.color] }}>

@@ -116,3 +116,5 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
         return d.data[1] ? `${d.value} ${STATUS_TEXT_BY_KEY[d.data[0]]}` : null
       })
       .attr('transform', function (d) {
+        const pos = outerArc.centroid(d)
+        const midangle = d.startAngle + (d.endAngle - d.startAngle) / 2

@@ -1,3 +1,4 @@
+import { Division } from '@/types/cohort'
 import axios from 'axios'
 
 let abortController = new AbortController()
@@ -34,3 +35,4 @@ export const fetchChartData = async (location: Division) => {
       { signal: signal }
     )
     return res
+  } catch (error) {

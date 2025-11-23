@@ -105,7 +105,6 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
       .attr('x', (d) => yScalePrv(d.key.toString()) || 0)
       .attr('y', (d) => xScale(Number(d.value)))
       .attr('height', (d) => xScale(0) - xScale(Number(d.value)))
-      .attr('rx', 5)
       .attr('fill', color('prv') as string)
 
     svg
@@ -115,3 +114,4 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
       .data(curData)
       .enter()
       .append('rect')
+      .attr('width', width / 5)

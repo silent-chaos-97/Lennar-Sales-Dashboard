@@ -54,3 +54,4 @@ export interface PacingState extends Cohort {
   WEEKLY_PACING_GRAPH: WeeklyPacingItem[]
   SUB_COHORT_MAP: SubCohortMap
   AVAILABLE_HOMES: AvailableHomes
+}

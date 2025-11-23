@@ -30410,3 +30410,482 @@
                     "activity_date": "2023-10-08",
                     "activity_type": "email",
                     "actor_type": "blue",
+                    "body": "Hi Ryan,   \t   \tI received your inquiry from DurhamFarmsLiving.com and wanted to see if I could help you with your new home search. From this link, you will find more information about the community such as Floor Plans, Base Pricing, Included Features, and Map.   \t   \tPlease let me know if there is ...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Ryan, this is Katie and I am your local Lennar sales coordinator. I received your inquiry from DurhamFarmsLiving.com. From this link you will find more information about the community: https://www.lennar.com/new-homes/tennessee/nashville/hendersonville",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Ryan! Thank you for your interest in our preferred lender, Lennar Mortgage. Over 90% of our buyers who apply with Lennar Mortgage choose them for their competitive rates and great service! Shelley, with Lennar Mortgage, is fantastic on answering all th",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 4,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hello {!Event.field_service_event__r.lead__r.firstname}!, This is a friendly reminder that your tour of {!Event.field_service_event__r.plan_name__c} with {!Event.owner.name} is scheduled for tomorrow, {!Event.weekday__c} at {!Event.local_time__c}. The Wel",
+                    "sort": 5,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hi {!Event.field_service_event__r.lead__r.firstname}! We're excited to see you for your tour of {!Event.field_service_event__r.plan_name__c} {!Event.local_date__c} at {!Event.local_time__c} with {!Event.owner.name}. The Welcome Home Center is located at {",
+                    "sort": 6,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 13,
+                "sale_price": 424990,
+                "sale_title": "Bennett just sold in Durham Farms Estate Villas",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Nashville",
+            "division_coordinates": [
+              -86.648104368,
+              36.023247822
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.5888658,
+                36.3633842
+              ],
+              "type": "Point"
+            },
+            "id": 169,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 7,
+                    "image_url": "",
+                    "name": "Kirsten Clark",
+                    "national_rank": 596,
+                    "summary": "           $2,847,391 in sales QTD<br/>11.7% incentives QTD<br/>86% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 4,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_meridith_thweattlr_jpg",
+                    "name": "Meridith Thweatt",
+                    "national_rank": 202,
+                    "summary": "          $10,209,800 in sales QTD<br/>46 appointments QTD<br/>12% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/3 ba",
+                "days_from_completion": "41 days post",
+                "home_size": "       2,307 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/4879/61626/61626_eleE_lg.jpg",
+                "incentive_percent": 9,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Marsel! This is Meridith with Lennar Homes in Nashville. Thank you for your interest in our preferred lender, Lennar Mortgage. Over 90% of our buyers who apply with Lennar Mortgage choose them for their competitive rates and great service! Devin, with",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Also, you are all set to receive a call from Kirsten, the agent at Durham Farms, today around 11am CST. She will call you at the number provided,  (415) 799-6330. Please let me know if you have any questions.  - Meridith, Lennar Homes",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank you so much",
+                    "sort": 7,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Marsel,   \t   \tIt was a pleasure speaking on the phone with you today. Lennar Mortgage can help you get a low monthly payment on Nashville Area listings! This team of mortgage experts know the Nashville market and offer a variety of financing options to fit your needs and budget. They work with F...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Of course, my pleasure!",
+                    "sort": 9,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 10,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Marsel Osmani! This is a friendly reminder of your phone appointment with Lennar Homes on 10/10/2023 at 11:00 AM with Kirsten Clark. If you have any questions or need to reschedule, please call or text us back! We will talk soon!",
+                    "sort": 11,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Here is a link for the customer care. Let me know if you need anything else at all!  https://discover.lennar.com/l/new-home-orientation-nsh",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 12,
+                "sale_price": 529990,
+                "sale_title": "Cumberland 2 just sold in Durham Farms 50",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Nashville",
+            "division_coordinates": [
+              -86.648104368,
+              36.023247822
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.9104634,
+                35.717484
+              ],
+              "type": "Point"
+            },
+            "id": 135,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 9,
+                    "image_url": "",
+                    "name": "Rebecca Moylan",
+                    "national_rank": 735,
+                    "summary": "           $2,143,450 in sales QTD<br/>9.1% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "Not Available",
+                "home_size": "       1,729 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6064/47260/47260_eleZ_lg.jpg",
+                "incentive_percent": 9,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Gowthamraj! This is Madeleine, your local online sales coordinator with Lennar Homes. Thank you for your interest in Lennar, and thank you for applying with our preferred lender, Lennar Mortgage! I just wanted to reach out to see if there is anything I",
+                    "sort": 4,
+                    "title": "ISC text"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 6,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 11,
+                "sale_price": 367990,
+                "sale_title": "Yosemite just sold in Sawgrass West TH",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Nashville",
+            "division_coordinates": [
+              -86.648104368,
+              36.023247822
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.9105756,
+                35.7175486
+              ],
+              "type": "Point"
+            },
+            "id": 112,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 9,
+                    "image_url": "",
+                    "name": "Rebecca Moylan",
+                    "national_rank": 735,
+                    "summary": "           $2,143,450 in sales QTD<br/>9.1% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "",
+                    "name": "Madeleine Constantine",
+                    "national_rank": 192,
+                    "summary": "           $6,992,890 in sales QTD<br/>60 appointments QTD<br/>10% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "118 days prior",
+                "home_size": "       1,729 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6064/47260/47260_eleZ_lg.jpg",
+                "incentive_percent": 9,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Gowthamraj! This is Madeleine, your local online sales coordinator with Lennar Homes. Thank you for your interest in Lennar, and thank you for applying with our preferred lender, Lennar Mortgage! I just wanted to reach out to see if there is anything I",
+                    "sort": 4,
+                    "title": "ISC text"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 6,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 10,
+                "sale_price": 367990,
+                "sale_title": "Yosemite just sold in Sawgrass West TH",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Nashville",
+            "division_coordinates": [
+              -86.648104368,
+              36.023247822
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.9108548,
+                35.7177082
+              ],
+              "type": "Point"
+            },
+            "id": 107,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 9,
+                    "image_url": "",
+                    "name": "Rebecca Moylan",
+                    "national_rank": 735,
+                    "summary": "           $2,143,450 in sales QTD<br/>9.1% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "118 days prior",
+                "home_size": "       1,729 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6064/47260/47260_eleZ_lg.jpg",
+                "incentive_percent": 10,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "opp_created",

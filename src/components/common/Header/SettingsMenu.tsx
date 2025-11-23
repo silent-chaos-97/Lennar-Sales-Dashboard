@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import Box from '@mui/material/Box'
+import Stack from '@mui/material/Stack'
 import Typography from '@mui/material/Typography'
 import Select from '@mui/material/Select'
 import Button from '@mui/material/Button'
@@ -184,7 +185,6 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
               />
             </RadioGroup>
           </FormControl>
-        </Stack>
         <Stack direction="row" justifyContent="flex-end" spacing={2}>
           <Button
             variant="contained"
@@ -197,3 +197,5 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
               px: 2
             }}
             onClick={onClose}
+          >
+            Cancel
