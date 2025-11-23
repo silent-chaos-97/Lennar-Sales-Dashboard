@@ -126,6 +126,7 @@ class SnowflakeService {
       'current_activity_timeframe',
       'sales_timeframe',
       'pacing',
+      'pricing',
       'insights'
     ]
 
@@ -189,5 +190,7 @@ class SnowflakeService {
     })
   }
 
-  getMetrics(): Promise<MetricsState> {
     const sql = 'select * from homebase.corp_hub_metrics_json'
+
+    const connection = this.createConnection()
+

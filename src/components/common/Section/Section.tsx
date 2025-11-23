@@ -24,7 +24,6 @@ export const Section = ({
   more,
   timestampList,
   categoryList,
-  onSelectTimestamp,
   onSelectCategory,
   dropdownAlignment = 'right',
   children
@@ -146,3 +145,6 @@ export const Section = ({
                     ...alignmentStyle
                   }}
                 >
+                  {timestampList &&
+                    Object.entries(timestampList).map(([key, name]) => (
+                      <Typography

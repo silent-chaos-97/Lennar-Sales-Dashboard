@@ -177,3 +177,6 @@ const PacingDetails = ({
             </Stack>
             <IconButton size="large" onClick={onClose}>
               <CloseIcon htmlColor="#dde3f6" />
+            </IconButton>
+          </Stack>
+          <Grid container spacing={8}>

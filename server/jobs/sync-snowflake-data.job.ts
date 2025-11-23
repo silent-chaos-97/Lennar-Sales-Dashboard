@@ -87,3 +87,5 @@ const run = async () => {
       data: cohortData
     }
 
+    try {
+      fs.writeFileSync(cacheFilePath, JSON.stringify(timestampedResult, null, 2))

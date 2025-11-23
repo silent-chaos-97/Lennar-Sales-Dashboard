@@ -6,7 +6,6 @@ import { STATUS_COLORS, STATUS_TEXT_BY_KEY } from '@/utils/constant'
 
 interface PieChartProps {
   width?: number
-  height?: number
   data: Record<string, number>
   activeName: string
   onClickSlice: (value: Array<string | number>) => void
@@ -118,3 +117,5 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
       .attr('transform', function (d) {
         const pos = outerArc.centroid(d)
         const midangle = d.startAngle + (d.endAngle - d.startAngle) / 2
+        pos[0] = radius * 0.75 * (midangle < Math.PI ? 1 : -1)
+        pos[1] =

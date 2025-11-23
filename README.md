@@ -81,3 +81,5 @@ We have two main processes running in the background: one for the Rest API and o
 To handle the high-volume data load in each connection request to Snowflake, we've implemented a cache that stores JSON files in `./server/dist/cache`. This cache fetches data every 30 minutes, starting at every 00 and 30 minutes.
 
 2. Rest APIs
+
+The Rest API serves data to the frontend through the API. KPI data is retrieved from the cached JSON file stored by the CronJob.

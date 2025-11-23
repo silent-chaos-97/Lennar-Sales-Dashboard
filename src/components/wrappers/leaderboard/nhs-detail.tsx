@@ -137,7 +137,6 @@ const NHSDetail = ({
                   <CustomTooltip elementName="label-nhc-incentives">
                     <Typography variant="caption" color="text.secondary" fontWeight={500}>
                       Incentives
-                    </Typography>
                   </CustomTooltip>
                   <PercentValueText value={data?.incentive_rate || 0} hideChange suffix="%" />
                 </Grid>
@@ -230,3 +229,6 @@ const NHSDetail = ({
                 </Grid>
                 <Grid item xs={2.5}>
                   <CustomTooltip elementName="label-nhc-realtor-atten-rate">
+                    <Typography variant="caption" color="textSecondary">
+                      Realtor attachment rate
+                    </Typography>

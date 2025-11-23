@@ -49,6 +49,7 @@ const SalesDetails = ({
   return (
     <>
       {svgSize.width > 0 && (
+        <svg
           id="triangleSvg"
           width={svgSize.width}
           height={svgSize.height}
@@ -191,3 +192,6 @@ const SalesDetails = ({
                   {salesDetail.web_content_score}
                 </Typography>
               </Grid>
+            </Grid>
+            <Box overflow="hidden" height="360px" mt={3.5}>
+              <Scrollbar noScrollX={true} style={{ height: 360, width: '100%' }}>

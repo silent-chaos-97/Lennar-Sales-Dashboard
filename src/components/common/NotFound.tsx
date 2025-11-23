@@ -28,3 +28,4 @@ const NotFound = () => {
         <Typography sx={{ fontSize: '32px', lineHeight: '38px' }}>
           <Link href={LENNAR_LIVE_URL}>{LENNAR_LIVE_URL}</Link>
         </Typography>
+      </Stack>

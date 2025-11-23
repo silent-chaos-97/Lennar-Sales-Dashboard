@@ -42,6 +42,7 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
   // x and y scales
 
   const today = data[0]?.activity_time ? parseTime(data[0].activity_time) : new Date()
+  const startOfDay = new Date(today.getFullYear(), today.getMonth(), today.getDate(), 7, 0, 0) // Set the start time to 9am
   const endOfDay = new Date(today.getFullYear(), today.getMonth(), today.getDate(), 19, 0, 0) // Set the end time to 9pm
 
   const xScale = useMemo(() => {
@@ -68,7 +69,6 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
   }
 
   const allRects = useMemo(
-    () =>
       data.map((d, i) => {
         const isScaled = allYGroups.length <= 9
         return (
@@ -86,3 +86,5 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
         )
       }),
     [data, xScale, yScale, allYGroups]
+  )
+

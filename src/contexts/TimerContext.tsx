@@ -10,7 +10,6 @@ interface TimerContextValues {
   playing: boolean
 }
 
-const TimerContext = createContext<TimerContextValues>({
   cycleTimerProgress: 0,
   idleTimerProgress: 0,
   playing: false
@@ -139,3 +138,5 @@ export const TimerProvider = (props: PropsWithChildren) => {
       idleTimeout,
       disableRotation
     }),
+    [cycleTimeout, idleTimeout, disableRotation]
+  )

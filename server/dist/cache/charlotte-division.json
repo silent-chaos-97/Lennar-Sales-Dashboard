@@ -30842,6 +30842,7 @@
                 "realtor_attachment_rate_national_rank": 155,
                 "realtor_commission_rate": 0.5
               },
+              "summary": "15.2% incentives"
             },
             {
               "cohort_rank": 21,
@@ -92622,3 +92623,806 @@
                 "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7102/60297/60297_eleE_lg.jpg",
                 "incentive_percent": 2,
                 "journey_array": [
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Dear George and Leah,Congratulations and welcome to Elizabeth! I look forward to working with you throughout this exciting process &#128522;I wanted to take a moment to outline our next steps…  Attached is a copy of your first initial earnest deposit along with copies of your purchase agreement and ...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 2,
+                "sale_cohort_rank": 23,
+                "sale_price": 650079,
+                "sale_title": "Granville just sold in Elizabeth Enclave",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Charlotte",
+            "division_coordinates": [
+              -81.287610882,
+              34.859795943
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.063304751,
+                35.565371453
+              ],
+              "type": "Point"
+            },
+            "id": 472,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Arianna Scalone",
+                    "national_rank": 98,
+                    "summary": "           $4,653,241 in sales QTD<br/>136 appointments QTD<br/>18% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 10,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_janine_frey_lr_jpg",
+                    "name": "Janine Frey",
+                    "national_rank": 565,
+                    "summary": "           $2,115,350 in sales QTD<br/>12.6% incentives QTD<br/>57% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "120 days prior",
+                "home_size": "       2,082 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7116/61130/61130_eleE_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-03-14",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2022-03-14",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Leisa! Alex tells me that you’re interested in a new home in the Charlotte area. I'm Mallory, your local Lennar expert. I’m here to help you narrow down which one of our communities and homes would be best for you.   To get started, here are a few options:   1. Windhaven Glen (Tega Cay)- https://...",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-03-14",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hey Leisa!  \t   \tMy name is Mallory and I represent Lennar Homes in the Charlotte and Greenville areas. Alex tells me you're searching for a new home in the area and I'm excited to help you determine which of our homes and communities will be best for you.  \t   \tTo get started, I have sent you a tex...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-03-14",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Probably none of those.   But thank you.   Not interested in town home.  Primarily interested in ranch style, or master on the lower.",
+                    "sort": 4,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2022-03-15",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Leisa, I apologize for the delay in getting back to you! Check out our Canton, Bedford, and Sweetbay floorplans at Gambill Forest in Mooresville! They are ranch/owner's on main layouts with pricing in the $390's-410k range. Let me know if any of these options can work for you!   Gambill Forest Me...",
+                    "sort": 5,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-03-16",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank you.   I do like the Dover option.   Is that a possibility to see further.?",
+                    "sort": 6,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2022-03-16",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Sure, that layout is our model home here. Would you like to go ahead and schedule a tour this week? We are available by appointment from 10am-5pm. Let me know what day and time work well for you!",
+                    "sort": 7,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-03-16",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Anytime on Saturday would work.   10a?",
+                    "sort": 8,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2022-03-16",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Anytime on Saturday would work.   10a?",
+                    "sort": 9,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2022-03-16",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "10am is already booked, but we can do 11am on Saturday",
+                    "sort": 10,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-03-16",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Perfect.   Please let me know enter to go.",
+                    "sort": 11,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2022-03-16",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "*where",
+                    "sort": 12,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2022-03-16",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Great, here is your appointment confirmation!   You're scheduled to meet with Evelyn Vargas at 03/19/2022 11:00 AM. In case you need to contact her, Evelyn's number is (704) 512-9994. The address for our Welcome Home Center in Falls Cove is 247 Tackle Box Dr, Troutman, NC 28166.",
+                    "sort": 13,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-03-16",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank you.   Just confirming this model is in Troutman not Mooresville where the area was looking at.",
+                    "sort": 14,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2022-03-16",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "No this is not in Troutman. This appointment is for Gambill Forest in Mooresville as discussed above. We do not offer any ranch homes at our community in Troutman.",
+                    "sort": 15,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-03-16",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "The address you provided is in Troutman. Is there another address for my appointment?",
+                    "sort": 16,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2022-03-16",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Oh goodness, I apologize! I added the wrong address! The address for our Welcome Home Center in Gambill Forest is 113 Haddonsfield Dr, Mooresville, NC 28115.",
+                    "sort": 17,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-03-16",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Great!",
+                    "sort": 18,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2022-03-16",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "You're welcome!",
+                    "sort": 19,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-03-18",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Leisa! This is a reminder of your Lennar Homes appointment at 03/19/2022 11:00 AM. Please call 704-759-6048 if you have any questions or if you would like to reschedule!",
+                    "sort": 20,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-03-18",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thanks!",
+                    "sort": 21,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2022-03-20",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 22,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2022-05-26",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 23,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-08",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 24,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-21",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 25,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-29",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 26,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-06-29",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 27,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-07-14",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 28,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-07-23",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 29,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-07-23",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 30,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-08-02",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 31,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-08-02",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 32,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-08-08",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 33,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-08-12",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 34,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-08-24",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 35,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-08-26",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 36,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-09-13",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 37,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-09-13",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 38,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-09-13",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 39,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-09-13",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 40,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2022-09-13",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Leisa! This is Christine Brodsky with Lennar Homes. It was a pleasure speaking with you today! You're scheduled to meet with Wisam Roustom today 9/13  at 1:00 PM. In case you need to contact her, Wisam's number is (980) 266-0626 . Please meet her at our Welcome Home Center in Windhaven, located a...",
+                    "sort": 41,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-09-13",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 42,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2022-09-13",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 43,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-09-26",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 44,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-10-10",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 45,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-11-06",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 46,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-12-02",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 47,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-12-07",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 48,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2023-09-26",
+                    "activity_type": "live_chat",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 49,
+                    "title": "Completed live chat"
+                  },
+                  {
+                    "activity_date": "2023-09-26",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 50,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-09-26",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Lennar Homes Tour on Saturday at 10AM 4624 Maiden Creek Way, Maiden, NC 28650",
+                    "sort": 51,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-26",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 52,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-09-30",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 53,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-09-30",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 54,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-30",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello !, This is a friendly reminder that your tour of Shannon Woods Meadows with James Bruneau is scheduled for tomorrow, Saturday at 10:00 AM. The Welcome Home Center is located at 5858 NC-16 Business, Maiden, NC 28650. If you need to change your appoin",
+                    "sort": 55,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-30",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi ! We're excited to see you for your tour of Shannon Woods Meadows 09/30/2023 at 10:00 AM with James Bruneau. The Welcome Home Center is located at 5858 South Nc 16 Business Highway, Maiden, North Carolina 28650. See you soon!",
+                    "sort": 56,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-30",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good afternoon Leisa -   I hope that this message finds you well!  I wanted to thank you again for taking the time to visit Shannon Woods in the search for your new home and community.  It was a pleasure meeting and getting to know you today.   Shannon Woods is located just north of Charlotte, with ...",
+                    "sort": 57,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Leisa -   I hope that this message finds you well!  Our management just rolled out some new lower pricing to us on our available inventory homes, so I have attached an updated list to this message for you.  The Dover that you liked best on site #62 was just reduced to $393,879!  Please let me kno...",
+                    "sort": 58,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 59,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 22,
+                "sale_price": 399079,
+                "sale_title": "Dover just sold in Shannon Woods Meadows",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Charlotte",
+            "division_coordinates": [
+              -81.287610882,
+              34.859795943
+            ],
+            "geometry": {
+              "coordinates": [
+                -80.8276,
+                35.793882286
+              ],
+              "type": "Point"
+            },
+            "id": 464,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_christine_brodsky_lr_jpg",
+                    "name": "Christine Brodsky",
+                    "national_rank": 119,
+                    "summary": "           $5,677,298 in sales QTD<br/>118 appointments QTD<br/>19% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 12,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_david_stickle_lr_jpg",
+                    "name": "David Stickle",
+                    "national_rank": 622,
+                    "summary": "           $2,119,548 in sales QTD<br/>15.1% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "78 days prior",
+                "home_size": "       1,955 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7331/61930/61930_eleC_lg.jpg",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-05-15",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Display lead created"
+                  },
+                  {
+                    "activity_date": "2023-05-15",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Roy! This is Christine with Lennar Homes.  Alex asked me to reach out to you about our homes in the  Charlotte area. We do not have any single family homes under $350k in the metro area. Our closest option would be single family homes in the $300ks in Statesville or Catawba or townhomes in the mi...",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-05-16",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Hello Christine were looking at the statesville an catawba areas an we noticed you guys have a presance there.. were not interested in the CLT metro area's.. so whatever information we can get via email on those 2 areas would greatly be appreciated..",
+                    "sort": 3,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-05-16",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Also just a fyi im currently in Thailand an will be here until July. my time frame looks like this:  Return US 1st week of july  request reansfer to CLTshortly after arriving. start talking to mortgage companies to see about getting prequalified for a loan..  an based on the current expansion plans ...",
+                    "sort": 4,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-05-16",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "I understand- thank you for letting me know! Please see links below for the communities in the Catawba and Statesville.   Let me know if you prefer one over the others!  Bell Farm (Statesville NC)- https://bit.ly/3TOv3i8   Greenbriar (Statesville NC): https://bit.ly/3FFTR5N   Legacy Ridge (Catawba)-...",
+                    "sort": 5,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-05-16",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thanks for the links my wife an i will take a look an we'll yell back at ya",
+                    "sort": 6,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-05-16",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Sounds good! Safe travels!",
+                    "sort": 7,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-15",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Roy, this is Bri with Lennar. Thanks for your interest in our homes at Bell Farm in Statesville! You reached out just in time to take advantage of our Summer Savings, offering incredible deals on select homes through 06/30! Would you like to schedule a visit here and learn what is available? Thes...",
+                    "sort": 8,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 21,
+                "sale_price": 320249,
+                "sale_title": "Crane just sold in Greenbriar Dream",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Charlotte",
+            "division_coordinates": [
+              -81.287610882,
+              34.859795943
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.7797936,
+                34.6351218
+              ],
+              "type": "Point"
+            },
+            "id": 440,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 7,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_david_kunis_jpg",
+                    "name": "David Kunis",
+                    "national_rank": 383,
+                    "summary": "           $2,184,312 in sales QTD<br/>12.8% incentives QTD<br/>44% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "23 days prior",
+                "home_size": "       1,485 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6313/63994/63994_eleTH_lg.jpg",
+                "incentive_percent": 10,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 20,
+                "sale_price": 220999,
+                "sale_title": "Aspen just sold in Falls At Meehan Glen",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Charlotte",
+            "division_coordinates": [
+              -81.287610882,
+              34.859795943
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.7781922,
+                34.6381832
+              ],
+              "type": "Point"
+            },

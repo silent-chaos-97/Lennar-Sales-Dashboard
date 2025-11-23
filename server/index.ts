@@ -73,3 +73,4 @@ app.get('/api/data', async (req, res) => {
     console.log(`Result saved to ${cacheFilePath}`)
   } catch (error) {
     console.error('Error saving result to cache:', error)
+  }

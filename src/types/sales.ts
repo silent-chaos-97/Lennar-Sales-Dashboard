@@ -34,6 +34,7 @@ export interface SalesItem {
   lot_size: string
   home_type: string
   price_vs_model_avg: number
+  realtor_commission: number
   sale_price: number
   sale_title: string
   web_content_score: number

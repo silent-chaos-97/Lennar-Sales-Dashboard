@@ -185,6 +185,7 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
               />
             </RadioGroup>
           </FormControl>
+        </Stack>
         <Stack direction="row" justifyContent="flex-end" spacing={2}>
           <Button
             variant="contained"
@@ -199,3 +200,5 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
             onClick={onClose}
           >
             Cancel
+          </Button>
+          <Button

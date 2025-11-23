@@ -53,3 +53,4 @@ const LMap: React.FC<LMapProps> = ({
       mapStyle={mbStyle}
       mapboxAccessToken={mbAccessToken}
       reuseMaps={true}
+      interactive={false}

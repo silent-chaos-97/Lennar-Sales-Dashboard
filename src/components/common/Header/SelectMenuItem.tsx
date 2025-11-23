@@ -10,7 +10,6 @@ interface SelectMenuItemProps {
   item: SubRegion
   onSelectMenu: (menu: SubRegion) => void
 }
-
 const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
   const hasSubItems = item?.divisions && !!item.divisions?.length
   return (
@@ -52,3 +51,4 @@ const SelectMenuItem = ({ item, onSelectMenu }: SelectMenuItemProps) => {
                     textDecoration: 'underline'
                   }
                 }}
+              />

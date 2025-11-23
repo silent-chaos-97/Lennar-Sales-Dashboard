@@ -10,5 +10,4 @@ const LinkBehavior = React.forwardRef<
   // eslint-disable-next-line jsx-a11y/anchor-has-content
   if (isExternal) return <a href={href as string} ref={ref} {...other} />
   return <RouterLink ref={ref} to={href} {...other} />
-})
 

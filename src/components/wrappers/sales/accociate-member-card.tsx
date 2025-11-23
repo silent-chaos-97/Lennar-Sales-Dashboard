@@ -71,3 +71,4 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
         <Typography variant="h5" fontWeight={700} whiteSpace="nowrap" sx={{ mb: 1 }}>
           {truncateText(member.name, 16)}
         </Typography>
+        <Typography

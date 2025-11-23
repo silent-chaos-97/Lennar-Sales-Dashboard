@@ -12,6 +12,7 @@ import SpeakerNotesOffIcon from '@mui/icons-material/SpeakerNotesOff'
 import HouseIcon from '@mui/icons-material/House'
 import FlagIcon from '@mui/icons-material/Flag'
 import { JourneyArrayItem } from '@/types/sales'
+import { DateTime } from 'luxon'
 import { useMemo } from 'react'
 
 interface TimelineEventProps {
@@ -79,3 +80,4 @@ const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
         </Stack>
         {expanded && event.body && (
           <Typography
+            variant="caption"

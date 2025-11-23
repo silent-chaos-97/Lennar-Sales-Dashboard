@@ -1,4 +1,5 @@
 import Box from '@mui/material/Box'
+import Stack from '@mui/material/Stack'
 import Typography from '@mui/material/Typography'
 import SouthEastIcon from '@mui/icons-material/SouthEast'
 import NorthEastIcon from '@mui/icons-material/NorthEast'
@@ -13,7 +14,6 @@ export interface DailyAnalyticsBoxProps {
   title: string
   value: number
   grossValue: number
-  diffPercent: number
   color?: string
   unit?: string
   isDecreaseBenefit?: boolean
@@ -95,3 +95,5 @@ const DailyAnalyticsBox = ({
               <Typography variant="subtitle1" color={diffColor} fontWeight={700}>
                 {displayPercentChange}
               </Typography>
+            </CustomTooltip>
+          </Stack>

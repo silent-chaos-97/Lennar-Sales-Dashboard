@@ -33,3 +33,4 @@ export const suffixTheNumber = (n: number) =>
     ? 'rd'
     : 'th')
 
+export const truncateText = (text: string, size: number) => {

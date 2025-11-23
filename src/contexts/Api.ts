@@ -36,3 +36,4 @@ export const fetchChartData = async (location: Division) => {
     )
     return res
   } catch (error) {
+    if (axios.isCancel(error)) {

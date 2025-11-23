@@ -46,3 +46,4 @@ export const ScreenContextProvider = (props: PropsWithChildren) => {
         setShowTooltips
       }}
     >
+      {props.children}

@@ -74,7 +74,6 @@ const Timeline = ({ journeyData }: TimelineProps) => {
               }}
             >
               <Divider />
-              {journeyData.map((item, idx) => (
                 <TimelineEvent
                   key={idx}
                   event={item}

@@ -120,3 +120,5 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
               <CustomTooltip elementName="value-percent-change">
                 <Typography
                   component="span"
+                  color={getValueChangeTextColor(data?.APPOINTMENTS_SET_PERCENT_CHANGE || 0)}
+                  variant="h6"

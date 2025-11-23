@@ -16,3 +16,4 @@ export interface Division {
 export interface SubRegion extends Division {
   divisions?: Division[]
 }
+

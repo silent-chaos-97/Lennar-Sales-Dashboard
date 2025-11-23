@@ -11,6 +11,7 @@ export interface LeaderboardDetailProps {
   data?: LeaderboardMemberDetail
   onClose: () => void
   onPrev: () => void
+  onNext: () => void
   disablePrevNext: [boolean, boolean]
   type?: string
   activeTimestamp?: string
@@ -56,3 +57,4 @@ const LeaderboardDetail = ({
         onNext={onNext}
         onClose={onClose}
         data={data}
+        imageUrl={imageUrl}

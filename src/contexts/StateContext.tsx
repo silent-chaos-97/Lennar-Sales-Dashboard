@@ -197,3 +197,6 @@ export const StateProvider = (props: PropsWithChildren) => {
         const nextCohorts = sortedCohorts.slice(idx + 1)
         const nextRegionIdx = nextCohorts.findIndex((region) => region.type === type)
         const division = sortedCohorts.slice(idx + 1, idx + 1 + nextRegionIdx)
+        setSubDivisions(division)
+      }
+    }

@@ -101,6 +101,7 @@ const MainLayout = () => {
   useEffect(() => {
     const conhortName = searchParams.get('cohort')
     if (conhortName) {
+      const cohortObject = cohorts.find((cohort) => cohort.name === conhortName)
       if (cohortObject) {
         setPlaying(false)
         setCurrentCohort(cohortObject)
@@ -158,3 +159,6 @@ const MainLayout = () => {
             placeContent: isDesktop ? 'unset' : 'center',
             transform: isDesktop ? `translateX(-${currentScreen * wrapperWidth}px)` : 'unset',
             transition: 'all 0.5s ease-in-out'
+          }}
+        >
+          <ScreenWrapper

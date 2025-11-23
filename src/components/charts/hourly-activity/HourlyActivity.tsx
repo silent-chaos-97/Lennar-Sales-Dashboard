@@ -56,3 +56,4 @@ const HourlyActivity = ({
             color={getValueChangeTextColor(change)}
             variant="h6"
             sx={{ ml: 1 }}
+          >

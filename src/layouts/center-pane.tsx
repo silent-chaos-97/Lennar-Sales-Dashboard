@@ -329,3 +329,8 @@ const CenterPane = () => {
               }}
             >
               {pointCount || 1}
+            </Typography>
+          </MarkerIcon>
+        </Marker>
+      )
+    })

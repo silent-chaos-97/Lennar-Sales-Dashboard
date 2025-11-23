@@ -20029,3 +20029,307 @@
             "activity_time": "2023-10-15 10:00:00.000",
             "sort": 2
           }
+        ],
+        "PRIOR_WEEK_APPOINTMENT_SET_TICKER_ARRAY": [
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-02 10:00:00.000",
+            "sort": 9
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-02 10:00:00.000",
+            "sort": 25
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-02 12:00:00.000",
+            "sort": 9
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-02 12:00:00.000",
+            "sort": 20
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-03 12:00:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-03 13:30:00.000",
+            "sort": 3
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-03 14:30:00.000",
+            "sort": 3
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-04 12:00:00.000",
+            "sort": 7
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-04 17:00:00.000",
+            "sort": 7
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-05 10:30:00.000",
+            "sort": 2
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-07 10:30:00.000",
+            "sort": 23
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-07 12:00:00.000",
+            "sort": 9
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-07 12:00:00.000",
+            "sort": 19
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-07 15:00:00.000",
+            "sort": 17
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-08 16:00:00.000",
+            "sort": 14
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-08 17:00:00.000",
+            "sort": 9
+          }
+        ],
+        "TIMEFRAME": "today",
+        "WEB_VISITORS": 170,
+        "WEB_VISITORS_PERCENT_CHANGE": -58,
+        "HOURLY_WEB_VISITORS_ARRAY": [
+          {
+            "current": 18,
+            "hour": 7,
+            "prev": 17
+          },
+          {
+            "current": 26,
+            "hour": 8,
+            "prev": 33
+          },
+          {
+            "current": 23,
+            "hour": 9,
+            "prev": 30
+          },
+          {
+            "current": 28,
+            "hour": 10,
+            "prev": 33
+          },
+          {
+            "current": 24,
+            "hour": 11,
+            "prev": 34
+          },
+          {
+            "current": "",
+            "hour": 12,
+            "prev": 31
+          },
+          {
+            "current": "",
+            "hour": 13,
+            "prev": 23
+          },
+          {
+            "current": "",
+            "hour": 14,
+            "prev": 248
+          },
+          {
+            "current": "",
+            "hour": 15,
+            "prev": 44
+          },
+          {
+            "current": "",
+            "hour": 16,
+            "prev": 36
+          },
+          {
+            "current": "",
+            "hour": 17,
+            "prev": 35
+          },
+          {
+            "current": "",
+            "hour": 18,
+            "prev": 45
+          }
+        ],
+        "LEADS": 7,
+        "LEADS_PERCENT_CHANGE": -13,
+        "HOURLY_LEADS_ARRAY": [
+          {
+            "current": "",
+            "hour": 7,
+            "prev": 3
+          },
+          {
+            "current": 4,
+            "hour": 8,
+            "prev": 0
+          },
+          {
+            "current": 1,
+            "hour": 9,
+            "prev": 2
+          },
+          {
+            "current": "",
+            "hour": 10,
+            "prev": 3
+          },
+          {
+            "current": "",
+            "hour": 11,
+            "prev": 2
+          },
+          {
+            "current": "",
+            "hour": 12,
+            "prev": 3
+          },
+          {
+            "current": "",
+            "hour": 13,
+            "prev": 0
+          },
+          {
+            "current": "",
+            "hour": 14,
+            "prev": 2
+          },
+          {
+            "current": "",
+            "hour": 15,
+            "prev": 1
+          },
+          {
+            "current": "",
+            "hour": 16,
+            "prev": 1
+          },
+          {
+            "current": "",
+            "hour": 17,
+            "prev": 0
+          },
+          {
+            "current": "",
+            "hour": 18,
+            "prev": 1
+          }
+        ],
+        "TOTAL_CALLS": 10,
+        "TOTAL_CALLS_PERCENT_CHANGE": 400,
+        "TOTAL_CHATS_TEXTS": 14,
+        "TOTAL_CHATS_TEXTS_PERCENT_CHANGE": null,
+        "APPOINTMENTS_SET": 0,
+        "APPOINTMENTS_SET_PERCENT_CHANGE": null,
+        "LEADS_BY_CHANNEL": {
+          "non_paid": 1,
+          "non_paid_pct_change": 0,
+          "paid": 6,
+          "paid_pct_change": -25,
+          "third_party": 0,
+          "third_party_pct_change": 0
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:28.315"
+      }
+    },
+    "sales_timeframe": {
+      "MTD": {
+        "COHORT": "Reno",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "MTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Reno",
+            "division_coordinates": [
+              -119.722638148,
+              39.397811962
+            ],
+            "geometry": {
+              "coordinates": [
+                -119.759538,
+                38.9595954
+              ],
+              "type": "Point"
+            },
+            "id": 194,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 4,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_laura_seloverlr_jpg",
+                    "name": "Laura Selover",
+                    "national_rank": 785,
+                    "summary": "           $2,580,952 in sales QTD<br/>6.7% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "96 days prior",
+                "home_size": "       1,950 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6286/46962/46962_eleB_lg.jpg",
+                "incentive_percent": 9,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Marc,  Nice talking with you today. Here's our brochure (which includes our map), our 'everything's included' information and our latest price sheet.  Laura Selover NV. S181514  New Home Consultant Weser Creek at Heybourne Meadows 1142 Dapple Drive Minden, NV 89423 (775) 306-2413 Laura.Selover@Le...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",

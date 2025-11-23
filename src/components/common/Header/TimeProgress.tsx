@@ -13,6 +13,6 @@ const TimeProgress = () => {
   return (
     <TimerProgress
       value={(cycleTimerProgress / cycleTimeout) * 100}
-      onToggle={handleToggle}
       playing={playing}
     />
+  )

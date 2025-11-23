@@ -64,3 +64,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
           change={data?.LEADS_BY_CHANNEL.non_paid_pct_change || 0}
         />
         <Bar
+          label="Third-party"

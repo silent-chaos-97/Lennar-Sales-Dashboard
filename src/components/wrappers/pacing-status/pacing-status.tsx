@@ -226,3 +226,7 @@ const PacingStatus = ({ mapWrapperRef }) => {
               pt: 2,
               px: 2,
               height: 300,
+              zIndex: 3
+            }}
+            ref={pieChartRef}
+          >

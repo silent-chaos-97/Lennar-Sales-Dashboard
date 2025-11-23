@@ -42,3 +42,4 @@ const RightPane = () => {
                 )}
               </Grid>
             </Grid>
+          </Box>

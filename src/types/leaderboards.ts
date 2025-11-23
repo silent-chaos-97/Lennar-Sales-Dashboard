@@ -49,7 +49,6 @@ export interface LeaderboardNHCMemberDetail {
   graph_data: []
 }
 
-export interface LeaderboardMemberDetail
   extends LeaderboardISCMemberDetail,
     LeaderboardNHCMemberDetail {}
 
@@ -89,6 +88,7 @@ export interface LeaderboardsState {
   ISC_LEADERBOARDS: LeaderboardObj
   NHC_LEADERBOARDS: LeaderboardObj
 }
+
 export const LEADERBOARD_TIMEFRAMES = {
   WTD: 'WTD',
   MTD: 'MTD',
@@ -98,3 +98,5 @@ export const LEADERBOARD_TIMEFRAMES = {
 export const ISC_LEADERBOARD_CATEGORIES = {
   appointments_kept: 'Appointments kept',
   appointments_set: 'Appointments set',
+  sales: 'Gross sales',
+  calls: 'Calls',

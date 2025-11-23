@@ -5423,6 +5423,7 @@
                 "net_sales": 0,
                 "realtor_attachment_rate": 0,
                 "realtor_attachment_rate_division_rank": 2,
+                "realtor_attachment_rate_national_rank": 1062,
                 "realtor_commission_rate": 0
               },
               "summary": "50% appointments kept"
@@ -23379,3 +23380,206 @@
                   }
                 ],
                 "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -6,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 1,
+                "sale_price": 281510,
+                "sale_title": "ELAN just sold in Millwood Estates - The Enclave",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Dec 04",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Dec 11",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Dec 18",
+              "y_axis": 0
+            },
+            {
+              "sort": 4,
+              "x_axis": "Dec 25",
+              "y_axis": 1
+            }
+          ],
+          "percent_change": 0,
+          "value": 1
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Dec 04",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Dec 11",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Dec 18",
+              "y_axis": 0
+            },
+            {
+              "sort": 4,
+              "x_axis": "Dec 25",
+              "y_axis": 1
+            }
+          ],
+          "percent_change": 0,
+          "value": 1
+        },
+        "RETAIL_SALES": {
+          "percent_change": 0,
+          "value": 1
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Dec 04",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Dec 11",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Dec 18",
+              "y_axis": 0
+            },
+            {
+              "sort": 4,
+              "x_axis": "Dec 25",
+              "y_axis": 281510
+            }
+          ],
+          "percent_change": 0,
+          "value": 281510
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Dec 04",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Dec 11",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Dec 18",
+              "y_axis": 0
+            },
+            {
+              "sort": 4,
+              "x_axis": "Dec 25",
+              "y_axis": 11.75
+            }
+          ],
+          "percent_change": 0,
+          "value": 11.75
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Dec 04",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Dec 11",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Dec 18",
+              "y_axis": 0
+            },
+            {
+              "sort": 4,
+              "x_axis": "Dec 25",
+              "y_axis": 0
+            }
+          ],
+          "percent_change": 0,
+          "value": 0
+        },
+        "DBT_UPDATED_AT": "2023-12-26 02:47:48.265"
+      },
+      "QTD": {
+        "COHORT": "Mid Florida",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "QTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Mid Florida",
+            "division_coordinates": [
+              -82.282127687,
+              29.315958691
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.0894674,
+                29.2267832
+              ],
+              "type": "Point"
+            },
+            "id": 9,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "42 days post",
+                "home_size": "       1,544 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6963/62574/62574_eleHA_lg.jpg",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-10-17",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2022-10-17",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-02-26",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,

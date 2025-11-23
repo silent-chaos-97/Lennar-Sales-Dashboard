@@ -23845,6 +23845,7 @@
                 "appointments_kept_rate": 100,
                 "days_since_last_sale": 4,
                 "graph_data": [
+                  {
                     "x_axis": "Jul 10",
                     "y_axis": 2
                   },
@@ -78319,7 +78320,6 @@
                     "actor_type": "blue",
                     "body": "",
                     "sort": 2,
-                    "title": "ISC call"
                   },
                   {
                     "activity_date": "2023-08-02",
@@ -78651,3 +78651,1327 @@
                   }
                 ],
                 "bed_bath": "2.0 bd/2.0 ba",
+                "days_from_completion": "69 days post",
+                "home_size": "       1,728 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6191/55262/55262_eleCRS_lg.jpg",
+                "incentive_percent": 10,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -7,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 43,
+                "sale_price": 389080,
+                "sale_title": "Solano just sold in Auburn Meadows",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Coastal Carolinas",
+            "division_coordinates": [
+              -79.711786981,
+              33.235638319
+            ],
+            "geometry": {
+              "coordinates": [
+                -78.9612264,
+                33.7429594
+              ],
+              "type": "Point"
+            },
+            "id": 318,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 10,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_laura_finigan_lr_jpg",
+                    "name": "Laura Finigan",
+                    "national_rank": 114,
+                    "summary": "           $4,521,686 in sales QTD<br/>16.8% incentives QTD<br/>93% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "27 days prior",
+                "home_size": "       1,772 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7568/63770/63770_eleG6_lg.jpg",
+                "incentive_percent": 16,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -15,
+                "realtor_commission": 5,
+                "sale_cohort_rank": 42,
+                "sale_price": 315000,
+                "sale_title": "ST PHILLIPS just sold in Hidden Pines",
+                "sale_type": "Retail",
+                "web_content_score": "4"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Coastal Carolinas",
+            "division_coordinates": [
+              -79.711786981,
+              33.235638319
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.305933556,
+                32.091742444
+              ],
+              "type": "Point"
+            },
+            "id": 316,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 22,
+                    "image_url": "",
+                    "name": "Lesa Faucett",
+                    "national_rank": 212,
+                    "summary": "           $4,634,370 in sales QTD<br/>9.7% incentives QTD<br/>83% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 8,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_erica_arner_lr_jpg",
+                    "name": "Erica Arner",
+                    "national_rank": 60,
+                    "summary": "          $12,535,537 in sales QTD<br/>168 appointments QTD<br/>14% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "46 days post",
+                "home_size": "       2,464 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7225/61522/61522_eleN6_lg.jpg",
+                "incentive_percent": 13,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-07-26",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2022-07-26",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Chris,  Thank you for your call today, again my name is Victoria Gorby. I'm an Internet Sales Consultant with Lennar Homes. I've put info below on the home that we spoke about in the Cane Bay community in Lindera Preserve. Let me know if you would like to schedule an in-person visit to the com...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-03",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-08-03",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-08-03",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Chris Powell! This is a friendly reminder of your phone appointment with Lennar Homes on 08/03/2023 at 10:00 AM with Marta Perez. If you have any questions or need to please call or text us back! We will talk soon!",
+                    "sort": 5,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-08-11",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-08-11",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-08-12",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Chris,   \t   \tMy name is Chelsea, Internet Sales Consultant with Lennar. I'm excited to help you learn more about our National Sales Event at Savannah Quarters. We have quick move-in homes available with up to $60k off or a special rate buydown when you use Lennar Mortgage. Here is a link to l...",
+                    "sort": 10,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hey Chris, it's Chelsea with Lennar. I'm so glad you are interested in the National Sales Event going on right now at Savannah Quarters. We are offering up to $60k off or a reduced interest rate offer when you finance through Lennar Mortgage! Here is a li",
+                    "sort": 11,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 12,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 15,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 41,
+                "sale_price": 451520,
+                "sale_title": "HANOVER just sold in Savannah Qtrs 40s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.7041382,
+                28.466932
+              ],
+              "type": "Point"
+            },
+            "id": 315,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 25,
+                    "image_url": "",
+                    "name": "Patricia Van Marlen",
+                    "national_rank": 222,
+                    "summary": "           $4,846,787 in sales QTD<br/>1.8% incentives QTD<br/>92% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "Not Available",
+                "home_size": "       2,023 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7689/64863/64863_eleH3M_lg.jpg",
+                "incentive_percent": 3,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 40,
+                "sale_price": 432510,
+                "sale_title": "Cascade just sold in Wellness Ridge 32s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.451230015,
+                28.246676041
+              ],
+              "type": "Point"
+            },
+            "id": 272,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "111 days prior",
+                "home_size": "       1,267 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5552/58663/58663_eleE_lg.jpg",
+                "incentive_percent": 6,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 39,
+                "sale_price": 328220,
+                "sale_title": "Albany just sold in Storey Creek 40s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "NJ / NY",
+            "division_coordinates": [
+              -74.469322331,
+              40.464021311
+            ],
+            "geometry": {
+              "coordinates": [
+                -74.469867,
+                40.8258318
+              ],
+              "type": "Point"
+            },
+            "id": 270,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 68,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_matt_castronuova_lr_jpg",
+                    "name": "Matt Castronuova",
+                    "national_rank": 655,
+                    "summary": "           $3,491,582 in sales QTD<br/>5% incentives QTD<br/>33% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "36 days prior",
+                "home_size": "       2,875 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6120/47416/47416_eleA_lg.png",
+                "incentive_percent": 9,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-26",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-26",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "looking for some clarity. Been answering all questions via email she does not have much time to talk on the phone.",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -5,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 38,
+                "sale_price": 843420,
+                "sale_title": "Maple just sold in Venue at American TH",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.451230015,
+                28.246676041
+              ],
+              "type": "Point"
+            },
+            "id": 264,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "118 days prior",
+                "home_size": "       2,334 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5552/58665/58665_eleH_lg.jpg",
+                "incentive_percent": 6,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 37,
+                "sale_price": 399750,
+                "sale_title": "Sheffield just sold in Storey Creek 40s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "NJ / NY",
+            "division_coordinates": [
+              -74.469322331,
+              40.464021311
+            ],
+            "geometry": {
+              "coordinates": [
+                -74.814509,
+                40.3049406
+              ],
+              "type": "Point"
+            },
+            "id": 246,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 101,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jamie_hoagland_lr_jpg",
+                    "name": "Jamie Hoagland",
+                    "national_rank": 959,
+                    "summary": "           $1,768,384 in sales QTD<br/>0.7% incentives QTD<br/>33% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 14,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_chris_dickinsonlr_jpg",
+                    "name": "Chris Dickinson",
+                    "national_rank": 87,
+                    "summary": "          $10,301,065 in sales QTD<br/>151 appointments QTD<br/>17% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/3.5 ba",
+                "days_from_completion": "66 days prior",
+                "home_size": "       2,416 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7248/61504/61504_eleA_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Direct lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Brandon this is Chris Dickinson from Lennar Homes. It was great speaking with you! Feel free to let me know if you have any further questions regarding the email I sent over or when you are ready to set up a tour. You can call or text me right at this",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Brandon, \t \tThank you for inquiring about our exciting new community, Hopewell Parc! We are excited to start building in such an amazing location. Below are a few details about what we are currently offering at the community. Click HERE for a digital brochure which shows our floorplans, commun...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thanks for reaching out Chris. Much appreciated to text and set up a time to see the homes and community. I don't get out of the office until after 5 pm, but more than happy to set up a call for us tomorrow around 5:30 since you're working until 6 pm.",
+                    "sort": 5,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Brandon, not a problem!  I would be more than happy to discuss further with you but I can also have one of my associates that is located on site at Hopewell Parc to give you a call tomorrow at 5:30 to go more in-depth about the community!  Whichever works",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Okay that would be helpful too. Would love to schedule a tour with the associate and hear additional details about the community being developed. Thanks",
+                    "sort": 7,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Yes, you will be receiving a phone call from Shayna tomorrow at 5:30pm EST.",
+                    "sort": 8,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Liked “Yes, you will be receiving a phone call from Shayn…”",
+                    "sort": 9,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Awesome! Thank you so much",
+                    "sort": 10,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-25",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Happy to help, Brandon!  Take care!",
+                    "sort": 11,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-26",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-09-27",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 14,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 36,
+                "sale_price": 656990,
+                "sale_title": "Thompson just sold in Hopewell Parc Thompson Coll",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.5788482,
+                28.1151876
+              ],
+              "type": "Point"
+            },
+            "id": 242,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 16,
+                    "image_url": "",
+                    "name": "Hernesto Torrealba",
+                    "national_rank": 148,
+                    "summary": "           $4,088,531 in sales QTD<br/>4.8% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "99 days prior",
+                "home_size": "       2,109 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7723/65072/65072_eleE_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 35,
+                "sale_price": 386605,
+                "sale_title": "Discovery just sold in Lawson Dunes 50s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.7056778,
+                28.4681526
+              ],
+              "type": "Point"
+            },
+            "id": 240,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "Not Available",
+                "home_size": "       1,689 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7506/63457/63457_eleB_lg.jpg",
+                "incentive_percent": 3,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 19,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 34,
+                "sale_price": 350735,
+                "sale_title": "Amalfi just sold in Wellness Ridge 22 Th",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.7041382,
+                28.467108
+              ],
+              "type": "Point"
+            },
+            "id": 239,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "115 days prior",
+                "home_size": "       2,023 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7689/64863/64863_eleH3M_lg.jpg",
+                "incentive_percent": 3,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 24,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 23,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 33,
+                "sale_price": 436480,
+                "sale_title": "Cascade just sold in Wellness Ridge 32s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "NJ / NY",
+            "division_coordinates": [
+              -74.469322331,
+              40.464021311
+            ],
+            "geometry": {
+              "coordinates": [
+                -74.4535152,
+                40.3659624
+              ],
+              "type": "Point"
+            },
+            "id": 238,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 30,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_john_parin_lr_jpg",
+                    "name": "John Parin",
+                    "national_rank": 304,
+                    "summary": "           $7,052,530 in sales QTD<br/>1.5% incentives QTD<br/>40% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/3 ba",
+                "days_from_completion": "93 days prior",
+                "home_size": "       2,731 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5334/41655/41655_eleC_lg.jpg",
+                "incentive_percent": 5,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-04-15",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Good morning, this is John from the Venue at Monroe. I was just checking in on your new home search? Would you be interested in taking another look here?",
+                    "sort": 1,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2022-06-05",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hey there, it is John from the Venue just wanted to check in for any questions you may have. We have a bunch of new releases at the community now.",
+                    "sort": 2,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2022-07-03",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Good morning, I hope you have a great holiday weekend and I look forward to seeing you at the Venue at Monroe soon!",
+                    "sort": 3,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-05-08",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Rita,  \t   \tThank you for your interest in Lennar's beautiful New Construction community, Venue at the Longview! This is a resort-style active adult community for residents who are 55+, located in Plumsted Township, NJ. My name is Colleen, and I am here to answer any questions you have about our ...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-08",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Rita,  \t   \tThank you for your interest in Lennar's beautiful New Construction community, Venue at the Longview! This is a resort-style active adult community for residents who are 55+, located in Plumsted Township, NJ. My name is Colleen, and I am here to answer any questions you have about our ...",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Rita this is Colleen Harrison from Lennar in New Jersey! Thank you for your interest in our community, Venue at Longview Farm!   I would be happy to help with any initial questions or any information about the community! Also, when is a good time for you to stop by for a tour?  Feel free to call ...",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-05-08",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 7,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-05-15",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Rita,  \t   \tThank you for your interest in Lennar's beautiful New Construction community, Venue at the Longview! This is a resort-style active adult community for residents who are 55+, located in Plumsted Township, NJ. My name is Colleen, and I am here to answer any questions you have about our ...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-15",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Rita! Thank you for inquiring about our community, Venue at Longview! I am happy to share the details about this exciting new community and possibly set up a tour. This community is for Active Adult (55+). Is this what you are looking for? If not I would be happy to share details for our non a...",
+                    "sort": 9,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-05-15",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 10,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-05-15",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Rita,   \t   \tThank you for your interest in Lennar’s hottest Active Adult 55+ community, Venue at Smithville Greene, in Eastampton, NJ. We are very excited to share the details around this beautiful community! My name is Colleen, and I am here to answer any questions you have about our homes. I c...",
+                    "sort": 11,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-21",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-06-23",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-06-23",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Rita! \t   \t \tThank you for scheduling your virtual appointment for Venue at Smithville Greene community! Gerry will be sending over a link to a Microsoft Teams meeting for your virtual appointment on Saturday at 11am (eastern time). He is one of our New Home Consultants for this exciting communit...",
+                    "sort": 14,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-23",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hello Rita, I am looking forward to our birtual meeting tomorrow morning at 11:00 AM! Any questions in advance, please let me know. Regards, Gerry Fish",
+                    "sort": 15,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-06-23",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Rita,  \t   \tThank you for your interest in Lennar's beautiful New Construction community, Venue at the Longview! This is a resort-style active adult community for residents who are 55+, located in Plumsted Township, NJ. My name is Colleen, and I am here to answer any questions you have about our ...",
+                    "sort": 16,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-23",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Rita,   \t   \tThank you for your interest in Lennar’s hottest Active Adult 55+ community, Venue at Smithville Greene, in Eastampton, NJ. We are very excited to share the details around this beautiful community! My name is Colleen, and I am here to answer any questions you have about our homes. I c...",
+                    "sort": 17,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-23",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Rita this is Colleen from Lennar! You are all set for your virtual appointment with Gerry tomorrow : )",
+                    "sort": 18,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-24",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 19,
+                    "title": "Virtual tour"
+                  },
+                  {
+                    "activity_date": "2023-06-24",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-06-24",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Rita Trivedi This is a friendly reminder of your upcoming Virtual Tour with Lennar on 06/24/2023 at 11:00 AM with Gerard Fish If you have not already, please look for an email from Gerard Fish with information on how you will connect virtually.  If you need to reschedule or you have any questions...",
+                    "sort": 21,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-02",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 22,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-07-02",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Rita, \t  \tThank you for your interest in Lennar’s Active Adult 55+ community, Venue at Monroe by Lennar, in Monroe Township, NJ. We are very excited to share the details around this beautiful New Construction Community! My name is Katy, and I am here to keep you in the loop regarding Venue at Mon...",
+                    "sort": 23,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-02",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Rita,   \t   \tThank you for your interest in Lennar’s Active Adult 55+ community, Venue at Smithville Greene, in Eastampton, NJ. We are very excited to share the details around our beautiful New Construction community! My name is Katy, and I am here to answer any questions you have about our homes...",
+                    "sort": 24,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-02",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Rita! This is Katy with Lennar Homebuilders. It was great speaking with you! I just emailed over some information, but I wanted to send a quick text to let you know I am here to answer any additional questions you may have :)",
+                    "sort": 25,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-02",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Upcoming home in sept ++ is the info I need. Your email has basic community info that I am already familiar with.",
+                    "sort": 26,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-07-02",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Please send the upcoming home with sqft. I understand that the price will change.",
+                    "sort": 27,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-07-02",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Appreciate your help.",
+                    "sort": 28,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-07-08",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Rita, \t  \tThank you for your interest in Lennar’s Active Adult 55+ community, Venue at Monroe by Lennar, in Monroe Township, NJ. We are very excited to share the details around this beautiful New Construction Community! My name is Colleen, and I am here to keep you in the loop regarding Venue at ...",
+                    "sort": 29,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Rita this is Colleen Harrison from Lennar in New Jersey! Thank you for your interest in our community, Venue at Monroe.   I would be happy to help with any initial questions or any information about the community! Also, when is a good time for you to stop by for a tour?  Feel free to call or text...",
+                    "sort": 30,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-08",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 31,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-07-09",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 32,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-07-09",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Rita, \t  \tThank you for your interest in Lennar’s Active Adult 55+ community, Venue at Monroe by Lennar, in Monroe Township, NJ. We are very excited to share the details around this beautiful New Construction Community! My name is Colleen, and I am here to keep you in the loop regarding Venue at ...",
+                    "sort": 33,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-09",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Rita this is Colleen Harrison from Lennar in New Jersey! Thank you for your interest in our community, Venue at Monroe.  I would be happy to help with any initial questions or any information about the community! Also, when is a good time for you to stop by for a tour?  Feel free to call or text ...",
+                    "sort": 34,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-10",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 35,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-07-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Rita,   Your private tour is set at our community, Veneu at Monroe on today at 1pm.  The community is located at: 15 Galerie Ct, Monroe Township, NJ 08831  You will be meeting on site with John!   If you have any questions or need to reschedule, please call or text me directly at this number.  Ho...",
+                    "sort": 36,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-10",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Rita! You are all set for your appointment today at 1pm.  As promised, below is the contact for Lennar Mortgage: Ehab ehababousabe@lennarmortgage.com<mailto:ehababousabe@lennarmortgage.com> 609-789-9762  Enjoy your visit!  Colleen Harrison Internet Sales Coordinator    Colleen.Harrison@Lennar.com...",
+                    "sort": 37,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-10",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 38,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-07-10",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Ok thank you",
+                    "sort": 39,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-07-10",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Please send me finance person info.. lending..",
+                    "sort": 40,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-07-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Yes I emailed it over to you :)",
+                    "sort": 41,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "15 Galerie Ct, Monroe Township, NJ 08831",
+                    "sort": 42,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-10",
+                    "activity_type": "call",
+                    "actor_type": "purple",

@@ -87,3 +87,5 @@ const RegionSelectMenu = ({ onSelectMenu }: RegionSelectMenuProps) => {
                 }
               }}
               onClick={() => onSelectMenu(region)}
+            >
+              {region.name}

@@ -209,3 +209,5 @@ const Performance = () => {
               />
               <PerformanceBar
                 title="Appointments kept"
+                color={performanceState?.APPOINTMENTS_KEPT.color}
+                value={performanceState?.APPOINTMENTS_KEPT.percent_value}

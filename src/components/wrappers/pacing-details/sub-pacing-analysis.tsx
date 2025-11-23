@@ -10,6 +10,7 @@ interface SubPacingAnalysisProps {
   weeklyData: WeeklyPacingItem[]
   next3WPace: number
   past3WSales: number
+  changeNeeded: number
   currentWeekPrediction: number
 }
 
@@ -64,3 +65,4 @@ const SubPacingAnalysis = ({
         </Stack>
         <IndicatorBarChart
           id="sub-pacing-chart"
+          width={850}

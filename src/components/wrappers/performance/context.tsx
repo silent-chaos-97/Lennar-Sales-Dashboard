@@ -7,7 +7,6 @@ interface PerformanceContextValues {
 }
 
 // Create a new context
-export const PerformanceContext = createContext<PerformanceContextValues>({
   performanceState: {} as IscPerformanceState
 })
 
@@ -27,3 +26,4 @@ export const PerformanceProvider = ({
   return (
     <PerformanceContext.Provider value={{ performanceState }}>
       {children}
+    </PerformanceContext.Provider>

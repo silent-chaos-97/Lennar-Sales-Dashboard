@@ -12631,6 +12631,7 @@
                     "y_axis": 2
                   },
                   {
+                    "x_axis": "Aug 21",
                     "y_axis": 0
                   },
                   {
@@ -48370,7 +48371,6 @@
             "activity_status": "Missed",
             "activity_time": "2023-10-11 12:00:00.000",
             "sort": 5
-          },
           {
             "activity_status": "Connected",
             "activity_time": "2023-10-11 12:00:00.000",
@@ -52354,3 +52354,885 @@
             "activity_time": "2023-09-30 13:00:00.000",
             "sort": 67
           },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-09-30 13:00:00.000",
+            "sort": 96
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-09-30 13:00:00.000",
+            "sort": 112
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-09-30 13:00:00.000",
+            "sort": 147
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-09-30 13:30:00.000",
+            "sort": 196
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-09-30 14:00:00.000",
+            "sort": 28
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-09-30 14:00:00.000",
+            "sort": 80
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-09-30 15:30:00.000",
+            "sort": 51
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-09-30 15:30:00.000",
+            "sort": 72
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-09-30 16:00:00.000",
+            "sort": 4
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-01 10:30:00.000",
+            "sort": 48
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-01 11:00:00.000",
+            "sort": 4
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-01 11:00:00.000",
+            "sort": 50
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-01 12:00:00.000",
+            "sort": 41
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-01 12:30:00.000",
+            "sort": 90
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-01 15:00:00.000",
+            "sort": 33
+          },
+          {
+            "activity_status": "Missed",
+            "activity_time": "2023-10-01 17:00:00.000",
+            "sort": 27
+          }
+        ],
+        "TIMEFRAME": "prev_week",
+        "WEB_VISITORS": 1693,
+        "WEB_VISITORS_PERCENT_CHANGE": 17,
+        "HOURLY_WEB_VISITORS_ARRAY": [
+          {
+            "current": 134,
+            "hour": 7,
+            "prev": 0
+          },
+          {
+            "current": 173,
+            "hour": 8,
+            "prev": 0
+          },
+          {
+            "current": 183,
+            "hour": 9,
+            "prev": 0
+          },
+          {
+            "current": 265,
+            "hour": 10,
+            "prev": 0
+          },
+          {
+            "current": 219,
+            "hour": 11,
+            "prev": 0
+          },
+          {
+            "current": 215,
+            "hour": 12,
+            "prev": 0
+          },
+          {
+            "current": 208,
+            "hour": 13,
+            "prev": 0
+          },
+          {
+            "current": 224,
+            "hour": 14,
+            "prev": 0
+          },
+          {
+            "current": 227,
+            "hour": 15,
+            "prev": 0
+          },
+          {
+            "current": 221,
+            "hour": 16,
+            "prev": 0
+          },
+          {
+            "current": 244,
+            "hour": 17,
+            "prev": 0
+          },
+          {
+            "current": 241,
+            "hour": 18,
+            "prev": 0
+          }
+        ],
+        "LEADS": 218,
+        "LEADS_PERCENT_CHANGE": -10,
+        "HOURLY_LEADS_ARRAY": [
+          {
+            "current": 7,
+            "hour": 7,
+            "prev": 11
+          },
+          {
+            "current": 7,
+            "hour": 8,
+            "prev": 15
+          },
+          {
+            "current": 11,
+            "hour": 9,
+            "prev": 13
+          },
+          {
+            "current": 14,
+            "hour": 10,
+            "prev": 17
+          },
+          {
+            "current": 15,
+            "hour": 11,
+            "prev": 12
+          },
+          {
+            "current": 10,
+            "hour": 12,
+            "prev": 16
+          },
+          {
+            "current": 9,
+            "hour": 13,
+            "prev": 18
+          },
+          {
+            "current": 10,
+            "hour": 14,
+            "prev": 13
+          },
+          {
+            "current": 13,
+            "hour": 15,
+            "prev": 10
+          },
+          {
+            "current": 11,
+            "hour": 16,
+            "prev": 13
+          },
+          {
+            "current": 11,
+            "hour": 17,
+            "prev": 15
+          },
+          {
+            "current": 13,
+            "hour": 18,
+            "prev": 11
+          }
+        ],
+        "TOTAL_CALLS": 215,
+        "TOTAL_CALLS_PERCENT_CHANGE": 0,
+        "TOTAL_CHATS_TEXTS": 95,
+        "TOTAL_CHATS_TEXTS_PERCENT_CHANGE": 51,
+        "APPOINTMENTS_SET": 38,
+        "APPOINTMENTS_SET_PERCENT_CHANGE": 58,
+        "LEADS_BY_CHANNEL": {
+          "non_paid": 39,
+          "non_paid_pct_change": 63,
+          "paid": 176,
+          "paid_pct_change": -17,
+          "third_party": 3,
+          "third_party_pct_change": -25
+        },
+        "DBT_UPDATED_AT": "2023-10-12 17:55:53.055"
+      }
+    },
+    "sales_timeframe": {
+      "QTD": {
+        "COHORT": "Maryland",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "QTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Maryland",
+            "division_coordinates": [
+              -76.313061212,
+              38.896696978
+            ],
+            "geometry": {
+              "coordinates": [
+                -76.9017742,
+                39.299837
+              ],
+              "type": "Point"
+            },
+            "id": 386,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 13,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_david_paris_lr_jpg",
+                    "name": "David Paris",
+                    "national_rank": 513,
+                    "summary": "           $4,052,386 in sales QTD<br/>1.7% incentives QTD<br/>88% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.0 ba",
+                "days_from_completion": "46 days prior",
+                "home_size": "       1,985 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7130/63268/63268_ele1_lg.jpg",
+                "incentive_percent": 13,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-03-07",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sri and Ramya,  Please let me know when available to select your new home interior colors by 3/25. Cabinets, Flooring, Countertops, Tile  Monday - Sunday 10:00 AM - 4:00 PM  The selections model is in the community.  I'll check the calendar based on your request and get back to you with a confirm...",
+                    "sort": 15,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-11",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sir and Ramya,  Following up about your color selections.  Can you please forward your choices today and I will send back an addendum to sign adding these to your home.  Thank you  David Paris New Home Consultant Lennar Maryland | Delaware | Pennsylvania 410-336-3958  Patapsco Glen 2013 Patapsco ...",
+                    "sort": 16,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-13",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sri and Ramya,  Thank you for completing your interior color selections. These have been added to the new home purchase agreement.  Please open the email from Lennar DocuSign to initial and sign today.  Confirm all is as selected prior to signing.  INTERIOR COLOR SELECTION 1.5 DESIGNER SPEC PKG I...",
+                    "sort": 17,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-28",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sri and Ramya,  New option offering the cabinet pulls for kitchen / baths in lieu of the included knobs. Photo attached for included knobs. Cabinet pulls (hardware) option was seen in the model home. $500.  Please let me know by this Friday 3/31 if want to add.  Call with any questions. Thank you...",
+                    "sort": 18,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-04-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sri, Following up, I can send you the bank link for the $80,000 to be added as additional earnest money deposit.  Please let me know.  Thank you.  David Paris New Home Consultant Lennar Maryland | Delaware | Pennsylvania 410-336-3958  Patapsco Glen 2013 Patapsco Glen Rd Baltimore, MD 21244 Lennar...",
+                    "sort": 19,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-04-13",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sri and Ramya,  Attached is the copy of the additional deposit.  The earnest money deposit has been added to the purchase agreement.  Please open the email from Lennar DocuSign to initial, sign an click 'Finish' today.  Call with any questions. Thank you  David Paris New Home Consultant Lennar Ma...",
+                    "sort": 20,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-24",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sri,  There is a home coming back on the market.  September settlement  HS 177 End homesite Arcadia 3 level Facing East 3 Bedroom 2 1/2 baths 2 full baths Designer select package upgrade Deck 18 x10  $460,290  If interested, please let me know any questions.  Thank you  David Paris New Home Consu...",
+                    "sort": 21,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-05",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sri and Ramya,  Construction is on schedule.  This week: framing of your new home continues.  Estimating to be completed in September. An exact date will be available a few weeks prior.  Please continue to work with your lender to assure for an on time settlement.  Thank you  David Paris New Home...",
+                    "sort": 22,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-04",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sri and Ramya,  The rough-ins for the plumbing, electrical and HVAC are completed and ready for county inspections. Drywall install to follow after.  I'll be away from 7/5 - 7/14.  Please contact my co-worker for any questions while I am away. joanna.friel@lennar.com  Thank you  David Paris New H...",
+                    "sort": 23,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Congratulations on purchasing a Lennar home at Patapsco Glen! We look forward to welcoming you home and are pleased to provide your scheduled New Home Orientation and Settlement dates. Please read this email in its entirety for important information regarding closing on your new home.    \t \t \t \t \tNe...",
+                    "sort": 24,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-14",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi,  Construction is moving along.  Finishing up with the painting and final trades. Please let me know any questions.  Thank you  David Paris New Home Consultant Lennar Maryland | Delaware | Pennsylvania 410-336-3958  Lennar at Chapelgate 11510 Kirkleigh Dr Marriotsville, MD 21104 LennarMD.com davi...",
+                    "sort": 25,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-15",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Almost at settlement. Are you still planning to use Lennar Mortgage? If not, please provide a conditional loan approval with new lender contact today. I will send revised addendums removing $9,000 towards closing cost. Please be 100% sure your lender will be able to close on the scheduled date of...",
+                    "sort": 26,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-16",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good Afternoon –     Thank you kindly for giving us the opportunity to review the terms provided by UNFCU.  Unfortunately based on today’s market conditions – we cannot be competitive to get within the 6.75% Rate under the ARM program nor FIXED rate.  I wish you well in your investment property purc...",
+                    "sort": 27,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-16",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 28,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-17",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Ok. Thank you.        Is your friend interested in the Arcadia for 649,990?                              David Paris            New Home Consultant    Patapsco Glen            Lennar Maryland | Delaware | Pennsylvania            m:        410-336-3958            a:        2013 Patapsco Glen Rd      ...",
+                    "sort": 29,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-17",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Good Morning David My lender reached out and mentioned the rate is too high at this point and my monthly payment is almost $4700/month, where as the rental scenario around this area is only $3500. I will have to pass at this time. Will connect          ZjQcmQRYFpfptBannerStart               \t  \t Thi...",
+                    "sort": 30,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Mehari,I am the New Home Consultant working with Sri and Ramya as their new Lennar home is being built through settlement.  Attached is the water / sewer utilities addendum along with contact info for Lennar settlement and Lennar Title.  Settlement is scheduled for 9/27   I’ll be emailing weekly ...",
+                    "sort": 31,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-21",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Received and will review. Thank you        David Paris  New Home Consultant  Lennar MD | DE | PA   410-336-3958 david.paris@lennar.com 410-336-3958 Lennar.com     From: Sri <srishree2001@gmail.com>  Sent: Monday, August 21, 2023 1:19 PM To: David Paris <David.Paris@Lennar.com>; Mehari Dagnew <mdagne...",
+                    "sort": 32,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-21",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "HI, Thank you forwarding the appraisal. The appraiser never used any pending’s for the community.This shows the future market for settlements. I have attached the options summary for 3 homes near your home.All are scheduled to settle in September / October. I recommend you to refute the appraisal to...",
+                    "sort": 33,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-23",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "HI, Final sales price: $439,390 EMD: $88,700  Thank you        David Paris  New Home Consultant  Lennar MD | DE | PA   410-336-3958 david.paris@lennar.com 410-336-3958 Lennar.com     From: Mehari Dagnew <mdagnew@UNFCU.com>  Sent: Tuesday, August 22, 2023 7:49 PM To: David Paris <David.Paris@Lennar.c...",
+                    "sort": 34,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-27",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi,  This week in your new home. Carpet install and final cleaning.  All getting ready for your new home orientation on 9/20 and settlement on 9/27.  Call with any questions. Thank you  David Paris New Home Consultant Lennar Maryland | Delaware | Pennsylvania 410-336-3958  Lennar at Chapelgate 11510...",
+                    "sort": 35,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-28",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "HI Mehari, Following up on loan status. Is the loan clear to close and ready to settle on 9/27? Please update on loan status. Thank you       David Paris  New Home Consultant  Lennar MD | DE | PA   410-336-3958 david.paris@lennar.com 410-336-3958 Lennar.com     From: Mehari Dagnew <mdagnew@UNFCU.com...",
+                    "sort": 36,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-28",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Thank you sir!!! Mehari Dagnew Senior Mortgage Loan Officer NMLS#690813 (202) 463-1452 – Office (571) 414-7582 – Cell mdagnew@?unfcu.?com www.?unfcu.?org/mdagnew United Nations Federal Credit Union 1775 Pennsylvania Avenue NW Washington, DC 20006          ZjQcmQRYFpfptBannerStart               \t  \t ...",
+                    "sort": 37,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-29",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Hello David, We are still working on the file and settlement is not until Sept 27th. But we will get it done lot sooner. Best, Mehari Dagnew Senior Mortgage Loan Officer NMLS#690813 (202) 463-1452 – Office (571) 414-7582 – Cell mdagnew@?unfcu.?com          ZjQcmQRYFpfptBannerStart               \t  \t...",
+                    "sort": 38,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-04",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi.  Please provide loan status update. Any remaining conditions?  Thank you  David Paris New Home Consultant Lennar Maryland | Delaware | Pennsylvania 410-336-3958  Lennar at Chapelgate 11510 Kirkleigh Dr Marriotsville, MD 21104 LennarMD.com david.paris@lennar.com  **If you do not wish to receive f...",
+                    "sort": 39,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-11",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Hello David, We are working on the file to meet the deadline for settlement. Thank you! Mehari Dagnew Senior Mortgage Loan Officer NMLS#690813 (202) 463-1452 – Office (571) 414-7582 – Cell mdagnew@?unfcu.?com www.?unfcu.?org/mdagnew          ZjQcmQRYFpfptBannerStart               \t  \t This Message I...",
+                    "sort": 40,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-11",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "HI, Please provide an update for loan status – settlement scheduled for 9/27 When are the closing disclosures expected to be signed or acknowledged? Anything needed from Lennar? Thank you        David Paris  New Home Consultant  Lennar MD | DE | PA   410-336-3958 david.paris@lennar.com 410-336-3958 ...",
+                    "sort": 41,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-13",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Clean  false          false  false  false    EN-US  X-NONE  X-NONE                                                                                                                                                                                                                                          ...",
+                    "sort": 42,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-18",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 43,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-09-26",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi,  Happy settlement day is tomorrow :)    \t \t \tFinal Celebration Walk: \tSEPTEMBER 27, 2023 at 11:00AM \t \t \tLocation: \tHomesite 23131660196,  \tPatapsco Glen \t2423 Woodlands Road \tBaltimore, MD 21244 \t \t \tSettlement: \tSEPTEMBER 27, 2023 at 1:00PM \t \t \tLocation: \tLennar Title, Inc.,  \t7035 Albert Ein...",
+                    "sort": 44,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-28",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi,  Congratulations on the closing of your new home!  I hope you enjoy your new home at Patapsco Glen for many years to come!  Attached is the copy of the Lennar Homeowner Reference Guide inclusive of all warranty information. https://discover.lennar.com/l/maryland_customercare  For pool and gym ac...",
+                    "sort": 45,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-30",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Sri Harsha,  \t   \tWe look forward to serving you soon. In order to ensure the best experience in scheduling your virtual assessment for Case 05586207, please click the link in the email we just sent with the subject line of “Schedule your Lennar Virtual Service Visit” and follow the steps belo...",
+                    "sort": 46,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sri, Currently available are the Arcadia floorplan homesites.Prices shown with incentives for a November settlement. Please let me know any questions. Thank you        David Paris  New Home Consultant  Lennar MD | DE | PA   410-336-3958 david.paris@lennar.com 410-336-3958 Lennar.com",
+                    "sort": 47,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sri,  My error on the schedule for Sunday. Can we please reschedule for 12:30 PM or after.  Please confirm.  Thank you  David Paris New Home Consultant Lennar Maryland | Delaware | Pennsylvania 410-336-3958  LennarMD.com david.paris@lennar.com  **If you do not wish to receive future emails from u...",
+                    "sort": 48,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Please schedule for tomorrow. On Sun, Oct 8, 2023 at 6:?23 AM David Paris <david.?paris@?lennar.?com> wrote: Hi Sri, My error on the schedule for Sunday. Can we please reschedule for 12:?30 PM or after. Please confirm. Thank you David Paris          ZjQcmQRYFpfptBannerStart               \t  \t This M...",
+                    "sort": 49,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Sri, 11 AM on Monday?        David Paris  New Home Consultant  Lennar MD | DE | PA   410-336-3958 david.paris@lennar.com 410-336-3958 Lennar.com     From: Sri <srishree2001@gmail.com>  Sent: Sunday, October 8, 2023 9:03 AM To: David Paris <David.Paris@Lennar.com> Subject: Re: Sunday's appt Please sc...",
+                    "sort": 50,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 52,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sri, Thank you for stopping by today and bringing your friends to see the homes. Please click on link: https://www.lennarmortgage.com/justinarora When completed, please let me know so I can get the numbers for you and we can take this homesite off the market. Call with any questions. Thank you   ...",
+                    "sort": 51,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 9,
+                "sale_price": 616205,
+                "sale_title": "Arcadia Rear Load Garage just sold in Chapelgate",
+                "sale_type": "Retail",
+                "web_content_score": "3.5"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Maryland",
+            "division_coordinates": [
+              -76.313061212,
+              38.896696978
+            ],
+            "geometry": {
+              "coordinates": [
+                -77.4596218,
+                39.4431452
+              ],
+              "type": "Point"
+            },
+            "id": 340,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 12,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_john_conawaylr_jpg",
+                    "name": "John Conaway",
+                    "national_rank": 495,
+                    "summary": "           $3,722,149 in sales QTD<br/>1.6% incentives QTD<br/>75% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 5,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_francine_miser_lr_jpg",
+                    "name": "Francine Miser",
+                    "national_rank": 159,
+                    "summary": "           $6,225,159 in sales QTD<br/>88 appointments QTD<br/>10% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "111 days prior",
+                "home_size": "       2,078 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6138/54579/54579_ele2B_lg.jpg",
+                "incentive_percent": 3,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-28",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Zillow lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Good morning Naomi! This is Francine from Lennar Homes. I received your request to visit Sycamore Ridge. I emailed you some community  details. When you have time, please take a look and let me know what you think.   Are you available to visit Sunday 10/1",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Naomi,   \t   \tThank you for your interest in a Lennar home! My name is Francine, and I am delighted to assist you with Sycamore Ridge Townhome collection located in Frederick, centrally located just minutes to I-70.  \t   \tWould you mind answering a few questions so we may provide personalized ...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 4,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Good morning, Francine! Yes, I will be available to visit Sunday at 11. Also, I have received your email and will respond with the additional informationrequested!",
+                    "sort": 5,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Received and I will reserve that time for you,  thank you!",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Hello Francine! As promised from my text, here is additional information: What features are important for your new home?Attached garage, washer and dryer in unit, updated kitchen When would you like to move? Before May 2024 What price range          ZjQcmQRYFpfptBannerStart               \t  \t This M...",
+                    "sort": 7,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Naomi,  \t   \tYou are scheduled to meet with John Conaway, our New Home Consultant for Sycamore Ridge in Frederick on Sunday 10/1/2023 at 11AM.   \t   \tIf you are running early or late, or need help finding the location, please call John directly. He'll be happy to assist you. I have copied him ...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-01",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-01",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Naomi! We're excited to see you for your tour of Sycamore Ridge Town Homes 10/01/2023 at 11:00 AM with John Conaway. The Welcome Home Center is located at Kemp Lane, Frederick, MD 21702. See you soon!",
+                    "sort": 10,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-01",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Naomi!, This is a friendly reminder that your tour of Sycamore Ridge Town Homes with John Conaway is scheduled for tomorrow, Sunday at 11:00 AM. The Welcome Home Center is located at Kemp Lane, Frederick, MD 21702. If you need to change your appoint",
+                    "sort": 11,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Wanda, This is Francine from LENNAR. I am doing a little follow up. How was your visit to Sycamore Ridge? Do you have any questions, or would you like to schedule a return visit? We are looking forward to further assisting with you. Our team can be",
+                    "sort": 12,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 13,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Naomi and Edwin, Sorry for the delay in getting these files to you....Attached are the HOA Docs and Lennar Reference Guide  Thanks again and Congratulations!!  Very Respectfully  John Conaway LENNAR HOMES - Woodbourne Manor 443-848-8713",
+                    "sort": 14,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Wanda and Edwin,  Congratulations on your new home purchase at Sycamore Ridge! My name is Peggy, your Concierge. I am here to guide you to closing, send you construction updates and be an additional  resource for you along with John, especially during his days off. Feel free to CC us both on any ...",
+                    "sort": 15,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Wanda and Edwin  I would like to set up a Virtual Microsoft Teams Meeting to meet your Construction Manager Michael. He will review the site plan, options, and what to expect moving forward. Just  let me know a time below that works for you and I can send the link to join and items we will review...",
+                    "sort": 16,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Thank you Naomi! I just sent the meeting link for Thursday at 11am with the items we will review. John is off that day, but I will be on the call with you to introduce Michael. See you then!    From: Naomi Takabayashi <wntakabayashi@gmail.com>   Sent: Tuesday, October 10, 2023 2:31 PM  To: Peggy Cam...",
+                    "sort": 17,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 10,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 8,
+                "sale_price": 461715,
+                "sale_title": "Arcadia Front Load Garage just sold in Sycamore Ridge Townhome Collection",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Maryland",
+            "division_coordinates": [
+              -76.313061212,
+              38.896696978
+            ],
+            "geometry": {
+              "coordinates": [
+                -75.129356375,
+                38.516493625
+              ],
+              "type": "Point"
+            },
+            "id": 325,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_tammy_brown_lr_jpg",
+                    "name": "Tammy Brown",
+                    "national_rank": 93,
+                    "summary": "          $10,773,529 in sales QTD<br/>143 appointments QTD<br/>11% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.0 ba",
+                "days_from_completion": "27 days prior",
+                "home_size": "       1,596 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7129/60646/60646_eleCR_lg.jpg",
+                "incentive_percent": 14,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-11-06",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-11-06",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-11-06",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2022-11-06",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Cathy,  \t   \tWelcome to Lennar, and thank you for your interest in our upcoming community: Milos Haven coming soon to Frankford, DE. This new community will offer Lennar’s Everything’s Included® package featuring spacious villa and single family smart home designs, beautiful kitchen with grani...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-11-06",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Cathy!  This is Tammy with Lennar Homes.  I just received your request to learn more about our upcoming Milos Haven community.  Stay tuned! We are in the early planning stages and look forward to sharing new details with you in the future. Photos, videos, floorplans, pricing and more will be adde...",
+                    "sort": 5,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2022-11-10",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2022-11-10",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi there, Cathy,  \t   \tThank you for your interest in Lennar and joining our VIP Interest List for our upcoming community. Located in Selbyville, just 10 miles east of Fenwick Island, Schooner Landing will feature a variety of home designs in a peaceful suburban setting. This community will include ...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-11-23",
+                    "activity_type": "web_session",

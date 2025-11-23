@@ -105,3 +105,5 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .attr('stroke-width', 3)
         .attr('d', line)
 
+      // Draw Circle dot at the end of current ticker
+      const lastPoint =

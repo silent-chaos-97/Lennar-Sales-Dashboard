@@ -328,3 +328,8 @@ const ISCDetail = ({
                       <AxisXStartTickComponent
                         {...tickProps}
                         value={
+                          (data?.[tickProps.label as keyof typeof data] as MemberDetailValue)
+                            .percent_value || 0
+                        }
+                      />
+                    )

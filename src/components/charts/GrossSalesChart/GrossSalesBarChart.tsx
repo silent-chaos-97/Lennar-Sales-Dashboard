@@ -14,6 +14,7 @@ interface GrossSalesBarChartProps {
 
 const MARGIN = { top: 10, right: 0, bottom: 40, left: 20 }
 
+const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps) => {
   const now = DateTime.now()
   const currentMonday = now.startOf('week').startOf('day').toFormat('MMM dd')
 
@@ -57,7 +58,6 @@ const MARGIN = { top: 10, right: 0, bottom: 40, left: 20 }
             : ''
         })
 
-      const xAxis = d3
         .axisBottom(x)
         .tickFormat((d) => {
           return d
@@ -86,3 +86,4 @@ const MARGIN = { top: 10, right: 0, bottom: 40, left: 20 }
       yAxisGroup.select('.domain').remove()
       yAxisGroup.selectAll('.tick text').style('fill', '#70747A')
       yAxisGroup.selectAll('.tick line').attr('stroke', 'rgba(255,255,255,0.18)')
+    }

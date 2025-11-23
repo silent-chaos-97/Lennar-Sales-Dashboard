@@ -129,3 +129,5 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
           {insightState?.TOP_INCENTIVE_INSIGHT?.color && (
             <>
               <StrongText sx={{ color: colors[insightState?.TOP_INCENTIVE_INSIGHT.color] }}>
+                {insightState?.TOP_INCENTIVE_INSIGHT.insight_for}
+              </StrongText>

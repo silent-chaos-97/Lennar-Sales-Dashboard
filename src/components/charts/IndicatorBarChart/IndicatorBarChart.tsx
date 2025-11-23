@@ -125,3 +125,5 @@ const IndicatorBarChart = ({
       // Add y axis
       const yAxis = d3.axisLeft(y).ticks(5).tickSizeInner(-width).tickSizeOuter(0).tickPadding(12)
       const yAxisGroup = svg.append('g').call(yAxis)
+      yAxisGroup.select('.domain').remove()
+      yAxisGroup.selectAll('.tick text').style('fill', '#70747A').style('font-size', '16px')

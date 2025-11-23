@@ -23,8 +23,10 @@ const TimerProgress = ({ value, playing, onToggle }: TimerProgressProps) => {
           position: 'absolute',
           display: 'flex',
           alignItems: 'center',
+          justifyContent: 'center'
         }}
       >
         <IconButton onClick={onToggle}>
           {playing ? <PauseIcon htmlColor="#939BA8" /> : <PlayArrowIcon htmlColor="#939BA8" />}
         </IconButton>
+      </Box>

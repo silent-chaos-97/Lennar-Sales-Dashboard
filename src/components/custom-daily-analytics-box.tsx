@@ -4,6 +4,7 @@ import Typography from '@mui/material/Typography'
 import SouthEastIcon from '@mui/icons-material/SouthEast'
 import NorthEastIcon from '@mui/icons-material/NorthEast'
 import { DailyAnalyticsBoxProps } from './daily-analytics-box'
+
 type CustomDailyAnalyticsBoxProps = Omit<
   DailyAnalyticsBoxProps,
   'graphData' | 'isLargeSize' | 'color' | 'grossValue'
@@ -34,3 +35,4 @@ const CustomDailyAnalyticsBox = ({
           <SouthEastIcon color={isDecreaseBenefit ? 'success' : 'error'} />
         ))}
       <Typography variant="caption" color={diffColor} fontWeight={700}>
+        {diffPercent !== 0 ? `${diffPercent}%` : ''}

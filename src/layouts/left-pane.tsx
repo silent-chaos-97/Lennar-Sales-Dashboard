@@ -25,7 +25,6 @@ const LeftPane = () => {
   useEffect(() => {
     if (isBetween7and11) {
       setActivityFrame('yesterday')
-    } else {
       setActivityFrame('today')
     }
   }, [isBetween7and11, activityTimeframeState])
@@ -38,6 +37,7 @@ const LeftPane = () => {
             title="Current activity"
             more={
               <Stack direction="row" alignItems="center" spacing={1} color="text.secondary">
+                <ArrowForwardIcon color="inherit" />
                 <Typography variant="caption" color="text.secondary">
                   vs same day and time previous week
                 </Typography>
@@ -62,3 +62,4 @@ const LeftPane = () => {
         <Grid item lg={3}>
           {leaderboards?.ISC_LEADERBOARDS && (
             <Leaderboard
+              leaderboardData={leaderboards.ISC_LEADERBOARDS}
