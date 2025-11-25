@@ -65,3 +65,12 @@ const BulletBar = ({
               >
                 {label}
               </Typography>
+            )}
+          </Box>
+        </Box>
+      </Stack>
+    </CustomTooltip>
+  )
+}
+
+export default BulletBar

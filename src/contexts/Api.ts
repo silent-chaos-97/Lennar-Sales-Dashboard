@@ -37,3 +37,9 @@ export const fetchChartData = async (location: Division) => {
     return res
   } catch (error) {
     if (axios.isCancel(error)) {
+      console.log('#### Request Aborted by new request!', error.message)
+    } else {
+      console.log('#### Request Error:', (error as Error).message)
+    }
+  }
+}

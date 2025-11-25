@@ -56,3 +56,10 @@ export interface PacingState extends Cohort {
   AVAILABLE_HOMES: AvailableHomes
 }
 
+export enum PacingBulletBarColors {
+  black = '#212936',
+  yellow = '#ef9628',
+  green = '#009d4f',
+  red = '#e44d4d',
+  white = '#fff'
+}

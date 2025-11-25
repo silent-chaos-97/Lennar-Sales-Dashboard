@@ -34,3 +34,9 @@ export const suffixTheNumber = (n: number) =>
     : 'th')
 
 export const truncateText = (text: string, size: number) => {
+  return size > 0 && text.length > size ? text.slice(0, size) + '...' : text
+}
+
+export const pluralize = (word: string, count: number) => {
+  return count > 1 ? `${word}s` : word
+}

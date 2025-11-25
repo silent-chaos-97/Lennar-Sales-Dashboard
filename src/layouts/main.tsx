@@ -163,3 +163,25 @@ const MainLayout = () => {
         >
           <ScreenWrapper
             padding="104px 66px 0 56px"
+            justifyContent={notPanorama ? 'center' : 'flex-end'}
+            width={wrapperWidth}
+          >
+            <LeftPane />
+          </ScreenWrapper>
+          <ScreenWrapper padding="104px 46px 0 46px" justifyContent={'center'} width={wrapperWidth}>
+            <CenterPane />
+          </ScreenWrapper>
+          <ScreenWrapper
+            padding="104px 56px 0 66px"
+            justifyContent={notPanorama ? 'center' : 'flex-start'}
+            width={wrapperWidth}
+          >
+            <RightPane />
+          </ScreenWrapper>
+        </DashboardLayout>
+      </Box>
+    </Main>
+  )
+}
+
+export default MainLayout

@@ -67,3 +67,13 @@ const SubPacingAnalysis = ({
           id="sub-pacing-chart"
           width={850}
           height={260}
+          data={weeklyData || []}
+          currentWeekPrediction={currentWeekPrediction}
+          hidePredictionBar={currentCohort?.type === 'division'}
+        />
+      </Stack>
+    </Section>
+  )
+}
+
+export default SubPacingAnalysis

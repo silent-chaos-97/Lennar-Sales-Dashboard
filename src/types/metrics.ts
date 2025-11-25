@@ -12,3 +12,5 @@ export interface Metric {
 }
 export interface MetricsState {
   OVERALL_DATA_STATUS: string
+  METRICS: Metric[]
+}

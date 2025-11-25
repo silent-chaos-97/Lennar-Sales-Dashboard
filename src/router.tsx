@@ -6,3 +6,5 @@ const router = createBrowserRouter([
   { path: '/', element: <MainLayout /> },
   { path: '*', element: <NotFound /> }
 ])
+
+export default router

@@ -203,3 +203,31 @@ export const StateProvider = (props: PropsWithChildren) => {
     setMsd(!msd)
   }
 
+  return (
+    <StateContext.Provider
+      value={{
+        cohorts: sortedCohorts,
+        locations,
+        leaderboards,
+        performanceTimeframeState,
+        activityTimeframeState,
+        pacingState,
+        salesTimeframeState,
+        pricingState,
+        insightState,
+        currentCohort,
+        setCurrentCohort,
+        refreshData,
+        fetchNextDivision,
+        fetchRegionDivisions,
+        setPrevSelectedDivisionType,
+        metrics,
+        dataStatus
+      }}
+    >
+      {props.children}
+    </StateContext.Provider>
+  )
+}
+
+export const useAppState = () => useContext(StateContext)

@@ -77,3 +77,14 @@ const MemberItem = ({
           fontWeight={500}
           whiteSpace="nowrap"
           overflow="hidden"
+          textOverflow="ellipsis"
+        >
+          {divisionName ? `${divisionName} · ` : ''}
+          {summary}
+        </Typography>
+      </Stack>
+    </Stack>
+  )
+}
+
+export default MemberItem

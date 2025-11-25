@@ -28,3 +28,7 @@ export const PerformanceProvider = ({
     <PerformanceContext.Provider value={{ performanceState }}>
       {children}
     </PerformanceContext.Provider>
+  )
+}
+
+export const usePerformanceContext = () => React.useContext(PerformanceContext)

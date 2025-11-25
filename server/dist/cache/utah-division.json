@@ -24140,3 +24140,3042 @@
             },
             {
               "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 5
+            }
+          ],
+          "percent_change": 400,
+          "value": 5
+        },
+        "RETAIL_SALES": {
+          "percent_change": 150,
+          "value": 5
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 556933
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 662400
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 674900
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 622960
+            }
+          ],
+          "percent_change": -7.7,
+          "value": 622960
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 10.9
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 7.71
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 4.39
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 2.74
+            }
+          ],
+          "percent_change": -37.6,
+          "value": 2.74
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 0
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 0
+            }
+          ],
+          "percent_change": 0,
+          "value": 0
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:32.880"
+      },
+      "QTD": {
+        "COHORT": "Utah",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "QTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Utah",
+            "division_coordinates": [
+              -111.796837,
+              40.432818717
+            ],
+            "geometry": {
+              "coordinates": [
+                -112.0144116,
+                40.2973754
+              ],
+              "type": "Point"
+            },
+            "id": 301,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_melanie_ataatalr_jpg",
+                    "name": "Melanie Ataata",
+                    "national_rank": 185,
+                    "summary": "           $9,544,016 in sales QTD<br/>68 appointments QTD<br/>12% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 5,
+                    "image_url": "",
+                    "name": "Jillian Blakley",
+                    "national_rank": 687,
+                    "summary": "           $2,899,153 in sales QTD<br/>5.8% incentives QTD<br/>67% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "55 days prior",
+                "home_size": "       1,831 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7592/64001/64001_eleC_lg.jpg",
+                "incentive_percent": 1,
+                "journey_array": [],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 5,
+                "sale_price": 469900,
+                "sale_title": "Cache just sold in Parkway Fields Villages",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Utah",
+            "division_coordinates": [
+              -111.796837,
+              40.432818717
+            ],
+            "geometry": {
+              "coordinates": [
+                -111.9319066,
+                40.409281
+              ],
+              "type": "Point"
+            },
+            "id": 204,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Hannah Womack",
+                    "national_rank": 249,
+                    "summary": "           $5,959,341 in sales QTD<br/>6.2% incentives QTD<br/>55% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "47 days prior",
+                "home_size": "       2,424 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5780/44413/44413_eleT_lg.jpg",
+                "incentive_percent": 4,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 9,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 4,
+                "sale_price": 655900,
+                "sale_title": "Sequoia just sold in Primrose Cottages",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Utah",
+            "division_coordinates": [
+              -111.796837,
+              40.432818717
+            ],
+            "geometry": {
+              "coordinates": [
+                -111.929297833,
+                40.406820333
+              ],
+              "type": "Point"
+            },
+            "id": 186,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 3,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_cathy_brown_lr_jpg",
+                    "name": "Cathy Brown",
+                    "national_rank": 313,
+                    "summary": "           $4,898,238 in sales QTD<br/>6.3% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "107 days prior",
+                "home_size": "       3,080 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5781/44417/44417_eleT_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-11-01",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2022-11-01",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2022-11-16",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Haley,  \t   \tWe've been in contact previously about our homes at Wildflower in Saratoga Springs, and see that you were added to our VIP interest list for our Estate homesites (774,775 & 776).Siteplan is attached for your reference. If you are still interested, please respond to this email by 5pm ...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-01-02",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-01-11",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-03-31",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Haley and Andrew,  I hope you are doing well.  Because there are so many people on the waitlist for the upcoming homesites in the Estates, we are requiring everyone to fill out, sign and return the waitlist form I have attached. If you have found another home and would like to be removed from the...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-31",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Haley and Andrew,     Thank you for joining our waitlist in Primrose!       We are reaching out to let you know that we will be changing our waitlist process.     This will not affect your placement on the list.     Here is how the new process will go:       Every Thursday, you will receive an em...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi this is Ally with Lennar Homes! We spoke a little while ago about our community in Saratoga Springs, and I wanted to see if you're still looking for a home. We have some great incentives on very low interest rates right now, as low as 4.625%. Happy to",
+                    "sort": 8,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Yeah, we are trying to get a Teton in Primrose. I believe we are on the list.",
+                    "sort": 9,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Oh awesome! Yep, I just checked the waitlist and I see you on there :)",
+                    "sort": 10,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Attached is the purchase agreement for you to look over.   The earnest money will not show a confirmation number on the contract until it is paid. I sent out the request for earnest money electronically and you can deposit that online. After we receive the earnest money deposit, I will send the cont...",
+                    "sort": 11,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 13,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 3,
+                "sale_price": 844900,
+                "sale_title": "Teton just sold in Primrose Estates",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Utah",
+            "division_coordinates": [
+              -111.796837,
+              40.432818717
+            ],
+            "geometry": {
+              "coordinates": [
+                -111.398657572,
+                40.534535168
+              ],
+              "type": "Point"
+            },
+            "id": 142,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Michael P. Stone",
+                    "national_rank": 249,
+                    "summary": "           $6,546,092 in sales QTD<br/>10.1% incentives QTD<br/>55% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "146 days prior",
+                "home_size": "       1,663 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7305/61784/61784_ele4B1_lg.jpg",
+                "incentive_percent": 4,
+                "journey_array": [
+                  {
+                    "activity_date": "2021-09-20",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Hailey,  \tThank you for your interest in Lennar and Sunflower Fields townhomes in Saratoga Springs centrally located near Mountain View Corridor, Redwood Road, Harvest Hills and 2100 North, just minutes from Lehi, Bluffdale, and Silicon Slopes with quick access to restaurants, shopping, and enter...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2021-09-20",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Hailey,  \t   \tI know sometimes something ready now or in the near future works with better with timelines. A list of all of our quick move in homes is listed below.  \t  \t  \t \t \t \tPrimrose Single Family Homes at Wildflower in Saratoga Springs:  \t \t \tHomesite F2-74 - Sundance | Contemporary exterio...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2021-09-21",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "It was so nice meeting you and your husband. I will attach a blank contract to this email. Thank you. ",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-01-14",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Hailey,  \t   \t \tThank you for your interest in Jordanelle Ridge in Heber! See the Pricing, floorplans, available homes, Everything's Included® features, and the community siteplan HERE  \t   \tHere is an overview of Jordanelle Ridge Townhomes:  \t   \tAVAILABLE NOW:   \t   \tCanyon Series Townhomes:  \t...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-01-18",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-01-18",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-01-18",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Perfect. We look forward to it! Best, Hailey Bonny In-House Event Planner/ Coordinator River Bottoms Ranch www.?riverbottomsranch.?com 801-498-0795 From: Kaelee Graham <kaelee.?graham@?lennar.?com> Sent: Wednesday, January 18, 2023 11:?17 AM ZjQcmQRYFpfptBannerStartThis Message Is From an External S...",
+                    "sort": 7,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-02",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "If weather holds the foundation for 289 Sequoia is for the week of 3/13. So basically any time that week. I set a calendar invite to myself to call you. thanks  Michael Stone New Home Consultant Lennar Corporation  Michael.P.Stone@lennar.com www.lennar.com Office: 801.508.5524",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-13",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Here are the plans, option summary and plot plan for the homesite. thanks  Michael Stone New Home Consultant Lennar Corporation  Michael.P.Stone@lennar.com www.lennar.com Office: 801.508.5524",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-14",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "I just wanted to let you know the deposit was received. The contract is in your email. I refer you to page 7 of the contract (purchase price and payment addendum), it gives a full accounting of the transaction. the Lender incentive is on page 35 (the election form). Like we talked about last night, ...",
+                    "sort": 10,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-17",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-03-21",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Hailey! \t   \tMy name is Gabby Medeiros. I am the Sales Concierge and will be working with the community construction managers and your new home consultant to keep you in the loop on the status of your Lennar Home!   \t   \tAs of this week, your home is getting countertops.  \t   \tIf you have any ...",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-22",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Hailey!   My name is Gabby Medeiros. I am the Sales Concierge and will be working with the community construction managers and your new home consultant to keep you in the loop on the status of your Lennar Home!   As of this week, your ZjQcmQRYFpfptBannerStartThis Message Is From an External Se...",
+                    "sort": 13,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-23",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hey Hailey + Weston -  Attached is a letter our escrow coordinator puts together regarding closing. The last page has some helpful contact information for utilities and such.   Thanks,  Gabby Medeiros Sales Concierge  Lennar  Gabby.Medeiros@Lennar.com Mobile: (858) 386-3545  111 E Sego Lily Drive Su...",
+                    "sort": 14,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-24",
+                    "activity_type": "cancellation",
+                    "actor_type": "red",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Cancellation"
+                  },
+                  {
+                    "activity_date": "2023-09-13",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "After months and months, I am happy to report that I have new information on the opening and release of phase 2 of the Jordanelle Ridge community in Heber. There are a lot of moving parts because this community will be working off of a waitlist. I have detailed all the pertinent information below. I...",
+                    "sort": 16,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 2,
+                "sale_price": 564201,
+                "sale_title": "Residence E just sold in Jordanelle Canyon Townhomes",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Utah",
+            "division_coordinates": [
+              -111.796837,
+              40.432818717
+            ],
+            "geometry": {
+              "coordinates": [
+                -112.0134274,
+                40.2970238
+              ],
+              "type": "Point"
+            },
+            "id": 63,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ally_hendersonlr_jpg",
+                    "name": "Ally Henderson",
+                    "national_rank": 182,
+                    "summary": "           $7,900,100 in sales QTD<br/>69 appointments QTD<br/>9% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Hannah Womack",
+                    "national_rank": 249,
+                    "summary": "           $5,959,341 in sales QTD<br/>6.2% incentives QTD<br/>55% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "21 days prior",
+                "home_size": "       2,777 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7593/64014/64014_eleT_lg.jpg",
+                "incentive_percent": 3,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 3,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hey this is Ally with Lennar Homes! Hannah said she'll give you a call at 6pm to talk about the home. Hannah is so great - you'll love her.  Have a great rest of your day!",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "That's great!",
+                    "sort": 5,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": ":)",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Chanelecarter@gmail.com for Tonjala cooke",
+                    "sort": 7,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Good evening are you going to send the contract and the address for the earnest money",
+                    "sort": 8,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "I know it's late thank you",
+                    "sort": 9,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Thank you! I'll pass this info over to Hannah this morning.",
+                    "sort": 10,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank you",
+                    "sort": 11,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "You're welcome!",
+                    "sort": 12,
+                    "title": "ISC text"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 1,
+                "sale_price": 579900,
+                "sale_title": "Redwood just sold in Parkway Fields Cottages",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 47
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 68
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 60
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 64
+            }
+          ],
+          "percent_change": 6.7,
+          "value": 64
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 27
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 50
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 46
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 43
+            }
+          ],
+          "percent_change": -6.5,
+          "value": 43
+        },
+        "RETAIL_SALES": {
+          "percent_change": 6.7,
+          "value": 64
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 571136
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 539816
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 572538
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 620767
+            }
+          ],
+          "percent_change": 8.4,
+          "value": 620767
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 8.51
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 9.15
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 8
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 7.59
+            }
+          ],
+          "percent_change": -5.1,
+          "value": 7.59
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 0
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 0.1
+            }
+          ],
+          "percent_change": 0,
+          "value": 0.1
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:32.880"
+      }
+    },
+    "pacing": {
+      "COHORT": "Utah",
+      "COHORT_TYPE": "division",
+      "PAST_3W_SALES": 10.666666,
+      "NEXT_3W_PACE": 9.449678978,
+      "WEEKLY_PACING_GRAPH": [
+        {
+          "future_pace": 0,
+          "gross_sales": 11,
+          "sort": 0,
+          "x_axis": "Aug 28"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 11,
+          "sort": 1,
+          "x_axis": "Sep 04"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 12,
+          "sort": 2,
+          "x_axis": "Sep 11"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 11,
+          "sort": 3,
+          "x_axis": "Sep 18"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 14,
+          "sort": 4,
+          "x_axis": "Sep 25"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 7,
+          "sort": 5,
+          "x_axis": "Oct 02"
+        },
+        {
+          "future_pace": 10.630189178,
+          "gross_sales": 5,
+          "sort": 6,
+          "x_axis": "Oct 09"
+        },
+        {
+          "future_pace": 10.473978818,
+          "gross_sales": 0,
+          "sort": 7,
+          "x_axis": "Oct 16"
+        },
+        {
+          "future_pace": 10.244868939,
+          "gross_sales": 0,
+          "sort": 8,
+          "x_axis": "Oct 23"
+        },
+        {
+          "future_pace": 9.983093913,
+          "gross_sales": 0,
+          "sort": 9,
+          "x_axis": "Oct 30"
+        },
+        {
+          "future_pace": 10.614346627,
+          "gross_sales": 0,
+          "sort": 10,
+          "x_axis": "Nov 06"
+        },
+        {
+          "future_pace": 10.609792636,
+          "gross_sales": 0,
+          "sort": 11,
+          "x_axis": "Nov 13"
+        }
+      ],
+      "CURRENT_WEEK_PREDICTION": 6.740555827,
+      "AVAILABLE_HOMES": {
+        "black_homes": 0,
+        "green_homes": 70,
+        "red_homes": 4,
+        "total_available": 85,
+        "yellow_homes": 11
+      },
+      "SUB_COHORT_MAP": {
+        "map_summary": "",
+        "map_title": "Communities pacing status",
+        "sub_cohort_array": [
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "40.296820322",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_danielle_heaps_lr_jpg",
+                  "name": "Danielle Heaps",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Clint Larsen",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Jillian Blakley",
+                  "national_rank": 3764,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 4,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Hannah Womack",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-112.010818825",
+            "name": "Parkway Fields Estates",
+            "next_3w_pace": 0.2839234991,
+            "past_3w_sales": 0,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.3405419716,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.286554613,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.2246739128,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.1778310667,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.2771840233,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.3825277779,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 50,
+            "current_week_prediction": 0,
+            "latitude": "40.413918684",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Hannah Womack",
+                  "national_rank": 1159,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_tess_timothylr_jpg",
+                  "name": "Tess Timothy",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_cathy_brown_lr_jpg",
+                  "name": "Cathy Brown",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Dani Hagemeister",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Michael P. Stone",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Clint Larsen",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-111.776682557",
+            "name": "Ridgeview Zion Townhomes",
+            "next_3w_pace": 1.5,
+            "past_3w_sales": 1,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1.5,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1.5,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1.5,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1.45977789,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.5040275359,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.8732568186,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "40.534654578",
+            "leaderboard": [],
+            "longitude": "-111.396921844",
+            "name": "Jordanelle Ridge Cottages",
+            "next_3w_pace": 0,
+            "past_3w_sales": 0,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -100,
+            "current_week_prediction": 0,
+            "latitude": "40.091882037",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Hannah Womack",
+                  "national_rank": 1159,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_cathy_brown_lr_jpg",
+                  "name": "Cathy Brown",
+                  "national_rank": 1159,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_danielle_heaps_lr_jpg",
+                  "name": "Danielle Heaps",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                }
+              ]
+            },
+            "longitude": "-111.665232985",
+            "name": "Escala Canyon Townhomes",
+            "next_3w_pace": 0,
+            "past_3w_sales": 1,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "ahead_of_pace",
+            "status_color": "#f5cc6c",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -49,
+            "current_week_prediction": 0,
+            "latitude": "40.092075869",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_cathy_brown_lr_jpg",
+                  "name": "Cathy Brown",
+                  "national_rank": 441,
+                  "summary": "4 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Jillian Blakley",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_danielle_heaps_lr_jpg",
+                  "name": "Danielle Heaps",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Hannah Womack",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 5,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_tess_timothylr_jpg",
+                  "name": "Tess Timothy",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-111.665072355",
+            "name": "Escala Zion Townhomes",
+            "next_3w_pace": 0.6741523505,
+            "past_3w_sales": 1.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.573109226,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.4493478255,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.2964590052,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.6810839433,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -27,
+            "current_week_prediction": 0,
+            "latitude": "41.051378319",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Michael P. Stone",
+                  "national_rank": 290,
+                  "summary": "5 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_tess_timothylr_jpg",
+                  "name": "Tess Timothy",
+                  "national_rank": 695,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Hannah Womack",
+                  "national_rank": 695,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 4,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Clint Larsen",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 5,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_tammy_brady_jpg",
+                  "name": "Tammy Brady",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 5,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Dani Hagemeister",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-111.908416819",
+            "name": "Talbot Heights",
+            "next_3w_pace": 1.218249558,
+            "past_3w_sales": 1.666667,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 705900,
+                "percentile_100": 715900,
+                "percentile_25": 715900,
+                "percentile_5": 708400,
+                "percentile_50": 751900,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 801400,
+                "percentile_95": 811150
+              },
+              "new_construction_prices": {
+                "percentile_0": 599990,
+                "percentile_100": 849995,
+                "percentile_25": 649990,
+                "percentile_5": 616927,
+                "percentile_50": 715608,
+                "percentile_50_percent_change": 2,
+                "percentile_75": 769075.5,
+                "percentile_95": 833188.6
+              },
+              "resale_prices": {
+                "percentile_0": 600000,
+                "percentile_100": 800000,
+                "percentile_25": 699999.25,
+                "percentile_5": 640000,
+                "percentile_50": 731000,
+                "percentile_50_percent_change": 1,
+                "percentile_75": 777425,
+                "percentile_95": 799849.25
+              }
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 6,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 4,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1.25,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1.18965045,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1.215098226,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.7967450992,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.9718233939,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.9738787453,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "40.534182147",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_tess_timothylr_jpg",
+                  "name": "Tess Timothy",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Hannah Womack",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Dani Hagemeister",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Clint Larsen",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Michael P. Stone",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-111.398808511",
+            "name": "Jordanelle Zion Townhomes",
+            "next_3w_pace": 1,
+            "past_3w_sales": 0,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "very_behind_pace",
+            "status_color": "#dc3030",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -89,
+            "current_week_prediction": 0,
+            "latitude": "40.408564781",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Michael P. Stone",
+                  "national_rank": 695,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_cathy_brown_lr_jpg",
+                  "name": "Cathy Brown",
+                  "national_rank": 1159,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Clint Larsen",
+                  "national_rank": 1159,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_tess_timothylr_jpg",
+                  "name": "Tess Timothy",
+                  "national_rank": 1159,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 5,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_danielle_heaps_lr_jpg",
+                  "name": "Danielle Heaps",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 6,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Dani Hagemeister",
+                  "national_rank": 3764,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 7,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Hannah Womack",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 7,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Lane Murray",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-111.928351395",
+            "name": "Primrose Estates",
+            "next_3w_pace": 0.2839234991,
+            "past_3w_sales": 2.666667,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "very_ahead_of_pace",
+            "status_color": "#ec8a28",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.3405419716,
+                "gross_sales": 1,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.286554613,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.2246739128,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.201025766,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.3381754524,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.5630829971,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "40.534653814",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_tess_timothylr_jpg",
+                  "name": "Tess Timothy",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-111.397030438",
+            "name": "Jordanelle Ridge Estates",
+            "next_3w_pace": 0,
+            "past_3w_sales": 0,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -39,
+            "current_week_prediction": 0,
+            "latitude": "40.409367345",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Hannah Womack",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Dani Hagemeister",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Michael P. Stone",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 4,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_tess_timothylr_jpg",
+                  "name": "Tess Timothy",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 4,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Clint Larsen",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-111.931200184",
+            "name": "Primrose Cottage",
+            "next_3w_pace": 0.2030541252,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.1360827635,
+                "gross_sales": 1,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.1788854382,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.2941941738,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.483089278,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.8291430876,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.5447031123,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "40.534535168",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Michael P. Stone",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Clint Larsen",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_tess_timothylr_jpg",
+                  "name": "Tess Timothy",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Hannah Womack",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Dani Hagemeister",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-111.398657572",
+            "name": "Jordanelle Canyon Townhomes",
+            "next_3w_pace": 1,
+            "past_3w_sales": 0,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "very_behind_pace",
+            "status_color": "#dc3030",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 1,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -21,
+            "current_week_prediction": 0,
+            "latitude": "40.410289048",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Dani Hagemeister",
+                  "national_rank": 1159,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Hannah Womack",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Michael P. Stone",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Clint Larsen",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-111.932008926",
+            "name": "Primrose Villages",
+            "next_3w_pace": 0.5243744297,
+            "past_3w_sales": 0.666667,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.3260869827,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.5325483153,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.7144879912,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.4871902835,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.4627428991,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.3675194048,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 200,
+            "current_week_prediction": 0,
+            "latitude": "40.29686781",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Jillian Blakley",
+                  "national_rank": 695,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_cathy_brown_lr_jpg",
+                  "name": "Cathy Brown",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Clint Larsen",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Hannah Womack",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_danielle_heaps_lr_jpg",
+                  "name": "Danielle Heaps",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-112.012261864",
+            "name": "Parkway Fields Villages",
+            "next_3w_pace": 1,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 1,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -16,
+            "current_week_prediction": 0,
+            "latitude": "40.303070352",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_tess_timothylr_jpg",
+                  "name": "Tess Timothy",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Clint Larsen",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                }
+              ]
+            },
+            "longitude": "-111.896367097",
+            "name": "Fox Hollow",
+            "next_3w_pace": 0.5581194782,
+            "past_3w_sales": 0.666667,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.5675966577,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.8039307103,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.3028310667,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.5138282868,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.7900760932,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.8400340111,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -81,
+            "current_week_prediction": 0,
+            "latitude": "40.432818717",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_tess_timothylr_jpg",
+                  "name": "Tess Timothy",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Dani Hagemeister",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Michael P. Stone",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_tammy_brady_jpg",
+                  "name": "Tammy Brady",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Hannah Womack",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-111.796837",
+            "name": "The Valley at Wildflower Villa",
+            "next_3w_pace": 0.06219248206,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.04419417382,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.1423832724,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.1760312312,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.2255254826,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.3038854382,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 200,
+            "current_week_prediction": 0,
+            "latitude": "40.296757159",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Hannah Womack",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_cathy_brown_lr_jpg",
+                  "name": "Cathy Brown",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Utah",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_danielle_heaps_lr_jpg",
+                  "name": "Danielle Heaps",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 4,
+                  "division_name": "Utah",
+                  "image_url": "",
+                  "name": "Jillian Blakley",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-112.011413253",
+            "name": "Parkway Fields Cottages",
+            "next_3w_pace": 1,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 1,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          }
+        ]
+      },
+      "CHANGE_NEEDED_TO_MEET_PACE": -11,
+      "DBT_UPDATED_AT": "2023-10-12 18:56:00.762"
+    },
+    "pricing": {
+      "COHORT": "Utah",
+      "COHORT_TYPE": "division",
+      "LENNAR_PRICES": {
+        "percentile_0": 491900,
+        "percentile_100": 801900,
+        "percentile_25": 539900,
+        "percentile_5": 478100,
+        "percentile_50": 624900,
+        "percentile_50_percent_change": 0,
+        "percentile_75": 691900,
+        "percentile_95": 803500
+      },
+      "NEW_CONSTRUCTION_PRICES": {
+        "percentile_0": 402220,
+        "percentile_100": 849995,
+        "percentile_25": 521272.25,
+        "percentile_5": 448140,
+        "percentile_50": 599565,
+        "percentile_50_percent_change": 0,
+        "percentile_75": 659340,
+        "percentile_95": 788826.35
+      },
+      "RESALE_PRICES": {
+        "percentile_0": 420000,
+        "percentile_100": 800000,
+        "percentile_25": 546000,
+        "percentile_5": 449980,
+        "percentile_50": 625000,
+        "percentile_50_percent_change": 0,
+        "percentile_75": 699997,
+        "percentile_95": 789200
+      },
+      "DBT_UPDATED_AT": "2023-10-12 18:11:35.943"
+    },
+    "insights": {
+      "COHORT": "Utah",
+      "COHORT_TYPE": "division",
+      "TOP_SALES_INSIGHT": {
+        "color": "green",
+        "content": 4,
+        "insight_for": "Primrose Estates"
+      },
+      "BOTTOM_SALES_INSIGHT": {
+        "color": "red",
+        "content": 1,
+        "insight_for": "The Valley at Wildflower Villas"
+      },
+      "TOP_INCENTIVE_INSIGHT": {
+        "color": "green",
+        "content": 0.9,
+        "insight_for": "Parkway Fields Villages"
+      },
+      "BOTTOM_INCENTIVE_INSIGHT": {
+        "color": "red",
+        "content": 15.3,
+        "insight_for": "The Valley at Wildflower Villas"
+      }
+    }
+  }
+}

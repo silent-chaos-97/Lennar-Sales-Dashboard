@@ -39,3 +39,9 @@ const CustomTooltip = ({ elementName, children }: CustomTooltipProps) => {
         cursor: 'default !important'
       }}
     >
+      {children}
+    </Tooltip>
+  )
+}
+
+export default CustomTooltip

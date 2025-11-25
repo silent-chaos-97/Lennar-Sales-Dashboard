@@ -11,6 +11,7 @@ const NATIONAL_DIVISION = {
   name: 'National',
   type: 'all',
   latitude: 35.86,
+  longitude: -98.26,
   timezone: 'US/Eastern'
 }
 
@@ -89,3 +90,16 @@ const RegionSelectMenu = ({ onSelectMenu }: RegionSelectMenuProps) => {
             >
               {region.name}
             </Button>
+            <List>
+              {region.divisions.map((item) => (
+                <SelectMenuItem key={item.name} item={item} onSelectMenu={onSelectMenu} />
+              ))}
+            </List>
+          </Grid>
+        ))}
+      </Grid>
+    </Stack>
+  )
+}
+
+export default RegionSelectMenu

@@ -151,3 +151,24 @@ export const Section = ({
                       <Typography
                         key={key}
                         variant="h6"
+                        fontWeight={400}
+                        whiteSpace="nowrap"
+                        sx={{ mb: 1.5, '&:hover': { color: '#fff' } }}
+                        onClick={() => handleClickTimestampItem(key)}
+                      >
+                        {name}
+                      </Typography>
+                    ))}
+                </Box>
+              </ClickAwayListener>
+            )}
+          </Box>
+          {more}
+        </Stack>
+      </Stack>
+      <Box sx={{ pt: 3 }}>{children}</Box>
+    </Box>
+  )
+}
+
+export default Section

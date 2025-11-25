@@ -337,3 +337,50 @@ const ISCDetail = ({
                   radialAxisEnd={{
                     tickSize: 0,
                     tickPadding: 12,
+                    tickRotation: 0,
+                    tickComponent: (tickProps) => (
+                      <AxisXEndTickComponent
+                        {...tickProps}
+                        goal={
+                          (data?.[tickProps.label as keyof typeof data] as MemberDetailValue)
+                            .goal_value || 0
+                        }
+                      />
+                    )
+                  }}
+                  circularAxisOuter={null}
+                  tracksColor="#000000"
+                  colors={[
+                    PERFORMANCE_COLORS[data?.beback_with_follow_up.color || 'green'],
+                    PERFORMANCE_COLORS[data?.follow_up.color || 'green'],
+                    PERFORMANCE_COLORS[data?.trifecta.color || 'green']
+                  ]}
+                  isInteractive={false}
+                />
+              </Grid>
+              <Grid item lg={3}>
+                <Stack sx={{ height: '100%', justifyContent: 'space-between' }} spacing={5}>
+                  <PerformanceBar
+                    title="Leads with appointment set"
+                    color={data?.leads_w_appts_set.color}
+                    value={data?.leads_w_appts_set.percent_value}
+                    goal={data?.leads_w_appts_set.goal_value}
+                  />
+                  <PerformanceBar
+                    title="Appointments kept"
+                    color={data?.appts_kept.color}
+                    value={data?.appts_kept.percent_value}
+                    goal={data?.appts_kept.goal_value}
+                    missed={data?.appts_missed}
+                  />
+                </Stack>
+              </Grid>
+            </Grid>
+          </Section>
+        </Box>
+      </Box>
+    </Fade>
+  )
+}
+
+export default ISCDetail

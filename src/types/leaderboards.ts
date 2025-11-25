@@ -102,3 +102,18 @@ export const ISC_LEADERBOARD_CATEGORIES = {
   sales: 'Gross sales',
   calls: 'Calls',
   chats_texts: 'Chats and texts',
+  leads_with_trifecta: 'Leads with trifecta',
+  leads_with_followup: 'Leads with follow-up',
+  bebacks_with_followup: 'Be-backs with follow-up',
+  leads_with_appointment_set: 'Leads with appointment set'
+}
+
+export const NHC_LEADERBOARD_CATEGORIES = {
+  gross_sales: 'Gross sales',
+  appointment_kept_rate: 'Appointments kept rate',
+  incentives: 'Incentives',
+  net_sales: 'Net sales',
+  realtor_attachment_rate: 'Realtor attachment rate',
+  realtor_commission_rate: 'Realtor commission rate',
+  revenue: 'Net revenue'
+}

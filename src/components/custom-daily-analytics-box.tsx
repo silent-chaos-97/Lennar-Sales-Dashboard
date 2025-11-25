@@ -36,3 +36,9 @@ const CustomDailyAnalyticsBox = ({
         ))}
       <Typography variant="caption" color={diffColor} fontWeight={700}>
         {diffPercent !== 0 ? `${diffPercent}%` : ''}
+      </Typography>
+    </Stack>
+  )
+}
+
+export default CustomDailyAnalyticsBox

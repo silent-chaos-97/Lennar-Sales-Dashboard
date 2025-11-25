@@ -302,3 +302,45 @@ const Header = () => {
                   }}
                 />
               </Tabs>
+            </Stack>
+          )}
+        </ScreenWrapper>
+        <ScreenWrapper justifyContent={isDesktop || isTriple ? 'center' : 'flex-start'}>
+          <Box
+            display="flex"
+            alignItems="center"
+            justifyContent="center"
+            position="relative"
+            width={isDesktop || isTriple ? '100%' : 2010}
+          >
+            <Stack
+              sx={{ position: 'absolute', right: 56, alignItems: 'center' }}
+              direction="row"
+              spacing={2}
+            >
+              {isDesktop && <CurrentTime />}
+              <Stack>
+                <IconButton onClick={handleClickSettings}>
+                  <SettingsIcon fontSize="large" htmlColor="#939BA8" />
+                </IconButton>
+                {openSettings && (
+                  <SettingsMenu
+                    onClose={() => {
+                      setOpenSettings(false)
+                    }}
+                  />
+                )}
+              </Stack>
+              <IconButton onClick={handleRefreshTimer}>
+                <RefreshIcon fontSize="large" htmlColor="#939BA8" />
+              </IconButton>
+            </Stack>
+            {!isDesktop && <img src="/logo.svg" alt="Lennar" width="144" />}
+          </Box>
+        </ScreenWrapper>
+      </Box>
+    </Wrapper>
+  )
+}
+
+export default Header

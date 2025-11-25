@@ -23689,3 +23689,1723 @@
         "RETAIL_SALES": {
           "percent_change": 750,
           "value": 17
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Mar 25",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Jun 25",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 25",
+              "y_axis": 367493
+            },
+            {
+              "sort": 4,
+              "x_axis": "Dec 25",
+              "y_axis": 318475
+            }
+          ],
+          "percent_change": -13.3,
+          "value": 318475
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Mar 25",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Jun 25",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 25",
+              "y_axis": 3.86
+            },
+            {
+              "sort": 4,
+              "x_axis": "Dec 25",
+              "y_axis": 8.2
+            }
+          ],
+          "percent_change": 112.4,
+          "value": 8.2
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Mar 25",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Jun 25",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 25",
+              "y_axis": 0
+            },
+            {
+              "sort": 4,
+              "x_axis": "Dec 25",
+              "y_axis": 0
+            }
+          ],
+          "percent_change": 0,
+          "value": 0
+        },
+        "DBT_UPDATED_AT": "2023-12-26 02:47:48.265"
+      },
+      "MTD": {
+        "COHORT": "Mid Florida",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "MTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Mid Florida",
+            "division_coordinates": [
+              -82.282127687,
+              29.315958691
+            ],
+            "geometry": {
+              "coordinates": [
+                -82.0894674,
+                29.2267832
+              ],
+              "type": "Point"
+            },
+            "id": 9,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "42 days post",
+                "home_size": "       1,544 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6963/62574/62574_eleHA_lg.jpg",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-10-17",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2022-10-17",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-02-26",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-04-06",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 4,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-04-06",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 5,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-12-22",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-12-25",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -6,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 1,
+                "sale_price": 281510,
+                "sale_title": "ELAN just sold in Millwood Estates - The Enclave",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 26",
+              "y_axis": 2
+            },
+            {
+              "sort": 2,
+              "x_axis": "Oct 26",
+              "y_axis": 3
+            },
+            {
+              "sort": 3,
+              "x_axis": "Nov 26",
+              "y_axis": 15
+            },
+            {
+              "sort": 4,
+              "x_axis": "Dec 26",
+              "y_axis": 17
+            }
+          ],
+          "percent_change": 13.3,
+          "value": 17
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 26",
+              "y_axis": 2
+            },
+            {
+              "sort": 2,
+              "x_axis": "Oct 26",
+              "y_axis": 3
+            },
+            {
+              "sort": 3,
+              "x_axis": "Nov 26",
+              "y_axis": 15
+            },
+            {
+              "sort": 4,
+              "x_axis": "Dec 26",
+              "y_axis": 17
+            }
+          ],
+          "percent_change": 13.3,
+          "value": 17
+        },
+        "RETAIL_SALES": {
+          "percent_change": 13.3,
+          "value": 17
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 26",
+              "y_axis": 367493
+            },
+            {
+              "sort": 2,
+              "x_axis": "Oct 26",
+              "y_axis": 343142
+            },
+            {
+              "sort": 3,
+              "x_axis": "Nov 26",
+              "y_axis": 318674
+            },
+            {
+              "sort": 4,
+              "x_axis": "Dec 26",
+              "y_axis": 318475
+            }
+          ],
+          "percent_change": -0.1,
+          "value": 318475
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 26",
+              "y_axis": 3.86
+            },
+            {
+              "sort": 2,
+              "x_axis": "Oct 26",
+              "y_axis": 2.41
+            },
+            {
+              "sort": 3,
+              "x_axis": "Nov 26",
+              "y_axis": 11.32
+            },
+            {
+              "sort": 4,
+              "x_axis": "Dec 26",
+              "y_axis": 8.2
+            }
+          ],
+          "percent_change": -27.6,
+          "value": 8.2
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 26",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Oct 26",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Nov 26",
+              "y_axis": 0
+            },
+            {
+              "sort": 4,
+              "x_axis": "Dec 26",
+              "y_axis": 0
+            }
+          ],
+          "percent_change": 0,
+          "value": 0
+        },
+        "DBT_UPDATED_AT": "2023-12-26 02:47:48.265"
+      }
+    },
+    "pacing": {
+      "COHORT": "Mid Florida",
+      "COHORT_TYPE": "division",
+      "PAST_3W_SALES": 4.666664,
+      "NEXT_3W_PACE": 7.321002804,
+      "WEEKLY_PACING_GRAPH": [
+        {
+          "future_pace": 0,
+          "gross_sales": 6,
+          "sort": 0,
+          "x_axis": "Nov 13"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 4,
+          "sort": 1,
+          "x_axis": "Nov 20"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 3,
+          "sort": 2,
+          "x_axis": "Nov 27"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 2,
+          "sort": 3,
+          "x_axis": "Dec 04"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 7,
+          "sort": 4,
+          "x_axis": "Dec 11"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 5,
+          "sort": 5,
+          "x_axis": "Dec 18"
+        },
+        {
+          "future_pace": 6.684465753,
+          "gross_sales": 1,
+          "sort": 6,
+          "x_axis": "Dec 25"
+        },
+        {
+          "future_pace": 7.59378627,
+          "gross_sales": 0,
+          "sort": 7,
+          "x_axis": "Jan 01"
+        },
+        {
+          "future_pace": 7.684756388,
+          "gross_sales": 0,
+          "sort": 8,
+          "x_axis": "Jan 08"
+        },
+        {
+          "future_pace": 8.523780043,
+          "gross_sales": 0,
+          "sort": 9,
+          "x_axis": "Jan 15"
+        },
+        {
+          "future_pace": 8.68754638,
+          "gross_sales": 0,
+          "sort": 10,
+          "x_axis": "Jan 22"
+        },
+        {
+          "future_pace": 9.787181484,
+          "gross_sales": 0,
+          "sort": 11,
+          "x_axis": "Jan 29"
+        }
+      ],
+      "CURRENT_WEEK_PREDICTION": null,
+      "AVAILABLE_HOMES": {
+        "black_homes": 12,
+        "green_homes": 180,
+        "red_homes": 18,
+        "total_available": 222,
+        "yellow_homes": 12
+      },
+      "SUB_COHORT_MAP": {
+        "map_summary": "",
+        "map_title": "Communities pacing status",
+        "sub_cohort_array": [
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "29.099879288",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": []
+            },
+            "longitude": "-82.198127654",
+            "name": "Marion Ranch 50s",
+            "next_3w_pace": 7.586524002e-16,
+            "past_3w_sales": 0,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 304985,
+                "percentile_100": 304985,
+                "percentile_25": 304985,
+                "percentile_5": 304985,
+                "percentile_50": 304985,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 304985,
+                "percentile_95": 304985
+              },
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Nov 27"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Dec 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Dec 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Dec 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Dec 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Jan 01"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Jan 08"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Jan 15"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Jan 22"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Jan 29"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "29.100858927",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": []
+            },
+            "longitude": "-82.198086379",
+            "name": "Marion Ranch 40's",
+            "next_3w_pace": 6.846375319e-16,
+            "past_3w_sales": 0,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 305485,
+                "percentile_100": 349985,
+                "percentile_25": 316610,
+                "percentile_5": 307710,
+                "percentile_50": 327735,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 338860,
+                "percentile_95": 347760
+              },
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Nov 27"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Dec 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Dec 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Dec 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Dec 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Jan 01"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Jan 08"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Jan 15"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Jan 22"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Jan 29"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "29.7693007",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": []
+            },
+            "longitude": "-82.486854761",
+            "name": "Trailhead Landing 50s",
+            "next_3w_pace": 2,
+            "past_3w_sales": 0,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 354675,
+                "percentile_100": 391680,
+                "percentile_25": 356407.5,
+                "percentile_5": 355021.5,
+                "percentile_50": 365735,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 378783.75,
+                "percentile_95": 389100.75
+              },
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "very_behind_pace",
+            "status_color": "#dc3030",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Nov 13"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Nov 20"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Nov 27"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Dec 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Dec 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Dec 18"
+              },
+              {
+                "future_pace": 2,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Dec 25"
+              },
+              {
+                "future_pace": 2,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Jan 01"
+              },
+              {
+                "future_pace": 2,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Jan 08"
+              },
+              {
+                "future_pace": 2,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Jan 15"
+              },
+              {
+                "future_pace": 2,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Jan 22"
+              },
+              {
+                "future_pace": 2,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Jan 29"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -100,
+            "current_week_prediction": 0,
+            "latitude": "29.101560278",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Mid Florida",
+                  "image_url": "",
+                  "name": "Sterling Prudhomme",
+                  "national_rank": 886,
+                  "summary": "1 gross sale"
+                }
+              ]
+            },
+            "longitude": "-82.198372458",
+            "name": "Marion Ranch 60's",
+            "next_3w_pace": -9.251858539e-17,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 413485,
+                "percentile_100": 413485,
+                "percentile_25": 413485,
+                "percentile_5": 413485,
+                "percentile_50": 413485,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 413485,
+                "percentile_95": 413485
+              },
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Nov 27"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Dec 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Dec 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Dec 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Dec 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Jan 01"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Jan 08"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Jan 15"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Jan 22"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Jan 29"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 142,
+            "current_week_prediction": 0,
+            "latitude": "29.226964059",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Mid Florida",
+                  "image_url": "",
+                  "name": "Oseas Santiago",
+                  "national_rank": 886,
+                  "summary": "1 gross sale"
+                }
+              ]
+            },
+            "longitude": "-82.091791285",
+            "name": "Millwood 40",
+            "next_3w_pace": 0.8069529186,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Nov 13"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Nov 20"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Nov 27"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Dec 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Dec 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 5,
+                "x_axis": "Dec 18"
+              },
+              {
+                "future_pace": 0.4568696686,
+                "gross_sales": 1,
+                "sort": 6,
+                "x_axis": "Dec 25"
+              },
+              {
+                "future_pace": 0.8196512441,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Jan 01"
+              },
+              {
+                "future_pace": 1.144337843,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Jan 08"
+              },
+              {
+                "future_pace": 0.9334495226,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Jan 15"
+              },
+              {
+                "future_pace": 1.392864491,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Jan 22"
+              },
+              {
+                "future_pace": 1.817404818,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Jan 29"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -100,
+            "current_week_prediction": 0,
+            "latitude": "29.201339085",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Mid Florida",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_aaron_mccullarslr_jpg",
+                  "name": "Aaron McCullars",
+                  "national_rank": 886,
+                  "summary": "1 gross sale"
+                }
+              ]
+            },
+            "longitude": "-82.197941628",
+            "name": "Heath Preserve 75",
+            "next_3w_pace": 6.846375319e-16,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Nov 13"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Nov 20"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Nov 27"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Dec 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Dec 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Dec 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Dec 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Jan 01"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Jan 08"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Jan 15"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Jan 22"
+              },
+              {
+                "future_pace": 0.04419417382,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Jan 29"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -90,
+            "current_week_prediction": 0,
+            "latitude": "29.768822464",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Mid Florida",
+                  "image_url": "",
+                  "name": "Sherri Ward",
+                  "national_rank": 2575,
+                  "summary": "1 gross sale"
+                }
+              ]
+            },
+            "longitude": "-82.485939202",
+            "name": "Trailhead Landing 60s",
+            "next_3w_pace": 0.03272969951,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 406580,
+                "percentile_100": 450985,
+                "percentile_25": 408782.5,
+                "percentile_5": 407020.5,
+                "percentile_50": 410985,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 430985,
+                "percentile_95": 446985
+              },
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Nov 13"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Nov 20"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Nov 27"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Dec 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Dec 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Dec 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Dec 25"
+              },
+              {
+                "future_pace": 0.04419417382,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Jan 01"
+              },
+              {
+                "future_pace": 0.05399492472,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Jan 08"
+              },
+              {
+                "future_pace": 0.06804138174,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Jan 15"
+              },
+              {
+                "future_pace": 0.0894427191,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Jan 22"
+              },
+              {
+                "future_pace": 0.1691941738,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Jan 29"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 200,
+            "current_week_prediction": 0,
+            "latitude": "29.201632084",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Mid Florida",
+                  "image_url": "",
+                  "name": "Rosalba Olayos",
+                  "national_rank": 886,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Mid Florida",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_sandy_aikenlr_jpg",
+                  "name": "Sandra Aiken",
+                  "national_rank": 886,
+                  "summary": "1 gross sale"
+                }
+              ]
+            },
+            "longitude": "-82.19694286",
+            "name": "Heath Preserve 65",
+            "next_3w_pace": 2,
+            "past_3w_sales": 0.666667,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "behind_pace",
+            "status_color": "#e76161",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Nov 13"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 1,
+                "x_axis": "Nov 20"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Nov 27"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Dec 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Dec 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 5,
+                "x_axis": "Dec 18"
+              },
+              {
+                "future_pace": 2,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Dec 25"
+              },
+              {
+                "future_pace": 2,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Jan 01"
+              },
+              {
+                "future_pace": 2,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Jan 08"
+              },
+              {
+                "future_pace": 2,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Jan 15"
+              },
+              {
+                "future_pace": 1.546239959,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Jan 22"
+              },
+              {
+                "future_pace": 1.872936722,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Jan 29"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -27,
+            "current_week_prediction": 0,
+            "latitude": "29.393217665",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Mid Florida",
+                  "image_url": "",
+                  "name": "Sabrina Szpiga",
+                  "national_rank": 874,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Mid Florida",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_aaron_mccullarslr_jpg",
+                  "name": "Aaron McCullars",
+                  "national_rank": 886,
+                  "summary": "1 gross sale"
+                }
+              ]
+            },
+            "longitude": "-82.453935705",
+            "name": "Country Lane Estates",
+            "next_3w_pace": 0.7290745136,
+            "past_3w_sales": 1,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 288289,
+                "percentile_100": 327789,
+                "percentile_25": 301114.25,
+                "percentile_5": 291215.25,
+                "percentile_50": 313882,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 325164,
+                "percentile_95": 327289
+              },
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Nov 13"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Nov 20"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Nov 27"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Dec 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 4,
+                "x_axis": "Dec 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Dec 18"
+              },
+              {
+                "future_pace": 0.5102920273,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Dec 25"
+              },
+              {
+                "future_pace": 0.6559479006,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Jan 01"
+              },
+              {
+                "future_pace": 1.020983613,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Jan 08"
+              },
+              {
+                "future_pace": 2,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Jan 15"
+              },
+              {
+                "future_pace": 2,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Jan 22"
+              },
+              {
+                "future_pace": 2,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Jan 29"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -100,
+            "current_week_prediction": 0,
+            "latitude": "29.226495601",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Mid Florida",
+                  "image_url": "",
+                  "name": "Oseas Santiago",
+                  "national_rank": 886,
+                  "summary": "1 gross sale"
+                }
+              ]
+            },
+            "longitude": "-82.092897654",
+            "name": "Millwood 50",
+            "next_3w_pace": -9.483155002e-17,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Nov 13"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Nov 20"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Nov 27"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Dec 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Dec 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Dec 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Dec 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Jan 01"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Jan 08"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Jan 15"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Jan 22"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Jan 29"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 283,
+            "current_week_prediction": 0,
+            "latitude": "29.152155169",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Mid Florida",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_sandy_aikenlr_jpg",
+                  "name": "Sandra Aiken",
+                  "national_rank": 2215,
+                  "summary": "1 gross sale"
+                }
+              ]
+            },
+            "longitude": "-82.083693202",
+            "name": "Oak Hammock TH",
+            "next_3w_pace": 1.275362319,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Nov 13"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Nov 20"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Nov 27"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Dec 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Dec 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Dec 18"
+              },
+              {
+                "future_pace": 1.275362319,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Dec 25"
+              },
+              {
+                "future_pace": 1.275362319,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Jan 01"
+              },
+              {
+                "future_pace": 1.275362319,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Jan 08"
+              },
+              {
+                "future_pace": 1.275362319,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Jan 15"
+              },
+              {
+                "future_pace": 1.275362319,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Jan 22"
+              },
+              {
+                "future_pace": 1.275362319,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Jan 29"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 43,
+            "current_week_prediction": 0,
+            "latitude": "29.107566988",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Mid Florida",
+                  "image_url": "",
+                  "name": "Spencer Silitch",
+                  "national_rank": 2564,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Mid Florida",
+                  "image_url": "",
+                  "name": "Rosalba Olayos",
+                  "national_rank": 2595,
+                  "summary": "1 gross sale"
+                }
+              ]
+            },
+            "longitude": "-82.445188996",
+            "name": "Grand Park North",
+            "next_3w_pace": 0.476883353,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 344994,
+                "percentile_100": 384989,
+                "percentile_25": 364242.75,
+                "percentile_5": 348366.75,
+                "percentile_50": 371244,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 377492.75,
+                "percentile_95": 382066.25
+              },
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Nov 13"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Nov 20"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Nov 27"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Dec 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Dec 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Dec 18"
+              },
+              {
+                "future_pace": 0.4419417382,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Dec 25"
+              },
+              {
+                "future_pace": 0.7986306327,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Jan 01"
+              },
+              {
+                "future_pace": 0.1900776882,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Jan 08"
+              },
+              {
+                "future_pace": 0.2469268199,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Jan 15"
+              },
+              {
+                "future_pace": 0.3836368929,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Jan 22"
+              },
+              {
+                "future_pace": 0.608089278,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Jan 29"
+              }
+            ]
+          }
+        ]
+      },
+      "CHANGE_NEEDED_TO_MEET_PACE": 57,
+      "DBT_UPDATED_AT": "2023-12-26 02:45:57.440"
+    },
+    "pricing": {
+      "COHORT": "Mid Florida",
+      "COHORT_TYPE": "division",
+      "LENNAR_PRICES": {
+        "percentile_0": 258994,
+        "percentile_100": 450985,
+        "percentile_25": 325164,
+        "percentile_5": 274369,
+        "percentile_50": 352487,
+        "percentile_50_percent_change": 0,
+        "percentile_75": 368366.75,
+        "percentile_95": 407681.25
+      },
+      "NEW_CONSTRUCTION_PRICES": null,
+      "RESALE_PRICES": null,
+      "DBT_UPDATED_AT": "2023-12-26 02:45:46.670"
+    },
+    "insights": {
+      "COHORT": "Mid Florida",
+      "COHORT_TYPE": "division",
+      "TOP_SALES_INSIGHT": {
+        "color": "green",
+        "content": 2,
+        "insight_for": "Millwood Estates - The Enclave"
+      },
+      "BOTTOM_SALES_INSIGHT": {
+        "color": "red",
+        "content": 1,
+        "insight_for": "Liberty Village - Phase One"
+      },
+      "TOP_INCENTIVE_INSIGHT": {
+        "color": "green",
+        "content": 0,
+        "insight_for": "Marion Ranch 60's"
+      },
+      "BOTTOM_INCENTIVE_INSIGHT": {
+        "color": "red",
+        "content": 25.5,
+        "insight_for": "Liberty Village - Phase One"
+      }
+    }
+  }
+}

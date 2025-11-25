@@ -70,3 +70,7 @@ export interface SalesState extends Cohort {
 }
 
 export const SALES_TIMEFRAMES = {
+  WTD: 'WTD',
+  MTD: 'MTD',
+  QTD: 'QTD'
+}

@@ -106,6 +106,7 @@ export const TimerProvider = (props: PropsWithChildren) => {
           setPlaying(true)
         }
         setIdleTimerProgress((prevProgress) => prevProgress + 1)
+      }
     }, 1000)
 
     return () => {
@@ -142,3 +143,23 @@ export const TimerProvider = (props: PropsWithChildren) => {
   )
 
   return (
+    <TimerContext.Provider
+      value={{
+        cycleTimerProgress,
+        idleTimerProgress,
+        currentTime,
+        playing
+      }}
+    >
+      <TimerVariablesContext.Provider value={memoizedVariables}>
+        <TimerSetterContext.Provider value={memoizedSetters}>
+          {props.children}
+        </TimerSetterContext.Provider>
+      </TimerVariablesContext.Provider>
+    </TimerContext.Provider>
+  )
+}
+
+export const useAppTimer = () => useContext(TimerContext)
+export const useAppTimerSetters = () => useContext(TimerSetterContext)
+export const useAppTimerVariables = () => useContext(TimerVariablesContext)

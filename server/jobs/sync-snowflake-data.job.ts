@@ -90,3 +90,14 @@ const run = async () => {
     try {
       fs.writeFileSync(cacheFilePath, JSON.stringify(timestampedResult, null, 2))
       console.log(`Result saved to ${cacheFilePath}`)
+    } catch (error) {
+      console.error('Error saving result to cache:', error)
+    }
+  }
+}
+
+if (process.argv[2] === '--now') {
+  run()
+} else {
+  cron.schedule('*/30 * * * *', run)
+}

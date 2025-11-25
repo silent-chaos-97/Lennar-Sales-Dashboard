@@ -89,3 +89,15 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
       yAxisGroup.selectAll('.tick line').attr('stroke', 'rgba(255,255,255,0.18)')
     }
   }, [data])
+
+  return (
+    <>
+      <Typography variant="body1" sx={{ mb: 2 }} color="text.secondary">
+        Gross sales last 90 days by week
+      </Typography>
+      <svg id={id} height={height} />
+    </>
+  )
+}
+
+export default GrossSalesBarChart

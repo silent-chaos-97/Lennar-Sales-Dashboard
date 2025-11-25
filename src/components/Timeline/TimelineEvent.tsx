@@ -82,3 +82,15 @@ const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
           <Typography
             variant="caption"
             color="textPrimary"
+            whiteSpace="pre-line"
+            fontFamily="reckless"
+          >
+            {event.body}
+          </Typography>
+        )}
+      </Stack>
+    </Stack>
+  )
+}
+
+export default TimelineEvent

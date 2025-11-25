@@ -64,3 +64,13 @@ const LeftPane = () => {
           {leaderboards?.ISC_LEADERBOARDS && (
             <Leaderboard
               leaderboardData={leaderboards.ISC_LEADERBOARDS}
+              categoryList={ISC_LEADERBOARD_CATEGORIES}
+            />
+          )}
+        </Grid>
+      </Grid>
+    </Box>
+  )
+}
+
+export default LeftPane

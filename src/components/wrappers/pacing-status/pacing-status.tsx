@@ -233,3 +233,35 @@ const PacingStatus = ({ mapWrapperRef }) => {
             <Typography variant="caption" color="text.secondary">
               {pacingState?.SUB_COHORT_MAP?.map_title}
             </Typography>
+            <PieChart
+              width={width}
+              height={(height || 20) - 20}
+              data={nSubByStatus}
+              activeName={activePieName}
+              onClickSlice={handleClickSlice}
+            />
+          </Stack>
+          <LMap
+            mapViewState={mapViewState}
+            setMapViewState={setMapViewState}
+            padding={{ top: 310, bottom: 30, left: 30, right: 30 }}
+            style={{ width: '100%', position: 'absolute', top: 0, bottom: 0 }}
+            mapRef={mapRef}
+          >
+            {markers}
+          </LMap>
+        </Box>
+      </Stack>
+      {selectedPacingItem && (
+        <PacingDetails
+          subPacingData={selectedPacingItem}
+          pacingCohortsList={pacingCohortsList}
+          onClose={handleCloseTooltip}
+          onSelect={handleSelect}
+        />
+      )}
+    </Section>
+  )
+}
+
+export default PacingStatus

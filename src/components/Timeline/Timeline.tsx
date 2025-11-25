@@ -70,6 +70,7 @@ const Timeline = ({ journeyData }: TimelineProps) => {
               spacing={1}
               position="relative"
               sx={{
+                marginRight: 4
               }}
             >
               <Divider />
@@ -88,3 +89,4 @@ const Timeline = ({ journeyData }: TimelineProps) => {
   )
 }
 
+export default Timeline

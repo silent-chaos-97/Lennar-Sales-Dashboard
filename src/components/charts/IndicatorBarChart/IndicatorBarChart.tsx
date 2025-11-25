@@ -129,3 +129,21 @@ const IndicatorBarChart = ({
       yAxisGroup.selectAll('.tick text').style('fill', '#70747A').style('font-size', '16px')
       yAxisGroup.selectAll('.tick line').attr('stroke', 'rgba(255,255,255,0.18)')
 
+      !hidePredictionBar &&
+        svg
+          .append('line')
+          .attr('x1', x(currentMonday) - 5)
+          .attr('x2', x(currentMonday) + x.bandwidth() + 5)
+          .attr('y1', y(currentWeekPrediction))
+          .attr('y2', y(currentWeekPrediction))
+          .attr('rx', 2)
+          .attr('ry', 2)
+          .attr('stroke', 'rgba(26,187,150,0.75)')
+          .attr('stroke-width', 3)
+    }
+  }, [data, currentWeekPrediction])
+
+  return <svg id={id} height={height} />
+}
+
+export default IndicatorBarChart

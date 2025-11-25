@@ -37997,3 +37997,5173 @@
           {
             "current": "",
             "hour": 12,
+            "prev": 4
+          },
+          {
+            "current": "",
+            "hour": 13,
+            "prev": 8
+          },
+          {
+            "current": "",
+            "hour": 14,
+            "prev": 3
+          },
+          {
+            "current": "",
+            "hour": 15,
+            "prev": 10
+          },
+          {
+            "current": "",
+            "hour": 16,
+            "prev": 6
+          },
+          {
+            "current": "",
+            "hour": 17,
+            "prev": 12
+          },
+          {
+            "current": "",
+            "hour": 18,
+            "prev": 5
+          }
+        ],
+        "TOTAL_CALLS": 9,
+        "TOTAL_CALLS_PERCENT_CHANGE": -78,
+        "TOTAL_CHATS_TEXTS": 2,
+        "TOTAL_CHATS_TEXTS_PERCENT_CHANGE": -75,
+        "APPOINTMENTS_SET": 2,
+        "APPOINTMENTS_SET_PERCENT_CHANGE": -71,
+        "LEADS_BY_CHANNEL": {
+          "non_paid": 6,
+          "non_paid_pct_change": 0,
+          "paid": 17,
+          "paid_pct_change": -41,
+          "third_party": 1,
+          "third_party_pct_change": -67
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:28.315"
+      }
+    },
+    "sales_timeframe": {
+      "MTD": {
+        "COHORT": "Portland",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "MTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Portland",
+            "division_coordinates": [
+              -122.810701814,
+              45.315681314
+            ],
+            "geometry": {
+              "coordinates": [
+                -123.021626875,
+                46.16990825
+              ],
+              "type": "Point"
+            },
+            "id": 359,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 5,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_melinda_shoote_lr_jpg",
+                    "name": "Melinda Shoote",
+                    "national_rank": 339,
+                    "summary": "           $4,903,362 in sales QTD<br/>1.6% incentives QTD<br/>80% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Christie Hammett",
+                    "national_rank": 62,
+                    "summary": "          $10,238,040 in sales QTD<br/>168 appointments QTD<br/>11% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "5 bd/3.0 ba",
+                "days_from_completion": "18 days post",
+                "home_size": "       2,269 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6167/46300/46300_eleA_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Social lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Michael, \t \t \t \t \tThank you for your interest in a Lennar Home!  \t   \tOur Mt. Solo Place community in Longview, WA  is near the river and parks, while offering a combination of both one and two level floorplans, including our Nextgen's! Below is a direct link to view floorplans and pricing! We on...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Michael, this is Christie Hammett with Lennar. I wanted to follow up with you on your registration for Mt Solo. I would love for you to tour the community and view our new homes. Do you have time this week or weekend to visit? christie.hammett@lennar.c",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Yes. We would like to view the home in Longview. Maybe Tuesday?",
+                    "sort": 5,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "I can do either Monday or Tuesday, Melinda has some open slots. Tours start at 11am and last appt is at 5pm christie.hammett@lennar.com (Please note, response time is Tuesday-Saturday 9-5pm. For immediate assistance please call)",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Thanks. Monday works best for us to view the remaining two properties. Attached was our preapproval letter for another property we had considered but did not move forward with. My number is 706-809-8666 Thanks! Michael Rogus On Sat, Oct 7,          ZjQcmQRYFpfptBannerStart               \t  \t This Me...",
+                    "sort": 7,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Monday is better - 11am would be great.",
+                    "sort": 8,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "You got it! I will get you on Melinda's schedule or 11am tour. Are you working with a realtor? christie.hammett@lennar.com (Please note, response time is Tuesday-Saturday 9-5pm. For immediate assistance please call)",
+                    "sort": 9,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "11am ok thanks! We will be there.",
+                    "sort": 10,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "You got it. If you have a realtor just make sure they are there with you as well as we pay buyer's brokers based on procuring cause. If you run late or get lost you can contact Melinda at 360-635-7911 christie.hammett@lennar.com (Please note, response tim",
+                    "sort": 11,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 12,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Good Morning Michael, This is Melinda Shoote with Lennar Homes confirming that I will meet you at the last home available at Mt Solo Place (homesite 78) at 11am today. This home is $436,150, move in ready and backs to trees and trails. Address: 2042 Branc",
+                    "sort": 13,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 14,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hello again, just checking in.  Does that work?",
+                    "sort": 15,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Yes. On the way",
+                    "sort": 16,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Ok! I am leaving our office now and whould be there in 1 hour! Feel free to enter the home if it's open. My number: 360-635-7911",
+                    "sort": 17,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good evening,  I just ended my 4th Showing here at Mt Solo, so you are still steps ahead of the others. If you are ready to move forward, I will just need a few things before I can send the Purchase Agreement over to you. 1. ID 2. PreQualification Letter from Lennar Mtg 3. Check for $4361 written to...",
+                    "sort": 18,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 19,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 2,
+                "sale_price": 436150,
+                "sale_title": "Arlington just sold in Mt Solo Place",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Portland",
+            "division_coordinates": [
+              -122.810701814,
+              45.315681314
+            ],
+            "geometry": {
+              "coordinates": [
+                -122.3682835,
+                45.482711833
+              ],
+              "type": "Point"
+            },
+            "id": 108,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 9,
+                    "image_url": "",
+                    "name": "Debbie Gale",
+                    "national_rank": 624,
+                    "summary": "           $3,683,769 in sales QTD<br/>2.9% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.0 ba",
+                "days_from_completion": "103 days prior",
+                "home_size": "       1,946 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6718/57889/57889_eleA_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-05-21",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-05-21",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-06-05",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sue,  I hope you are well, and enjoying the gorgeous weather.  I wanted to share with you our current available homes in Sandy as well as Gresham at Skyliner Crossing.  If you like the Endicott and 2 car garage is ok, Skyliner Crossing has them under 600k. Move in would be approximately mid to en...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-17",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sue,  How is everything going?  I wanted to share that we have new pricing on both Endicott's in Shaylee Meadows:  Endicott 3 car  on homesite 17 which is our former model home is now $589,900  Endicott 2 car on homesite 14 is now 569,900.    Endicott  Gina Masters New Home Consultant Shaylee Mea...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-04",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hi Sue Robertson! This is a friendly reminder of your phone appointment with Lennar Homes on 08/04/2023 at 5:30 PM with Debbie Gale. If you have any questions or need to please call or text us back! We will talk soon!",
+                    "sort": 5,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 10,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 14,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-08-07",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Sizzling Summer Savings - ON NOW!  The weather is heating up and so is your chance to own a new Lennar home while saving BIG - Cool off from the summer heat and SAVE!  For a limited time, receive up to $17,500 toward closing costs* PLUS an included AC unit on select move-in ready homes!**  Offers av...",
+                    "sort": 15,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-14",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello!    Exciting News!! Insane Low Pricing! Lots of Promos!! You have to come see these homes!! Come check out some of the new listings and floorplans that have become available here at Skyliner Crossing in Gresham and at Shaylee Meadows in Sandy and ask about the promos we currently have running ...",
+                    "sort": 16,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-26",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 17,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-08-26",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-10",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 19,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 1,
+                "sale_price": 537400,
+                "sale_title": "Endicott just sold in Skyliner Crossing",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 22
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 20
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 23
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 40
+            }
+          ],
+          "percent_change": 73.9,
+          "value": 40
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 22
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 18
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 19
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 39
+            }
+          ],
+          "percent_change": 105.3,
+          "value": 39
+        },
+        "RETAIL_SALES": {
+          "percent_change": 73.9,
+          "value": 40
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 540652
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 498702
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 526570
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 507507
+            }
+          ],
+          "percent_change": -3.6,
+          "value": 507507
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 0.21
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 1.45
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 0.71
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 1.32
+            }
+          ],
+          "percent_change": 85.9,
+          "value": 1.32
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 0
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 0
+            }
+          ],
+          "percent_change": 0,
+          "value": 0
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:32.880"
+      },
+      "WTD": {
+        "COHORT": "Portland",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "WTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Portland",
+            "division_coordinates": [
+              -122.810701814,
+              45.315681314
+            ],
+            "geometry": {
+              "coordinates": [
+                -123.021626875,
+                46.16990825
+              ],
+              "type": "Point"
+            },
+            "id": 359,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 5,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_melinda_shoote_lr_jpg",
+                    "name": "Melinda Shoote",
+                    "national_rank": 339,
+                    "summary": "           $4,903,362 in sales QTD<br/>1.6% incentives QTD<br/>80% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Christie Hammett",
+                    "national_rank": 62,
+                    "summary": "          $10,238,040 in sales QTD<br/>168 appointments QTD<br/>11% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "5 bd/3.0 ba",
+                "days_from_completion": "18 days post",
+                "home_size": "       2,269 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6167/46300/46300_eleA_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Social lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Michael, \t \t \t \t \tThank you for your interest in a Lennar Home!  \t   \tOur Mt. Solo Place community in Longview, WA  is near the river and parks, while offering a combination of both one and two level floorplans, including our Nextgen's! Below is a direct link to view floorplans and pricing! We on...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Michael, this is Christie Hammett with Lennar. I wanted to follow up with you on your registration for Mt Solo. I would love for you to tour the community and view our new homes. Do you have time this week or weekend to visit? christie.hammett@lennar.c",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Yes. We would like to view the home in Longview. Maybe Tuesday?",
+                    "sort": 5,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "I can do either Monday or Tuesday, Melinda has some open slots. Tours start at 11am and last appt is at 5pm christie.hammett@lennar.com (Please note, response time is Tuesday-Saturday 9-5pm. For immediate assistance please call)",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Thanks. Monday works best for us to view the remaining two properties. Attached was our preapproval letter for another property we had considered but did not move forward with. My number is 706-809-8666 Thanks! Michael Rogus On Sat, Oct 7,          ZjQcmQRYFpfptBannerStart               \t  \t This Me...",
+                    "sort": 7,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Monday is better - 11am would be great.",
+                    "sort": 8,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "You got it! I will get you on Melinda's schedule or 11am tour. Are you working with a realtor? christie.hammett@lennar.com (Please note, response time is Tuesday-Saturday 9-5pm. For immediate assistance please call)",
+                    "sort": 9,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "11am ok thanks! We will be there.",
+                    "sort": 10,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "You got it. If you have a realtor just make sure they are there with you as well as we pay buyer's brokers based on procuring cause. If you run late or get lost you can contact Melinda at 360-635-7911 christie.hammett@lennar.com (Please note, response tim",
+                    "sort": 11,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 12,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Good Morning Michael, This is Melinda Shoote with Lennar Homes confirming that I will meet you at the last home available at Mt Solo Place (homesite 78) at 11am today. This home is $436,150, move in ready and backs to trees and trails. Address: 2042 Branc",
+                    "sort": 13,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 14,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hello again, just checking in.  Does that work?",
+                    "sort": 15,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Yes. On the way",
+                    "sort": 16,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Ok! I am leaving our office now and whould be there in 1 hour! Feel free to enter the home if it's open. My number: 360-635-7911",
+                    "sort": 17,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good evening,  I just ended my 4th Showing here at Mt Solo, so you are still steps ahead of the others. If you are ready to move forward, I will just need a few things before I can send the Purchase Agreement over to you. 1. ID 2. PreQualification Letter from Lennar Mtg 3. Check for $4361 written to...",
+                    "sort": 18,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 19,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 2,
+                "sale_price": 436150,
+                "sale_title": "Arlington just sold in Mt Solo Place",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Portland",
+            "division_coordinates": [
+              -122.810701814,
+              45.315681314
+            ],
+            "geometry": {
+              "coordinates": [
+                -122.3682835,
+                45.482711833
+              ],
+              "type": "Point"
+            },
+            "id": 108,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 9,
+                    "image_url": "",
+                    "name": "Debbie Gale",
+                    "national_rank": 624,
+                    "summary": "           $3,683,769 in sales QTD<br/>2.9% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.0 ba",
+                "days_from_completion": "103 days prior",
+                "home_size": "       1,946 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6718/57889/57889_eleA_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-05-21",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-05-21",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-06-05",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sue,  I hope you are well, and enjoying the gorgeous weather.  I wanted to share with you our current available homes in Sandy as well as Gresham at Skyliner Crossing.  If you like the Endicott and 2 car garage is ok, Skyliner Crossing has them under 600k. Move in would be approximately mid to en...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-17",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sue,  How is everything going?  I wanted to share that we have new pricing on both Endicott's in Shaylee Meadows:  Endicott 3 car  on homesite 17 which is our former model home is now $589,900  Endicott 2 car on homesite 14 is now 569,900.    Endicott  Gina Masters New Home Consultant Shaylee Mea...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-04",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hi Sue Robertson! This is a friendly reminder of your phone appointment with Lennar Homes on 08/04/2023 at 5:30 PM with Debbie Gale. If you have any questions or need to please call or text us back! We will talk soon!",
+                    "sort": 5,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 10,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 14,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-08-07",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Sizzling Summer Savings - ON NOW!  The weather is heating up and so is your chance to own a new Lennar home while saving BIG - Cool off from the summer heat and SAVE!  For a limited time, receive up to $17,500 toward closing costs* PLUS an included AC unit on select move-in ready homes!**  Offers av...",
+                    "sort": 15,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-14",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello!    Exciting News!! Insane Low Pricing! Lots of Promos!! You have to come see these homes!! Come check out some of the new listings and floorplans that have become available here at Skyliner Crossing in Gresham and at Shaylee Meadows in Sandy and ask about the promos we currently have running ...",
+                    "sort": 16,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-26",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 17,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-08-26",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-10",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 19,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 1,
+                "sale_price": 537400,
+                "sale_title": "Endicott just sold in Skyliner Crossing",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 4
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 7
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 13
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 2
+            }
+          ],
+          "percent_change": -84.6,
+          "value": 2
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 2
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 4
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 13
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 1
+            }
+          ],
+          "percent_change": -92.3,
+          "value": 1
+        },
+        "RETAIL_SALES": {
+          "percent_change": -84.6,
+          "value": 2
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 555388
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 544021
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 491754
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 486775
+            }
+          ],
+          "percent_change": -1,
+          "value": 486775
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 1.63
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 2.5
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 1.34
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 3.95
+            }
+          ],
+          "percent_change": 194.8,
+          "value": 3.95
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 0
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 0
+            }
+          ],
+          "percent_change": 0,
+          "value": 0
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:32.880"
+      },
+      "QTD": {
+        "COHORT": "Portland",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "QTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Portland",
+            "division_coordinates": [
+              -122.810701814,
+              45.315681314
+            ],
+            "geometry": {
+              "coordinates": [
+                -123.021626875,
+                46.16990825
+              ],
+              "type": "Point"
+            },
+            "id": 359,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 5,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_melinda_shoote_lr_jpg",
+                    "name": "Melinda Shoote",
+                    "national_rank": 339,
+                    "summary": "           $4,903,362 in sales QTD<br/>1.6% incentives QTD<br/>80% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Christie Hammett",
+                    "national_rank": 62,
+                    "summary": "          $10,238,040 in sales QTD<br/>168 appointments QTD<br/>11% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "5 bd/3.0 ba",
+                "days_from_completion": "18 days post",
+                "home_size": "       2,269 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6167/46300/46300_eleA_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Social lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Michael, \t \t \t \t \tThank you for your interest in a Lennar Home!  \t   \tOur Mt. Solo Place community in Longview, WA  is near the river and parks, while offering a combination of both one and two level floorplans, including our Nextgen's! Below is a direct link to view floorplans and pricing! We on...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Michael, this is Christie Hammett with Lennar. I wanted to follow up with you on your registration for Mt Solo. I would love for you to tour the community and view our new homes. Do you have time this week or weekend to visit? christie.hammett@lennar.c",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Yes. We would like to view the home in Longview. Maybe Tuesday?",
+                    "sort": 5,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "I can do either Monday or Tuesday, Melinda has some open slots. Tours start at 11am and last appt is at 5pm christie.hammett@lennar.com (Please note, response time is Tuesday-Saturday 9-5pm. For immediate assistance please call)",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "purple",
+                    "body": "Thanks. Monday works best for us to view the remaining two properties. Attached was our preapproval letter for another property we had considered but did not move forward with. My number is 706-809-8666 Thanks! Michael Rogus On Sat, Oct 7,          ZjQcmQRYFpfptBannerStart               \t  \t This Me...",
+                    "sort": 7,
+                    "title": "Inbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Monday is better - 11am would be great.",
+                    "sort": 8,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "You got it! I will get you on Melinda's schedule or 11am tour. Are you working with a realtor? christie.hammett@lennar.com (Please note, response time is Tuesday-Saturday 9-5pm. For immediate assistance please call)",
+                    "sort": 9,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "11am ok thanks! We will be there.",
+                    "sort": 10,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "You got it. If you have a realtor just make sure they are there with you as well as we pay buyer's brokers based on procuring cause. If you run late or get lost you can contact Melinda at 360-635-7911 christie.hammett@lennar.com (Please note, response tim",
+                    "sort": 11,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 12,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Good Morning Michael, This is Melinda Shoote with Lennar Homes confirming that I will meet you at the last home available at Mt Solo Place (homesite 78) at 11am today. This home is $436,150, move in ready and backs to trees and trails. Address: 2042 Branc",
+                    "sort": 13,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 14,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hello again, just checking in.  Does that work?",
+                    "sort": 15,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Yes. On the way",
+                    "sort": 16,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Ok! I am leaving our office now and whould be there in 1 hour! Feel free to enter the home if it's open. My number: 360-635-7911",
+                    "sort": 17,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good evening,  I just ended my 4th Showing here at Mt Solo, so you are still steps ahead of the others. If you are ready to move forward, I will just need a few things before I can send the Purchase Agreement over to you. 1. ID 2. PreQualification Letter from Lennar Mtg 3. Check for $4361 written to...",
+                    "sort": 18,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 19,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 2,
+                "sale_price": 436150,
+                "sale_title": "Arlington just sold in Mt Solo Place",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Portland",
+            "division_coordinates": [
+              -122.810701814,
+              45.315681314
+            ],
+            "geometry": {
+              "coordinates": [
+                -122.3682835,
+                45.482711833
+              ],
+              "type": "Point"
+            },
+            "id": 108,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 9,
+                    "image_url": "",
+                    "name": "Debbie Gale",
+                    "national_rank": 624,
+                    "summary": "           $3,683,769 in sales QTD<br/>2.9% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.0 ba",
+                "days_from_completion": "103 days prior",
+                "home_size": "       1,946 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6718/57889/57889_eleA_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-05-21",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-05-21",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-06-05",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sue,  I hope you are well, and enjoying the gorgeous weather.  I wanted to share with you our current available homes in Sandy as well as Gresham at Skyliner Crossing.  If you like the Endicott and 2 car garage is ok, Skyliner Crossing has them under 600k. Move in would be approximately mid to en...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-17",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sue,  How is everything going?  I wanted to share that we have new pricing on both Endicott's in Shaylee Meadows:  Endicott 3 car  on homesite 17 which is our former model home is now $589,900  Endicott 2 car on homesite 14 is now 569,900.    Endicott  Gina Masters New Home Consultant Shaylee Mea...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-04",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hi Sue Robertson! This is a friendly reminder of your phone appointment with Lennar Homes on 08/04/2023 at 5:30 PM with Debbie Gale. If you have any questions or need to please call or text us back! We will talk soon!",
+                    "sort": 5,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 10,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 14,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-08-07",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Sizzling Summer Savings - ON NOW!  The weather is heating up and so is your chance to own a new Lennar home while saving BIG - Cool off from the summer heat and SAVE!  For a limited time, receive up to $17,500 toward closing costs* PLUS an included AC unit on select move-in ready homes!**  Offers av...",
+                    "sort": 15,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-14",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello!    Exciting News!! Insane Low Pricing! Lots of Promos!! You have to come see these homes!! Come check out some of the new listings and floorplans that have become available here at Skyliner Crossing in Gresham and at Shaylee Meadows in Sandy and ask about the promos we currently have running ...",
+                    "sort": 16,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-26",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 17,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-08-26",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-10",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 19,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 1,
+                "sale_price": 537400,
+                "sale_title": "Endicott just sold in Skyliner Crossing",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 83
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 149
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 114
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 112
+            }
+          ],
+          "percent_change": -1.8,
+          "value": 112
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 73
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 139
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 107
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 97
+            }
+          ],
+          "percent_change": -9.3,
+          "value": 97
+        },
+        "RETAIL_SALES": {
+          "percent_change": -1.8,
+          "value": 112
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 507350
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 525729
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 550403
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 515905
+            }
+          ],
+          "percent_change": -6.3,
+          "value": 515905
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 1.02
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 0.22
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 0.5
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 1.3
+            }
+          ],
+          "percent_change": 160,
+          "value": 1.3
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 0
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 0
+            }
+          ],
+          "percent_change": 0,
+          "value": 0
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:32.880"
+      }
+    },
+    "pacing": {
+      "COHORT": "Portland",
+      "COHORT_TYPE": "division",
+      "PAST_3W_SALES": 24.333334,
+      "NEXT_3W_PACE": 22.489826203,
+      "WEEKLY_PACING_GRAPH": [
+        {
+          "future_pace": 0,
+          "gross_sales": 19,
+          "sort": 0,
+          "x_axis": "Aug 28"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 17,
+          "sort": 1,
+          "x_axis": "Sep 04"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 16,
+          "sort": 2,
+          "x_axis": "Sep 11"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 22,
+          "sort": 3,
+          "x_axis": "Sep 18"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 19,
+          "sort": 4,
+          "x_axis": "Sep 25"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 32,
+          "sort": 5,
+          "x_axis": "Oct 02"
+        },
+        {
+          "future_pace": 23.657249326,
+          "gross_sales": 2,
+          "sort": 6,
+          "x_axis": "Oct 09"
+        },
+        {
+          "future_pace": 22.931569347,
+          "gross_sales": 0,
+          "sort": 7,
+          "x_axis": "Oct 16"
+        },
+        {
+          "future_pace": 20.880659936,
+          "gross_sales": 0,
+          "sort": 8,
+          "x_axis": "Oct 23"
+        },
+        {
+          "future_pace": 20.519479705,
+          "gross_sales": 0,
+          "sort": 9,
+          "x_axis": "Oct 30"
+        },
+        {
+          "future_pace": 22.237206021,
+          "gross_sales": 0,
+          "sort": 10,
+          "x_axis": "Nov 06"
+        },
+        {
+          "future_pace": 23.106436831,
+          "gross_sales": 0,
+          "sort": 11,
+          "x_axis": "Nov 13"
+        }
+      ],
+      "CURRENT_WEEK_PREDICTION": 27.353573799,
+      "AVAILABLE_HOMES": {
+        "black_homes": 40,
+        "green_homes": 163,
+        "red_homes": 29,
+        "total_available": 282,
+        "yellow_homes": 50
+      },
+      "SUB_COHORT_MAP": {
+        "map_summary": "",
+        "map_title": "Communities pacing status",
+        "sub_cohort_array": [
+          {
+            "change_needed_to_meet_pace": -77,
+            "current_week_prediction": 0,
+            "latitude": "45.602421702",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Michelle Baker",
+                  "national_rank": 310,
+                  "summary": "5 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_melissa_ralphe_lr_jpg",
+                  "name": "Melissa Ralphe",
+                  "national_rank": 1432,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lanette_vosberg_lr_jpg",
+                  "name": "Lanette Vosberg",
+                  "national_rank": 2765,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 4,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_patricia_knowles_lr_jpg",
+                  "name": "Patricia Knowles",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 4,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_john_van_hogen_lr_jpg",
+                  "name": "John Van Hogen",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-122.99881852",
+            "name": "Brynhill Alley 24",
+            "next_3w_pace": 0.4611690012,
+            "past_3w_sales": 2,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "ahead_of_pace",
+            "status_color": "#f5cc6c",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.8011555296,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.2114790256,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.3708724485,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.5590768321,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.8610811685,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1.052831067,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "45.492070033",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lanette_vosberg_lr_jpg",
+                  "name": "Lanette Vosberg",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_melissa_ralphe_lr_jpg",
+                  "name": "Melissa Ralphe",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Michelle Baker",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-122.896227414",
+            "name": "Reeds Crossing Narrow",
+            "next_3w_pace": 0,
+            "past_3w_sales": 0,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -100,
+            "current_week_prediction": 0,
+            "latitude": "45.490276942",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_patricia_knowles_lr_jpg",
+                  "name": "Patricia Knowles",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lanette_vosberg_lr_jpg",
+                  "name": "Lanette Vosberg",
+                  "national_rank": 3146,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_melissa_ralphe_lr_jpg",
+                  "name": "Melissa Ralphe",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Michelle Baker",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_john_van_hogen_lr_jpg",
+                  "name": "John Van Hogen",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-122.899980864",
+            "name": "Reeds Crossing TH",
+            "next_3w_pace": -1.387778781e-17,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "45.491522672",
+            "leaderboard": [],
+            "longitude": "-122.907821627",
+            "name": "Reeds Crossing Cottage",
+            "next_3w_pace": 1.45716772e-16,
+            "past_3w_sales": 0,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -85,
+            "current_week_prediction": 0,
+            "latitude": "45.492197371",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lanette_vosberg_lr_jpg",
+                  "name": "Lanette Vosberg",
+                  "national_rank": 988,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_melissa_ralphe_lr_jpg",
+                  "name": "Melissa Ralphe",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_john_van_hogen_lr_jpg",
+                  "name": "John Van Hogen",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Michelle Baker",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-122.903305771",
+            "name": "Reeds Crossing Small",
+            "next_3w_pace": 0.09955190054,
+            "past_3w_sales": 0.666667,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.1411716008,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.06804138174,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.0894427191,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.125,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.2366442636,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.4075483153,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -79,
+            "current_week_prediction": 0,
+            "latitude": "46.16899141",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_melinda_shoote_lr_jpg",
+                  "name": "Melinda Shoote",
+                  "national_rank": 137,
+                  "summary": "7 gross sales"
+                }
+              ]
+            },
+            "longitude": "-123.024205532",
+            "name": "Mt Solo",
+            "next_3w_pace": 0.2839234991,
+            "past_3w_sales": 1.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "ahead_of_pace",
+            "status_color": "#f5cc6c",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.3405419716,
+                "gross_sales": 1,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.286554613,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.2246739128,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.1482295026,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 250,
+            "current_week_prediction": 0,
+            "latitude": "45.435534454",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_gina_masters_lr_jpg",
+                  "name": "Gina Masters",
+                  "national_rank": 36,
+                  "summary": "11 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Jesse Cooley",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Debbie Gale",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-122.558105905",
+            "name": "Eagle Landing Condos",
+            "next_3w_pace": 3.5,
+            "past_3w_sales": 1,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "very_behind_pace",
+            "status_color": "#dc3030",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 4,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 4,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 3.5,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 3.5,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 3.5,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 3.5,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 3.5,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 3.5,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 49,
+            "current_week_prediction": 0,
+            "latitude": "45.255171397",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Jason Leiner",
+                  "national_rank": 1348,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_alina_pop_lr_jpg",
+                  "name": "Alina Pop",
+                  "national_rank": 1492,
+                  "summary": "2 gross sales"
+                }
+              ]
+            },
+            "longitude": "-122.670816936",
+            "name": "Cougar Run",
+            "next_3w_pace": 0.9961802907,
+            "past_3w_sales": 0.666667,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 525900,
+                "percentile_100": 626900,
+                "percentile_25": 563400,
+                "percentile_5": 533400,
+                "percentile_50": 595400,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 595400,
+                "percentile_95": 620600
+              },
+              "new_construction_prices": {
+                "percentile_0": 539028,
+                "percentile_100": 673990,
+                "percentile_25": 584740,
+                "percentile_5": 558807.1,
+                "percentile_50": 595490,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 627490,
+                "percentile_95": 658040
+              },
+              "resale_prices": {
+                "percentile_0": 525000,
+                "percentile_100": 650000,
+                "percentile_25": 579000,
+                "percentile_5": 547750,
+                "percentile_50": 592500,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 619750,
+                "percentile_95": 639135
+              }
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.988540872,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.4446885078,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.7071067812,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.859663839,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 164,
+            "current_week_prediction": 0,
+            "latitude": "45.352410324",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_alina_pop_lr_jpg",
+                  "name": "Alina Pop",
+                  "national_rank": 1348,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Jason Leiner",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-122.767740158",
+            "name": "Autumn Sunrise 30",
+            "next_3w_pace": 0.8787821329,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.8291430876,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1.494571493,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.3126318176,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.48368057,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.7574825059,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.8517440841,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 54,
+            "current_week_prediction": 0,
+            "latitude": "45.602133592",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_john_van_hogen_lr_jpg",
+                  "name": "John Van Hogen",
+                  "national_rank": 1492,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Michelle Baker",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_melissa_ralphe_lr_jpg",
+                  "name": "Melissa Ralphe",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lanette_vosberg_lr_jpg",
+                  "name": "Lanette Vosberg",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_patricia_knowles_lr_jpg",
+                  "name": "Patricia Knowles",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-122.996041874",
+            "name": "Brynhill Alley 40",
+            "next_3w_pace": 0.5126912459,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.7917382099,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.3038854382,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.4424500897,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.8268419177,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.8638513127,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -46,
+            "current_week_prediction": 0,
+            "latitude": "45.601775336",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lanette_vosberg_lr_jpg",
+                  "name": "Lanette Vosberg",
+                  "national_rank": 809,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Michelle Baker",
+                  "national_rank": 809,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_melissa_ralphe_lr_jpg",
+                  "name": "Melissa Ralphe",
+                  "national_rank": 2908,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 4,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_patricia_knowles_lr_jpg",
+                  "name": "Patricia Knowles",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 4,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_john_van_hogen_lr_jpg",
+                  "name": "John Van Hogen",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-122.998296638",
+            "name": "Brynhill TH",
+            "next_3w_pace": 1.087154923,
+            "past_3w_sales": 2,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1.5,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1.155284227,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.6061805429,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.2964590052,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.9820056879,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.9805933268,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "45.809983464",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_melinda_shoote_lr_jpg",
+                  "name": "Melinda Shoote",
+                  "national_rank": 1432,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_alina_pop_lr_jpg",
+                  "name": "Alina Pop",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-122.719863986",
+            "name": "Ridgefield Heights",
+            "next_3w_pace": 1,
+            "past_3w_sales": 0,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 643900,
+                "percentile_100": 745900,
+                "percentile_25": 658900,
+                "percentile_5": 646900,
+                "percentile_50": 669650,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 693025,
+                "percentile_95": 735325
+              },
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "very_behind_pace",
+            "status_color": "#dc3030",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -23,
+            "current_week_prediction": 0,
+            "latitude": "45.480521608",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Jesse Cooley",
+                  "national_rank": 695,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Debbie Gale",
+                  "national_rank": 809,
+                  "summary": "3 gross sales"
+                }
+              ]
+            },
+            "longitude": "-122.369187781",
+            "name": "Skyliner Crossing",
+            "next_3w_pace": 1.285714,
+            "past_3w_sales": 1.666667,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 492400,
+                "percentile_100": 568400,
+                "percentile_25": 515400,
+                "percentile_5": 497600,
+                "percentile_50": 530400,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 535400,
+                "percentile_95": 567400
+              },
+              "new_construction_prices": {
+                "percentile_0": 460995,
+                "percentile_100": 624990,
+                "percentile_25": 556718,
+                "percentile_5": 486345,
+                "percentile_50": 590075,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 599990,
+                "percentile_95": 615181.5
+              },
+              "resale_prices": {
+                "percentile_0": 480000,
+                "percentile_100": 600000,
+                "percentile_25": 512500,
+                "percentile_5": 490895,
+                "percentile_50": 529950,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 560000,
+                "percentile_95": 581000
+              }
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1.285714,
+                "gross_sales": 1,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1.285714,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1.285714,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1.285714,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1.285714,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1.285714,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -14,
+            "current_week_prediction": 0,
+            "latitude": "44.096104267",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Michelle Gregg-Anderson",
+                  "national_rank": 3034,
+                  "summary": "1 gross sale"
+                }
+              ]
+            },
+            "longitude": "-121.289252692",
+            "name": "Acadia Pointe",
+            "next_3w_pace": 0.2870817917,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 592900,
+                "percentile_100": 667900,
+                "percentile_25": 626650,
+                "percentile_5": 599650,
+                "percentile_50": 646400,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 658150,
+                "percentile_95": 665950
+              },
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.2336453559,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.2697196564,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.3578803629,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.5104914715,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.872090463,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "44.227120035",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Mechelle Clough",
+                  "national_rank": 151,
+                  "summary": "7 gross sales"
+                }
+              ]
+            },
+            "longitude": "-123.227036251",
+            "name": "The Reserve II",
+            "next_3w_pace": 1.666667,
+            "past_3w_sales": 1.666667,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1.666667,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1.666667,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1.666667,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1.666667,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1.666667,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1.666667,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 17,
+            "current_week_prediction": 0,
+            "latitude": "45.352935177",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_alina_pop_lr_jpg",
+                  "name": "Alina Pop",
+                  "national_rank": 1492,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Jason Leiner",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_john_van_hogen_lr_jpg",
+                  "name": "John Van Hogen",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-122.767263478",
+            "name": "Autumn Sunrise 24",
+            "next_3w_pace": 0.780771956,
+            "past_3w_sales": 0.666667,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.5731232891,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.7691925789,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.8400340111,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.5423848673,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.4254399392,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 25,
+            "current_week_prediction": 0,
+            "latitude": "45.603865299",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_john_van_hogen_lr_jpg",
+                  "name": "John Van Hogen",
+                  "national_rank": 1159,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_melissa_ralphe_lr_jpg",
+                  "name": "Melissa Ralphe",
+                  "national_rank": 1432,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Michelle Baker",
+                  "national_rank": 2908,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lanette_vosberg_lr_jpg",
+                  "name": "Lanette Vosberg",
+                  "national_rank": 2908,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 5,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_patricia_knowles_lr_jpg",
+                  "name": "Patricia Knowles",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-122.996367165",
+            "name": "Brynhill Front Load",
+            "next_3w_pace": 1.666667,
+            "past_3w_sales": 1.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1.666667,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1.666667,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1.666667,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1.666667,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1.666667,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1.666667,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 200,
+            "current_week_prediction": 0,
+            "latitude": "45.431262764",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lanette_vosberg_lr_jpg",
+                  "name": "Lanette Vosberg",
+                  "national_rank": 1432,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_patricia_knowles_lr_jpg",
+                  "name": "Patricia Knowles",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Michelle Baker",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_john_van_hogen_lr_jpg",
+                  "name": "John Van Hogen",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_melissa_ralphe_lr_jpg",
+                  "name": "Melissa Ralphe",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-122.850134432",
+            "name": "Heights at Cooper Mountain",
+            "next_3w_pace": 1,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -50,
+            "current_week_prediction": 0,
+            "latitude": "44.589730931",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Amanda Whiterock Smith",
+                  "national_rank": 145,
+                  "summary": "7 gross sales"
+                }
+              ]
+            },
+            "longitude": "-123.084316955",
+            "name": "Henshaw Farm",
+            "next_3w_pace": 1,
+            "past_3w_sales": 2,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 463900,
+                "percentile_100": 526400,
+                "percentile_25": 486900,
+                "percentile_5": 468500,
+                "percentile_50": 486900,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 516400,
+                "percentile_95": 524400
+              },
+              "new_construction_prices": {
+                "percentile_0": 464990,
+                "percentile_100": 619950,
+                "percentile_25": 519995,
+                "percentile_5": 475991,
+                "percentile_50": 549990,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 610602,
+                "percentile_95": 618080.4
+              },
+              "resale_prices": {
+                "percentile_0": 435000,
+                "percentile_100": 550000,
+                "percentile_25": 489000,
+                "percentile_5": 452850,
+                "percentile_50": 518000,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 525000,
+                "percentile_95": 548800
+              }
+            },
+            "status": "ahead_of_pace",
+            "status_color": "#f5cc6c",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 5,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -100,
+            "current_week_prediction": 0,
+            "latitude": "45.229242039",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Timothy McConnell",
+                  "national_rank": 1348,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Robin Galvan-Taylor",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-123.223524393",
+            "name": "Baker Creek 60",
+            "next_3w_pace": 1.850371708e-17,
+            "past_3w_sales": 0.666667,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -20,
+            "current_week_prediction": 0,
+            "latitude": "45.141805436",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Jason Leiner",
+                  "national_rank": 509,
+                  "summary": "4 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_alina_pop_lr_jpg",
+                  "name": "Alina Pop",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                }
+              ]
+            },
+            "longitude": "-122.868368185",
+            "name": "Smith Crk SF LG",
+            "next_3w_pace": 1.333333,
+            "past_3w_sales": 1.666667,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1.333333,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1.333333,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1.333333,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1.333333,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1.333333,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1.333333,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -15,
+            "current_week_prediction": 0,
+            "latitude": "45.229301309",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Robin Galvan-Taylor",
+                  "national_rank": 1159,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Timothy McConnell",
+                  "national_rank": 2908,
+                  "summary": "1 gross sale"
+                }
+              ]
+            },
+            "longitude": "-123.221089054",
+            "name": "Baker Creek Large",
+            "next_3w_pace": 0.5678469983,
+            "past_3w_sales": 0.666667,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.6810839433,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.573109226,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.4493478255,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.4626334126,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.3923832724,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.5609314106,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 25,
+            "current_week_prediction": 0,
+            "latitude": "44.257172874",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Michelle Gregg-Anderson",
+                  "national_rank": 586,
+                  "summary": "4 gross sales"
+                }
+              ]
+            },
+            "longitude": "-121.216279661",
+            "name": "Summerhaven",
+            "next_3w_pace": 1.25,
+            "past_3w_sales": 1,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 547400,
+                "percentile_100": 662400,
+                "percentile_25": 562150,
+                "percentile_5": 548100,
+                "percentile_50": 584900,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 607275,
+                "percentile_95": 650850
+              },
+              "new_construction_prices": {
+                "percentile_0": 464990,
+                "percentile_100": 669191,
+                "percentile_25": 619950,
+                "percentile_5": 508994,
+                "percentile_50": 634218,
+                "percentile_50_percent_change": -1,
+                "percentile_75": 644990,
+                "percentile_95": 661830.2
+              },
+              "resale_prices": {
+                "percentile_0": 525000,
+                "percentile_100": 665000,
+                "percentile_25": 569924.75,
+                "percentile_5": 538265,
+                "percentile_50": 600000,
+                "percentile_50_percent_change": 4,
+                "percentile_75": 625000,
+                "percentile_95": 665000
+              }
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1.25,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1.25,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1.25,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1.25,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1.25,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1.25,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -76,
+            "current_week_prediction": 0,
+            "latitude": "45.227733386",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Robin Galvan-Taylor",
+                  "national_rank": 509,
+                  "summary": "4 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Timothy McConnell",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-123.223622221",
+            "name": "Baker Creek Alley",
+            "next_3w_pace": 0.1594057533,
+            "past_3w_sales": 0.666667,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.2225440606,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.1122355556,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.1434376438,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.1930413817,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.2818928088,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.5492640687,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "45.352163223",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_alina_pop_lr_jpg",
+                  "name": "Alina Pop",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_john_van_hogen_lr_jpg",
+                  "name": "John Van Hogen",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Jason Leiner",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-122.768795188",
+            "name": "Autumn Sunrise 40",
+            "next_3w_pace": 0.5570011601,
+            "past_3w_sales": 0,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.4785533906,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.8388966991,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.3535533906,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.3731906935,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.05399492472,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.1122355556,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 181,
+            "current_week_prediction": 0,
+            "latitude": "45.228019093",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Robin Galvan-Taylor",
+                  "national_rank": 1492,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Timothy McConnell",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-123.222280981",
+            "name": "Baker Creek Small",
+            "next_3w_pace": 0.9371952112,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1.021625915,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.859663839,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.9302958797,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.9724794355,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.8290788732,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.9486863841,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -46,
+            "current_week_prediction": 0,
+            "latitude": "45.069463614",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_alina_pop_lr_jpg",
+                  "name": "Alina Pop",
+                  "national_rank": 509,
+                  "summary": "4 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Portland",
+                  "image_url": "",
+                  "name": "Jason Leiner",
+                  "national_rank": 1159,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Portland",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_john_van_hogen_lr_jpg",
+                  "name": "John Van Hogen",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-122.807825725",
+            "name": "Wachter Meadows",
+            "next_3w_pace": 0.8947658394,
+            "past_3w_sales": 1.666667,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 449900,
+                "percentile_100": 449900,
+                "percentile_25": 449900,
+                "percentile_5": 449900,
+                "percentile_50": 449900,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 449900,
+                "percentile_95": 449900
+              },
+              "new_construction_prices": {},
+              "resale_prices": {
+                "percentile_0": 449000,
+                "percentile_100": 475000,
+                "percentile_25": 449875,
+                "percentile_5": 449280,
+                "percentile_50": 450000,
+                "percentile_50_percent_change": -10,
+                "percentile_75": 450000,
+                "percentile_95": 466250
+              }
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.6842975181,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.344634113,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.9106895547,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.6551837646,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          }
+        ]
+      },
+      "CHANGE_NEEDED_TO_MEET_PACE": -8,
+      "DBT_UPDATED_AT": "2023-10-12 18:56:00.762"
+    },
+    "pricing": {
+      "COHORT": "Portland",
+      "COHORT_TYPE": "division",
+      "LENNAR_PRICES": {
+        "percentile_0": 349900,
+        "percentile_100": 750900,
+        "percentile_25": 486900,
+        "percentile_5": 354950,
+        "percentile_50": 535150,
+        "percentile_50_percent_change": 0,
+        "percentile_75": 595400,
+        "percentile_95": 675025
+      },
+      "NEW_CONSTRUCTION_PRICES": {
+        "percentile_0": 428660,
+        "percentile_100": 847942,
+        "percentile_25": 544559,
+        "percentile_5": 438790,
+        "percentile_50": 599990,
+        "percentile_50_percent_change": 0,
+        "percentile_75": 655488,
+        "percentile_95": 774918
+      },
+      "RESALE_PRICES": {
+        "percentile_0": 420000,
+        "percentile_100": 729900,
+        "percentile_25": 499900,
+        "percentile_5": 449900,
+        "percentile_50": 569900,
+        "percentile_50_percent_change": 3,
+        "percentile_75": 600000,
+        "percentile_95": 675000
+      },
+      "DBT_UPDATED_AT": "2023-10-12 18:11:35.943"
+    },
+    "insights": {
+      "COHORT": "Portland",
+      "COHORT_TYPE": "division",
+      "TOP_SALES_INSIGHT": {
+        "color": "green",
+        "content": 4,
+        "insight_for": "Henshaw Farm"
+      },
+      "BOTTOM_SALES_INSIGHT": {
+        "color": "red",
+        "content": 1,
+        "insight_for": "Baker Creek The Amber Collection"
+      },
+      "TOP_INCENTIVE_INSIGHT": {
+        "color": "green",
+        "content": 0,
+        "insight_for": "Cougar Run"
+      },
+      "BOTTOM_INCENTIVE_INSIGHT": {
+        "color": "red",
+        "content": 8.5,
+        "insight_for": "Wachter Meadows"
+      }
+    }
+  }
+}

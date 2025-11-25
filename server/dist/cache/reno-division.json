@@ -7917,6 +7917,7 @@
                     "y_axis": 3
                   },
                   {
+                    "x_axis": "Jul 31",
                     "y_axis": 1
                   },
                   {
@@ -20535,3 +20536,2531 @@
               "x_axis": "Sep 13",
               "y_axis": 11.66
             },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 13.18
+            }
+          ],
+          "percent_change": 13,
+          "value": 13.18
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 0
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 0
+            }
+          ],
+          "percent_change": 0,
+          "value": 0
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:32.880"
+      },
+      "WTD": {
+        "COHORT": "Reno",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "WTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Reno",
+            "division_coordinates": [
+              -119.722638148,
+              39.397811962
+            ],
+            "geometry": {
+              "coordinates": [
+                -119.759538,
+                38.9595954
+              ],
+              "type": "Point"
+            },
+            "id": 194,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 4,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_laura_seloverlr_jpg",
+                    "name": "Laura Selover",
+                    "national_rank": 785,
+                    "summary": "           $2,580,952 in sales QTD<br/>6.7% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "96 days prior",
+                "home_size": "       1,950 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6286/46962/46962_eleB_lg.jpg",
+                "incentive_percent": 9,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Marc,  Nice talking with you today. Here's our brochure (which includes our map), our 'everything's included' information and our latest price sheet.  Laura Selover NV. S181514  New Home Consultant Weser Creek at Heybourne Meadows 1142 Dapple Drive Minden, NV 89423 (775) 306-2413 Laura.Selover@Le...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 2,
+                "sale_price": 535000,
+                "sale_title": "The Juniper just sold in Heybourne Meadows",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Reno",
+            "division_coordinates": [
+              -119.722638148,
+              39.397811962
+            ],
+            "geometry": {
+              "coordinates": [
+                -119.7473224,
+                39.1640428
+              ],
+              "type": "Point"
+            },
+            "id": 82,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_morgan_zeno_lr_jpg",
+                    "name": "Morgan Zeno",
+                    "national_rank": 190,
+                    "summary": "          $12,867,044 in sales QTD<br/>60 appointments QTD<br/>19% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "27 days prior",
+                "home_size": "       2,100 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7450/62975/62975_eleC_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-01",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-01",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "ATTACHED IS THE FLOORING for both 153 and 179  153-A1 COLOR179-B2 COLOR  USE THIS PICTURE FOR ELEVATION ONLY- NOT COLOR-COLORS ARE ATTACHED  Angela Angela Robinson  NV Lic. # S.179746 New Home Consultant Mills Meadows| 36 Wildcat Peak Dr., Carson City, NV 89701 Office 775-789-3206 | Angela.Robinson@...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Angela  Angela Robinson  NV. Lic # S.179746  New Home ConsultantMills Meadows | 36 Wildcat Peak Dr., Carson City, NV 89701Office 775-789-3206 | Angela.Robinson@Lennar.comWESER CREEK | 1142 Dapple Dr.,  Minden, NV 89423  CLOSED/OFF TUESDAYS & WEDNESDAYS  From: Angela Robinson <angela.robinson@lennar....",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 1,
+                "sale_price": 519950,
+                "sale_title": "The Highland just sold in Mills Meadow",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 1
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 3
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 7
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 2
+            }
+          ],
+          "percent_change": -71.4,
+          "value": 2
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 1
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 2
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 6
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 1
+            }
+          ],
+          "percent_change": -83.3,
+          "value": 1
+        },
+        "RETAIL_SALES": {
+          "percent_change": -71.4,
+          "value": 2
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 600000
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 546909
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 563679
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 527475
+            }
+          ],
+          "percent_change": -6.4,
+          "value": 527475
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 15.2
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 13.36
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 13.29
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 8.59
+            }
+          ],
+          "percent_change": -35.4,
+          "value": 8.59
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 0
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 0
+            }
+          ],
+          "percent_change": 0,
+          "value": 0
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:32.880"
+      },
+      "QTD": {
+        "COHORT": "Reno",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "QTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Reno",
+            "division_coordinates": [
+              -119.722638148,
+              39.397811962
+            ],
+            "geometry": {
+              "coordinates": [
+                -119.759538,
+                38.9595954
+              ],
+              "type": "Point"
+            },
+            "id": 194,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 4,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_laura_seloverlr_jpg",
+                    "name": "Laura Selover",
+                    "national_rank": 785,
+                    "summary": "           $2,580,952 in sales QTD<br/>6.7% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "96 days prior",
+                "home_size": "       1,950 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6286/46962/46962_eleB_lg.jpg",
+                "incentive_percent": 9,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Marc,  Nice talking with you today. Here's our brochure (which includes our map), our 'everything's included' information and our latest price sheet.  Laura Selover NV. S181514  New Home Consultant Weser Creek at Heybourne Meadows 1142 Dapple Drive Minden, NV 89423 (775) 306-2413 Laura.Selover@Le...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 2,
+                "sale_price": 535000,
+                "sale_title": "The Juniper just sold in Heybourne Meadows",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Reno",
+            "division_coordinates": [
+              -119.722638148,
+              39.397811962
+            ],
+            "geometry": {
+              "coordinates": [
+                -119.7473224,
+                39.1640428
+              ],
+              "type": "Point"
+            },
+            "id": 82,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_morgan_zeno_lr_jpg",
+                    "name": "Morgan Zeno",
+                    "national_rank": 190,
+                    "summary": "          $12,867,044 in sales QTD<br/>60 appointments QTD<br/>19% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "27 days prior",
+                "home_size": "       2,100 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7450/62975/62975_eleC_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-01",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-01",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "ATTACHED IS THE FLOORING for both 153 and 179  153-A1 COLOR179-B2 COLOR  USE THIS PICTURE FOR ELEVATION ONLY- NOT COLOR-COLORS ARE ATTACHED  Angela Angela Robinson  NV Lic. # S.179746 New Home Consultant Mills Meadows| 36 Wildcat Peak Dr., Carson City, NV 89701 Office 775-789-3206 | Angela.Robinson@...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Angela  Angela Robinson  NV. Lic # S.179746  New Home ConsultantMills Meadows | 36 Wildcat Peak Dr., Carson City, NV 89701Office 775-789-3206 | Angela.Robinson@Lennar.comWESER CREEK | 1142 Dapple Dr.,  Minden, NV 89423  CLOSED/OFF TUESDAYS & WEDNESDAYS  From: Angela Robinson <angela.robinson@lennar....",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 1,
+                "sale_price": 519950,
+                "sale_title": "The Highland just sold in Mills Meadow",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 54
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 60
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 51
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 58
+            }
+          ],
+          "percent_change": 13.7,
+          "value": 58
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 51
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 53
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 47
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 51
+            }
+          ],
+          "percent_change": 8.5,
+          "value": 51
+        },
+        "RETAIL_SALES": {
+          "percent_change": 13.7,
+          "value": 58
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 525348
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 513964
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 576345
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 536141
+            }
+          ],
+          "percent_change": -7,
+          "value": 536141
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 18.41
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 15.7
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 12.69
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 13.01
+            }
+          ],
+          "percent_change": 2.5,
+          "value": 13.01
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 0
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 0
+            }
+          ],
+          "percent_change": 0,
+          "value": 0
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:32.880"
+      }
+    },
+    "pacing": {
+      "COHORT": "Reno",
+      "COHORT_TYPE": "division",
+      "PAST_3W_SALES": 12.333333,
+      "NEXT_3W_PACE": 9.757333813,
+      "WEEKLY_PACING_GRAPH": [
+        {
+          "future_pace": 0,
+          "gross_sales": 8,
+          "sort": 0,
+          "x_axis": "Aug 28"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 10,
+          "sort": 1,
+          "x_axis": "Sep 04"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 8,
+          "sort": 2,
+          "x_axis": "Sep 11"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 6,
+          "sort": 3,
+          "x_axis": "Sep 18"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 11,
+          "sort": 4,
+          "x_axis": "Sep 25"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 20,
+          "sort": 5,
+          "x_axis": "Oct 02"
+        },
+        {
+          "future_pace": 9.606152041,
+          "gross_sales": 2,
+          "sort": 6,
+          "x_axis": "Oct 09"
+        },
+        {
+          "future_pace": 9.998285507,
+          "gross_sales": 0,
+          "sort": 7,
+          "x_axis": "Oct 16"
+        },
+        {
+          "future_pace": 9.667563893,
+          "gross_sales": 0,
+          "sort": 8,
+          "x_axis": "Oct 23"
+        },
+        {
+          "future_pace": 9.978154634,
+          "gross_sales": 0,
+          "sort": 9,
+          "x_axis": "Oct 30"
+        },
+        {
+          "future_pace": 10.532875362,
+          "gross_sales": 0,
+          "sort": 10,
+          "x_axis": "Nov 06"
+        },
+        {
+          "future_pace": 10.906102073,
+          "gross_sales": 0,
+          "sort": 11,
+          "x_axis": "Nov 13"
+        }
+      ],
+      "CURRENT_WEEK_PREDICTION": 16.321615577,
+      "AVAILABLE_HOMES": {
+        "black_homes": 22,
+        "green_homes": 127,
+        "red_homes": 6,
+        "total_available": 171,
+        "yellow_homes": 16
+      },
+      "SUB_COHORT_MAP": {
+        "map_summary": "",
+        "map_title": "Communities pacing status",
+        "sub_cohort_array": [
+          {
+            "change_needed_to_meet_pace": -25,
+            "current_week_prediction": 0,
+            "latitude": "39.16402765",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Reno",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_laura_seloverlr_jpg",
+                  "name": "Laura Selover",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Reno",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_angela_robinson_lr_jpg",
+                  "name": "Angela Robinson",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Tricia Chism",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-119.747625718",
+            "name": "Mills Meadow",
+            "next_3w_pace": 1,
+            "past_3w_sales": 1.333333,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 519950,
+                "percentile_100": 629950,
+                "percentile_25": 534950,
+                "percentile_5": 522950,
+                "percentile_50": 549950,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 589950,
+                "percentile_95": 621950
+              },
+              "new_construction_prices": {
+                "percentile_0": 559169,
+                "percentile_100": 675990,
+                "percentile_25": 613805.25,
+                "percentile_5": 560618.75,
+                "percentile_50": 627995,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 640361.5,
+                "percentile_95": 660170.25
+              },
+              "resale_prices": {
+                "percentile_0": 489950,
+                "percentile_100": 669000,
+                "percentile_25": 543675,
+                "percentile_5": 503500,
+                "percentile_50": 582500,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 635000,
+                "percentile_95": 649750
+              }
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 1,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -15,
+            "current_week_prediction": 0,
+            "latitude": "39.644510071",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Jeannie Kinney",
+                  "national_rank": 695,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Betsy Long",
+                  "national_rank": 3034,
+                  "summary": "1 gross sale"
+                }
+              ]
+            },
+            "longitude": "-119.853226432",
+            "name": "Peavine Trails at Stonefield",
+            "next_3w_pace": 0.5678469983,
+            "past_3w_sales": 0.666667,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 519950,
+                "percentile_100": 524950,
+                "percentile_25": 521200,
+                "percentile_5": 520200,
+                "percentile_50": 522450,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 523700,
+                "percentile_95": 524700
+              },
+              "new_construction_prices": {
+                "percentile_0": 523595,
+                "percentile_100": 607537,
+                "percentile_25": 557596,
+                "percentile_5": 530827.8,
+                "percentile_50": 561102,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 589950,
+                "percentile_95": 604120.2
+              },
+              "resale_prices": {
+                "percentile_0": 514000,
+                "percentile_100": 625000,
+                "percentile_25": 524500,
+                "percentile_5": 517500,
+                "percentile_50": 569000,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 595000,
+                "percentile_95": 606800
+              }
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.6810839433,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.573109226,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.4493478255,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.2964590052,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 50,
+            "current_week_prediction": 0,
+            "latitude": "39.644476485",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Jeannie Kinney",
+                  "national_rank": 1492,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Betsy Long",
+                  "national_rank": 1556,
+                  "summary": "2 gross sales"
+                }
+              ]
+            },
+            "longitude": "-119.853689153",
+            "name": "Arvada at Stonefield",
+            "next_3w_pace": 1,
+            "past_3w_sales": 0.666667,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 449950,
+                "percentile_100": 525662,
+                "percentile_25": 462450,
+                "percentile_5": 452450,
+                "percentile_50": 474950,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 500306,
+                "percentile_95": 520590.8
+              },
+              "new_construction_prices": {
+                "percentile_0": 523595,
+                "percentile_100": 559169,
+                "percentile_25": 537156.5,
+                "percentile_5": 526307.3,
+                "percentile_50": 544836,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 550788.5,
+                "percentile_95": 557492.9
+              },
+              "resale_prices": {
+                "percentile_0": 433500,
+                "percentile_100": 529000,
+                "percentile_25": 470000,
+                "percentile_5": 434775,
+                "percentile_50": 479500,
+                "percentile_50_percent_change": 1,
+                "percentile_75": 492500,
+                "percentile_95": 524750
+              }
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 50,
+            "current_week_prediction": 0,
+            "latitude": "39.172310752",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Tricia Chism",
+                  "national_rank": 1348,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Betsy Long",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-119.777932177",
+            "name": "Andersen Ranch @ Ash Canyon",
+            "next_3w_pace": 1,
+            "past_3w_sales": 0.666667,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -82,
+            "current_week_prediction": 0,
+            "latitude": "39.603243588",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Jennifer Myers",
+                  "national_rank": 38,
+                  "summary": "11 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Brittney Flowers",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Betsy Long",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-119.720756236",
+            "name": "Homestead at Kiley Ranch",
+            "next_3w_pace": 0.411463411,
+            "past_3w_sales": 2.333333,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 481950,
+                "percentile_100": 574950,
+                "percentile_25": 514200,
+                "percentile_5": 488400,
+                "percentile_50": 548438,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 572682,
+                "percentile_95": 574496.4
+              },
+              "new_construction_prices": {
+                "percentile_0": 472990,
+                "percentile_100": 652800,
+                "percentile_25": 523181.25,
+                "percentile_5": 478490,
+                "percentile_50": 558995,
+                "percentile_50_percent_change": -2,
+                "percentile_75": 606745,
+                "percentile_95": 643230
+              },
+              "resale_prices": {
+                "percentile_0": 475000,
+                "percentile_100": 629900,
+                "percentile_25": 500000,
+                "percentile_5": 475500,
+                "percentile_50": 530000,
+                "percentile_50_percent_change": -4,
+                "percentile_75": 575000,
+                "percentile_95": 628900
+              }
+            },
+            "status": "ahead_of_pace",
+            "status_color": "#f5cc6c",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 4,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.4455603512,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.6906407832,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.09818909854,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.1220363065,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.1574841008,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.3028310667,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -70,
+            "current_week_prediction": 0,
+            "latitude": "39.617859287",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Brittney Flowers",
+                  "national_rank": 486,
+                  "summary": "4 gross sales"
+                }
+              ]
+            },
+            "longitude": "-119.70332612",
+            "name": "Sendero at Pioneer Meadows",
+            "next_3w_pace": 0.4016050196,
+            "past_3w_sales": 1.333333,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 499950,
+                "percentile_100": 624950,
+                "percentile_25": 537450,
+                "percentile_5": 507450,
+                "percentile_50": 549950,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 568700,
+                "percentile_95": 613700
+              },
+              "new_construction_prices": {
+                "percentile_0": 490990,
+                "percentile_100": 680474,
+                "percentile_25": 536245,
+                "percentile_5": 492499,
+                "percentile_50": 625990,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 634218,
+                "percentile_95": 678078.2
+              },
+              "resale_prices": {
+                "percentile_0": 475000,
+                "percentile_100": 690000,
+                "percentile_25": 524237.5,
+                "percentile_5": 499090,
+                "percentile_50": 555000,
+                "percentile_50_percent_change": -1,
+                "percentile_75": 580000,
+                "percentile_95": 681363.9
+              }
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.2452358844,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.3894195788,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.5701595956,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.9359048646,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1.03692056,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1.213979053,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "39.614092401",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Jennifer Myers",
+                  "national_rank": 217,
+                  "summary": "6 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Brittney Flowers",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-119.70568563",
+            "name": "Pele at Pioneer Meadows",
+            "next_3w_pace": 1,
+            "past_3w_sales": 1,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 559950,
+                "percentile_100": 574951,
+                "percentile_25": 567450,
+                "percentile_5": 561450,
+                "percentile_50": 574950,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 574950.5,
+                "percentile_95": 574950.9
+              },
+              "new_construction_prices": {
+                "percentile_0": 570448,
+                "percentile_100": 654460,
+                "percentile_25": 579623,
+                "percentile_5": 571040.9,
+                "percentile_50": 598995,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 623492.5,
+                "percentile_95": 640901
+              },
+              "resale_prices": {
+                "percentile_0": 549000,
+                "percentile_100": 629998,
+                "percentile_25": 573750,
+                "percentile_5": 559355,
+                "percentile_50": 587500,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 603675,
+                "percentile_95": 625249.9
+              }
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.8483803282,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -25,
+            "current_week_prediction": 0,
+            "latitude": "39.606750258",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Jennifer Myers",
+                  "national_rank": 340,
+                  "summary": "5 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Betsy Long",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-119.71784133",
+            "name": "Ironwood at Kiley Ranch",
+            "next_3w_pace": 1,
+            "past_3w_sales": 1.333333,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 574950,
+                "percentile_100": 659950,
+                "percentile_25": 596200,
+                "percentile_5": 579200,
+                "percentile_50": 617450,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 638700,
+                "percentile_95": 655700
+              },
+              "new_construction_prices": {
+                "percentile_0": 623995,
+                "percentile_100": 750980,
+                "percentile_25": 638815,
+                "percentile_5": 624690.25,
+                "percentile_50": 652229.5,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 703711.75,
+                "percentile_95": 746238.8
+              },
+              "resale_prices": {
+                "percentile_0": 615000,
+                "percentile_100": 683298,
+                "percentile_25": 647500,
+                "percentile_5": 618850,
+                "percentile_50": 662939.5,
+                "percentile_50_percent_change": 3,
+                "percentile_75": 670500,
+                "percentile_95": 678734.1
+              }
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "39.427039806",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Tricia Chism",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-119.704477187",
+            "name": "Viewmont at Palisades",
+            "next_3w_pace": 0,
+            "past_3w_sales": 0,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 1374950,
+                "percentile_100": 1374950,
+                "percentile_25": 1374950,
+                "percentile_5": 1374950,
+                "percentile_50": 1374950,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 1374950,
+                "percentile_95": 1374950
+              },
+              "new_construction_prices": {
+                "percentile_0": 1299995,
+                "percentile_100": 1599990,
+                "percentile_25": 1350950,
+                "percentile_5": 1310186,
+                "percentile_50": 1419000,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 1424000,
+                "percentile_95": 1564792
+              },
+              "resale_prices": {
+                "percentile_0": 1350000,
+                "percentile_100": 1510000,
+                "percentile_25": 1375000,
+                "percentile_5": 1355000,
+                "percentile_50": 1385000,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 1385000,
+                "percentile_95": 1485000
+              }
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 50,
+            "current_week_prediction": 0,
+            "latitude": "38.960319387",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Reno",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_laura_seloverlr_jpg",
+                  "name": "Laura Selover",
+                  "national_rank": 317,
+                  "summary": "5 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Margaret Forsythe",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Reno",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_angela_robinson_lr_jpg",
+                  "name": "Angela Robinson",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-119.757714811",
+            "name": "Weser Creek at Heybourne Meado",
+            "next_3w_pace": 1,
+            "past_3w_sales": 0.666667,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 1,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 50,
+            "current_week_prediction": 0,
+            "latitude": "39.325592912",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Margaret Forsythe",
+                  "national_rank": 848,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Jeannie Kinney",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-119.493727939",
+            "name": "Copper Canyon II",
+            "next_3w_pace": 1,
+            "past_3w_sales": 0.666667,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 459500,
+                "percentile_100": 609950,
+                "percentile_25": 502450,
+                "percentile_5": 469612.5,
+                "percentile_50": 517450,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 543700,
+                "percentile_95": 594950
+              },
+              "new_construction_prices": {
+                "percentile_0": 489990,
+                "percentile_100": 659087,
+                "percentile_25": 546646,
+                "percentile_5": 490740,
+                "percentile_50": 580247.5,
+                "percentile_50_percent_change": -2,
+                "percentile_75": 613048.75,
+                "percentile_95": 641089.25
+              },
+              "resale_prices": {
+                "percentile_0": 455000,
+                "percentile_100": 625000,
+                "percentile_25": 515000,
+                "percentile_5": 469365,
+                "percentile_50": 534000,
+                "percentile_50_percent_change": -3,
+                "percentile_75": 562500,
+                "percentile_95": 592300
+              }
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -72,
+            "current_week_prediction": 0,
+            "latitude": "39.658451357",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Kelley King",
+                  "national_rank": 550,
+                  "summary": "4 gross sales"
+                }
+              ]
+            },
+            "longitude": "-119.708910458",
+            "name": "Silver Ridge II",
+            "next_3w_pace": 0.3764183846,
+            "past_3w_sales": 1.333333,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 609950,
+                "percentile_100": 659950,
+                "percentile_25": 621200,
+                "percentile_5": 612200,
+                "percentile_50": 637450,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 652450,
+                "percentile_95": 658450
+              },
+              "new_construction_prices": {
+                "percentile_0": 547863,
+                "percentile_100": 707995,
+                "percentile_25": 631268.75,
+                "percentile_5": 582122.4,
+                "percentile_50": 640197.5,
+                "percentile_50_percent_change": 2,
+                "percentile_75": 657930.25,
+                "percentile_95": 697195
+              },
+              "resale_prices": {
+                "percentile_0": 598995,
+                "percentile_100": 667000,
+                "percentile_25": 628900,
+                "percentile_5": 599900,
+                "percentile_50": 640000,
+                "percentile_50_percent_change": 2,
+                "percentile_75": 650000,
+                "percentile_95": 664500
+              }
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.234271862,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.3451159185,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.5498673732,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.7753741297,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1.338470701,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1.389291953,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 200,
+            "current_week_prediction": 0,
+            "latitude": "39.172215137",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Reno",
+                  "image_url": "",
+                  "name": "Tricia Chism",
+                  "national_rank": 441,
+                  "summary": "4 gross sales"
+                }
+              ]
+            },
+            "longitude": "-119.777935558",
+            "name": "Silver Trails @ Ash Canyon",
+            "next_3w_pace": 1,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          }
+        ]
+      },
+      "CHANGE_NEEDED_TO_MEET_PACE": -21,
+      "DBT_UPDATED_AT": "2023-10-12 18:56:00.762"
+    },
+    "pricing": {
+      "COHORT": "Reno",
+      "COHORT_TYPE": "division",
+      "LENNAR_PRICES": {
+        "percentile_0": 449950,
+        "percentile_100": 1374950,
+        "percentile_25": 524950,
+        "percentile_5": 475650,
+        "percentile_50": 559950,
+        "percentile_50_percent_change": 0,
+        "percentile_75": 609950,
+        "percentile_95": 695950
+      },
+      "NEW_CONSTRUCTION_PRICES": {
+        "percentile_0": 472990,
+        "percentile_100": 1599990,
+        "percentile_25": 572875,
+        "percentile_5": 490990,
+        "percentile_50": 629990,
+        "percentile_50_percent_change": 0,
+        "percentile_75": 676235.5,
+        "percentile_95": 1135290.5
+      },
+      "RESALE_PRICES": {
+        "percentile_0": 433500,
+        "percentile_100": 1510000,
+        "percentile_25": 525000,
+        "percentile_5": 475000,
+        "percentile_50": 569000,
+        "percentile_50_percent_change": 0,
+        "percentile_75": 621000,
+        "percentile_95": 689500
+      },
+      "DBT_UPDATED_AT": "2023-10-12 18:11:35.943"
+    },
+    "insights": {
+      "COHORT": "Reno",
+      "COHORT_TYPE": "division",
+      "TOP_SALES_INSIGHT": {
+        "color": "green",
+        "content": 4,
+        "insight_for": "Mills Meadow"
+      },
+      "BOTTOM_SALES_INSIGHT": {
+        "color": "red",
+        "content": 1,
+        "insight_for": "Pele at Pioneer Meadows"
+      },
+      "TOP_INCENTIVE_INSIGHT": {
+        "color": "green",
+        "content": 4.9,
+        "insight_for": "Heybourne Meadows"
+      },
+      "BOTTOM_INCENTIVE_INSIGHT": {
+        "color": "red",
+        "content": 21.1,
+        "insight_for": "Ironwood at Kiley Ranch"
+      }
+    }
+  }
+}

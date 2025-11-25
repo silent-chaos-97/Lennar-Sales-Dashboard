@@ -84,3 +84,15 @@ To handle the high-volume data load in each connection request to Snowflake, we'
 
 The Rest API serves data to the frontend through the API. KPI data is retrieved from the cached JSON file stored by the CronJob.
 
+- `GET /api/cohorts`: Fetch the list of divisions.
+- `GET /api/metrics`: Retrieve tooltips for KPI labels.
+- `GET /api/data`: Get analytics data from the cached JSON file.
+
+### Frontend
+
+The frontend is developed using Create-React-App, and we use Mapbox as a third-party service.
+
+**Important Notes:**
+1. Ensure the API base URL is correctly configured in the .env file.
+2. The Backend API process should already be running.
+3. Configure the Mapbox access token in the .env file. You can obtain free Mapbox access tokens by signing up at [Mapbox Studio](https://studio.mapbox.com). Free-tier tokens are sufficient for development; avoid using free-tier keys in production.

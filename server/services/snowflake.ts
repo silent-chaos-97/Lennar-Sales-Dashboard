@@ -85,6 +85,7 @@ class SnowflakeService {
                         latitude: sub_division.LATITUDE,
                         longitude: sub_division.LONGITUDE,
                         timezone: sub_division.TIME_ZONE
+                      }))
                     return {
                       type: dRow.COHORT_TYPE,
                       name: dRow.COHORT,
@@ -196,3 +197,28 @@ class SnowflakeService {
 
     return new Promise((resolve, reject) => {
       connection.connect((err) => {
+        if (err) {
+          console.error('Error connecting to Snowflake:', err)
+          return reject(err)
+        }
+
+        connection.execute({
+          sqlText: sql,
+          complete: (err, stmt, rows?: MetricsState) => {
+            if (err || !rows) {
+              console.error('Error executing Snowflake query:', err)
+              return reject(err)
+            }
+            connection.destroy(() => {
+              console.log('Cohort Division fetching is finished')
+            })
+
+            resolve(rows)
+          }
+        })
+      })
+    })
+  }
+}
+
+export default new SnowflakeService()

@@ -43,3 +43,10 @@ const RightPane = () => {
               </Grid>
             </Grid>
           </Box>
+        </Grid>
+      </Grid>
+    </Box>
+  )
+}
+
+export default RightPane

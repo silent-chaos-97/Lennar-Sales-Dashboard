@@ -20,3 +20,6 @@ export interface SubRegion extends Division {
   divisions?: Division[]
 }
 
+export interface CohortListItem extends Division {
+  divisions: SubRegion[]
+}

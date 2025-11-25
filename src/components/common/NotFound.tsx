@@ -29,3 +29,8 @@ const NotFound = () => {
           <Link href={LENNAR_LIVE_URL}>{LENNAR_LIVE_URL}</Link>
         </Typography>
       </Stack>
+    </Box>
+  )
+}
+
+export default NotFound

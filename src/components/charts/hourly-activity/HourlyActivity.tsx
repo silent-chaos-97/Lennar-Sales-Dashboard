@@ -57,3 +57,12 @@ const HourlyActivity = ({
             variant="h6"
             sx={{ ml: 1 }}
           >
+            {change}%
+          </Typography>
+        </Stack>
+      </Stack>
+    </Box>
+  )
+}
+
+export default HourlyActivity

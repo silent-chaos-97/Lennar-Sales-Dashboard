@@ -59,3 +59,10 @@ const ActivityChart = ({ data }: ActivityChartProps) => {
         </Typography>
         <Typography variant="caption" color="#90949A">
           7PM {TIMEZONE_VALUE[currentCohort.timezone]}
+        </Typography>
+      </Stack>
+    </Stack>
+  )
+}
+
+export default ActivityChart

@@ -37,3 +37,4 @@ const DataAlert = ({ elementName, truncateSize = 0, isSvg = false, children }: D
   )
 }
 
+export default DataAlert

@@ -167,3 +167,26 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
           return y(d)
         })
         .attr('y2', function (d) {
+          return y(d)
+        })
+        .attr('stroke', idx === 0 ? '#33A3FF' : 'rgba(242,242,242,0.5)')
+        .attr('stroke-width', 2)
+        .each((d) => {
+          if (d) {
+            showTooltip(d, boxCenter, idx)
+          }
+        })
+    })
+  }, [data, nWidth, nHeight])
+
+  return (
+    <Box position="relative">
+      <svg id={id} />
+      {/* <div className="tooltip" id={`${id}-tooltip-0`} style={{ display: 'none' }} /> */}
+      <div className="tooltip" id={`${id}-tooltip-1`} style={{ display: 'none' }} />
+      <div className="tooltip" id={`${id}-tooltip-2`} style={{ display: 'none' }} />
+    </Box>
+  )
+}
+
+export default BoxPlot

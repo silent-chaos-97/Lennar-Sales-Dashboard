@@ -186,6 +186,7 @@ const SalesDetails = ({
               </Grid>
               <Grid item lg={6} mb={2}>
                 <Typography variant="caption" color="text.secondary">
+                  Web content score (1-5)
                 </Typography>
                 <Typography variant="h3" whiteSpace="nowrap">
                   {salesDetail.web_content_score}
@@ -196,3 +197,25 @@ const SalesDetails = ({
               <Scrollbar noScrollX={true} style={{ height: 360, width: '100%' }}>
                 <Stack spacing="20px">
                   <Typography variant="caption" color="grey.400">
+                    Associates
+                  </Typography>
+                  {!!salesDetail.associate_array?.length &&
+                    salesDetail.associate_array.map((member, idx) => (
+                      <AssociateMemberCard member={member} key={idx} />
+                    ))}
+                </Stack>
+              </Scrollbar>
+            </Box>
+          </Grid>
+          <Grid item lg={6}>
+            {salesDetail.journey_array && !!salesDetail.journey_array?.length && (
+              <Timeline journeyData={salesDetail.journey_array} />
+            )}
+          </Grid>
+        </Grid>
+      </Box>
+    </>
+  )
+}
+
+export default SalesDetails

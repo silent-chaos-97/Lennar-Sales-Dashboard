@@ -49,6 +49,7 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
           cur: data.cur[key],
           prv: data.prv[key]
         }
+        stackedData.push(stackedEntry)
       }
     })
     return stackedData
@@ -119,3 +120,20 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
       .attr('y', (d) => xScale(Number(d.value)))
       .attr('height', (d) => xScale(0) - xScale(Number(d.value)))
       .attr('rx', 5)
+      .attr('fill', color('cur') as string)
+  }
+
+  return (
+    <svg
+      ref={svgRef}
+      // width={'100%'}
+      // height={'100%'}
+      preserveAspectRatio="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <g></g>
+    </svg>
+  )
+}
+
+export default StackedBarChart

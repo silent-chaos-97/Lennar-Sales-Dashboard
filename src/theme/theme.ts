@@ -351,3 +351,52 @@ export const theme = createTheme({
   },
   breakpoints: {
     values: {
+      xs: 0,
+      sm: 600,
+      md: 900,
+      lg: 1200,
+      xl: 1440
+    }
+  },
+  palette: {
+    background: {
+      default: '#212936',
+      paper: '#191D26',
+      secondary: '#263651',
+      tertiary: '#dde3f6'
+    },
+    primary: {
+      main: '#33a3ff',
+      contrastText: '#fff'
+    },
+    info: {
+      main: '#Ae78d7',
+      contrastText: '#fff'
+    },
+    secondary: {
+      main: '#1ABB96',
+      contrastText: '#fff'
+    },
+    text: {
+      primary: '#ffffff',
+      secondary: '#b4b8bc',
+      tertiary: '#009D4F',
+      quaternary: '#E44D4D'
+    },
+    divider: '#dde3f6',
+    error: {
+      main: '#e44d4d'
+    },
+    success: {
+      main: '#009d4e',
+      light: '#1ABB96',
+      dark: '#028090'
+    },
+    grey: {
+      300: '#A5CFEF',
+      400: '#B4B8BC',
+      500: '#90949a',
+      600: '#70747a'
+    }
+  }
+})

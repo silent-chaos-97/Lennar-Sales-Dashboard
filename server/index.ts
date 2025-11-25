@@ -74,3 +74,10 @@ app.get('/api/data', async (req, res) => {
   } catch (error) {
     console.error('Error saving result to cache:', error)
   }
+
+  res.json(result)
+})
+
+app.listen(port, () => {
+  console.log(`⚡️[server]: Server is running at http://localhost:${port}`)
+})

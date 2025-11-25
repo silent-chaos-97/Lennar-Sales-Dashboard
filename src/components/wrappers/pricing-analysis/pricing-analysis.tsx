@@ -130,3 +130,21 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
                 </>
               )}
               <Typography
+                variant="subtitle1"
+                color={diffColor(priceChanges.resale)}
+                fontWeight={700}
+              >
+                {priceChanges.resale}%
+              </Typography>
+            </Stack>
+          </Box>
+        </Stack>
+        <Box width="100%" height={260} ref={ref}>
+          <BoxPlot id={chartId} width={width || 0} height={height || 0} data={data} />
+        </Box>
+      </Stack>
+    </Section>
+  )
+}
+
+export default PricingAnalysis

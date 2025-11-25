@@ -12,3 +12,6 @@ const LinkBehavior = React.forwardRef<
   return <RouterLink ref={ref} to={href} {...other} />
 })
 
+LinkBehavior.displayName = 'LinkBehavior'
+
+export default LinkBehavior

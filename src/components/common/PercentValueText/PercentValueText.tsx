@@ -39,3 +39,9 @@ const PercentValueText = ({
             {change || 0}%
           </Typography>
         </Stack>
+      )}
+    </Stack>
+  )
+}
+
+export default PercentValueText

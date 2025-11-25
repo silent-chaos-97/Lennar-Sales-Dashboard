@@ -17,3 +17,6 @@ const TimeProgress = () => {
       playing={playing}
     />
   )
+}
+
+export default TimeProgress

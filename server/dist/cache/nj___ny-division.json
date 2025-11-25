@@ -47671,3 +47671,2678 @@
           "gross_sales": 18,
           "sort": 1,
           "x_axis": "Sep 04"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 16,
+          "sort": 2,
+          "x_axis": "Sep 11"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 17,
+          "sort": 3,
+          "x_axis": "Sep 18"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 19,
+          "sort": 4,
+          "x_axis": "Sep 25"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 17,
+          "sort": 5,
+          "x_axis": "Oct 02"
+        },
+        {
+          "future_pace": 11.564542953,
+          "gross_sales": 7,
+          "sort": 6,
+          "x_axis": "Oct 09"
+        },
+        {
+          "future_pace": 10.415242509,
+          "gross_sales": 0,
+          "sort": 7,
+          "x_axis": "Oct 16"
+        },
+        {
+          "future_pace": 9.267543356,
+          "gross_sales": 0,
+          "sort": 8,
+          "x_axis": "Oct 23"
+        },
+        {
+          "future_pace": 9.800386526,
+          "gross_sales": 0,
+          "sort": 9,
+          "x_axis": "Oct 30"
+        },
+        {
+          "future_pace": 10.374296872,
+          "gross_sales": 0,
+          "sort": 10,
+          "x_axis": "Nov 06"
+        },
+        {
+          "future_pace": 10.020051008,
+          "gross_sales": 0,
+          "sort": 11,
+          "x_axis": "Nov 13"
+        }
+      ],
+      "CURRENT_WEEK_PREDICTION": 21.444139689,
+      "AVAILABLE_HOMES": {
+        "black_homes": 0,
+        "green_homes": 141,
+        "red_homes": 1,
+        "total_available": 152,
+        "yellow_homes": 10
+      },
+      "SUB_COHORT_MAP": {
+        "map_summary": "",
+        "map_title": "Communities pacing status",
+        "sub_cohort_array": [
+          {
+            "change_needed_to_meet_pace": -62,
+            "current_week_prediction": 0,
+            "latitude": "40.464021311",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jennifer_letolr_jpg",
+                  "name": "Jennifer Leto",
+                  "national_rank": 290,
+                  "summary": "5 gross sales"
+                }
+              ]
+            },
+            "longitude": "-74.469322331",
+            "name": "Manalapan Grove COAH",
+            "next_3w_pace": 0.2559223177,
+            "past_3w_sales": 0.666667,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.767766953,
+                "gross_sales": 1,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "40.815944786",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_matt_castronuova_lr_jpg",
+                  "name": "Matt Castronuova",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_christine_flannerylr_jpg",
+                  "name": "Christine Flannery",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lisa_lavoie_lr_jpg",
+                  "name": "Lisa Lavoie",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_dennis_cedeno_lr_jpg",
+                  "name": "Dennis Cedeno",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-74.3607019",
+            "name": "Valley View Park Monterey Coll",
+            "next_3w_pace": 0,
+            "past_3w_sales": 0,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -38,
+            "current_week_prediction": 0,
+            "latitude": "40.365922857",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_john_parin_lr_jpg",
+                  "name": "John Parin",
+                  "national_rank": 900,
+                  "summary": "3 gross sales"
+                }
+              ]
+            },
+            "longitude": "-74.458257775",
+            "name": "Venue at Monroe TW",
+            "next_3w_pace": 0.2059627323,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.617888197,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -44,
+            "current_week_prediction": 0,
+            "latitude": "40.32986834",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_antoinette_chenoweth_lr_jpg",
+                  "name": "Antoinette Chenoweth",
+                  "national_rank": 1159,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_alison_striano_2_lr_jpg",
+                  "name": "Allison Striano",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jennifer_letolr_jpg",
+                  "name": "Jennifer Leto",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_abby_iannotti_lr_jpg",
+                  "name": "Abby Iannotti",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-74.369140619",
+            "name": "The Townes At Monroe Parke",
+            "next_3w_pace": 0.1883227339,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.1360827635,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.1788854382,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.25,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.3849001795,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.7071067812,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.3430248377,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -25,
+            "current_week_prediction": 0,
+            "latitude": "40.366354993",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_john_parin_lr_jpg",
+                  "name": "John Parin",
+                  "national_rank": 135,
+                  "summary": "7 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_karen_mazurkiewicz_2_lr_jpg",
+                  "name": "Karen Mazurkiewicz",
+                  "national_rank": 3034,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_abby_iannotti_lr_jpg",
+                  "name": "Abby Iannotti",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-74.454171309",
+            "name": "Venue at Monroe",
+            "next_3w_pace": 1,
+            "past_3w_sales": 1.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 1,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -40,
+            "current_week_prediction": 0,
+            "latitude": "40.84434049",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_matt_castronuova_lr_jpg",
+                  "name": "Matt Castronuova",
+                  "national_rank": 883,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_christine_flannerylr_jpg",
+                  "name": "Christine Flannery",
+                  "national_rank": 1668,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_dennis_cedeno_lr_jpg",
+                  "name": "Dennis Cedeno",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_taryn_smith_lr_jpg",
+                  "name": "Taryn Smith",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 5,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lisa_lavoie_lr_jpg",
+                  "name": "Lisa Lavoie",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-74.477628389",
+            "name": "Collection Morris Plains TH",
+            "next_3w_pace": 1,
+            "past_3w_sales": 1.666667,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 2.220446049e-16,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -100,
+            "current_week_prediction": 0,
+            "latitude": "40.329921138",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_antoinette_chenoweth_lr_jpg",
+                  "name": "Antoinette Chenoweth",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jennifer_letolr_jpg",
+                  "name": "Jennifer Leto",
+                  "national_rank": 3034,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_abby_iannotti_lr_jpg",
+                  "name": "Abby Iannotti",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_shayna_spivak_lr_jpg",
+                  "name": "Shayna Spivak",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_scott_harrison_lr_jpg",
+                  "name": "Scott Harrison",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-74.3736664",
+            "name": "The Lofts At Monroe Parke",
+            "next_3w_pace": 0,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 50,
+            "current_week_prediction": 0,
+            "latitude": "40.826024903",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lisa_lavoie_lr_jpg",
+                  "name": "Lisa Lavoie",
+                  "national_rank": 792,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_dennis_cedeno_lr_jpg",
+                  "name": "Dennis Cedeno",
+                  "national_rank": 1657,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_matt_castronuova_lr_jpg",
+                  "name": "Matt Castronuova",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 4,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_christine_flannerylr_jpg",
+                  "name": "Christine Flannery",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 4,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_taryn_smith_lr_jpg",
+                  "name": "Taryn Smith",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-74.471164734",
+            "name": "Venue at American TH",
+            "next_3w_pace": 1,
+            "past_3w_sales": 0.666667,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 1,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -100,
+            "current_week_prediction": 0,
+            "latitude": "40.300446867",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_shayna_spivak_lr_jpg",
+                  "name": "Shayna Spivak",
+                  "national_rank": 375,
+                  "summary": "5 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_brittanie_rogofflr_jpg",
+                  "name": "Brittanie Rogoff",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jamie_hoagland_lr_jpg",
+                  "name": "Jamie Hoagland",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-74.817733233",
+            "name": "Hopewell Parc Classic Coll",
+            "next_3w_pace": 1.850371708e-17,
+            "past_3w_sales": 1.666667,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "ahead_of_pace",
+            "status_color": "#f5cc6c",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 0,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 1,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.04419417382,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.05399492472,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "40.253535009",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_alison_striano_2_lr_jpg",
+                  "name": "Allison Striano",
+                  "national_rank": 1432,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_scott_harrison_lr_jpg",
+                  "name": "Scott Harrison",
+                  "national_rank": 1492,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_matt_castronuova_lr_jpg",
+                  "name": "Matt Castronuova",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_antoinette_chenoweth_lr_jpg",
+                  "name": "Antoinette Chenoweth",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_abby_iannotti_lr_jpg",
+                  "name": "Abby Iannotti",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_gerry_fish_2_lr_jpg",
+                  "name": "Gerard Fish",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-74.036063439",
+            "name": "The Parke at Ocean TH",
+            "next_3w_pace": 1,
+            "past_3w_sales": 1,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -12,
+            "current_week_prediction": 0,
+            "latitude": "40.072300823",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_karen_mazurkiewicz_2_lr_jpg",
+                  "name": "Karen Mazurkiewicz",
+                  "national_rank": 900,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_gerry_fish_2_lr_jpg",
+                  "name": "Gerard Fish",
+                  "national_rank": 1159,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_antoinette_chenoweth_lr_jpg",
+                  "name": "Antoinette Chenoweth",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-74.541461923",
+            "name": "Venue at Longview - Towns",
+            "next_3w_pace": 0.8781456922,
+            "past_3w_sales": 1,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.8690915553,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1.497017364,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.2683281573,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.5075825215,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.7658515476,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1.323697776,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -78,
+            "current_week_prediction": 0,
+            "latitude": "40.299947076",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_brittanie_rogofflr_jpg",
+                  "name": "Brittanie Rogoff",
+                  "national_rank": 792,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jamie_hoagland_lr_jpg",
+                  "name": "Jamie Hoagland",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_shayna_spivak_lr_jpg",
+                  "name": "Shayna Spivak",
+                  "national_rank": 3034,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 4,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_abby_iannotti_lr_jpg",
+                  "name": "Abby Iannotti",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-74.816876058",
+            "name": "Hopewell Parc Terrace Coll",
+            "next_3w_pace": 0.2167045472,
+            "past_3w_sales": 1,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.4484353669,
+                "gross_sales": 1,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.06804138174,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.1336368929,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.3115774462,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.4224762456,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.6471202549,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -69,
+            "current_week_prediction": 0,
+            "latitude": "40.076258791",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_gerry_fish_2_lr_jpg",
+                  "name": "Gerard Fish",
+                  "national_rank": 809,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_karen_mazurkiewicz_2_lr_jpg",
+                  "name": "Karen Mazurkiewicz",
+                  "national_rank": 1657,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_regina_hurff_lr_jpg",
+                  "name": "Regina Hurff",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-74.539625202",
+            "name": "Venue at Longview - Singles",
+            "next_3w_pace": 0.1028712509,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.04419417382,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.09818909854,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.1662304803,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.2556731994,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.3806731994,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.5841718326,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -100,
+            "current_week_prediction": 0,
+            "latitude": "40.814908971",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_christine_flannerylr_jpg",
+                  "name": "Christine Flannery",
+                  "national_rank": 809,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_matt_castronuova_lr_jpg",
+                  "name": "Matt Castronuova",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_taryn_smith_lr_jpg",
+                  "name": "Taryn Smith",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lisa_lavoie_lr_jpg",
+                  "name": "Lisa Lavoie",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_dennis_cedeno_lr_jpg",
+                  "name": "Dennis Cedeno",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-74.359054869",
+            "name": "Valley View Park Pershing Coll",
+            "next_3w_pace": 0,
+            "past_3w_sales": 1,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "ahead_of_pace",
+            "status_color": "#f5cc6c",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "40.299185568",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_scott_harrison_lr_jpg",
+                  "name": "Scott Harrison",
+                  "national_rank": 3034,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jennifer_letolr_jpg",
+                  "name": "Jennifer Leto",
+                  "national_rank": 3034,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_alison_striano_2_lr_jpg",
+                  "name": "Allison Striano",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-74.252840069",
+            "name": "The Parc at Marlboro 28s",
+            "next_3w_pace": -6.846375319e-16,
+            "past_3w_sales": 0,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.04419417382,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0.05399492472,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0.06804138174,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -50,
+            "current_week_prediction": 0,
+            "latitude": "40.884704884",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_taryn_smith_lr_jpg",
+                  "name": "Taryn Smith",
+                  "national_rank": 906,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lisa_lavoie_lr_jpg",
+                  "name": "Lisa Lavoie",
+                  "national_rank": 1159,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_dennis_cedeno_lr_jpg",
+                  "name": "Dennis Cedeno",
+                  "national_rank": 1159,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 4,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_matt_castronuova_lr_jpg",
+                  "name": "Matt Castronuova",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 5,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_christine_flannerylr_jpg",
+                  "name": "Christine Flannery",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-74.239108213",
+            "name": "The Parke at Little Falls",
+            "next_3w_pace": 1,
+            "past_3w_sales": 2,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 557440,
+                "percentile_100": 630440,
+                "percentile_25": 586215,
+                "percentile_5": 557440,
+                "percentile_50": 627940,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 627940,
+                "percentile_95": 629690
+              },
+              "new_construction_prices": {},
+              "resale_prices": {
+                "percentile_0": 549000,
+                "percentile_100": 680000,
+                "percentile_25": 556500,
+                "percentile_5": 549000,
+                "percentile_50": 597500,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 629925,
+                "percentile_95": 651500
+              }
+            },
+            "status": "ahead_of_pace",
+            "status_color": "#f5cc6c",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -72,
+            "current_week_prediction": 0,
+            "latitude": "40.30071557",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_brittanie_rogofflr_jpg",
+                  "name": "Brittanie Rogoff",
+                  "national_rank": 695,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_shayna_spivak_lr_jpg",
+                  "name": "Shayna Spivak",
+                  "national_rank": 958,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jamie_hoagland_lr_jpg",
+                  "name": "Jamie Hoagland",
+                  "national_rank": 1492,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 4,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_abby_iannotti_lr_jpg",
+                  "name": "Abby Iannotti",
+                  "national_rank": 3066,
+                  "summary": "1 gross sale"
+                }
+              ]
+            },
+            "longitude": "-74.817950966",
+            "name": "Hopewell Parc Thompson Coll",
+            "next_3w_pace": 0.5678469983,
+            "past_3w_sales": 2,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "ahead_of_pace",
+            "status_color": "#f5cc6c",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.6810839433,
+                "gross_sales": 1,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.573109226,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.4493478255,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.2964590052,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 200,
+            "current_week_prediction": 0,
+            "latitude": "40.299882754",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_alison_striano_2_lr_jpg",
+                  "name": "Allison Striano",
+                  "national_rank": 3034,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_scott_harrison_lr_jpg",
+                  "name": "Scott Harrison",
+                  "national_rank": 3034,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jennifer_letolr_jpg",
+                  "name": "Jennifer Leto",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-74.250792652",
+            "name": "The Parc at Marlboro 24s",
+            "next_3w_pace": 1,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "40.005616428",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_regina_hurff_lr_jpg",
+                  "name": "Regina Hurff",
+                  "national_rank": 329,
+                  "summary": "5 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_gerry_fish_2_lr_jpg",
+                  "name": "Gerard Fish",
+                  "national_rank": 1159,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_karen_mazurkiewicz_2_lr_jpg",
+                  "name": "Karen Mazurkiewicz",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                }
+              ]
+            },
+            "longitude": "-74.741930518",
+            "name": "Venue at Smithville Greene SFD",
+            "next_3w_pace": 1,
+            "past_3w_sales": 1,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 1,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -100,
+            "current_week_prediction": 0,
+            "latitude": "40.311697073",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_abby_iannotti_lr_jpg",
+                  "name": "Abby Iannotti",
+                  "national_rank": 586,
+                  "summary": "4 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_antoinette_chenoweth_lr_jpg",
+                  "name": "Antoinette Chenoweth",
+                  "national_rank": 1432,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jennifer_letolr_jpg",
+                  "name": "Jennifer Leto",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_scott_harrison_lr_jpg",
+                  "name": "Scott Harrison",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 5,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_alison_striano_2_lr_jpg",
+                  "name": "Allison Striano",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 5,
+                  "division_name": "NJ / NY",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_shayna_spivak_lr_jpg",
+                  "name": "Shayna Spivak",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-74.357188133",
+            "name": "Manalapan Grove",
+            "next_3w_pace": 0,
+            "past_3w_sales": 1,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 654270,
+                "percentile_100": 654270,
+                "percentile_25": 654270,
+                "percentile_5": 654270,
+                "percentile_50": 654270,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 654270,
+                "percentile_95": 654270
+              },
+              "new_construction_prices": {
+                "percentile_0": 617990,
+                "percentile_100": 749995,
+                "percentile_25": 633543,
+                "percentile_5": 618490,
+                "percentile_50": 687098.5,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 699995,
+                "percentile_95": 737495
+              },
+              "resale_prices": {
+                "percentile_0": 625000,
+                "percentile_100": 689000,
+                "percentile_25": 641500,
+                "percentile_5": 628185,
+                "percentile_50": 651500,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 678750,
+                "percentile_95": 686400
+              }
+            },
+            "status": "ahead_of_pace",
+            "status_color": "#f5cc6c",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          }
+        ]
+      },
+      "CHANGE_NEEDED_TO_MEET_PACE": -41,
+      "DBT_UPDATED_AT": "2023-10-12 18:56:00.762"
+    },
+    "pricing": {
+      "COHORT": "NJ / NY",
+      "COHORT_TYPE": "division",
+      "LENNAR_PRICES": {
+        "percentile_0": 464990,
+        "percentile_100": 1000510,
+        "percentile_25": 654270,
+        "percentile_5": 549040,
+        "percentile_50": 790155,
+        "percentile_50_percent_change": 0,
+        "percentile_75": 867410,
+        "percentile_95": 960510
+      },
+      "NEW_CONSTRUCTION_PRICES": {
+        "percentile_0": 483990,
+        "percentile_100": 983283,
+        "percentile_25": 594894.5,
+        "percentile_5": 488990,
+        "percentile_50": 749346,
+        "percentile_50_percent_change": 11,
+        "percentile_75": 862690.5,
+        "percentile_95": 950000.5
+      },
+      "RESALE_PRICES": {
+        "percentile_0": 460000,
+        "percentile_100": 1100000,
+        "percentile_25": 599000,
+        "percentile_5": 499000,
+        "percentile_50": 732000,
+        "percentile_50_percent_change": 8,
+        "percentile_75": 850000,
+        "percentile_95": 972525
+      },
+      "DBT_UPDATED_AT": "2023-10-12 18:11:35.943"
+    },
+    "insights": {
+      "COHORT": "NJ / NY",
+      "COHORT_TYPE": "division",
+      "TOP_SALES_INSIGHT": {
+        "color": "green",
+        "content": 3,
+        "insight_for": "Venue at American TH"
+      },
+      "BOTTOM_SALES_INSIGHT": {
+        "color": "red",
+        "content": 1,
+        "insight_for": "Manalapan Grove COAH"
+      },
+      "TOP_INCENTIVE_INSIGHT": {
+        "color": "green",
+        "content": 0.3,
+        "insight_for": "Manalapan Grove COAH"
+      },
+      "BOTTOM_INCENTIVE_INSIGHT": {
+        "color": "red",
+        "content": 9.4,
+        "insight_for": "Hopewell Parc Terrace Coll"
+      }
+    }
+  }
+}

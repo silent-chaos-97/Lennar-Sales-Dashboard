@@ -122,3 +122,20 @@ const PieChart = ({ width = 360, height = 250, data, activeName, onClickSlice }:
         pos[1] =
           pos[1] +
           5 +
+          textYThreshold * (midangle < Math.PI / 2 && midangle > (Math.PI * 3) / 2 ? 1 : -1)
+        if (d.value) {
+          textYThreshold += 12
+        }
+        return 'translate(' + pos + ')'
+      })
+      .style('text-anchor', function (d) {
+        const midangle = d.startAngle + (d.endAngle - d.startAngle) / 2
+        return midangle < Math.PI ? 'start' : 'end'
+      })
+      .style('fill', 'rgba(255,255,255,0.75)')
+      .style('font-size', '16px')
+  }, [data, activeName])
+  return <svg id="pie_chart" height={height} width={width} />
+}
+
+export default PieChart

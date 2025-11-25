@@ -338,3 +338,50 @@ const CenterPane = () => {
 
   return (
     <Box position="relative" ref={mapWrapperRef} width="100%" height="100%">
+      <Sales
+        data={salesState}
+        salesTimeframe={salesTimeframe}
+        setSalesTimeframe={setSalesTimeframe}
+      />
+      <Box sx={{ height: '100%' }}>
+        <LMap
+          mapViewState={mapViewState}
+          style={{ width: '100%', position: 'absolute', top: 0, bottom: 0 }}
+          setMapViewState={setMapViewState}
+          mapRef={mapRef}
+        >
+          {markers}
+        </LMap>
+      </Box>
+      {svgSize && selectedSalesItem && (
+        <Fade in={!!svgSize} timeout={100} mountOnEnter unmountOnExit>
+          <div>
+            <SalesDetails
+              svgSize={svgSize}
+              onClose={handleCloseTooltip}
+              salesDetail={selectedSalesItem}
+              mapWrapperRef={mapWrapperRef}
+              onPrev={handleClickPrev}
+              onNext={handleClickNext}
+              scrollProgress={scroolProgress}
+            />
+          </div>
+        </Fade>
+      )}
+      <Typography
+        sx={{
+          fontFamily: 'mabry-pro',
+          fontSize: '16px',
+          position: 'absolute',
+          textAlign: 'center',
+          width: '100%',
+          bottom: 40
+        }}
+      >
+        WTD sales
+      </Typography>
+    </Box>
+  )
+}
+
+export default CenterPane

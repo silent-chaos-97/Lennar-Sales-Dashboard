@@ -32011,3 +32011,4357 @@
                     "activity_date": "2023-09-08",
                     "activity_type": "text",
                     "actor_type": "blue",
+                    "body": "I understand.  Please let us know when the 2 years is up.",
+                    "sort": 16,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 17,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 19,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 3,
+                "sale_price": 375000,
+                "sale_title": "Medallion just sold in Lakeland",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.8537042,
+                30.5084496
+              ],
+              "type": "Point"
+            },
+            "id": 150,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 3,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_gaye_mayolr_jpg",
+                    "name": "Gaye Mayo",
+                    "national_rank": 373,
+                    "summary": "           $3,375,600 in sales QTD<br/>7.6% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "107 days prior",
+                "home_size": "       2,267 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7296/62794/62794_eleB_lg.jpg",
+                "incentive_percent": 14,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -9,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 2,
+                "sale_price": 384990,
+                "sale_title": "Tivoli just sold in Live Oak Estates",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.8564278,
+                30.5076266
+              ],
+              "type": "Point"
+            },
+            "id": 87,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "",
+                    "name": "Christy Childress",
+                    "national_rank": 313,
+                    "summary": "           $3,429,956 in sales QTD<br/>3.9% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_christy_childresslr_jpg",
+                    "name": "Christy Childress",
+                    "national_rank": 313,
+                    "summary": "           $3,429,956 in sales QTD<br/>3.9% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "101 days prior",
+                "home_size": "       2,657 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7296/62795/62795_eleA_lg.jpg",
+                "incentive_percent": 5,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-08-15",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-08-15",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 1,
+                "sale_price": 467000,
+                "sale_title": "Medallion just sold in Live Oak Estates",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 42
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 68
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 75
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 88
+            }
+          ],
+          "percent_change": 17.3,
+          "value": 88
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 33
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 61
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 66
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 71
+            }
+          ],
+          "percent_change": 7.6,
+          "value": 71
+        },
+        "RETAIL_SALES": {
+          "percent_change": 17.3,
+          "value": 88
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 354025
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 343579
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 352596
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 363096
+            }
+          ],
+          "percent_change": 3,
+          "value": 363096
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 5.92
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 5.79
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 7.36
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 9.04
+            }
+          ],
+          "percent_change": 22.8,
+          "value": 9.04
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 2
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 1.3
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 1.2
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 2
+            }
+          ],
+          "percent_change": 70.9,
+          "value": 2
+        },
+        "DBT_UPDATED_AT": "2023-10-12 17:56:03.737"
+      },
+      "WTD": {
+        "COHORT": "Gulf Coast",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "WTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.8564258,
+                30.5081
+              ],
+              "type": "Point"
+            },
+            "id": 492,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 10,
+                    "image_url": "",
+                    "name": "Chris Raines",
+                    "national_rank": 990,
+                    "summary": "             $975,760 in sales QTD<br/>10.8% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "88 days prior",
+                "home_size": "       2,267 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7296/62794/62794_eleA_lg.jpg",
+                "incentive_percent": 15,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -9,
+                "realtor_commission": 6,
+                "sale_cohort_rank": 10,
+                "sale_price": 385000,
+                "sale_title": "Tivoli just sold in Live Oak Estates",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.692119286,
+                30.329605
+              ],
+              "type": "Point"
+            },
+            "id": 400,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 3,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_gaye_mayolr_jpg",
+                    "name": "Gaye Mayo",
+                    "national_rank": 373,
+                    "summary": "           $3,375,600 in sales QTD<br/>7.6% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "52 days post",
+                "home_size": "       2,033 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7095/60224/60224_eleA_lg.jpg",
+                "incentive_percent": 13,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 8,
+                "realtor_commission": 4,
+                "sale_cohort_rank": 9,
+                "sale_price": 336990,
+                "sale_title": "Residence 2033 just sold in Stonehaven",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.741514833,
+                30.595271
+              ],
+              "type": "Point"
+            },
+            "id": 379,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "",
+                    "name": "Christy Childress",
+                    "national_rank": 313,
+                    "summary": "           $3,429,956 in sales QTD<br/>3.9% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_christy_childresslr_jpg",
+                    "name": "Christy Childress",
+                    "national_rank": 313,
+                    "summary": "           $3,429,956 in sales QTD<br/>3.9% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "31 days prior",
+                "home_size": "       2,267 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7369/62842/62842_eleB_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 8,
+                "sale_price": 379990,
+                "sale_title": "Tivoli just sold in Lakeland",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.361761659,
+                30.511948938
+              ],
+              "type": "Point"
+            },
+            "id": 335,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_rebecca_purvislr_jpg",
+                    "name": "Rebecca Purvis",
+                    "national_rank": 33,
+                    "summary": "           $6,467,011 in sales QTD<br/>4.6% incentives QTD<br/>95% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "82 days prior",
+                "home_size": "       1,544 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7297/64896/64896_eleHB_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 7,
+                "sale_price": 305990,
+                "sale_title": "Elan just sold in Saddle Ridge",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.5542516,
+                30.7280056
+              ],
+              "type": "Point"
+            },
+            "id": 333,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 5,
+                    "image_url": "",
+                    "name": "Melissa Powell",
+                    "national_rank": 513,
+                    "summary": "           $2,242,831 in sales QTD<br/>4.4% incentives QTD<br/>88% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "35 days prior",
+                "home_size": "       1,703 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7299/64296/64296_eleA_lg.jpg",
+                "incentive_percent": 10,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 6,
+                "sale_price": 314990,
+                "sale_title": "Halle just sold in Magnolia Creeks",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.3622678,
+                30.512127
+              ],
+              "type": "Point"
+            },
+            "id": 237,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_rebecca_purvislr_jpg",
+                    "name": "Rebecca Purvis",
+                    "national_rank": 33,
+                    "summary": "           $6,467,011 in sales QTD<br/>4.6% incentives QTD<br/>95% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "69 days prior",
+                "home_size": "       1,544 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7297/64896/64896_eleHB_lg.jpg",
+                "incentive_percent": 13,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -6,
+                "realtor_commission": 6,
+                "sale_cohort_rank": 5,
+                "sale_price": 299990,
+                "sale_title": "Elan just sold in Saddle Ridge",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.342768,
+                30.716520778
+              ],
+              "type": "Point"
+            },
+            "id": 225,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 7,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_mark_fisherlr_jpg",
+                    "name": "Mark Fisher",
+                    "national_rank": 809,
+                    "summary": "           $1,896,811 in sales QTD<br/>8.3% incentives QTD<br/>80% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "",
+                    "name": "Cheri Brackins",
+                    "national_rank": 173,
+                    "summary": "           $5,889,295 in sales QTD<br/>79 appointments QTD<br/>15% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "154 days post",
+                "home_size": "       2,654 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7474/63106/63106_eleB_lg.jpg",
+                "incentive_percent": 14,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -7,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 4,
+                "sale_price": 420000,
+                "sale_title": "Medallion just sold in Dry Creek",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.7425303,
+                30.5931871
+              ],
+              "type": "Point"
+            },
+            "id": 215,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 6,
+                    "image_url": "",
+                    "name": "Amber Haney",
+                    "national_rank": 687,
+                    "summary": "           $1,983,560 in sales QTD<br/>4.2% incentives QTD<br/>67% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "",
+                    "name": "Cheri Brackins",
+                    "national_rank": 173,
+                    "summary": "           $5,889,295 in sales QTD<br/>79 appointments QTD<br/>15% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "2 days prior",
+                "home_size": "       2,657 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7369/62843/62843_eleA_lg.jpg",
+                "incentive_percent": 11,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Virtual tour"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello.  This is Cheri with Lennar Homes.  Was Mark able to get in touch with you?  His number is 850-516-2787.  Please let me know if you need anything.  Thank you!",
+                    "sort": 7,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Yes thank you!",
+                    "sort": 8,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Great!  I hope you have a nice evening and weekend.  Please let me know if I can help you with anything.",
+                    "sort": 9,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank you! :)' you too!",
+                    "sort": 10,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Thank you!",
+                    "sort": 11,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Good Afternoon.  This is Cheri with Lennar Homes. I just wanted to reach out and see if you are still interested in our homes in McKenzie Ridge.  I hope you really enjoyed your previous discussions with our New Home Consultant regarding our beautiful comm",
+                    "sort": 12,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-08",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Hi there! Still super interested!",
+                    "sort": 13,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Great!  Is there anything I can help you with?  Or can Mark help you with anything?",
+                    "sort": 14,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-08",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Not yet.  Lennar mortgage won't count my income until 2 years in March so running out the clock on that",
+                    "sort": 15,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "I understand.  Please let us know when the 2 years is up.",
+                    "sort": 16,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 17,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 19,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 3,
+                "sale_price": 375000,
+                "sale_title": "Medallion just sold in Lakeland",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.8537042,
+                30.5084496
+              ],
+              "type": "Point"
+            },
+            "id": 150,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 3,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_gaye_mayolr_jpg",
+                    "name": "Gaye Mayo",
+                    "national_rank": 373,
+                    "summary": "           $3,375,600 in sales QTD<br/>7.6% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "107 days prior",
+                "home_size": "       2,267 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7296/62794/62794_eleB_lg.jpg",
+                "incentive_percent": 14,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -9,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 2,
+                "sale_price": 384990,
+                "sale_title": "Tivoli just sold in Live Oak Estates",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.8564278,
+                30.5076266
+              ],
+              "type": "Point"
+            },
+            "id": 87,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "",
+                    "name": "Christy Childress",
+                    "national_rank": 313,
+                    "summary": "           $3,429,956 in sales QTD<br/>3.9% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_christy_childresslr_jpg",
+                    "name": "Christy Childress",
+                    "national_rank": 313,
+                    "summary": "           $3,429,956 in sales QTD<br/>3.9% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "101 days prior",
+                "home_size": "       2,657 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7296/62795/62795_eleA_lg.jpg",
+                "incentive_percent": 5,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-08-15",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-08-15",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 1,
+                "sale_price": 467000,
+                "sale_title": "Medallion just sold in Live Oak Estates",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 3
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 4
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 1
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 10
+            }
+          ],
+          "percent_change": 900,
+          "value": 10
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 2
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 3
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": -3
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 7
+            }
+          ],
+          "percent_change": -333.3,
+          "value": 7
+        },
+        "RETAIL_SALES": {
+          "percent_change": 900,
+          "value": 10
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 349327
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 379418
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 364990
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 366994
+            }
+          ],
+          "percent_change": 0.5,
+          "value": 366994
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 5.75
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 9.03
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 18.02
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 11.29
+            }
+          ],
+          "percent_change": -37.3,
+          "value": 11.29
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 1.1
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 2
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 5.2
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 1.6
+            }
+          ],
+          "percent_change": -69.2,
+          "value": 1.6
+        },
+        "DBT_UPDATED_AT": "2023-10-12 17:56:03.737"
+      },
+      "MTD": {
+        "COHORT": "Gulf Coast",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "MTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.8564258,
+                30.5081
+              ],
+              "type": "Point"
+            },
+            "id": 492,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 10,
+                    "image_url": "",
+                    "name": "Chris Raines",
+                    "national_rank": 990,
+                    "summary": "             $975,760 in sales QTD<br/>10.8% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "88 days prior",
+                "home_size": "       2,267 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7296/62794/62794_eleA_lg.jpg",
+                "incentive_percent": 15,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -9,
+                "realtor_commission": 6,
+                "sale_cohort_rank": 10,
+                "sale_price": 385000,
+                "sale_title": "Tivoli just sold in Live Oak Estates",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.692119286,
+                30.329605
+              ],
+              "type": "Point"
+            },
+            "id": 400,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 3,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_gaye_mayolr_jpg",
+                    "name": "Gaye Mayo",
+                    "national_rank": 373,
+                    "summary": "           $3,375,600 in sales QTD<br/>7.6% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "52 days post",
+                "home_size": "       2,033 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7095/60224/60224_eleA_lg.jpg",
+                "incentive_percent": 13,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 8,
+                "realtor_commission": 4,
+                "sale_cohort_rank": 9,
+                "sale_price": 336990,
+                "sale_title": "Residence 2033 just sold in Stonehaven",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.741514833,
+                30.595271
+              ],
+              "type": "Point"
+            },
+            "id": 379,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "",
+                    "name": "Christy Childress",
+                    "national_rank": 313,
+                    "summary": "           $3,429,956 in sales QTD<br/>3.9% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_christy_childresslr_jpg",
+                    "name": "Christy Childress",
+                    "national_rank": 313,
+                    "summary": "           $3,429,956 in sales QTD<br/>3.9% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "31 days prior",
+                "home_size": "       2,267 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7369/62842/62842_eleB_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-29",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 8,
+                "sale_price": 379990,
+                "sale_title": "Tivoli just sold in Lakeland",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.361761659,
+                30.511948938
+              ],
+              "type": "Point"
+            },
+            "id": 335,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_rebecca_purvislr_jpg",
+                    "name": "Rebecca Purvis",
+                    "national_rank": 33,
+                    "summary": "           $6,467,011 in sales QTD<br/>4.6% incentives QTD<br/>95% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "82 days prior",
+                "home_size": "       1,544 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7297/64896/64896_eleHB_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 7,
+                "sale_price": 305990,
+                "sale_title": "Elan just sold in Saddle Ridge",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.5542516,
+                30.7280056
+              ],
+              "type": "Point"
+            },
+            "id": 333,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 5,
+                    "image_url": "",
+                    "name": "Melissa Powell",
+                    "national_rank": 513,
+                    "summary": "           $2,242,831 in sales QTD<br/>4.4% incentives QTD<br/>88% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "35 days prior",
+                "home_size": "       1,703 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7299/64296/64296_eleA_lg.jpg",
+                "incentive_percent": 10,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 6,
+                "sale_price": 314990,
+                "sale_title": "Halle just sold in Magnolia Creeks",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.3622678,
+                30.512127
+              ],
+              "type": "Point"
+            },
+            "id": 237,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_rebecca_purvislr_jpg",
+                    "name": "Rebecca Purvis",
+                    "national_rank": 33,
+                    "summary": "           $6,467,011 in sales QTD<br/>4.6% incentives QTD<br/>95% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "69 days prior",
+                "home_size": "       1,544 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7297/64896/64896_eleHB_lg.jpg",
+                "incentive_percent": 13,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -6,
+                "realtor_commission": 6,
+                "sale_cohort_rank": 5,
+                "sale_price": 299990,
+                "sale_title": "Elan just sold in Saddle Ridge",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.342768,
+                30.716520778
+              ],
+              "type": "Point"
+            },
+            "id": 225,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 7,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_mark_fisherlr_jpg",
+                    "name": "Mark Fisher",
+                    "national_rank": 809,
+                    "summary": "           $1,896,811 in sales QTD<br/>8.3% incentives QTD<br/>80% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "",
+                    "name": "Cheri Brackins",
+                    "national_rank": 173,
+                    "summary": "           $5,889,295 in sales QTD<br/>79 appointments QTD<br/>15% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "154 days post",
+                "home_size": "       2,654 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7474/63106/63106_eleB_lg.jpg",
+                "incentive_percent": 14,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -7,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 4,
+                "sale_price": 420000,
+                "sale_title": "Medallion just sold in Dry Creek",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.7425303,
+                30.5931871
+              ],
+              "type": "Point"
+            },
+            "id": 215,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 6,
+                    "image_url": "",
+                    "name": "Amber Haney",
+                    "national_rank": 687,
+                    "summary": "           $1,983,560 in sales QTD<br/>4.2% incentives QTD<br/>67% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "",
+                    "name": "Cheri Brackins",
+                    "national_rank": 173,
+                    "summary": "           $5,889,295 in sales QTD<br/>79 appointments QTD<br/>15% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "2 days prior",
+                "home_size": "       2,657 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7369/62843/62843_eleA_lg.jpg",
+                "incentive_percent": 11,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Virtual tour"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello.  This is Cheri with Lennar Homes.  Was Mark able to get in touch with you?  His number is 850-516-2787.  Please let me know if you need anything.  Thank you!",
+                    "sort": 7,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Yes thank you!",
+                    "sort": 8,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Great!  I hope you have a nice evening and weekend.  Please let me know if I can help you with anything.",
+                    "sort": 9,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank you! :)' you too!",
+                    "sort": 10,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-08-18",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Thank you!",
+                    "sort": 11,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Good Afternoon.  This is Cheri with Lennar Homes. I just wanted to reach out and see if you are still interested in our homes in McKenzie Ridge.  I hope you really enjoyed your previous discussions with our New Home Consultant regarding our beautiful comm",
+                    "sort": 12,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-08",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Hi there! Still super interested!",
+                    "sort": 13,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Great!  Is there anything I can help you with?  Or can Mark help you with anything?",
+                    "sort": 14,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-08",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Not yet.  Lennar mortgage won't count my income until 2 years in March so running out the clock on that",
+                    "sort": 15,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "I understand.  Please let us know when the 2 years is up.",
+                    "sort": 16,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 17,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 19,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 3,
+                "sale_price": 375000,
+                "sale_title": "Medallion just sold in Lakeland",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.8537042,
+                30.5084496
+              ],
+              "type": "Point"
+            },
+            "id": 150,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 3,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_gaye_mayolr_jpg",
+                    "name": "Gaye Mayo",
+                    "national_rank": 373,
+                    "summary": "           $3,375,600 in sales QTD<br/>7.6% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "107 days prior",
+                "home_size": "       2,267 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7296/62794/62794_eleB_lg.jpg",
+                "incentive_percent": 14,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -9,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 2,
+                "sale_price": 384990,
+                "sale_title": "Tivoli just sold in Live Oak Estates",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          },
+          {
+            "division": "Gulf Coast",
+            "division_coordinates": [
+              -87.437372719,
+              30.487422341
+            ],
+            "geometry": {
+              "coordinates": [
+                -87.8564278,
+                30.5076266
+              ],
+              "type": "Point"
+            },
+            "id": 87,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "",
+                    "name": "Christy Childress",
+                    "national_rank": 313,
+                    "summary": "           $3,429,956 in sales QTD<br/>3.9% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_christy_childresslr_jpg",
+                    "name": "Christy Childress",
+                    "national_rank": 313,
+                    "summary": "           $3,429,956 in sales QTD<br/>3.9% incentives QTD<br/>60% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "101 days prior",
+                "home_size": "       2,657 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7296/62795/62795_eleA_lg.jpg",
+                "incentive_percent": 5,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-08-15",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-08-15",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 1,
+                "sale_price": 467000,
+                "sale_title": "Medallion just sold in Live Oak Estates",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 18
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 16
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 23
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 29
+            }
+          ],
+          "percent_change": 26.1,
+          "value": 29
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 17
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 12
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 19
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 21
+            }
+          ],
+          "percent_change": 10.5,
+          "value": 21
+        },
+        "RETAIL_SALES": {
+          "percent_change": 26.1,
+          "value": 29
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 387971
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 363334
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 365668
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 361702
+            }
+          ],
+          "percent_change": -1.1,
+          "value": 361702
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 5.51
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 10.11
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 7.93
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 10.91
+            }
+          ],
+          "percent_change": 37.6,
+          "value": 10.91
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 2.1
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 1.6
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 1.3
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 2.2
+            }
+          ],
+          "percent_change": 67.9,
+          "value": 2.2
+        },
+        "DBT_UPDATED_AT": "2023-10-12 17:56:03.737"
+      }
+    },
+    "pacing": {
+      "COHORT": "Gulf Coast",
+      "COHORT_TYPE": "division",
+      "PAST_3W_SALES": 14.333332,
+      "NEXT_3W_PACE": 14.777289984,
+      "WEEKLY_PACING_GRAPH": [
+        {
+          "future_pace": 0,
+          "gross_sales": 15,
+          "sort": 0,
+          "x_axis": "Aug 28"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 13,
+          "sort": 1,
+          "x_axis": "Sep 04"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 13,
+          "sort": 2,
+          "x_axis": "Sep 11"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 15,
+          "sort": 3,
+          "x_axis": "Sep 18"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 15,
+          "sort": 4,
+          "x_axis": "Sep 25"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 13,
+          "sort": 5,
+          "x_axis": "Oct 02"
+        },
+        {
+          "future_pace": 15.796422489,
+          "gross_sales": 10,
+          "sort": 6,
+          "x_axis": "Oct 09"
+        },
+        {
+          "future_pace": 14.824650034,
+          "gross_sales": 0,
+          "sort": 7,
+          "x_axis": "Oct 16"
+        },
+        {
+          "future_pace": 13.71079743,
+          "gross_sales": 0,
+          "sort": 8,
+          "x_axis": "Oct 23"
+        },
+        {
+          "future_pace": 11.37816485,
+          "gross_sales": 0,
+          "sort": 9,
+          "x_axis": "Oct 30"
+        },
+        {
+          "future_pace": 7,
+          "gross_sales": 0,
+          "sort": 10,
+          "x_axis": "Nov 06"
+        },
+        {
+          "future_pace": 7,
+          "gross_sales": 0,
+          "sort": 11,
+          "x_axis": "Nov 13"
+        }
+      ],
+      "CURRENT_WEEK_PREDICTION": 11.712141268,
+      "AVAILABLE_HOMES": {
+        "black_homes": 6,
+        "green_homes": 66,
+        "red_homes": 13,
+        "total_available": 102,
+        "yellow_homes": 17
+      },
+      "SUB_COHORT_MAP": {
+        "map_summary": "",
+        "map_title": "Communities pacing status",
+        "sub_cohort_array": [
+          {
+            "change_needed_to_meet_pace": 20,
+            "current_week_prediction": 0,
+            "latitude": "30.511948938",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_rebecca_purvislr_jpg",
+                  "name": "Rebecca Purvis",
+                  "national_rank": 17,
+                  "summary": "14 gross sales"
+                },
+                {
+                  "cohort_rank": 4,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_mark_fisherlr_jpg",
+                  "name": "Mark Fisher",
+                  "national_rank": 3488,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 4,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Kelli Bonkoski",
+                  "national_rank": 3488,
+                  "summary": "1 gross sale"
+                }
+              ]
+            },
+            "longitude": "-87.361761659",
+            "name": "Saddle Ridge",
+            "next_3w_pace": 4,
+            "past_3w_sales": 3.333333,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 317990,
+                "percentile_100": 403990,
+                "percentile_25": 338995,
+                "percentile_5": 323693,
+                "percentile_50": 368990,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 397335,
+                "percentile_95": 403297
+              },
+              "new_construction_prices": {
+                "percentile_0": 310990,
+                "percentile_100": 425249,
+                "percentile_25": 354900,
+                "percentile_5": 311590,
+                "percentile_50": 386699,
+                "percentile_50_percent_change": 2,
+                "percentile_75": 393099,
+                "percentile_95": 421049
+              },
+              "resale_prices": {
+                "percentile_0": 320000,
+                "percentile_100": 400000,
+                "percentile_25": 339000,
+                "percentile_5": 324540,
+                "percentile_50": 365900,
+                "percentile_50_percent_change": 1,
+                "percentile_75": 385000,
+                "percentile_95": 399900
+              }
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 5,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 4,
+                "gross_sales": 2,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 4,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 4,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 4,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 4,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 4,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "30.584075675",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_gaye_mayolr_jpg",
+                  "name": "Gaye Mayo",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-87.736048564",
+            "name": "Cottages of Aventura",
+            "next_3w_pace": 0,
+            "past_3w_sales": 0,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 259900,
+                "percentile_100": 273400,
+                "percentile_25": 263275,
+                "percentile_5": 260575,
+                "percentile_50": 266650,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 270025,
+                "percentile_95": 272725
+              },
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "30.358233783",
+            "leaderboard": [],
+            "longitude": "-87.625124159",
+            "name": "Glenlakes",
+            "next_3w_pace": 0,
+            "past_3w_sales": 0,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -25,
+            "current_week_prediction": 0,
+            "latitude": "30.507127008",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jordan_clarklr_jpg",
+                  "name": "Jordan Clark",
+                  "national_rank": 1143,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Chris Raines",
+                  "national_rank": 2032,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Christy Childress",
+                  "national_rank": 3488,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_christy_childresslr_jpg",
+                  "name": "Christy Childress",
+                  "national_rank": 3488,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 5,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_gaye_mayolr_jpg",
+                  "name": "Gaye Mayo",
+                  "national_rank": 4092,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 6,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Amber Haney",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 6,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Mark Berry",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-87.855070063",
+            "name": "Live Oak Estates",
+            "next_3w_pace": 1,
+            "past_3w_sales": 1.333333,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 384990,
+                "percentile_100": 507990,
+                "percentile_25": 418990,
+                "percentile_5": 394590,
+                "percentile_50": 458000,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 502240,
+                "percentile_95": 507840
+              },
+              "new_construction_prices": {
+                "percentile_0": 393099,
+                "percentile_100": 510490,
+                "percentile_25": 423465,
+                "percentile_5": 411285,
+                "percentile_50": 466440,
+                "percentile_50_percent_change": 1,
+                "percentile_75": 485230,
+                "percentile_95": 509252.5
+              },
+              "resale_prices": {
+                "percentile_0": 385000,
+                "percentile_100": 539000,
+                "percentile_25": 417775,
+                "percentile_5": 389942.5,
+                "percentile_50": 467400,
+                "percentile_50_percent_change": 2,
+                "percentile_75": 499375,
+                "percentile_95": 514914.85
+              }
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 3,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 200,
+            "current_week_prediction": 0,
+            "latitude": "30.577150184",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_rebecca_purvislr_jpg",
+                  "name": "Rebecca Purvis",
+                  "national_rank": 3488,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_mark_fisherlr_jpg",
+                  "name": "Mark Fisher",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-87.344594109",
+            "name": "McKenzie Ridge",
+            "next_3w_pace": 1,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 321999,
+                "percentile_100": 402999,
+                "percentile_25": 338499,
+                "percentile_5": 324499,
+                "percentile_50": 365499,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 375999,
+                "percentile_95": 396499
+              },
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 200,
+            "current_week_prediction": 0,
+            "latitude": "30.298075307",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Christy Childress",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_christy_childresslr_jpg",
+                  "name": "Christy Childress",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Barbara Mayher",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_rebecca_purvislr_jpg",
+                  "name": "Rebecca Purvis",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-87.437940437",
+            "name": "Lost Key",
+            "next_3w_pace": 1,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.7100348032,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 42,
+            "current_week_prediction": 0,
+            "latitude": "30.593661781",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_christy_childresslr_jpg",
+                  "name": "Christy Childress",
+                  "national_rank": 155,
+                  "summary": "7 gross sales"
+                },
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Christy Childress",
+                  "national_rank": 155,
+                  "summary": "7 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Amber Haney",
+                  "national_rank": 438,
+                  "summary": "5 gross sales"
+                },
+                {
+                  "cohort_rank": 4,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_gaye_mayolr_jpg",
+                  "name": "Gaye Mayo",
+                  "national_rank": 1138,
+                  "summary": "3 gross sales"
+                },
+                {
+                  "cohort_rank": 5,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jordan_clarklr_jpg",
+                  "name": "Jordan Clark",
+                  "national_rank": 1832,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 6,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_celina_renee_calvertlr_jpg",
+                  "name": "Celina Renee Calvert",
+                  "national_rank": 1992,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 7,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Mark Berry",
+                  "national_rank": 3488,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 8,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Chris Raines",
+                  "national_rank": 4115,
+                  "summary": "1 gross sale"
+                }
+              ]
+            },
+            "longitude": "-87.742281485",
+            "name": "Lakeland",
+            "next_3w_pace": 4.258852487,
+            "past_3w_sales": 3,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 359990,
+                "percentile_100": 387000,
+                "percentile_25": 368990,
+                "percentile_5": 362696,
+                "percentile_50": 382500,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 384000,
+                "percentile_95": 385800
+              },
+              "new_construction_prices": {
+                "percentile_0": 355900,
+                "percentile_100": 386900,
+                "percentile_25": 359900,
+                "percentile_5": 356500,
+                "percentile_50": 367900,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 369900,
+                "percentile_95": 385100
+              },
+              "resale_prices": {
+                "percentile_0": 349900,
+                "percentile_100": 395000,
+                "percentile_25": 369000,
+                "percentile_5": 355735,
+                "percentile_50": 382000,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 389600,
+                "percentile_95": 395000
+              }
+            },
+            "status": "behind_pace",
+            "status_color": "#e76161",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 4,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 5,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 4,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 5.108129575,
+                "gross_sales": 2,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 4.298319195,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 3.370108691,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 2.223442539,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -55,
+            "current_week_prediction": 0,
+            "latitude": "30.728511915",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Melissa Powell",
+                  "national_rank": 122,
+                  "summary": "8 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Angela Ballard",
+                  "national_rank": 123,
+                  "summary": "8 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Kelli Bonkoski",
+                  "national_rank": 2028,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_rebecca_purvislr_jpg",
+                  "name": "Rebecca Purvis",
+                  "national_rank": 2028,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 5,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Barbara Mayher",
+                  "national_rank": 3638,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 6,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_mark_fisherlr_jpg",
+                  "name": "Mark Fisher",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-86.553619172",
+            "name": "Magnolia Creeks",
+            "next_3w_pace": 1.666667,
+            "past_3w_sales": 3.666667,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 314990,
+                "percentile_100": 335990,
+                "percentile_25": 317912.5,
+                "percentile_5": 314990,
+                "percentile_50": 330835,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 334990,
+                "percentile_95": 335740
+              },
+              "new_construction_prices": {
+                "percentile_0": 293990,
+                "percentile_100": 301990,
+                "percentile_25": 296490,
+                "percentile_5": 294490,
+                "percentile_50": 298990,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 300490,
+                "percentile_95": 301690
+              },
+              "resale_prices": {
+                "percentile_0": 315000,
+                "percentile_100": 345000,
+                "percentile_25": 320000,
+                "percentile_5": 315000,
+                "percentile_50": 325000,
+                "percentile_50_percent_change": -1,
+                "percentile_75": 335000,
+                "percentile_95": 343120
+              }
+            },
+            "status": "ahead_of_pace",
+            "status_color": "#f5cc6c",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 4,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 5,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 5,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 3,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1.666667,
+                "gross_sales": 1,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1.666667,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1.666667,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.999999,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -66,
+            "current_week_prediction": 0,
+            "latitude": "30.713674482",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_mark_fisherlr_jpg",
+                  "name": "Mark Fisher",
+                  "national_rank": 659,
+                  "summary": "4 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_rebecca_purvislr_jpg",
+                  "name": "Rebecca Purvis",
+                  "national_rank": 694,
+                  "summary": "4 gross sales"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Kelli Bonkoski",
+                  "national_rank": 2013,
+                  "summary": "2 gross sales"
+                },
+                {
+                  "cohort_rank": 4,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Angela Ballard",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 5,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_gaye_mayolr_jpg",
+                  "name": "Gaye Mayo",
+                  "national_rank": 3949,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 6,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Barbara Mayher",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-87.34254776",
+            "name": "Dry Creek",
+            "next_3w_pace": 0.5678469983,
+            "past_3w_sales": 1.666667,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 369990,
+                "percentile_100": 439990,
+                "percentile_25": 387490,
+                "percentile_5": 373490,
+                "percentile_50": 404990,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 422490,
+                "percentile_95": 436490
+              },
+              "new_construction_prices": {
+                "percentile_0": 354900,
+                "percentile_100": 489349,
+                "percentile_25": 393099,
+                "percentile_5": 374100,
+                "percentile_50": 447270,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 475980,
+                "percentile_95": 483453.8
+              },
+              "resale_prices": {
+                "percentile_0": 360000,
+                "percentile_100": 455000,
+                "percentile_25": 379800,
+                "percentile_5": 369935,
+                "percentile_50": 404950,
+                "percentile_50_percent_change": 2,
+                "percentile_75": 430000,
+                "percentile_95": 452835
+              }
+            },
+            "status": "ahead_of_pace",
+            "status_color": "#f5cc6c",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 4,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.6810839433,
+                "gross_sales": 1,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.573109226,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.4493478255,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.2964590052,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": -15,
+            "current_week_prediction": 0,
+            "latitude": "30.328069979",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_gaye_mayolr_jpg",
+                  "name": "Gaye Mayo",
+                  "national_rank": 436,
+                  "summary": "5 gross sales"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Amber Haney",
+                  "national_rank": 2035,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 3,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Mark Berry",
+                  "national_rank": 3861,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 4,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_christy_childresslr_jpg",
+                  "name": "Christy Childress",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                },
+                {
+                  "cohort_rank": 4,
+                  "division_name": "Gulf Coast",
+                  "image_url": "",
+                  "name": "Christy Childress",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-87.693527443",
+            "name": "Stonehaven",
+            "next_3w_pace": 0.2839234991,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 5,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 2,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0.3405419716,
+                "gross_sales": 1,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0.286554613,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0.2246739128,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0.1482295026,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 200,
+            "current_week_prediction": 0,
+            "latitude": "30.572883327",
+            "leaderboard": {
+              "type": "NHC Leaderboard",
+              "values": [
+                {
+                  "cohort_rank": 1,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_rebecca_purvislr_jpg",
+                  "name": "Rebecca Purvis",
+                  "national_rank": 3488,
+                  "summary": "1 gross sale"
+                },
+                {
+                  "cohort_rank": 2,
+                  "division_name": "Gulf Coast",
+                  "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_mark_fisherlr_jpg",
+                  "name": "Mark Fisher",
+                  "national_rank": 4121,
+                  "summary": "0 gross sales"
+                }
+              ]
+            },
+            "longitude": "-87.101737691",
+            "name": "Windsor Ridge",
+            "next_3w_pace": 1,
+            "past_3w_sales": 0.333333,
+            "pricing_data": {
+              "lennar_prices": {
+                "percentile_0": 315990,
+                "percentile_100": 400000,
+                "percentile_25": 333422.5,
+                "percentile_5": 319440,
+                "percentile_50": 365000,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 380990,
+                "percentile_95": 395797
+              },
+              "new_construction_prices": {
+                "percentile_0": 309900,
+                "percentile_100": 418460,
+                "percentile_25": 335900,
+                "percentile_5": 311390,
+                "percentile_50": 351900,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 388967,
+                "percentile_95": 409459.6
+              },
+              "resale_prices": {
+                "percentile_0": 308000,
+                "percentile_100": 415000,
+                "percentile_25": 328000,
+                "percentile_5": 314360,
+                "percentile_50": 359000,
+                "percentile_50_percent_change": 0,
+                "percentile_75": 387500,
+                "percentile_95": 403000
+              }
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 1,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 1,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "30.487422341",
+            "leaderboard": [],
+            "longitude": "-87.437372719",
+            "name": "Bradley Estates",
+            "next_3w_pace": 0,
+            "past_3w_sales": 0,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Nov 13"
+              }
+            ]
+          },
+          {
+            "change_needed_to_meet_pace": 0,
+            "current_week_prediction": 0,
+            "latitude": "30.387136001",
+            "leaderboard": [],
+            "longitude": "-87.664145372",
+            "name": "Quail Landing",
+            "next_3w_pace": 0,
+            "past_3w_sales": 0,
+            "pricing_data": {
+              "lennar_prices": {},
+              "new_construction_prices": {},
+              "resale_prices": {}
+            },
+            "status": "on_pace",
+            "status_color": "#009d4f",
+            "weekly_pacing_graph": [
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 0,
+                "x_axis": "Aug 28"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 1,
+                "x_axis": "Sep 04"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 2,
+                "x_axis": "Sep 11"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 3,
+                "x_axis": "Sep 18"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 4,
+                "x_axis": "Sep 25"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 5,
+                "x_axis": "Oct 02"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 6,
+                "x_axis": "Oct 09"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 7,
+                "x_axis": "Oct 16"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 8,
+                "x_axis": "Oct 23"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 9,
+                "x_axis": "Oct 30"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 10,
+                "x_axis": "Nov 06"
+              },
+              {
+                "future_pace": 0,
+                "gross_sales": 0,
+                "sort": 11,
+                "x_axis": "Nov 13"
+              }
+            ]
+          }
+        ]
+      },
+      "CHANGE_NEEDED_TO_MEET_PACE": 3,
+      "DBT_UPDATED_AT": "2023-10-12 18:56:00.762"
+    },
+    "pricing": {
+      "COHORT": "Gulf Coast",
+      "COHORT_TYPE": "division",
+      "LENNAR_PRICES": {
+        "percentile_0": 259900,
+        "percentile_100": 694990,
+        "percentile_25": 336990,
+        "percentile_5": 315290,
+        "percentile_50": 368990,
+        "percentile_50_percent_change": 0,
+        "percentile_75": 396495,
+        "percentile_95": 659990
+      },
+      "NEW_CONSTRUCTION_PRICES": {
+        "percentile_0": 286990,
+        "percentile_100": 799990,
+        "percentile_25": 343650,
+        "percentile_5": 298990,
+        "percentile_50": 381900,
+        "percentile_50_percent_change": -1,
+        "percentile_75": 448897,
+        "percentile_95": 582263.9
+      },
+      "RESALE_PRICES": {
+        "percentile_0": 308000,
+        "percentile_100": 709000,
+        "percentile_25": 335000,
+        "percentile_5": 320000,
+        "percentile_50": 369900,
+        "percentile_50_percent_change": 0,
+        "percentile_75": 415000,
+        "percentile_95": 599599.999999999
+      },
+      "DBT_UPDATED_AT": "2023-10-12 18:11:35.943"
+    },
+    "insights": {
+      "COHORT": "Gulf Coast",
+      "COHORT_TYPE": "division",
+      "TOP_SALES_INSIGHT": {
+        "color": "green",
+        "content": 7,
+        "insight_for": "Saddle Ridge"
+      },
+      "BOTTOM_SALES_INSIGHT": {
+        "color": "red",
+        "content": 1,
+        "insight_for": "Stonehaven"
+      },
+      "TOP_INCENTIVE_INSIGHT": {
+        "color": "green",
+        "content": 5.9,
+        "insight_for": "Windsor Ridge"
+      },
+      "BOTTOM_INCENTIVE_INSIGHT": {
+        "color": "red",
+        "content": 22.6,
+        "insight_for": "Dry Creek"
+      }
+    }
+  }
+}

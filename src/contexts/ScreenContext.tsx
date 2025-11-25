@@ -47,3 +47,8 @@ export const ScreenContextProvider = (props: PropsWithChildren) => {
       }}
     >
       {props.children}
+    </ScreenContext.Provider>
+  )
+}
+
+export const useScreen = () => useContext(ScreenContext)

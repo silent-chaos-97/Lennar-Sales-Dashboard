@@ -61,3 +61,12 @@ const PacingAnalysis = () => {
           id="pacing-analysis"
           width={850}
           height={260}
+          data={pacingState?.WEEKLY_PACING_GRAPH || []}
+          currentWeekPrediction={pacingState?.CURRENT_WEEK_PREDICTION || 0}
+        />
+      </Stack>
+    </Section>
+  )
+}
+
+export default PacingAnalysis

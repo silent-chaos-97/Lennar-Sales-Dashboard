@@ -203,3 +203,21 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
           </Button>
           <Button
             variant="contained"
+            sx={{
+              fontWeight: 500,
+              fontSize: '24px',
+              lineHeight: '32px',
+              pt: 0.5,
+              px: 2
+            }}
+            onClick={handleClickSave}
+          >
+            Save
+          </Button>
+        </Stack>
+      </Stack>
+    </Box>
+  )
+}
+
+export default SettingsMenu

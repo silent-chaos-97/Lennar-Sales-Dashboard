@@ -106,3 +106,18 @@ const PerformanceBar = ({
           alignItems: 'flex-end',
           position: 'absolute',
           right: '25%',
+          bottom: 0
+        }}
+      >
+        <Track color={colors[color]} percent={Math.min(Math.round((value / max) * 100), 100)} />
+        <GoalLine
+          percent={Math.round((goal / max) * 100)}
+          color="rgba(255, 255, 255, 0.5)"
+          goal={goal}
+        />
+      </Box>
+    </Stack>
+  )
+}
+
+export default PerformanceBar

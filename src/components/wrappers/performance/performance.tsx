@@ -212,3 +212,20 @@ const Performance = () => {
                 color={performanceState?.APPOINTMENTS_KEPT.color}
                 value={performanceState?.APPOINTMENTS_KEPT.percent_value}
                 goal={performanceState?.APPOINTMENTS_KEPT.goal_value}
+                missed={performanceState?.APPOINTMENTS_KEPT.missed}
+              />
+              <PerformanceBar
+                title="Sales with ISC attached"
+                color={performanceState?.SALES_WITH_ISC_ATTACHED.color}
+                value={performanceState?.SALES_WITH_ISC_ATTACHED.percent_value}
+                goal={performanceState?.SALES_WITH_ISC_ATTACHED.goal_value}
+              />
+            </Stack>
+          </Grid>
+        </Grid>
+      </Section>
+    </PerformanceProvider>
+  )
+}
+
+export default Performance

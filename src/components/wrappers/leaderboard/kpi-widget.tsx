@@ -10,6 +10,7 @@ interface KPIWidgetProps {
   firstLabel: string
   secondValue: number
   secondLabel: string
+  thirdValue: number
   thirdLabel: string
 }
 const KPIWidget = ({
@@ -48,3 +49,10 @@ const KPIWidget = ({
           <Typography variant="h5" lineHeight={2}>
             {thirdLabel}
           </Typography>
+        </Grid>
+      </Grid>
+    </Box>
+  )
+}
+
+export default KPIWidget

@@ -123,3 +123,21 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
                   color={getValueChangeTextColor(data?.APPOINTMENTS_SET_PERCENT_CHANGE || 0)}
                   variant="h6"
                   sx={{ ml: 1 }}
+                >
+                  {data?.APPOINTMENTS_SET_PERCENT_CHANGE || 0}%
+                </Typography>
+              </CustomTooltip>
+            </Stack>
+          </Stack>
+        </Stack>
+        <AppointmentSet
+          currentWeekData={data?.APPOINTMENT_SET_TICKER_ARRAY || []}
+          prevWeekData={data?.PRIOR_WEEK_APPOINTMENT_SET_TICKER_ARRAY || []}
+          activityTimeframe={activityTimeframe}
+        />
+      </Stack>
+    </Box>
+  )
+}
+
+export default IscActivity

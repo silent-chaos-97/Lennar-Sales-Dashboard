@@ -138,6 +138,7 @@ class SnowflakeService {
                             return reject(err);
                         }
                         if ([1, 2, 3].includes(statIdx) && rows.length > 1) {
+                            result[statsKeys[statIdx]] = rows.reduce((acc, row) => {
                                 acc[row.TIMEFRAME] = row;
                                 return acc;
                             }, {});
@@ -188,3 +189,5 @@ class SnowflakeService {
             });
         });
     }
+}
+exports.default = new SnowflakeService();

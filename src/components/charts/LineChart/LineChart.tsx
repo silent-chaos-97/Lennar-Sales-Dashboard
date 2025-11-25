@@ -112,4 +112,21 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         .append('circle')
         .attr('cx', xScale(lastPoint.x))
         .attr('cy', yScale(lastPoint.y))
+        .attr('r', 4)
         .attr('fill', '#33A3FF')
+
+      // Draw previous tickers in the background
+      svg
+        .append('path')
+        .datum(previousTickers)
+        .attr('fill', 'none')
+        .attr('stroke', 'rgba(255, 255, 255, 0.25)')
+        .attr('stroke-width', 1)
+        .attr('d', prevLine)
+    }
+  }, [data])
+
+  return <svg id={id} width={width} height={height} />
+}
+
+export default LineChart

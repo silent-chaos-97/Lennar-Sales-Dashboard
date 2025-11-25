@@ -59,3 +59,12 @@ export const TIMEZONE_VALUE = {
   'US/Eastern': 'ET',
   'US/Central': 'CT',
   'US/Mountain': 'MT',
+  'US/Pacific': 'PT'
+}
+
+export const HTTP_STATUS_CODES = {
+  OK: 200,
+  REQUEST_TIMEOUT: 408
+}
+
+export const LENNAR_LIVE_URL = 'https://sales-machine.lennar.com'

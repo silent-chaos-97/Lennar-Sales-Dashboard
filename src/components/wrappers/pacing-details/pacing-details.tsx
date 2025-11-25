@@ -182,3 +182,26 @@ const PacingDetails = ({
           <Grid container spacing={8}>
             <Grid item lg={8}>
               <SubPacingAnalysis
+                weeklyData={subPacingData.weekly_pacing_graph}
+                next3WPace={subPacingData.next_3w_pace}
+                past3WSales={subPacingData.past_3w_sales}
+                changeNeeded={subPacingData.change_needed_to_meet_pace}
+                currentWeekPrediction={subPacingData.current_week_prediction || 0}
+              />
+              <PricingAnalysis
+                data={subPacingData.pricing_data}
+                chartId="sub-pricing-analysis"
+                divisionName={subPacingData.name}
+              />
+            </Grid>
+            <Grid item lg={4}>
+              <SubPacingLeaderBoard leaders={subPacingData.leaderboard} />
+            </Grid>
+          </Grid>
+        </Box>
+      </Box>
+    </Fade>
+  )
+}
+
+export default PacingDetails

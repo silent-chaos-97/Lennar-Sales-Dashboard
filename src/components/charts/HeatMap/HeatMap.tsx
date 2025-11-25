@@ -90,3 +90,16 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
   )
 
   return (
+    <svg width={width} height={height}>
+      <g
+        width={boundsWidth}
+        height={boundsHeight}
+        transform={`translate(${[MARGIN.left, MARGIN.top].join(',')})`}
+      >
+        {allRects}
+      </g>
+    </svg>
+  )
+}
+
+export default HeatMap

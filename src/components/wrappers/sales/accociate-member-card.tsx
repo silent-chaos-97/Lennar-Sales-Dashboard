@@ -73,3 +73,14 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
         </Typography>
         <Typography
           variant="caption"
+          component="span"
+          dangerouslySetInnerHTML={{ __html: member.summary }}
+          color="grey.500"
+          lineHeight="24px"
+        />
+      </Stack>
+    </Stack>
+  )
+}
+
+export default AssociateMemberCard

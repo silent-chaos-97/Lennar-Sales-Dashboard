@@ -132,3 +132,22 @@ const Sales = ({ data: salesState, salesTimeframe, setSalesTimeframe }: SalesPro
                 {insightState?.TOP_INCENTIVE_INSIGHT.insight_for}
               </StrongText>
               &nbsp;has the lowest incentives ({insightState?.TOP_INCENTIVE_INSIGHT.content}%) for
+              the last 7 days;&nbsp;
+            </>
+          )}
+
+          {insightState?.BOTTOM_INCENTIVE_INSIGHT?.color && (
+            <>
+              <StrongText sx={{ color: colors[insightState?.BOTTOM_INCENTIVE_INSIGHT.color] }}>
+                {insightState?.BOTTOM_INCENTIVE_INSIGHT.insight_for}
+              </StrongText>
+              &nbsp;has the highest ({insightState?.BOTTOM_INCENTIVE_INSIGHT.content}%)
+            </>
+          )}
+        </Typography>
+      </Box>
+    </Wrapper>
+  )
+}
+
+export default Sales

@@ -235,3 +235,29 @@ const NHSDetail = ({
                     </Typography>
                   </CustomTooltip>
                   <Box sx={{ color: ' #A5CFEF' }}>
+                    <PercentValueText
+                      value={data?.realtor_attachment_rate || 0}
+                      suffix="%"
+                      hideChange
+                      fontWeight="500"
+                    />
+                  </Box>
+                </Grid>
+              </Grid>
+              <Grid container item lg maxHeight={600}>
+                <GrossSalesBarChart
+                  id="nhs-analysis"
+                  width={1000}
+                  height={420}
+                  data={data?.graph_data || []}
+                />
+              </Grid>
+            </Grid>
+          </Grid>
+        </Box>
+      </Box>
+    </Fade>
+  )
+}
+
+export default NHSDetail

@@ -61,3 +61,12 @@ const BulletChart = ({ height = '100%', width = '100%' }: BulletChartProps) => {
       <BulletBar
         id="pacing-homes-more-60"
         value={homes.green}
+        label="Green"
+        maxValue={maxLimit}
+        color={PacingBulletBarColors.green}
+      />
+    </Stack>
+  )
+}
+
+export default BulletChart

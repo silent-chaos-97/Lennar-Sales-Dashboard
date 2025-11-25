@@ -153,3 +153,22 @@ const AppointmentSet = ({
               {day.cur.total?.toLocaleString()}
             </Typography>
             <Box width={60} height={52}>
+              <StackedBarChart data={day} maxValue={maxValue} />
+            </Box>
+
+            <Typography
+              variant="caption"
+              color={day.weekday === DateTime.now().weekdayShort ? '#fff' : '#90949A'}
+              fontWeight={day.weekday === DateTime.now().weekdayShort ? 700 : 400}
+              sx={{ mt: 2 }}
+            >
+              {day.weekday}
+            </Typography>
+          </Stack>
+        ))}
+      </Box>
+    </CustomTooltip>
+  )
+}
+
+export default AppointmentSet

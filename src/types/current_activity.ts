@@ -41,3 +41,9 @@ export interface CurrentActivityState {
   HOURLY_WEB_VISITORS_ARRAY: HourlyTicker[]
   TIMEFRAME: string
 }
+
+export const ACTIVITY_TIMEFRAMES = {
+  today: 'Today',
+  yesterday: 'End-of-day yesterday',
+  prev_week: 'End-of-day same day last week'
+}

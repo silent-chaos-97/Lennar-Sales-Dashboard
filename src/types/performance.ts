@@ -20,3 +20,7 @@ export interface IscPerformanceState {
 }
 
 export const PERFORMANCE_TIMEFRAMES = {
+  t7d: 'Last 7 Days',
+  MTD: 'MTD',
+  QTD: 'QTD'
+}

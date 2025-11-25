@@ -13,3 +13,6 @@ export interface PriceDetailItem {
 
 export interface PricingState extends Cohort {
   LENNAR_PRICES: PriceDetailItem
+  NEW_CONSTRUCTION_PRICES: PriceDetailItem
+  RESALE_PRICES: PriceDetailItem
+}

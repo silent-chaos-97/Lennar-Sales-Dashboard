@@ -11,6 +11,7 @@ interface BarProps {
   value: number
   color?: string
   change: number
+}
 
 interface TrackProps {
   color?: string
@@ -55,3 +56,4 @@ const Bar = ({ label, percent = 0, value, change }: BarProps) => {
   )
 }
 
+export default Bar

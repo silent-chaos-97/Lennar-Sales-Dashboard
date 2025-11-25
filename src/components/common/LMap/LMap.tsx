@@ -55,3 +55,11 @@ const LMap: React.FC<LMapProps> = ({
       reuseMaps={true}
       interactive={false}
       attributionControl={false}
+      projection="globe"
+    >
+      {children}
+    </Map>
+  )
+}
+
+export default LMap

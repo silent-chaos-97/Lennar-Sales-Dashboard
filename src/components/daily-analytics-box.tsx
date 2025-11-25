@@ -99,3 +99,17 @@ const DailyAnalyticsBox = ({
             </CustomTooltip>
           </Stack>
         </Stack>
+      </Stack>
+      <Box position="absolute" width={232} height={104} sx={{ right: 0, top: 0 }}>
+        <SalesLineChart
+          id={title.toLowerCase().replaceAll(' ', '-')}
+          width={232}
+          height={104}
+          data={graphData || []}
+        />
+      </Box>
+    </Stack>
+  )
+}
+
+export default DailyAnalyticsBox

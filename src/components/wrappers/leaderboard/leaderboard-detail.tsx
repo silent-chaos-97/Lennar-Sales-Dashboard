@@ -2,6 +2,7 @@ import { LeaderboardMemberDetail } from '@/types/leaderboards'
 import ISCDetail from './isc-detail'
 import NHSDetail from './nhs-detail'
 
+export interface LeaderboardDetailProps {
   open: boolean
   name: string
   imageUrl: string
@@ -58,3 +59,12 @@ const LeaderboardDetail = ({
         data={data}
         imageUrl={imageUrl}
         cohortRank={cohortRank}
+        nationalRank={nationalRank}
+        disablePrevNext={disablePrevNext}
+        activeTimestamp={activeTimestamp}
+      />
+    )
+  }
+}
+
+export default LeaderboardDetail

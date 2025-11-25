@@ -122,3 +122,19 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
             open={activeIdx !== null}
             onClose={() => setActiveIdx(null)}
             name={leaderboardItems[activeIdx].name}
+            imageUrl={leaderboardItems[activeIdx].image_url}
+            cohortRank={leaderboardItems[activeIdx].cohort_rank}
+            nationalRank={leaderboardItems[activeIdx].national_rank}
+            data={leaderboardItems[activeIdx].pop_out_details}
+            onPrev={handleClickPrev}
+            onNext={handleClickNext}
+            disablePrevNext={disablePrevNext}
+            type={`${leaderboardData.type.split(' ').join('-').toLowerCase()}`}
+            activeTimestamp={activeTimestamp}
+          />
+        )}
+    </>
+  )
+}
+
+export default Leaderboard
