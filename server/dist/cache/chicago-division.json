@@ -13220,6 +13220,7 @@
                   {
                     "x_axis": "Sep 18",
                     "y_axis": 1
+                  },
                   {
                     "x_axis": "Sep 25",
                     "y_axis": 2
@@ -61726,7 +61727,6 @@
             "pop_out_details": {
               "appointments_kept_rate": 11,
               "days_since_last_sale": 4,
-              "graph_data": [
                 {
                   "x_axis": "Jul 10",
                   "y_axis": 0
@@ -73835,3 +73835,467 @@
                     "body": "Hello Travis,  \t   \tThank you for your interest in Lennar Mortgage.  I am an Internet Sales Consultant with Lennar. I am responding to the registration you completed on the Lennar Mortgage website. Whether you are just starting the process of buying a home, or if you have already purchased and are j...",
                     "sort": 2,
                     "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi, Travis! Thank you for your interest in Lennar Mortgage.  I am an Internet Sales Consultant with Lennar. I am responding to the registration you completed on the Lennar Mortgage website. Whether you are just starting the process of buying a home, or if",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Travis,  \t   \tI hope this email finds you well!  Checking in to see how your visit went at Aylesworth. Do you have any additional questions, or may I provide anything further to assist with your home search at this time?  \t \tAs always, we appreciate any feedback and look forward to hearing from y...",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -5,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 12,
+                "sale_price": 384990,
+                "sale_title": "Starling just sold in Aylesworth - Horizon SF",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Chicago",
+            "division_coordinates": [
+              -88.147005926,
+              41.894395371
+            ],
+            "geometry": {
+              "coordinates": [
+                -88.2725622,
+                41.6909498
+              ],
+              "type": "Point"
+            },
+            "id": 352,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 4,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_connie_delgado_jpg",
+                    "name": "Connie Delgado",
+                    "national_rank": 145,
+                    "summary": "           $7,231,507 in sales QTD<br/>3.1% incentives QTD<br/>86% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "87 days prior",
+                "home_size": "       2,907 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7012/62125/62125_eleC_lg.jpg",
+                "incentive_percent": 3,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-06-11",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Organic lead created"
+                  },
+                  {
+                    "activity_date": "2023-06-11",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-06-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-07-01",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-07-15",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-07-15",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 9,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 11,
+                "sale_price": 601143,
+                "sale_title": "Raleigh just sold in Hudson Pointe",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Chicago",
+            "division_coordinates": [
+              -88.147005926,
+              41.894395371
+            ],
+            "geometry": {
+              "coordinates": [
+                -88.441342545,
+                42.180607182
+              ],
+              "type": "Point"
+            },
+            "id": 327,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 12,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ann_spodenlr_jpg",
+                    "name": "Ann Spoden",
+                    "national_rank": 577,
+                    "summary": "           $3,490,874 in sales QTD<br/>2.9% incentives QTD<br/>71% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_amanda_getter_lr_jpg",
+                    "name": "Amanda Getter",
+                    "national_rank": 91,
+                    "summary": "          $22,715,426 in sales QTD<br/>144 appointments QTD<br/>9% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "43 days prior",
+                "home_size": "       3,064 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7509/63471/63471_eleF_lg.jpg",
+                "incentive_percent": 4,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-04",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -7,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 10,
+                "sale_price": 539900,
+                "sale_title": "Santa Rosa just sold in Talamore Pod 10 SFD",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Chicago",
+            "division_coordinates": [
+              -88.147005926,
+              41.894395371
+            ],
+            "geometry": {
+              "coordinates": [
+                -88.2704794,
+                41.9967028
+              ],
+              "type": "Point"
+            },
+            "id": 305,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_amisha_patel_jpg",
+                    "name": "Amisha Patel",
+                    "national_rank": 135,
+                    "summary": "           $6,062,464 in sales QTD<br/>4.7% incentives QTD<br/>79% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 5,
+                    "image_url": "",
+                    "name": "Julio Roman",
+                    "national_rank": 226,
+                    "summary": "           $6,182,599 in sales QTD<br/>13 appointments QTD<br/>8% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "93 days prior",
+                "home_size": "       2,760 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6828/58882/58882_eleF_lg.jpg",
+                "incentive_percent": 1,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 3,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Tolu!, This is a friendly reminder that your tour of Kenyon Farms with Amisha Patel is scheduled for tomorrow, Saturday at 12:30 PM. The Welcome Home Center is located at 111 Cardinal Drive, South Elgin, IL 60177. If you need to change your appointm",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Tolu! We're excited to see you for your tour of Kenyon Farms 10/07/2023 at 12:30 PM with Amisha Patel. The Welcome Home Center is located at 111 Cardinal Drive, South Elgin, IL 60177. See you soon!",
+                    "sort": 7,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Tolu and Ola,  Congratulations again on your beautiful new home and community at Kenyon Farms! I am SO happy the Rainier worked for you.  I look forward to working with you and seeing you in the neighborhood.  I have attached a copy of the Homeowner's Association and Rules an Regulations for your...",
+                    "sort": 11,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Tolu and Ola,  Thank you for completing your earnest payment. Please see attached earnest receipt for your records.  Thanks,  Amisha Patel New Home Consultant  Park Pointe Lennar Corporation  Amisha.Patel@Lennar.com www.lennar.com office: 224-296-0281 1011 Moraine Drive South Elgin, IL 60177",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 9,
+                "sale_price": 539900,
+                "sale_title": "Rainier just sold in Kenyon Farms",
+                "sale_type": "Retail",
+                "web_content_score": "4"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Chicago",
+            "division_coordinates": [
+              -88.147005926,
+              41.894395371
+            ],
+            "geometry": {
+              "coordinates": [
+                -88.4699566,
+                41.908741
+              ],
+              "type": "Point"
+            },
+            "id": 265,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 12,
+                    "image_url": "",
+                    "name": "Todd Lesher",
+                    "national_rank": 577,
+                    "summary": "           $2,399,181 in sales QTD<br/>8.3% incentives QTD<br/>71% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "43 days prior",
+                "home_size": "       2,448 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6420/55391/55391_eleB_lg.jpg",
+                "incentive_percent": 12,

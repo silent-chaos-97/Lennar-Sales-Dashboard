@@ -180,3 +180,5 @@ const PacingDetails = ({
             </IconButton>
           </Stack>
           <Grid container spacing={8}>
+            <Grid item lg={8}>
+              <SubPacingAnalysis

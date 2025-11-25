@@ -105,3 +105,4 @@ const PerformanceBar = ({
           display: 'flex',
           alignItems: 'flex-end',
           position: 'absolute',
+          right: '25%',

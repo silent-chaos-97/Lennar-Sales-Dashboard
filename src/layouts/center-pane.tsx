@@ -334,3 +334,7 @@ const CenterPane = () => {
         </Marker>
       )
     })
+  }, [clusters, lId, activeDot])
+
+  return (
+    <Box position="relative" ref={mapWrapperRef} width="100%" height="100%">

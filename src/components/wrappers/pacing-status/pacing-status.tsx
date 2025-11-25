@@ -230,3 +230,6 @@ const PacingStatus = ({ mapWrapperRef }) => {
             }}
             ref={pieChartRef}
           >
+            <Typography variant="caption" color="text.secondary">
+              {pacingState?.SUB_COHORT_MAP?.map_title}
+            </Typography>

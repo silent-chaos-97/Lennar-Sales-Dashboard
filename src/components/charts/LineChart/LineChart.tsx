@@ -39,6 +39,7 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
       const xScale = d3
         .scaleLinear()
         .domain([0, currentTickers.length - 1])
+        .range([0, chartWidth])
 
       const yScale = d3
         .scaleLinear()
@@ -111,3 +112,4 @@ const LineChart = ({ id, width = 170, height = 80, data, showCurrentFully }: Lin
         .append('circle')
         .attr('cx', xScale(lastPoint.x))
         .attr('cy', yScale(lastPoint.y))
+        .attr('fill', '#33A3FF')

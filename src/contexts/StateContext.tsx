@@ -200,3 +200,6 @@ export const StateProvider = (props: PropsWithChildren) => {
         setSubDivisions(division)
       }
     }
+    setMsd(!msd)
+  }
+

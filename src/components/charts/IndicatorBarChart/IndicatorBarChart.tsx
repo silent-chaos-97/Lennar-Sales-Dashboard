@@ -127,3 +127,5 @@ const IndicatorBarChart = ({
       const yAxisGroup = svg.append('g').call(yAxis)
       yAxisGroup.select('.domain').remove()
       yAxisGroup.selectAll('.tick text').style('fill', '#70747A').style('font-size', '16px')
+      yAxisGroup.selectAll('.tick line').attr('stroke', 'rgba(255,255,255,0.18)')
+

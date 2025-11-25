@@ -25,6 +25,7 @@ const LeftPane = () => {
   useEffect(() => {
     if (isBetween7and11) {
       setActivityFrame('yesterday')
+    } else {
       setActivityFrame('today')
     }
   }, [isBetween7and11, activityTimeframeState])

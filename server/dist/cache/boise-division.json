@@ -14175,3 +14175,166 @@
               "sort": 4,
               "x_axis": "Oct 12",
               "y_axis": 34
+            }
+          ],
+          "percent_change": 9.7,
+          "value": 34
+        },
+        "RETAIL_SALES": {
+          "percent_change": 25.8,
+          "value": 39
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 463770
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 426787
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 454327
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 424037
+            }
+          ],
+          "percent_change": -6.7,
+          "value": 424037
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 12.38
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 1.12
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 2.06
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 3.73
+            }
+          ],
+          "percent_change": 81.1,
+          "value": 3.73
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 0
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 0.1
+            }
+          ],
+          "percent_change": 0,
+          "value": 0.1
+        },
+        "DBT_UPDATED_AT": "2023-10-12 19:16:32.880"
+      },
+      "MTD": {
+        "COHORT": "Boise",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "MTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Boise",
+            "division_coordinates": [
+              -116.516061851,
+              43.622363966
+            ],
+            "geometry": {
+              "coordinates": [
+                -116.618166167,
+                43.668568833
+              ],
+              "type": "Point"
+            },
+            "id": 475,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_shiloh_roethlelr_jpg",
+                    "name": "Shiloh Roethle",
+                    "national_rank": 165,
+                    "summary": "           $5,053,051 in sales QTD<br/>1.9% incentives QTD<br/>69% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "7 days prior",
+                "home_size": "       2,170 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6845/63634/63634_eleA3C_lg.jpg",
+                "incentive_percent": 10,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-07-30",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Social lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 6,
+                "sale_price": 399900,
+                "sale_title": "Carlton just sold in Mandalay Ranch 35",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }

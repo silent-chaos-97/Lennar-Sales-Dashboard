@@ -23583,3 +23583,109 @@
                     "actor_type": "purple",
                     "body": "",
                     "sort": 3,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-04-06",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 4,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-04-06",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 5,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-12-22",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-12-25",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -6,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 1,
+                "sale_price": 281510,
+                "sale_title": "ELAN just sold in Millwood Estates - The Enclave",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Devereaux",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Mar 25",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Jun 25",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 25",
+              "y_axis": 2
+            },
+            {
+              "sort": 4,
+              "x_axis": "Dec 25",
+              "y_axis": 17
+            }
+          ],
+          "percent_change": 750,
+          "value": 17
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Mar 25",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Jun 25",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 25",
+              "y_axis": 2
+            },
+            {
+              "sort": 4,
+              "x_axis": "Dec 25",
+              "y_axis": 17
+            }
+          ],
+          "percent_change": 750,
+          "value": 17
+        },
+        "RETAIL_SALES": {
+          "percent_change": 750,
+          "value": 17

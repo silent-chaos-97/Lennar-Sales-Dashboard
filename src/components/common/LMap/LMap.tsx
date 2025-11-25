@@ -54,3 +54,4 @@ const LMap: React.FC<LMapProps> = ({
       mapboxAccessToken={mbAccessToken}
       reuseMaps={true}
       interactive={false}
+      attributionControl={false}

@@ -89240,3 +89240,882 @@
                   {
                     "activity_date": "2023-07-15",
                     "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-07-15",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-07-15",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-07-15",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": ". Celia Milam will be your New Home Consultant with LENNAR and you can reach her at 702.629.0506.",
+                    "sort": 9,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-07-26",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-07-29",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-08-08",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Ursula and Frank,  Just wanted to make sure you have the current info for homesite 5, options:  Photo link: https://len.my.salesforce.com/sfc/p/36000000JZvE/a/5b000006MbVl/cPiUR_8j5cDvQxNq64u7_REG_.iodUEwh94Q7NBtzbE  I will be sending the DocuSign shortly. Please text me if you have any questions...",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-10",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Frank and Ursual,  Here is the link to see where the upgraded flooring will be placed.  https://len.my.salesforce.com/sfc/p/36000000JZvE/a/5b000006MznJ/uU3X4DGsF8DcTeSd_Oc19iQZODPAZdYU2edtIpOj_44  Please let me know if you are okay with it, would like me to ask for the change, or just certain are...",
+                    "sort": 13,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-12",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 14,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-08-27",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-08-28",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Ursula,   \t   \tDawn here from our Internet Team, with Lennar Homes Las Vegas. Welcome and thank you for your interest in our community, Highline at Redpoint Square, located at 600 N Carriage Hill Dr, Las Vegas, NV 89138 (Far Hill Ave & Carriage Hill Dr). This beautiful gated community features tw...",
+                    "sort": 16,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-28",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Good day, ! Dawn here with Lennar Homes. Thank you for visiting us! Billy Harvey will be your point of reference and you can reach him at 702.969.2037. *Codes are valid for 30min. They will be located on the same page where you scheduled the tour, they ar",
+                    "sort": 17,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-08-30",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "GET YOUR OPENDOOR OFFER TODAY: https://open.do/lennar/Celia-Milam",
+                    "sort": 18,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 19,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 6,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 30,
+                "sale_price": 780000,
+                "sale_title": "Everest just sold in Desert's Edge",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Parness",
+            "type": "Feature"
+          },
+          {
+            "division": "Las Vegas",
+            "division_coordinates": [
+              -115.140858713,
+              36.12362889
+            ],
+            "geometry": {
+              "coordinates": [
+                -114.970997833,
+                36.019157833
+              ],
+              "type": "Point"
+            },
+            "id": 512,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 52,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jamie_lazar_lr_jpg",
+                    "name": "Jamie Lazar",
+                    "national_rank": 598,
+                    "summary": "           $3,226,239 in sales QTD<br/>4.2% incentives QTD<br/>86% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/4 ba",
+                "days_from_completion": "31 days prior",
+                "home_size": "       3,348 sqft.",
+                "home_type": "Next Gen",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6807/58180/58180_eleA_lg.jpg",
+                "incentive_percent": 4,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-12",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-12",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sergio!  Here are the finishes on this home...  https://len.my.salesforce.com/sfc/p/36000000JZvE/a/5b000006Noup/LJH.m8Y7wJXjzmyRRCw8ooIcG412x.O3DrJMmxujt4A  Thanks! Jamie/Lennar",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 29,
+                "sale_price": 739386,
+                "sale_title": "Liberty NextGen just sold in Ridgeview",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Parness",
+            "type": "Feature"
+          },
+          {
+            "division": "Las Vegas",
+            "division_coordinates": [
+              -115.140858713,
+              36.12362889
+            ],
+            "geometry": {
+              "coordinates": [
+                -115.297091,
+                36.3260994
+              ],
+              "type": "Point"
+            },
+            "id": 494,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 15,
+                    "image_url": "",
+                    "name": "Steven Wang",
+                    "national_rank": 170,
+                    "summary": "           $5,402,001 in sales QTD<br/>6.4% incentives QTD<br/>77% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "99 days prior",
+                "home_size": "       2,704 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6199/47309/47309_eleB_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-02-10",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Anna,   \t   \tVon here from our Internet Team, with Lennar Homes Las Vegas. Welcome and thank you for your interest in our community, Valley Vista: Granbury located at 4352 Outlook Vista Ave, North Las Vegas, NV 89084 (Elkhorn Rd & Decatur Blvd). This beautiful gated community features two-story h...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-02-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Anna! Von here with the Lennar Las Vegas internet sales team. Thank you for taking advantage of our self-guided tour feature. Please feel free to text me back at this number or call us at 702-821-4850 if you need further assistance with your home search.",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-02-10",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hi Anna!  I'm Jamie, your Lennar New Home Consultant. I’ll be your point of contact and assisting with your new home search! I would love to know which home is your favorite at Granbury and would like more information on. I’m able to send you pricing, availability, plot plans, Prequal link…whatever ...",
+                    "sort": 3,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-01",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "lennarmortgage.com/sheilaabregano  Steven Wang New Home Consultant NV Real Estate License #48925 Lennar Las Vegas  LENNAR  Cell: 702-355-0486 Email steven.wang@lennar.com  www.lennar.com/lasvegas  Get Prequalified: lennarmortgage.com/sheilaabregano",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 28,
+                "sale_price": 534706,
+                "sale_title": "Nora just sold in Archer",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Parness",
+            "type": "Feature"
+          },
+          {
+            "division": "Las Vegas",
+            "division_coordinates": [
+              -115.140858713,
+              36.12362889
+            ],
+            "geometry": {
+              "coordinates": [
+                -115.3317662,
+                36.2712216
+              ],
+              "type": "Point"
+            },
+            "id": 468,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 24,
+                    "image_url": "",
+                    "name": "Catherine Allen",
+                    "national_rank": 275,
+                    "summary": "           $3,961,491 in sales QTD<br/>3% incentives QTD<br/>82% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 10,
+                    "image_url": "",
+                    "name": "Christine Jacob",
+                    "national_rank": 77,
+                    "summary": "          $16,222,698 in sales QTD<br/>159 appointments QTD<br/>6% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "73 days prior",
+                "home_size": "       1,188 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6653/57041/57041_eleC_lg.png",
+                "incentive_percent": 1,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-02-01",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-02-01",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Susan! Amber here with Lennar Homes. I have scheduled your onsite appointment at Aria Sunstone tomorrow at 3:30pm. You will be meeting with Steven Wang and he can be reached at 702-355-0486. Thank you!",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-02-01",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "We are so glad you are interested in our Aria Community. We look forward to seeing you 02/02/2023 at 3:30 PM. See you soon!",
+                    "sort": 3,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-02-02",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Yes",
+                    "sort": 4,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-02-16",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Thanks for your recent visit to Lennar's Aria/Archer new home communities at Sunstone. https://www.lennar.com/new-homes/nevada/las-vegas/las-vegas/sunstone  Just checking to see if you have any questions or like to review any details since your visit? Any update or progress on selling your propertie...",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-04-05",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Good day, Susan! Jennifer here with Lennar Homes. Thank you for visiting us! Steven Wang will be your point of reference and you can reach him at 702.355.0486. *Codes are valid for 30min. They will be located on the same page where you scheduled the tour, they are not texted nor emailed. Look for it...",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-04-05",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Susan,   \t   \tJennifer here from our Internet Team, with Lennar Homes Las Vegas. Welcome and thank you for your interest in our community, Aria at Sunstone located at 9357 Aria Ridge Ave, Las Vegas, NV 89143 (Log Cabin Way & Skye Canyon Park Dr). This beautiful gated community features single-sto...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-04-05",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank u",
+                    "sort": 8,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-04-05",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "My pleasure! Have an awesome day!",
+                    "sort": 9,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-04-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Susan McKown, This is a reminder of your upcoming Self-Tour at Aria 04/08/2023 at 10:00 AM. If you have any questions before then, please feel free to contact us at (800) 509-9720. We hope you enjoy your tour!",
+                    "sort": 10,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-05-07",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Just wanted to followup to see if you have more questions regarding Lennar's Aria community? https://www.lennar.com/new-homes/nevada/las-vegas/las-vegas/sunstone/aria  Please contact me directly as I'll be standing by to assist.  Thanks so much!  Steven Wang New Home Consultant NV Real Estate Licens...",
+                    "sort": 11,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-03",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Just wanted to send you an update on the next batch of available Mitchell plans at Lennar's Aria community.  Mitchell  NextGen 1 story 1760sf  3 bed/3 baths/2 bay garage  https://www.lennar.com/new-homes/nevada/las-vegas/las-vegas/sunstone/aria/mitchell virtual tour link: https://my.matterport.com/s...",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 14,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 16,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 8,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 27,
+                "sale_price": 372113,
+                "sale_title": "Adam just sold in Centennial Heights",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Parness",
+            "type": "Feature"
+          },
+          {
+            "division": "Las Vegas",
+            "division_coordinates": [
+              -115.140858713,
+              36.12362889
+            ],
+            "geometry": {
+              "coordinates": [
+                -115.3796446,
+                36.1608748
+              ],
+              "type": "Point"
+            },
+            "id": 452,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 6,
+                    "image_url": "",
+                    "name": "Roy Polany",
+                    "national_rank": 68,
+                    "summary": "           $7,431,791 in sales QTD<br/>4.3% incentives QTD<br/>47% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "2 bd/2 ba",
+                "days_from_completion": "162 days prior",
+                "home_size": "       1,422 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6016/46132/46132_ele8M_lg.jpg",
+                "incentive_percent": 1,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-02-06",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-02-06",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Heritage Stonebridge Self Tour Link:   https://selftournow.com/property/82ffe552-a4b8-44a4-a498-0b1e6574d6f2/units",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-02-06",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-02-06",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hi, It's Madina Elamki you New Home Consultant with Lennar! Please reach out to me with any questions you have.  My cell phone # is 702-762-7092 and you can email me at Madina.elamki@lennar.com I look forward to helping you find your dream home!",
+                    "sort": 4,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-02-10",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-02-10",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-02-10",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Steven,   \t   \tChristine here from our Internet Team, with Lennar Homes Las Vegas. Thank you so much for your interest in our community of Heritage at Stonebridge. This community is within the masterplan community of Summerlin in Las Vegas, NV. Heritage is an age-qualified community made for adul...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-02-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Steven,  Thank you for your inquiry about our community! Here is a link to the website - https://www.lennar.com/new-homes/nevada/las-vegas/las-vegas/heritage-at-stonebridge Here is an interactive community map - http://heritageatstonebridge.lennar.ml3ds-cloud.com/#/lotmap/101270 The HOA for this ...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-18",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hi Steven- Madina here with Lennar. Have you found a new home? Lennar has some great incentives and homes available! Please reach out to me at 702-762-7092 for more information on available homes. I look forward to speaking with you soon.",
+                    "sort": 9,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-07-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-07-22",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hello again Steven, Roy Polany from Lennar here. The community sales consultant. I wanted to offer my assistance. In case you'd like to meet with me, so I can show you our model homes, the locations that are available and answer any question you may have, please let me know. If you would like to kno...",
+                    "sort": 11,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-07-23",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Roy, my wife is not interested in Sienna, and we have not visited Sunstone models yet. Thanks for reaching out, and will let you know if we're want to pursue a Lennar development.",
+                    "sort": 12,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-07-23",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Thank you so much for the update!! If you need info for any lennar community, please don't hesitate to reach out :-)",
+                    "sort": 13,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 14,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 26,
+                "sale_price": 543990,
+                "sale_title": "Connery just sold in Heritage Cromwell",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Parness",
+            "type": "Feature"
+          },
+          {
+            "division": "Las Vegas",
+            "division_coordinates": [
+              -115.140858713,
+              36.12362889
+            ],
+            "geometry": {
+              "coordinates": [
+                -115.298493636,
+                36.325503909
+              ],
+              "type": "Point"
+            },
+            "id": 432,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 37,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_reisa_bhaktalr_jpg",
+                    "name": "Reisa Bhakta",
+                    "national_rank": 472,
+                    "summary": "           $3,202,966 in sales QTD<br/>2.8% incentives QTD<br/>50% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 18,
+                    "image_url": "",
+                    "name": "Jennie Burrola",
+                    "national_rank": 179,
+                    "summary": "          $11,931,139 in sales QTD<br/>72 appointments QTD<br/>8% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "213 days prior",
+                "home_size": "       2,704 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6199/47309/47309_eleB_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 25,
+                "sale_price": 549490,
+                "sale_title": "Nora just sold in Archer",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Parness",
+            "type": "Feature"
+          },
+          {
+            "division": "Cal Coastal",
+            "division_coordinates": [
+              -118.140909779,
+              33.994888135
+            ],
+            "geometry": {
+              "coordinates": [
+                -118.323685857,
+                33.864557429
+              ],
+              "type": "Point"
+            },
+            "id": 419,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 8,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_dion_rottmanlr_jpg",
+                    "name": "Dion Rottman",
+                    "national_rank": 99,
+                    "summary": "          $13,553,466 in sales QTD<br/>0% incentives QTD<br/>47% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 16,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_brandon_desmyterlr_jpg",
+                    "name": "Brandon DeSmyter",
+                    "national_rank": 165,
+                    "summary": "           $8,529,900 in sales QTD<br/>86 appointments QTD<br/>8% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "49 days prior",
+                "home_size": "       1,724 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7595/64056/64056_eleA_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 24,
+                "sale_price": 899990,
+                "sale_title": "Marbella 1F just sold in Marbella",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Parness",
+            "type": "Feature"
+          },
+          {
+            "division": "Las Vegas",
+            "division_coordinates": [
+              -115.140858713,
+              36.12362889
+            ],
+            "geometry": {
+              "coordinates": [
+                -115.20659,
+                36.291702
+              ],
+              "type": "Point"
+            },
+            "id": 407,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 58,
+                    "image_url": "",
+                    "name": "Shay Tallard",

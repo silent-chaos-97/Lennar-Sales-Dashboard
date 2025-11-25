@@ -60,3 +60,4 @@ const PacingAnalysis = () => {
         <IndicatorBarChart
           id="pacing-analysis"
           width={850}
+          height={260}

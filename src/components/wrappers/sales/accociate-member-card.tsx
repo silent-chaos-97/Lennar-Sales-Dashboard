@@ -72,3 +72,4 @@ const AssociateMemberCard = ({ member }: AssociateMemberCard) => {
           {truncateText(member.name, 16)}
         </Typography>
         <Typography
+          variant="caption"

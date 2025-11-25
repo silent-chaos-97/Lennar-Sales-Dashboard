@@ -51632,3 +51632,594 @@
                     "actor_type": "black",
                     "body": "Hello Pradeep,   Per our discussion earlier, we are going to close out this case and have one opened by our office regarding the discoloration. Working on getting you the pictures of some options. Looking forward to a date that would work with you and the tenants going forward. Please let me know if...",
                     "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2020-03-17",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Pradeep,  Per our conversation today, we will have to postpone work on your open case due to the recent Bay Area shelter in place. We can reassess the situation 30 days out or as soon as we get any more information. If you have any questions in the meantime please let me know.   John Goldstein...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -14,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 5,
+                "sale_price": 494880,
+                "sale_title": "Residence 1 just sold in River Islands",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Bay Area",
+            "division_coordinates": [
+              -121.755126926,
+              37.655558046
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.4825358,
+                37.690854
+              ],
+              "type": "Point"
+            },
+            "id": 153,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 14,
+                    "image_url": "",
+                    "name": "Ken Cheung",
+                    "national_rank": 953,
+                    "summary": "           $2,381,383 in sales QTD<br/>6.9% incentives QTD<br/>0% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "29 days prior",
+                "home_size": "       2,580 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7060/59942/59942_eleB_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -5,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 4,
+                "sale_price": 828000,
+                "sale_title": "Residence 2 just sold in Greenwood",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Bay Area",
+            "division_coordinates": [
+              -121.755126926,
+              37.655558046
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.6778948,
+                37.9926736
+              ],
+              "type": "Point"
+            },
+            "id": 138,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_carlo_eugeniolr_jpg",
+                    "name": "Carlo Eugenio",
+                    "national_rank": 48,
+                    "summary": "          $12,790,597 in sales QTD<br/>1.9% incentives QTD<br/>0% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "22 days prior",
+                "home_size": "       1,946 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6497/56043/56043_ele1B_lg.jpg",
+                "incentive_percent": 3,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 3,
+                "sale_price": 625880,
+                "sale_title": "Residence 1 just sold in Woodbury at Emerson Ranch",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Bay Area",
+            "division_coordinates": [
+              -121.755126926,
+              37.655558046
+            ],
+            "geometry": {
+              "coordinates": [
+                -121.449618,
+                37.6752392
+              ],
+              "type": "Point"
+            },
+            "id": 109,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 14,
+                    "image_url": "",
+                    "name": "Ken Cheung",
+                    "national_rank": 953,
+                    "summary": "           $2,381,383 in sales QTD<br/>6.9% incentives QTD<br/>0% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "36 days prior",
+                "home_size": "       2,075 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6768/57878/57878_ele3F_lg.jpg",
+                "incentive_percent": 4,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 2,
+                "sale_price": 691503,
+                "sale_title": "Residence 3 just sold in Hillview",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Bay Area",
+            "division_coordinates": [
+              -121.755126926,
+              37.655558046
+            ],
+            "geometry": {
+              "coordinates": [
+                -122.05754,
+                37.5201668
+              ],
+              "type": "Point"
+            },
+            "id": 105,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 9,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_justus_yeung_lr_jpg",
+                    "name": "Justus Yeung",
+                    "national_rank": 293,
+                    "summary": "          $13,317,688 in sales QTD<br/>5.6% incentives QTD<br/>0% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3.5 ba",
+                "days_from_completion": "141 days post",
+                "home_size": "       2,453 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7061/59947/59947_eleA_lg.jpg",
+                "incentive_percent": 6,
+                "journey_array": [
+                  {
+                    "activity_date": "2021-01-09",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-01-10",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-01-10",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-01-10",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-01-13",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-01-13",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-01-13",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-01-13",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-01-22",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-01-23",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-01-25",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-01-25",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2021-01-25",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Santhi,  Thank you for your interest in our Bridgeway master-planned community in Newark offering single family homes and townhome-style condos.  You have been added to the interest list to receive email notifications with community updates for our single-family detached homes.    Our Single-F...",
+                    "sort": 13,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2021-01-25",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello!  This is Sweeta from Lennar. I sent you an email with touring links. Please let me know if you received it.  Thanks!  Sweeta Barez CalDRE# 02061604",
+                    "sort": 14,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2021-01-25",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Santhi Sista(+14082429741): Yea, I received it, I have few questions before I can schedule a tour, what is the best time to call? Click the below link to see related record : https://len.my.salesforce.com/00Q5b00000kvGvKEAU",
+                    "sort": 15,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2021-01-26",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 16,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-01-26",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 17,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-01-26",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 18,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2021-01-26",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Dear Santhi,  To secure a spot on our VIP list, you will need to get pre-qualified with our affiliate lender, Lennar Mortgage.  If you click the link below you will be able to begin the application process electronically.     http://visit.lennar.com/abad_jerryb     Jerry Brummett Loan Officer NMLS# ...",
+                    "sort": 19,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2021-01-27",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-01-27",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Santhi, looks like Khristi set an appointment for you at Bungalows. Let  me know if you were interested in any other communities. Thanks!",
+                    "sort": 21,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2021-02-01",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 22,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-02-01",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 23,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-02-03",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 24,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-02-04",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 25,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-02-04",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 26,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-02-05",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 27,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-02-05",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 28,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-02-06",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 29,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-02-06",
+                    "activity_type": "web_session",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 30,
+                    "title": "Web visit"
+                  },
+                  {
+                    "activity_date": "2021-02-07",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Santhi,  So sorry about yesterday.  Please keep watching your emails on Fridays for future releases on our Bungalow plan 3's.  :)  Kindly, Deanne",
+                    "sort": 31,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-04",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 32,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 33,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 1,
+                "sale_price": 1329880,
+                "sale_title": "Residence 3 just sold in Beacon",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 45
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 38
+            },

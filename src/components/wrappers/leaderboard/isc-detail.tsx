@@ -333,3 +333,7 @@ const ISCDetail = ({
                         }
                       />
                     )
+                  }}
+                  radialAxisEnd={{
+                    tickSize: 0,
+                    tickPadding: 12,

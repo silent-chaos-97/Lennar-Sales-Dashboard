@@ -11,7 +11,6 @@ const NATIONAL_DIVISION = {
   name: 'National',
   type: 'all',
   latitude: 35.86,
-  longitude: -98.26,
   timezone: 'US/Eastern'
 }
 
@@ -89,3 +88,4 @@ const RegionSelectMenu = ({ onSelectMenu }: RegionSelectMenuProps) => {
               onClick={() => onSelectMenu(region)}
             >
               {region.name}
+            </Button>

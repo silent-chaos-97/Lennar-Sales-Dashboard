@@ -202,3 +202,4 @@ const SettingsMenu = ({ onClose }: SettingsMenuProps) => {
             Cancel
           </Button>
           <Button
+            variant="contained"

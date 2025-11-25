@@ -83,3 +83,4 @@ To handle the high-volume data load in each connection request to Snowflake, we'
 2. Rest APIs
 
 The Rest API serves data to the frontend through the API. KPI data is retrieved from the cached JSON file stored by the CronJob.
+

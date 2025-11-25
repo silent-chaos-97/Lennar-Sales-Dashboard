@@ -72174,3 +72174,829 @@
                   },
                   {
                     "cohort_rank": 5,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_sunny_salmonlr_jpg",
+                    "name": "Sunny Salmon",
+                    "national_rank": 211,
+                    "summary": "           $9,343,511 in sales QTD<br/>36 appointments QTD<br/>9% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "5 bd/2 ba",
+                "days_from_completion": "126 days prior",
+                "home_size": "       2,995 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6684/64260/64260_eleB0_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-03",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-09-03",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-26",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 3,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-09-26",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi-this is Sunny with Lennar.  Viet's direct number is  317-710-1897.",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-26",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "To view the model at Morningside, please click the link below to schedule your own self guided tour. Fairmont\thttps://selftournow.com/property/6dd51f08-ffc3-48ee-ac0c-786261203def/units",
+                    "sort": 5,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-26",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 13,
+                "sale_price": 476000,
+                "sale_title": "Fairmont just sold in Elmwood Estates Cornerstone",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Indianapolis",
+            "division_coordinates": [
+              -86.13181895,
+              39.882810671
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.339988,
+                40.0064026
+              ],
+              "type": "Point"
+            },
+            "id": 424,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 23,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_leslie_hughley_lr_jpg",
+                    "name": "Leslie Hughley",
+                    "national_rank": 809,
+                    "summary": "           $1,670,176 in sales QTD<br/>3.8% incentives QTD<br/>80% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "11 days prior",
+                "home_size": "       2,460 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5981/46044/46044_eleC0_lg.png",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 12,
+                "sale_price": 343000,
+                "sale_title": "Ironwood just sold in Jackson Run SM Venture",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Indianapolis",
+            "division_coordinates": [
+              -86.13181895,
+              39.882810671
+            ],
+            "geometry": {
+              "coordinates": [
+                -85.960135294,
+                39.839662479
+              ],
+              "type": "Point"
+            },
+            "id": 423,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 28,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_todd_goldman_jpg",
+                    "name": "Todd Goldman",
+                    "national_rank": 930,
+                    "summary": "           $1,176,759 in sales QTD<br/>7.3% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "50 days prior",
+                "home_size": "       2,011 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6694/62054/62054_eleA0_lg.jpg",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -6,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 11,
+                "sale_price": 277500,
+                "sale_title": "Broadmoor just sold in Loudoun Place Venture",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Indianapolis",
+            "division_coordinates": [
+              -86.13181895,
+              39.882810671
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.156579833,
+                40.068199667
+              ],
+              "type": "Point"
+            },
+            "id": 350,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 5,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_lori_salinas_lr_jpg",
+                    "name": "Lori Salinas",
+                    "national_rank": 167,
+                    "summary": "           $5,196,376 in sales QTD<br/>8.4% incentives QTD<br/>77% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "5 days post",
+                "home_size": "       2,422 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6678/63631/63631_eleB0_lg.png",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 10,
+                "sale_price": 425000,
+                "sale_title": "Hampshire just sold in Aberdeen Venture",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Indianapolis",
+            "division_coordinates": [
+              -86.13181895,
+              39.882810671
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.008304,
+                39.662224222
+              ],
+              "type": "Point"
+            },
+            "id": 336,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_leigh_brooke_mckinnislr_jpg",
+                    "name": "Leigh-Brooke McKinnis",
+                    "national_rank": 44,
+                    "summary": "           $7,055,784 in sales QTD<br/>8.5% incentives QTD<br/>95% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "57 days post",
+                "home_size": "       3,054 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6147/59771/59771_eleC_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Narinder,  Thank you for visiting Tremont with your family this evening - especially on a chilly day like today! :)   Please let me know what questions you have about our community and the homes we toured.   You have a wonderful Realtor helping you as well.    Talk soon!   Thank you,  Leigh-Brook...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Narinder,  Thank you for visiting Tremont this evening - it was nice meeting you and your family!   As I mentioned, we do have other homes coming up in January 2024, but it sounds like a quick move-in would work better for you.  So, here's a recap on the homes that we toured today with Rajwinder ...",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 9,
+                "sale_price": 400000,
+                "sale_title": "Valencia just sold in Tremont",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Indianapolis",
+            "division_coordinates": [
+              -86.13181895,
+              39.882810671
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.30541575,
+                39.65036725
+              ],
+              "type": "Point"
+            },
+            "id": 317,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 4,
+                    "image_url": "",
+                    "name": "Monica Hubner",
+                    "national_rank": 125,
+                    "summary": "           $4,093,595 in sales QTD<br/>13% incentives QTD<br/>36% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "35 days prior",
+                "home_size": "       3,054 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6079/56175/56175_eleA_lg.jpg",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good afternoon Julie & Marvin,  It was a pleasure to finally meet the parents of Snoopy! :)  Please find attached Lance Culps Link to apply for mortgage. https://www.lennarmortgage.com/lanceculp  Lance Culp is also attached to this email so if you have any questions pertaining to mortgage please con...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Marvin & Julie,  Congratulations! Please find attached a copy of the purchase agreement for you to both review. Once ready to sign, please open the Docusign emails sent to each of you and complete along with the earnest payment secured link I only sent to Marvin to complete.   ANY questions pleas...",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 8,
+                "sale_price": 380000,
+                "sale_title": "Valencia just sold in Glenwood",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Indianapolis",
+            "division_coordinates": [
+              -86.13181895,
+              39.882810671
+            ],
+            "geometry": {
+              "coordinates": [
+                -85.8951444,
+                39.7499126
+              ],
+              "type": "Point"
+            },
+            "id": 311,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_leigh_brooke_mckinnislr_jpg",
+                    "name": "Leigh-Brooke McKinnis",
+                    "national_rank": 44,
+                    "summary": "           $7,055,784 in sales QTD<br/>8.5% incentives QTD<br/>95% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "907 days post",
+                "home_size": "       3,520 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5767/45864/45864_eleB_lg.png",
+                "incentive_percent": 15,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -9,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 7,
+                "sale_price": 385000,
+                "sale_title": "Rockwell just sold in Copperstone Cornerstone",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Indianapolis",
+            "division_coordinates": [
+              -86.13181895,
+              39.882810671
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.1595504,
+                40.072637
+              ],
+              "type": "Point"
+            },
+            "id": 298,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 8,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jessica_russolr_jpg",
+                    "name": "Jessica Russo",
+                    "national_rank": 281,
+                    "summary": "           $4,374,805 in sales QTD<br/>13.2% incentives QTD<br/>91% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 4,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_amy_eritanolr_jpg",
+                    "name": "Amy Eritano",
+                    "national_rank": 207,
+                    "summary": "           $3,503,985 in sales QTD<br/>42 appointments QTD<br/>13% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "20 days prior",
+                "home_size": "       3,329 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6700/62942/62942_eleD_lg.jpg",
+                "incentive_percent": 6,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-11-22",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Alloy lead created"
+                  },
+                  {
+                    "activity_date": "2022-11-22",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-11-22",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-11-22",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Self-guided tour"
+                  },
+                  {
+                    "activity_date": "2022-11-22",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Michael,     Thank you for scheduling a Self Tour today at Windward at Legacy!      If you would like to schedule a visit with a New Home Consultant or have any further questions, simply reply to this email. Thanks again for scheduling a LENNAR Self Tour; A Safe and Simple Way to Buy a Home!  ...",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2022-11-25",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Michael,  I wanted to send another quick note to see how I can help you in your new home search?  I’m local and familiar with all our Indy communities.  Please let me know how I can help.   Sunny Salmon Internet Sales Consultant Lennar Indianapolis",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-04-02",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-21",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-09-21",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Michael,  Thank you for your interest in Lennar homes for the Carmel/Fishers/Noblesville area, this is Amy, I would be happy to answer questions and assist you with your new home search.  I have added the communities we currently have in your preferred area. I will follow up with you to get your ...",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-02",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 6,
+                "sale_price": 526000,
+                "sale_title": "Oxford just sold in Aberdeen Cornerstone",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Indianapolis",
+            "division_coordinates": [
+              -86.13181895,
+              39.882810671
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.3066408,
+                39.6564958
+              ],
+              "type": "Point"
+            },
+            "id": 263,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 4,
+                    "image_url": "",
+                    "name": "Monica Hubner",
+                    "national_rank": 125,
+                    "summary": "           $4,093,595 in sales QTD<br/>13% incentives QTD<br/>36% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "",
+                    "name": "Kim Yoder",
+                    "national_rank": 180,
+                    "summary": "          $10,319,790 in sales QTD<br/>71 appointments QTD<br/>24% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "3 days prior",
+                "home_size": "       2,736 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6079/55421/55421_eleB0_lg.png",
+                "incentive_percent": 16,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-06-29",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Organic lead created"
+                  },
+                  {
+                    "activity_date": "2023-06-30",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Mark,  \t \tThank you for your interest in Lennar at Glenwood. My name is Kim, and I'm responding to your inquiry on Lennar.com.I have scheduled for our onsite Sales Consultant, Monica, to call you on Saturday when she arrives to her office. She is off each week on Thursday & Friday. She will be...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-30",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Mark, Thank you for your interest in Lennar at Glenwood. I have scheduled for our onsite Sales Consultant, Monica, to call you tomorrow  when she arrives to her office. She is off each week on Thursday & Friday. She will be able to answer all of your questions for you. Thank you!    ???????Kin...",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-30",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 4,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-07-01",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-07-02",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Mark & Monica,  Below is information on my Ironwood 'C' elevation, 5 bedrooms, 3 full baths, 2 car with 4' side extension. This home is 2,460 sq ft and will have an ETA of the end of August. Home will also qualify for the 4.99% rate lock NFC program with Lennar Mortgage. The 5th bedroom is locate...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-03",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",

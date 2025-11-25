@@ -31410,3 +31410,362 @@
             },
             {
               "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 72
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 87
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 102
+            }
+          ],
+          "percent_change": 17.2,
+          "value": 102
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 39
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 65
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 74
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 97
+            }
+          ],
+          "percent_change": 31.1,
+          "value": 97
+        },
+        "RETAIL_SALES": {
+          "percent_change": 3.6,
+          "value": 86
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 420705
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 450195
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 442272
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 410172
+            }
+          ],
+          "percent_change": -7.3,
+          "value": 410172
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 6.66
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 5.91
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 7.08
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 9.05
+            }
+          ],
+          "percent_change": 27.8,
+          "value": 9.05
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 0
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 0
+            }
+          ],
+          "percent_change": 0,
+          "value": 0
+        },
+        "DBT_UPDATED_AT": "2023-10-12 17:56:03.737"
+      },
+      "MTD": {
+        "COHORT": "Nashville",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "MTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Nashville",
+            "division_coordinates": [
+              -86.648104368,
+              36.023247822
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.9117744,
+                35.7181776
+              ],
+              "type": "Point"
+            },
+            "id": 417,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 9,
+                    "image_url": "",
+                    "name": "Rebecca Moylan",
+                    "national_rank": 735,
+                    "summary": "           $2,143,450 in sales QTD<br/>9.1% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "4 days prior",
+                "home_size": "       1,846 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6064/47261/47261_eleZ_lg.jpg",
+                "incentive_percent": 13,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 14,
+                "sale_price": 354990,
+                "sale_title": "Rainier just sold in Sawgrass West TH",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Nashville",
+            "division_coordinates": [
+              -86.648104368,
+              36.023247822
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.598682,
+                36.3604232
+              ],
+              "type": "Point"
+            },
+            "id": 376,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 6,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_umeka_mcelrathlr_jpg",
+                    "name": "Umeka McElrath",
+                    "national_rank": 565,
+                    "summary": "           $3,741,410 in sales QTD<br/>11.5% incentives QTD<br/>57% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Katie Bennett",
+                    "national_rank": 186,
+                    "summary": "           $6,257,900 in sales QTD<br/>67 appointments QTD<br/>13% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "2 bd/2 ba",
+                "days_from_completion": "11 days prior",
+                "home_size": "       2,046 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6134/46113/46113_eleP-O_lg.jpg",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Ryan,   \t   \tI received your inquiry from DurhamFarmsLiving.com and wanted to see if I could help you with your new home search. From this link, you will find more information about the community such as Floor Plans, Base Pricing, Included Features, and Map.   \t   \tPlease let me know if there is ...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Ryan, this is Katie and I am your local Lennar sales coordinator. I received your inquiry from DurhamFarmsLiving.com. From this link you will find more information about the community: https://www.lennar.com/new-homes/tennessee/nashville/hendersonville",
+                    "sort": 2,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Ryan! Thank you for your interest in our preferred lender, Lennar Mortgage. Over 90% of our buyers who apply with Lennar Mortgage choose them for their competitive rates and great service! Shelley, with Lennar Mortgage, is fantastic on answering all th",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 4,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hello {!Event.field_service_event__r.lead__r.firstname}!, This is a friendly reminder that your tour of {!Event.field_service_event__r.plan_name__c} with {!Event.owner.name} is scheduled for tomorrow, {!Event.weekday__c} at {!Event.local_time__c}. The Wel",
+                    "sort": 5,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hi {!Event.field_service_event__r.lead__r.firstname}! We're excited to see you for your tour of {!Event.field_service_event__r.plan_name__c} {!Event.local_date__c} at {!Event.local_time__c} with {!Event.owner.name}. The Welcome Home Center is located at {",
+                    "sort": 6,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 7,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 13,
+                "sale_price": 424990,
+                "sale_title": "Bennett just sold in Durham Farms Estate Villas",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Parker",
+            "sub_region": "Parker",
+            "type": "Feature"
+          },
+          {
+            "division": "Nashville",
+            "division_coordinates": [
+              -86.648104368,
+              36.023247822
+            ],
+            "geometry": {
+              "coordinates": [
+                -86.5888658,
+                36.3633842
+              ],
+              "type": "Point"
+            },
+            "id": 169,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 7,
+                    "image_url": "",
+                    "name": "Kirsten Clark",
+                    "national_rank": 596,
+                    "summary": "           $2,847,391 in sales QTD<br/>11.7% incentives QTD<br/>86% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 4,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_meridith_thweattlr_jpg",
+                    "name": "Meridith Thweatt",
+                    "national_rank": 202,

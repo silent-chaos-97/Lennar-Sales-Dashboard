@@ -34,7 +34,6 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
           change={data?.WEB_VISITORS_PERCENT_CHANGE || 0}
           activityTimeframe={activityTimeframe}
         />
-        <HourlyActivity
           title="Total leads"
           tickers={data?.HOURLY_LEADS_ARRAY || []}
           total={data?.LEADS || 0}
@@ -65,3 +64,4 @@ const Leads = ({ data, activityTimeframe }: LeadsProps) => {
         />
         <Bar
           label="Third-party"
+          color="#77c1ff"

@@ -11,3 +11,4 @@ export interface Metric {
   pane: string
 }
 export interface MetricsState {
+  OVERALL_DATA_STATUS: string

@@ -11,7 +11,6 @@ export interface Division {
   latitude: number
   longitude: number
   timezone: string
-}
 
 export interface SubRegion extends Division {
   divisions?: Division[]

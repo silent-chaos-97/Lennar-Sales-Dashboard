@@ -81,3 +81,4 @@ const TimelineEvent = ({ event, expanded }: TimelineEventProps) => {
         {expanded && event.body && (
           <Typography
             variant="caption"
+            color="textPrimary"

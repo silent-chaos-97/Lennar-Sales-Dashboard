@@ -36,7 +36,6 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
         .range([chartHeight, 0])
 
       const line = d3
-        .line()
         .curve(d3.curveCardinal)
         .x((d) => xScale(d.x_axis))
         .y((d) => yScale(d.y_axis))
@@ -107,3 +106,4 @@ const SalesLineChart = ({ id, width = 170, height = 80, data }: LineChartProps) 
 
       // Draw Circle dot at the end of current ticker
       const lastPoint =
+        data[data.length - 1].y_axis === 0 ? data[data.length - 2] : data[data.length - 1]

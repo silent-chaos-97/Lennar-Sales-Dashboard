@@ -211,3 +211,4 @@ const Performance = () => {
                 title="Appointments kept"
                 color={performanceState?.APPOINTMENTS_KEPT.color}
                 value={performanceState?.APPOINTMENTS_KEPT.percent_value}
+                goal={performanceState?.APPOINTMENTS_KEPT.goal_value}

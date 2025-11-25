@@ -128,3 +128,5 @@ const PricingAnalysis = ({ data, chartId, divisionName }: PricingAnalysisProps) 
                     <SouthEastIcon color="error" />
                   )}
                 </>
+              )}
+              <Typography

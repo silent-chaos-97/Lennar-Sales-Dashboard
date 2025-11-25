@@ -7917,7 +7917,6 @@
                     "y_axis": 3
                   },
                   {
-                    "x_axis": "Jul 31",
                     "y_axis": 1
                   },
                   {
@@ -20333,3 +20332,206 @@
                 ],
                 "key_attribute": "",
                 "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 2,
+                "sale_price": 535000,
+                "sale_title": "The Juniper just sold in Heybourne Meadows",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          },
+          {
+            "division": "Reno",
+            "division_coordinates": [
+              -119.722638148,
+              39.397811962
+            ],
+            "geometry": {
+              "coordinates": [
+                -119.7473224,
+                39.1640428
+              ],
+              "type": "Point"
+            },
+            "id": 82,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_morgan_zeno_lr_jpg",
+                    "name": "Morgan Zeno",
+                    "national_rank": 190,
+                    "summary": "          $12,867,044 in sales QTD<br/>60 appointments QTD<br/>19% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "27 days prior",
+                "home_size": "       2,100 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7450/62975/62975_eleC_lg.jpg",
+                "incentive_percent": 8,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-01",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-01",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "ATTACHED IS THE FLOORING for both 153 and 179  153-A1 COLOR179-B2 COLOR  USE THIS PICTURE FOR ELEVATION ONLY- NOT COLOR-COLORS ARE ATTACHED  Angela Angela Robinson  NV Lic. # S.179746 New Home Consultant Mills Meadows| 36 Wildcat Peak Dr., Carson City, NV 89701 Office 775-789-3206 | Angela.Robinson@...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-05",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Angela  Angela Robinson  NV. Lic # S.179746  New Home ConsultantMills Meadows | 36 Wildcat Peak Dr., Carson City, NV 89701Office 775-789-3206 | Angela.Robinson@Lennar.comWESER CREEK | 1142 Dapple Dr.,  Minden, NV 89423  CLOSED/OFF TUESDAYS & WEDNESDAYS  From: Angela Robinson <angela.robinson@lennar....",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 1,
+                "sale_price": 519950,
+                "sale_title": "The Highland just sold in Mills Meadow",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "McGuff",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 16
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 16
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 11
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 26
+            }
+          ],
+          "percent_change": 136.4,
+          "value": 26
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 16
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 16
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 9
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 24
+            }
+          ],
+          "percent_change": 166.7,
+          "value": 24
+        },
+        "RETAIL_SALES": {
+          "percent_change": 136.4,
+          "value": 26
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 568745
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 571339
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 523358
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 550883
+            }
+          ],
+          "percent_change": 5.3,
+          "value": 550883
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 11.96
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 9.84
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 11.66
+            },

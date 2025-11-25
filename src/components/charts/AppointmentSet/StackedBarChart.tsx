@@ -49,7 +49,6 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
           cur: data.cur[key],
           prv: data.prv[key]
         }
-        stackedData.push(stackedEntry)
       }
     })
     return stackedData
@@ -118,3 +117,5 @@ const StackedBarChart: React.FC<StackedBarChartProps> = ({ data, maxValue }) => 
       .attr('width', width / 5)
       .attr('x', (d) => yScaleCur(d.key.toString()) || 0)
       .attr('y', (d) => xScale(Number(d.value)))
+      .attr('height', (d) => xScale(0) - xScale(Number(d.value)))
+      .attr('rx', 5)

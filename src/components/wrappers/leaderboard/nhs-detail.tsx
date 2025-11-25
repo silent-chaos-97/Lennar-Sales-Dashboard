@@ -137,6 +137,7 @@ const NHSDetail = ({
                   <CustomTooltip elementName="label-nhc-incentives">
                     <Typography variant="caption" color="text.secondary" fontWeight={500}>
                       Incentives
+                    </Typography>
                   </CustomTooltip>
                   <PercentValueText value={data?.incentive_rate || 0} hideChange suffix="%" />
                 </Grid>
@@ -232,3 +233,5 @@ const NHSDetail = ({
                     <Typography variant="caption" color="textSecondary">
                       Realtor attachment rate
                     </Typography>
+                  </CustomTooltip>
+                  <Box sx={{ color: ' #A5CFEF' }}>

@@ -67332,3 +67332,774 @@
                     "sort": 7,
                     "title": "In-person appointment kept"
                   },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Lianna, Hi Ethan,  It was a pleasure meeting you today! It sounds like we have a great fit. Here is a link to our Loan Officer’s website where you can submit your application. Let me know what questions I can answer! I’d love to help you move forward with that beautiful Plateau and achieve homeow...",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Liana, Hi Ethan,  Great! The Plateau that we looked at sold, but there is another that we should be able to get for the same terms, just across the alley. I’ve included all of the details below. My Loan Officer is working on your prequalification now. Would you like to come in to check out this h...",
+                    "sort": 10,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 12,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Ethan, Hi Lianna,  Congrats again on a great purchase! Unfortunately, the financing commitment ran out before you were locked and the price did go up. The maximum we can contribute is 6% of the purchase price, so we are limited, but have two options for you.    4.75% with $5000 towards closing co...",
+                    "sort": 11,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -14,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 7,
+                "sale_price": 518900,
+                "sale_title": "Plateau just sold in Parkdale Paired",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Colorado",
+            "division_coordinates": [
+              -104.888662203,
+              39.846040151
+            ],
+            "geometry": {
+              "coordinates": [
+                -104.7030664,
+                39.6814444
+              ],
+              "type": "Point"
+            },
+            "id": 245,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 3,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jane_kahn_jpg",
+                    "name": "Jane Kahn",
+                    "national_rank": 165,
+                    "summary": "           $6,651,501 in sales QTD<br/>10.7% incentives QTD<br/>69% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "86 days prior",
+                "home_size": "       1,868 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7318/61868/61868_eleFH_lg.jpg",
+                "incentive_percent": 9,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 6,
+                "sale_price": 515000,
+                "sale_title": "Alto just sold in Harvest Ridge Cluster",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Colorado",
+            "division_coordinates": [
+              -104.888662203,
+              39.846040151
+            ],
+            "geometry": {
+              "coordinates": [
+                -104.703377,
+                39.701681125
+              ],
+              "type": "Point"
+            },
+            "id": 167,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "",
+                    "name": "Soutphayphan Phiavong",
+                    "national_rank": 135,
+                    "summary": "           $6,424,821 in sales QTD<br/>11% incentives QTD<br/>79% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ryan_goldhammerlr_jpg",
+                    "name": "Ryan Goldhammer",
+                    "national_rank": 8,
+                    "summary": "          $24,532,553 in sales QTD<br/>271 appointments QTD<br/>22% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "50 days prior",
+                "home_size": "       1,974 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5571/41786/41786_eleFH_lg.jpg",
+                "incentive_percent": 11,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hey Amparo! This Is Ryan from Lennar! I would love to help you with your home buying process. I can schedule you for an appointment this week to any of our communities and answer any question you have! How can I help?   Looking for a loan? Give me a call",
+                    "sort": 3,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "https://www.lennar.com/new-homes/colorado/denver/aurora/waterstone",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 5,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 6,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 5,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 5,
+                "sale_price": 600000,
+                "sale_title": "Graham just sold in Waterstone 40s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Colorado",
+            "division_coordinates": [
+              -104.888662203,
+              39.846040151
+            ],
+            "geometry": {
+              "coordinates": [
+                -105.05819,
+                40.0076956
+              ],
+              "type": "Point"
+            },
+            "id": 160,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_angela_robertslr_jpg",
+                    "name": "Angela Roberts",
+                    "national_rank": 52,
+                    "summary": "          $11,692,636 in sales QTD<br/>8.8% incentives QTD<br/>89% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "34 days prior",
+                "home_size": "       1,825 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7327/61838/61838_eleFH_lg.jpg",
+                "incentive_percent": 17,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-07-15",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 187,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-07-17",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Shinu and Anjana!Now that your closing is fast approaching you may be wondering what to do next. I suggest flagging/saving this email so you can refer back later 1- Please get your utilities set up on your new home. Make the activation date the same date as your closing date on your Lennar Hom...",
+                    "sort": 188,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-18",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 189,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-07-19",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Brahmananda,  \t   \tWe look forward to serving you soon. In order to ensure the best experience in scheduling your virtual assessment for Case 05441554, please click the link in the email we just sent with the subject line of “Schedule your Lennar Virtual Service Visit” and follow the steps bel...",
+                    "sort": 190,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-21",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Dear Raghvendra  Hi this is Stephan with Lennar homes.        I would love to help you or a friend that you know find a new paired home at Lennar at Dove Village Paired.     Appointment Only  We are showing homes by Appointment Only.    I am not onsite at Dove Village this week.   However, I do trav...",
+                    "sort": 191,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-25",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Dear Raghvendra  Hi this is Stephan with Lennar homes.         Thank you for applying with Rio at Lennar Mortgage.  Appointment Only  We are showing homes by Appointment Only.    Rio will let me know when he has completed your loan application.   In the meantime, can you please send me the following...",
+                    "sort": 192,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-29",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hey Nikhil! Thank you again for meeting with me today! As we discussed I have included the inventory sheets that has information on the first in line homes in Waterstone. The Pinnacle at 24194 E Walsh Ave we looked at today just came on the market so that has not been updated on those sheets but it ...",
+                    "sort": 193,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-03",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Dear Ranjith    Hi this is Stephan with Lennar homes.        I would love to help you find a new paired home at Lennar at Dove Village Paired.       Appointment Only    We are showing homes by Appointment Only.    I do travel to appointments.    So please schedule an appointment with me and   let me...",
+                    "sort": 194,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Manoj and Mounika, Congratulations! What an amazing, beautiful first home! Thanks for taking the time to go over documents together. I received your signatures Manoj, but Mounika, can you please sign? Please see attached HOA and community info. I'll send ancillary documents here in a little bit a...",
+                    "sort": 195,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-15",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good Evening and CONGRATULATIONS on your new home!  We heard from Devin that all celebration concerns were addressed. Please let us know if you have any questions as you settle in!   Megan  Cheers,  Megan Cardenas Area Customer Care Manager Colorado Division Cell: 970-214-6222  ref:_00D36JZvE._5005b...",
+                    "sort": 196,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-16",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello!  Congratulations on your new Lennar Home Purchase!    I wanted to take a moment to introduce myself. My name is Jenni Anclien and I am the Homebuyer Concierge working with your New Home Consultant (NHC). Your NHC will continue to be a main point of contact, but I am here to help make your hom...",
+                    "sort": 197,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-17",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello!Now that your closing is fast approaching you may be wondering what to do next. I suggest flagging/saving this email so you can refer back later 1- Please get your utilities set up on your new home. Make the activation date the same date as your closing date on your Lennar Home. Gas: Xcel Ener...",
+                    "sort": 198,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-21",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good afternoon,  Thank you for your time today. This email confirms that I have transferred this case to Stephen to be scheduled with the trades for 8/31, 12-4, per our conversation. Stephen will contact you soon to either confirm or reschedule this date and time; I have also copied him on this emai...",
+                    "sort": 199,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-23",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello!Now that your closing is fast approaching you may be wondering what to do next. I suggest flagging/saving this email so you can refer back later 1- Please get your utilities set up on your new home. Make the activation date the same date as your closing date on your Lennar Home. Gas: Xcel Ener...",
+                    "sort": 200,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-25",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello!Now that your closing is fast approaching you may be wondering what to do next. I suggest flagging/saving this email so you can refer back later 1- Please get your utilities set up on your new home. Make the activation date the same date as your closing date on your Lennar Home. Gas: Xcel Ener...",
+                    "sort": 201,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-31",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Dear Bala  Hi this is Stephan with Lennar Homes.        I would love to help you find a new home at Lennar at Harvest Ridge.   When you visit Lennar at Harvest Ridge, please ask for me.   Thank you very much, Stephan  Special Financing  Now is a great time to purchase a quick move-in Lennar home.   ...",
+                    "sort": 202,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-09",
+                    "activity_type": "call",
+                    "actor_type": "black",
+                    "body": "",
+                    "sort": 203,
+                    "title": "Outbound call"
+                  },
+                  {
+                    "activity_date": "2023-09-12",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Sai,  It was nice to meet you and your family at Dove Village today.  I've attached the three floorplans we talked about for you today and here are the details on each: PlateauSee attached available homes sheet.Interest rate available: 5.5% SpireIf anything changes with the one you originally cam...",
+                    "sort": 204,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-12",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Everyone,Isaac is on vacation this week, so he is unable to make update calls, but I wanted to still let you know what is going on in your home!  The fine grade has been done, landscaping may go in this week or next week - weather permitting. Shower glass will go in this week. They will clean the...",
+                    "sort": 205,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-13",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good Evening,   Stephen is no longer with Lennar and Burgandy will be taking over your AC concern. Can you please send us some pictures of where this is leaking at?   Megan  Cheers,  Megan Cardenas Area Customer Care Manager Colorado Division Cell: 970-214-6222  ref:_00D36JZvE._5005b20XjTF:ref",
+                    "sort": 206,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-20",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello! Now that your closing is fast approaching you may be wondering what to do next. I suggest flagging/saving this email so you can refer back later  1- Please get your utilities set up on your new home. Make the activation date the same date as your closing date on your Lennar Home. Gas: Xcel En...",
+                    "sort": 207,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-20",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello! Now that your closing is fast approaching you may be wondering what to do next. I suggest flagging/saving this email so you can refer back later  1- Please get your utilities set up on your new home. Make the activation date the same date as your closing date on your Lennar Home. Gas: Xcel En...",
+                    "sort": 208,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-20",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Good afternoon,   Just a friendly reminder to send me the tenant's contact information so I can follow up with them on incomplete work.   Thanks!  Melissa Gaffey Virtual Customer Care Representative  --------------- Original Message --------------- From: Caitlyn Felton [caitlyn.felton@lennar.com] Se...",
+                    "sort": 209,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-21",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Hari and Suguna! Congratulations on your new Lennar Home Purchase!    I wanted to take a moment to introduce myself. My name is Jenni Anclien and I am the Homebuyer Concierge working with your New Home Consultant (NHC). Your NHC will continue to be a main point of contact, but I am here to help m...",
+                    "sort": 210,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-27",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Manish and Pankaj, Congratulations again! We're so excited for you and thanks to Brahma's influence and extreme persistence  for getting you over $100k incentive on an incomplete home and our most popular floorplan. I'm shocked myself and we are so relieved you submitted your earnest money when y...",
+                    "sort": 211,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Manish,  Great! I made a note for email updates moving forward. Also, I just reached out to your construction manager, because it looks like we will be scheduling a pre drywall walk through with you in a couple of weeks. I will get the timeline on that and let you know! Best,  Jenni Anclien She/H...",
+                    "sort": 212,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 213,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 215,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Congratulations on the purchase of your new home at 637 Thistle  I wanted to take a moment to introduce myself. My name is Deb Kaiser, and I am your Homebuyer Concierge working with your New Home Consultant.  I am here to help make your home building experience the best it can possibly be.  Please e...",
+                    "sort": 214,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -18,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 4,
+                "sale_price": 510000,
+                "sale_title": "Spire just sold in Parkdale Paired",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Colorado",
+            "division_coordinates": [
+              -104.888662203,
+              39.846040151
+            ],
+            "geometry": {
+              "coordinates": [
+                -105.0693556,
+                39.6802188
+              ],
+              "type": "Point"
+            },
+            "id": 143,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 8,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_nicole_zenk_lr_jpg",
+                    "name": "Nicole Zenk",
+                    "national_rank": 323,
+                    "summary": "           $7,360,592 in sales QTD<br/>4.1% incentives QTD<br/>70% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Nicole Kois",
+                    "national_rank": 7,
+                    "summary": "          $33,258,000 in sales QTD<br/>274 appointments QTD<br/>27% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "42 days prior",
+                "home_size": "       1,749 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7323/61875/61875_eleCL_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-21",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-21",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-21",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -8,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 3,
+                "sale_price": 740000,
+                "sale_title": "Oxford just sold in Green Gables Patio Ranches",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Colorado",
+            "division_coordinates": [
+              -104.888662203,
+              39.846040151
+            ],
+            "geometry": {
+              "coordinates": [
+                -105.059414222,
+                40.006772778
+              ],
+              "type": "Point"
+            },
+            "id": 112,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 11,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_sara_melzerlr_jpg",
+                    "name": "Sara Melzer",
+                    "national_rank": 472,
+                    "summary": "           $5,060,803 in sales QTD<br/>10.3% incentives QTD<br/>50% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Nicole Kois",
+                    "national_rank": 7,
+                    "summary": "          $33,258,000 in sales QTD<br/>274 appointments QTD<br/>27% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "124 days prior",
+                "home_size": "       2,378 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7325/61867/61867_eleCR_lg.jpg",
+                "incentive_percent": 13,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-07-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Congratulations on your New Lennar Home Purchase- 690 Rob Roy   I wanted to take a moment to introduce myself. My name is Deb Kaiser, and I am your Homebuyer Concierge working with your New Home Consultant.  I am here to help make your home building experience the best it can possibly be! Please ema...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -4,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 2,
+                "sale_price": 716500,
+                "sale_title": "Pinnacle just sold in Parkdale 35s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Colorado",
+            "division_coordinates": [
+              -104.888662203,
+              39.846040151
+            ],
+            "geometry": {
+              "coordinates": [
+                -104.929348,
+                39.9645242
+              ],
+              "type": "Point"
+            },
+            "id": 32,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 17,
+                    "image_url": "",
+                    "name": "Tina Dinkel",
+                    "national_rank": 668,
+                    "summary": "           $3,851,133 in sales QTD<br/>14.5% incentives QTD<br/>50% realtor attachment",
+                    "type": "NHC"

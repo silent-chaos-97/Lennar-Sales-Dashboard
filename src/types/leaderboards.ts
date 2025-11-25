@@ -49,6 +49,7 @@ export interface LeaderboardNHCMemberDetail {
   graph_data: []
 }
 
+export interface LeaderboardMemberDetail
   extends LeaderboardISCMemberDetail,
     LeaderboardNHCMemberDetail {}
 
@@ -100,3 +101,4 @@ export const ISC_LEADERBOARD_CATEGORIES = {
   appointments_set: 'Appointments set',
   sales: 'Gross sales',
   calls: 'Calls',
+  chats_texts: 'Chats and texts',

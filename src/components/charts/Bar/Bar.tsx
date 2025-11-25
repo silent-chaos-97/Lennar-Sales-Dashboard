@@ -11,7 +11,6 @@ interface BarProps {
   value: number
   color?: string
   change: number
-}
 
 interface TrackProps {
   color?: string

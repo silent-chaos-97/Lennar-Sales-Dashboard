@@ -186,7 +186,6 @@ const SalesDetails = ({
               </Grid>
               <Grid item lg={6} mb={2}>
                 <Typography variant="caption" color="text.secondary">
-                  Web content score (1-5)
                 </Typography>
                 <Typography variant="h3" whiteSpace="nowrap">
                   {salesDetail.web_content_score}
@@ -195,3 +194,5 @@ const SalesDetails = ({
             </Grid>
             <Box overflow="hidden" height="360px" mt={3.5}>
               <Scrollbar noScrollX={true} style={{ height: 360, width: '100%' }}>
+                <Stack spacing="20px">
+                  <Typography variant="caption" color="grey.400">

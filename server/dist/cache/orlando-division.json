@@ -27479,7 +27479,6 @@
                   },
                   {
                     "x_axis": "Jul 17",
-                    "y_axis": 1
                   },
                   {
                     "x_axis": "Jul 24",
@@ -65465,6 +65464,7 @@
                   {
                     "x_axis": "Jul 17",
                     "y_axis": 2
+                  },
                   {
                     "x_axis": "Jul 24",
                     "y_axis": 0
@@ -112785,3 +112785,1276 @@
                     "sort": 40,
                     "title": "Outbound email"
                   },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 41,
+                    "title": "Phone appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "black",
+                    "body": "Hi Michael Andrew Richard Strozewski! This is a friendly reminder of your phone appointment with Lennar Homes on 10/09/2023 at 6:00 PM with Jean Kemick. If you have any questions or need to reschedule, please call or text us back! We will talk soon!",
+                    "sort": 42,
+                    "title": "Outbound text"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Michael:  Here's the new Cash to Close estimate that has the incentives that this home would have... it looks amazing!  We will buy down your rate to 5.125% and pay all but about $1,000 of your closing costs.   Couldn't look better! I'm very happy for you. :)  Jean Kemick New Home Consultant - Orlan...",
+                    "sort": 43,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 44,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 14,
+                "sale_price": 427995,
+                "sale_title": "Freedom just sold in Vineland Reserves 40s",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.2159618,
+                28.4378402
+              ],
+              "type": "Point"
+            },
+            "id": 100,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 7,
+                    "image_url": "",
+                    "name": "Natalia Morales",
+                    "national_rank": 135,
+                    "summary": "           $7,389,478 in sales QTD<br/>0.1% incentives QTD<br/>79% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3.5 ba",
+                "days_from_completion": "Not Available",
+                "home_size": "       2,515 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6309/47097/47097_eleN_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-02-25",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-04-03",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Inbound call"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 13,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 13,
+                "sale_price": 546420,
+                "sale_title": "Asheville just sold in Storey Park K 32",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.6473654,
+                28.2864186
+              ],
+              "type": "Point"
+            },
+            "id": 83,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "",
+                    "name": "Carlos Villamil",
+                    "national_rank": 44,
+                    "summary": "           $7,827,012 in sales QTD<br/>6.2% incentives QTD<br/>95% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "63 days prior",
+                "home_size": "       1,864 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7194/60893/60893_eleD_lg.jpeg",
+                "incentive_percent": 15,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 12,
+                "sale_price": 387999,
+                "sale_title": "Azalea - Unit A just sold in Champions Pointe 2 25 TH",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.645335,
+                28.2849916
+              ],
+              "type": "Point"
+            },
+            "id": 82,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 3,
+                    "image_url": "",
+                    "name": "Vitor Viveiros",
+                    "national_rank": 54,
+                    "summary": "           $7,781,841 in sales QTD<br/>10% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/5 ba",
+                "days_from_completion": "13 days post",
+                "home_size": "       3,014 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7772/65329/65329_eleD1M_lg.jpg",
+                "incentive_percent": 16,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -8,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 11,
+                "sale_price": 660480,
+                "sale_title": "Alexander Palm just sold in Fox North 40's Resort",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.477825,
+                28.2632156
+              ],
+              "type": "Point"
+            },
+            "id": 81,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "117 days prior",
+                "home_size": "       1,936 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7281/64331/64331_eleE2_lg.jpg",
+                "incentive_percent": 6,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-11-15",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello,  It was a pleasure showing you the home today for our New Home Orientation.   Please see the information about your HVAC maintenance and the Strada registration link as well provided below:  Cooling and Heating Warranty (stradaservices.com)  Make sure to register within 45 days of closing to ...",
+                    "sort": 19,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 22,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 23,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 10,
+                "sale_price": 425930,
+                "sale_title": "Hartford just sold in Knightsbridge 50s",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.451230015,
+                28.246676041
+              ],
+              "type": "Point"
+            },
+            "id": 80,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "107 days prior",
+                "home_size": "       2,334 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5552/58665/58665_eleE_lg.jpg",
+                "incentive_percent": 6,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-04-19",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Bom dia Andre,  Meu nome é Loany, seu Concierge de vendas. Sou a conexão entre seu novo consultor imobiliário (New Home Consultant), seu credor, a equipe de construção e a equipe de fechamento da casa. Vou guiá-lo através deste processo de fechamento de casa, lembrando-o das próximas etapas necessár...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-06-20",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "PLEASE READ THIS EMAIL IN ITS ENTIRETY.  IMPORTANT INFORMATION BELOW.  Dear Andre,  Re: 10660 WORDS DRIVE  GREETINGS!  We are getting close!  The cabinets have just been installed in your home.  As such, we are estimating your closing date to be between 07/15/2023 AND 08/05/2023.  Keep in mind that ...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-11",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Dear Andre,  Re:  10660 Words Drive  CONGRATULATIONS!  We would like to congratulate you on your new home purchase!  The date for the closing of your Lennar home has been scheduled as follows:  Closing Date:     08/25/2023   Docusign      We will do everything possible to adhere to meet the date abo...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-19",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "PLEASE READ THIS EMAIL IN ITS ENTIRETY.  IMPORTANT INFORMATION BELOW.  Dear Andre,  Re: 215 AQUA AVENUE   GREETINGS!  We are getting close!  The cabinets have just been installed in your home.  As such, we are estimating your closing date to be between 09/17/2023 AND 10/12/2023  Keep in mind that TH...",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-09-11",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello Mr. Cifali,  I hope that you are enjoying your new Lennar home, I know that you have a lot on your mind as you are moving into your new home. I just wanted to take some time to check in with you to see if you have any questions or concerns with your home that I can help with.   I would also li...",
+                    "sort": 10,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Dear Andre,  Re:  215 Aqua Avenue  CONGRATULATIONS!  We would like to congratulate you on your new home purchase!  The date for the closing of your Lennar home has been scheduled as follows:  Closing Date:          10/16/2023 Closing Time:         Docusign  We will do everything possible to adhere t...",
+                    "sort": 11,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-03",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello,      CONGRATULATIONS on your new Home!      On behalf of Lennar Homes Orlando, we would like to thank you again for your new home purchase and want to welcome you to the Lennar family.   We are very excited to share that we are near the completion of your home, and we are excited to show it o...",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 14,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 9,
+                "sale_price": 394750,
+                "sale_title": "Sheffield just sold in Storey Creek 40s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.5891236,
+                28.3149538
+              ],
+              "type": "Point"
+            },
+            "id": 79,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 6,
+                    "image_url": "",
+                    "name": "Ana Hernandez",
+                    "national_rank": 117,
+                    "summary": "           $6,275,957 in sales QTD<br/>5.7% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2.5 ba",
+                "days_from_completion": "70 days prior",
+                "home_size": "       1,797 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6730/57663/57663_eleTH_lg.png",
+                "incentive_percent": 9,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 8,
+                "sale_price": 391490,
+                "sale_title": "Pampas just sold in Lake Wilson Reserve 22T",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.6459904,
+                28.28938
+              ],
+              "type": "Point"
+            },
+            "id": 75,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 6,
+                    "image_url": "",
+                    "name": "Ana Hernandez",
+                    "national_rank": 117,
+                    "summary": "           $6,275,957 in sales QTD<br/>5.7% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "21 days prior",
+                "home_size": "       1,971 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7585/63930/63930_eleD2H_lg.jpg",
+                "incentive_percent": 5,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 7,
+                "sale_price": 445980,
+                "sale_title": "Eastham just sold in Champions Pointe Horizon 50s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.601723429,
+                28.221547714
+              ],
+              "type": "Point"
+            },
+            "id": 74,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 30,
+                    "image_url": "",
+                    "name": "Aziza Eljoundi",
+                    "national_rank": 735,
+                    "summary": "           $2,586,497 in sales QTD<br/>5.7% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "68 days prior",
+                "home_size": "       2,109 sqft.",
+                "home_type": "Next Gen",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6732/57986/57986_eleB1_lg.jpg",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 2,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 6,
+                "sale_price": 455562,
+                "sale_title": "Freedom just sold in Astonia North 50",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.475539833,
+                28.2638765
+              ],
+              "type": "Point"
+            },
+            "id": 72,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "Not Available",
+                "home_size": "       2,583 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7281/64478/64478_eleK2_lg.jpg",
+                "incentive_percent": 6,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 2,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 5,
+                "sale_price": 484525,
+                "sale_title": "Providence just sold in Knightsbridge 50s",
+                "sale_type": "Retail",
+                "web_content_score": "4.5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.5774638,
+                28.7504528
+              ],
+              "type": "Point"
+            },
+            "id": 71,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "97 days prior",
+                "home_size": "       2,023 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7282/61575/61575_eleH3M_lg.jpg",
+                "incentive_percent": 6,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-11-15",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hello,  It was a pleasure showing you the home today for our New Home Orientation.   Please see the information about your HVAC maintenance and the Strada registration link as well provided below:  Cooling and Heating Warranty (stradaservices.com)  Make sure to register within 45 days of closing to ...",
+                    "sort": 19,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 20,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 21,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 22,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 23,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 4,
+                "sale_price": 420280,
+                "sale_title": "Cascade just sold in Golden Orchard 32s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.6454934,
+                28.2893806
+              ],
+              "type": "Point"
+            },
+            "id": 66,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 6,
+                    "image_url": "",
+                    "name": "Ana Hernandez",
+                    "national_rank": 117,
+                    "summary": "           $6,275,957 in sales QTD<br/>5.7% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "19 days prior",
+                "home_size": "       3,288 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7585/63931/63931_eleD1H_lg.jpg",
+                "incentive_percent": 7,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 3,
+                "sale_price": 538020,
+                "sale_title": "Peabody just sold in Champions Pointe Horizon 50s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.451230015,
+                28.246676041
+              ],
+              "type": "Point"
+            },
+            "id": 57,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 5,
+                    "image_url": "",
+                    "name": "Brian Zaza",
+                    "national_rank": 97,
+                    "summary": "           $5,724,174 in sales QTD<br/>1.7% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 6,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_arianna_marquezlr_jpg",
+                    "name": "Arianna Marquez",
+                    "national_rank": 89,
+                    "summary": "           $6,278,319 in sales QTD<br/>149 appointments QTD<br/>19% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "106 days prior",
+                "home_size": "       1,444 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5552/58658/58658_eleH_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Display lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi, Thank you for your interest in Lennar. Unfortunately, due to the interstate land registration laws of your current state of residence, I am not permitted to send you the information you have requested as your state considers it solicitation by our company, an unregistered corporation in your sta...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 2,
+                "sale_price": 347305,
+                "sale_title": "Annapolis just sold in Storey Creek 40s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Orlando",
+            "division_coordinates": [
+              -81.504264897,
+              28.394104187
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.451230015,
+                28.246676041
+              ],
+              "type": "Point"
+            },
+            "id": 56,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 5,
+                    "image_url": "",
+                    "name": "Brian Zaza",
+                    "national_rank": 97,
+                    "summary": "           $5,724,174 in sales QTD<br/>1.7% incentives QTD<br/>100% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "106 days prior",
+                "home_size": "       1,444 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5552/58658/58658_eleH_lg.jpg",
+                "incentive_percent": 0,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Display lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi, Thank you for your interest in Lennar. Unfortunately, due to the interstate land registration laws of your current state of residence, I am not permitted to send you the information you have requested as your state considers it solicitation by our company, an unregistered corporation in your sta...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 6,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 1,
+                "sale_price": 347305,
+                "sale_title": "Annapolis just sold in Storey Creek 40s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 259
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 410
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 413
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 523
+            }
+          ],
+          "percent_change": 26.6,
+          "value": 523
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 218
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 352
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 375
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 456
+            }
+          ],
+          "percent_change": 21.6,
+          "value": 456
+        },
+        "RETAIL_SALES": {
+          "percent_change": 17.7,
+          "value": 412
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 458707
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 476425
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 430826
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 421136
+            }
+          ],
+          "percent_change": -2.2,
+          "value": 421136
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 4.94
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 3.49
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 3.57
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 3.82
+            }
+          ],
+          "percent_change": 7,
+          "value": 3.82
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 0.2
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 0.3
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 0.2
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 0.2
+            }

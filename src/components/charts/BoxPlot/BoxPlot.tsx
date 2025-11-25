@@ -27,6 +27,7 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
       width = nWidth - margin.left - margin.right,
       height = nHeight - margin.top - margin.bottom
 
+    // append the svg object to the body of the page
     d3.select(`#${id} > *`).remove()
     const svg = d3
       .select(`#${id}`)
@@ -164,3 +165,5 @@ const BoxPlot = ({ id, width: nWidth, height: nHeight, data }: BoxPlotProps) => 
         .attr('x2', boxCenter + boxWidth)
         .attr('y1', function (d) {
           return y(d)
+        })
+        .attr('y2', function (d) {

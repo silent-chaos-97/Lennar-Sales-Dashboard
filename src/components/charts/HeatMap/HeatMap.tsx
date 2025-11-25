@@ -69,6 +69,7 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
   }
 
   const allRects = useMemo(
+    () =>
       data.map((d, i) => {
         const isScaled = allYGroups.length <= 9
         return (
@@ -88,3 +89,4 @@ const HeatMap = ({ size = 4, cWidth, nRow, nCol, spacing = 1, data }: HeatmapPro
     [data, xScale, yScale, allYGroups]
   )
 
+  return (

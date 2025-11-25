@@ -17,6 +17,7 @@ interface AvailableHomes {
   yellow_homes: number
 }
 
+export interface PricingData {
   lennar_prices: PriceDetailItem
   new_construction_prices: PriceDetailItem
   resale_prices: PriceDetailItem

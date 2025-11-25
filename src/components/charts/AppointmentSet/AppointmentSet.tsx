@@ -152,3 +152,4 @@ const AppointmentSet = ({
             <Typography color="#33A3FF" fontWeight={700}>
               {day.cur.total?.toLocaleString()}
             </Typography>
+            <Box width={60} height={52}>

@@ -70,10 +70,10 @@ const Timeline = ({ journeyData }: TimelineProps) => {
               spacing={1}
               position="relative"
               sx={{
-                marginRight: 4
               }}
             >
               <Divider />
+              {journeyData.map((item, idx) => (
                 <TimelineEvent
                   key={idx}
                   event={item}

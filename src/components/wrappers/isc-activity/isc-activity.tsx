@@ -122,3 +122,4 @@ const IscActivity = ({ data, activityTimeframe }: IscActivityProps) => {
                   component="span"
                   color={getValueChangeTextColor(data?.APPOINTMENTS_SET_PERCENT_CHANGE || 0)}
                   variant="h6"
+                  sx={{ ml: 1 }}

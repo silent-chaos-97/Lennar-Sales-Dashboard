@@ -162,3 +162,4 @@ const MainLayout = () => {
           }}
         >
           <ScreenWrapper
+            padding="104px 66px 0 56px"

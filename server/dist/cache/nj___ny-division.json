@@ -20314,6 +20314,7 @@
                   },
                   {
                     "x_axis": "Jul 17",
+                    "y_axis": 1
                   },
                   {
                     "x_axis": "Jul 24",
@@ -47541,3 +47542,132 @@
           ],
           "percent_change": 8,
           "value": 27
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 24
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 23
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 23
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 23
+            }
+          ],
+          "percent_change": 0,
+          "value": 23
+        },
+        "RETAIL_SALES": {
+          "percent_change": 8,
+          "value": 27
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 647788
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 603454
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 687719
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 630668
+            }
+          ],
+          "percent_change": -8.3,
+          "value": 630668
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 3.06
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 2.75
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 3.43
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 4.34
+            }
+          ],
+          "percent_change": 26.5,
+          "value": 4.34
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jul 13",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Aug 13",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Sep 13",
+              "y_axis": 0
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 13",
+              "y_axis": 0
+            }
+          ],
+          "percent_change": 0,
+          "value": 0
+        },
+        "DBT_UPDATED_AT": "2023-10-12 17:56:03.737"
+      }
+    },
+    "pacing": {
+      "COHORT": "NJ / NY",
+      "COHORT_TYPE": "division",
+      "PAST_3W_SALES": 17.666666,
+      "NEXT_3W_PACE": 10.415776272,
+      "WEEKLY_PACING_GRAPH": [
+        {
+          "future_pace": 0,
+          "gross_sales": 15,
+          "sort": 0,
+          "x_axis": "Aug 28"
+        },
+        {
+          "future_pace": 0,
+          "gross_sales": 18,
+          "sort": 1,
+          "x_axis": "Sep 04"

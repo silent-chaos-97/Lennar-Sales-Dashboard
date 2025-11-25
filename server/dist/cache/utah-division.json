@@ -23893,3 +23893,250 @@
                     "title": "Outbound email"
                   },
                   {
+                    "activity_date": "2023-03-23",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hey Hailey + Weston -  Attached is a letter our escrow coordinator puts together regarding closing. The last page has some helpful contact information for utilities and such.   Thanks,  Gabby Medeiros Sales Concierge  Lennar  Gabby.Medeiros@Lennar.com Mobile: (858) 386-3545  111 E Sego Lily Drive Su...",
+                    "sort": 14,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-03-24",
+                    "activity_type": "cancellation",
+                    "actor_type": "red",
+                    "body": "",
+                    "sort": 15,
+                    "title": "Cancellation"
+                  },
+                  {
+                    "activity_date": "2023-09-13",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "After months and months, I am happy to report that I have new information on the opening and release of phase 2 of the Jordanelle Ridge community in Heber. There are a lot of moving parts because this community will be working off of a waitlist. I have detailed all the pertinent information below. I...",
+                    "sort": 16,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 2,
+                "sale_price": 564201,
+                "sale_title": "Residence E just sold in Jordanelle Canyon Townhomes",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          },
+          {
+            "division": "Utah",
+            "division_coordinates": [
+              -111.796837,
+              40.432818717
+            ],
+            "geometry": {
+              "coordinates": [
+                -112.0134274,
+                40.2970238
+              ],
+              "type": "Point"
+            },
+            "id": 63,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ally_hendersonlr_jpg",
+                    "name": "Ally Henderson",
+                    "national_rank": 182,
+                    "summary": "           $7,900,100 in sales QTD<br/>69 appointments QTD<br/>9% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "",
+                    "name": "Hannah Womack",
+                    "national_rank": 249,
+                    "summary": "           $5,959,341 in sales QTD<br/>6.2% incentives QTD<br/>55% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "5 bd/3 ba",
+                "days_from_completion": "21 days prior",
+                "home_size": "       2,777 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7593/64014/64014_eleT_lg.jpg",
+                "incentive_percent": 3,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 3,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hey this is Ally with Lennar Homes! Hannah said she'll give you a call at 6pm to talk about the home. Hannah is so great - you'll love her.  Have a great rest of your day!",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "That's great!",
+                    "sort": 5,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": ":)",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 13,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Chanelecarter@gmail.com for Tonjala cooke",
+                    "sort": 7,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Good evening are you going to send the contract and the address for the earnest money",
+                    "sort": 8,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "I know it's late thank you",
+                    "sort": 9,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Thank you! I'll pass this info over to Hannah this morning.",
+                    "sort": 10,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Thank you",
+                    "sort": 11,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "You're welcome!",
+                    "sort": 12,
+                    "title": "ISC text"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 1,
+                "sale_price": 579900,
+                "sale_title": "Redwood just sold in Parkway Fields Cottages",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "McGuff",
+            "sub_region": "Walker",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 3
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 6
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 2
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 5
+            }
+          ],
+          "percent_change": 150,
+          "value": 5
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Sep 21",
+              "y_axis": 0
+            },
+            {
+              "sort": 2,
+              "x_axis": "Sep 28",
+              "y_axis": 0
+            },
+            {
+              "sort": 3,
+              "x_axis": "Oct 05",
+              "y_axis": 1
+            },
+            {
+              "sort": 4,

@@ -14,6 +14,7 @@ export interface DailyAnalyticsBoxProps {
   title: string
   value: number
   grossValue: number
+  diffPercent: number
   color?: string
   unit?: string
   isDecreaseBenefit?: boolean
@@ -97,3 +98,4 @@ const DailyAnalyticsBox = ({
               </Typography>
             </CustomTooltip>
           </Stack>
+        </Stack>

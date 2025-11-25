@@ -347,3 +347,7 @@ export const theme = createTheme({
           marginLeft: 8
         }
       }
+    }
+  },
+  breakpoints: {
+    values: {

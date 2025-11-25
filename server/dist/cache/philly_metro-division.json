@@ -33749,3 +33749,389 @@
             "activity_status": "Missed",
             "activity_time": "2023-10-01 11:00:00.000",
             "sort": 54
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-01 12:00:00.000",
+            "sort": 22
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-01 14:30:00.000",
+            "sort": 68
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-01 14:30:00.000",
+            "sort": 117
+          },
+          {
+            "activity_status": "Connected",
+            "activity_time": "2023-10-01 15:30:00.000",
+            "sort": 134
+          }
+        ],
+        "TIMEFRAME": "prev_week",
+        "WEB_VISITORS": 1360,
+        "WEB_VISITORS_PERCENT_CHANGE": 46,
+        "HOURLY_WEB_VISITORS_ARRAY": [
+          {
+            "current": 227,
+            "hour": 7,
+            "prev": 0
+          },
+          {
+            "current": 98,
+            "hour": 8,
+            "prev": 0
+          },
+          {
+            "current": 136,
+            "hour": 9,
+            "prev": 0
+          },
+          {
+            "current": 148,
+            "hour": 10,
+            "prev": 0
+          },
+          {
+            "current": 152,
+            "hour": 11,
+            "prev": 0
+          },
+          {
+            "current": 258,
+            "hour": 12,
+            "prev": 0
+          },
+          {
+            "current": 227,
+            "hour": 13,
+            "prev": 0
+          },
+          {
+            "current": 190,
+            "hour": 14,
+            "prev": 0
+          },
+          {
+            "current": 203,
+            "hour": 15,
+            "prev": 0
+          },
+          {
+            "current": 203,
+            "hour": 16,
+            "prev": 0
+          },
+          {
+            "current": 188,
+            "hour": 17,
+            "prev": 0
+          },
+          {
+            "current": 173,
+            "hour": 18,
+            "prev": 0
+          }
+        ],
+        "LEADS": 156,
+        "LEADS_PERCENT_CHANGE": 15,
+        "HOURLY_LEADS_ARRAY": [
+          {
+            "current": 6,
+            "hour": 7,
+            "prev": 4
+          },
+          {
+            "current": 4,
+            "hour": 8,
+            "prev": 11
+          },
+          {
+            "current": 7,
+            "hour": 9,
+            "prev": 7
+          },
+          {
+            "current": 10,
+            "hour": 10,
+            "prev": 8
+          },
+          {
+            "current": 10,
+            "hour": 11,
+            "prev": 5
+          },
+          {
+            "current": 9,
+            "hour": 12,
+            "prev": 14
+          },
+          {
+            "current": 8,
+            "hour": 13,
+            "prev": 8
+          },
+          {
+            "current": 12,
+            "hour": 14,
+            "prev": 4
+          },
+          {
+            "current": 8,
+            "hour": 15,
+            "prev": 8
+          },
+          {
+            "current": 17,
+            "hour": 16,
+            "prev": 10
+          },
+          {
+            "current": 8,
+            "hour": 17,
+            "prev": 9
+          },
+          {
+            "current": 9,
+            "hour": 18,
+            "prev": 14
+          }
+        ],
+        "TOTAL_CALLS": 130,
+        "TOTAL_CALLS_PERCENT_CHANGE": -13,
+        "TOTAL_CHATS_TEXTS": 37,
+        "TOTAL_CHATS_TEXTS_PERCENT_CHANGE": 42,
+        "APPOINTMENTS_SET": 20,
+        "APPOINTMENTS_SET_PERCENT_CHANGE": -17,
+        "LEADS_BY_CHANNEL": {
+          "non_paid": 13,
+          "non_paid_pct_change": -28,
+          "paid": 137,
+          "paid_pct_change": 18,
+          "third_party": 6,
+          "third_party_pct_change": 200
+        },
+        "DBT_UPDATED_AT": "2023-10-12 17:55:53.055"
+      }
+    },
+    "sales_timeframe": {
+      "MTD": {
+        "COHORT": "Philly Metro",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "MTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Philly Metro",
+            "division_coordinates": [
+              -75.436299689,
+              40.105860689
+            ],
+            "geometry": {
+              "coordinates": [
+                -75.6140554,
+                39.2506726
+              ],
+              "type": "Point"
+            },
+            "id": 343,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 5,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_cheryl_simmons_lr_jpg",
+                    "name": "Cheryl Simmons",
+                    "national_rank": 390,
+                    "summary": "           $3,755,707 in sales QTD<br/>7.8% incentives QTD<br/>56% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "2.0 bd/2.0 ba",
+                "days_from_completion": "69 days post",
+                "home_size": "       1,728 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6191/55262/55262_eleCRS_lg.jpg",
+                "incentive_percent": 10,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -7,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 3,
+                "sale_price": 389080,
+                "sale_title": "Solano just sold in Auburn Meadows",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Philly Metro",
+            "division_coordinates": [
+              -75.436299689,
+              40.105860689
+            ],
+            "geometry": {
+              "coordinates": [
+                -75.540328444,
+                40.167505111
+              ],
+              "type": "Point"
+            },
+            "id": 208,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 4,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_matthew_avrich_lr_jpg",
+                    "name": "Matthew Avrich",
+                    "national_rank": 355,
+                    "summary": "           $3,979,376 in sales QTD<br/>3.3% incentives QTD<br/>90% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_ekaterina_mavridis_lr_jpg",
+                    "name": "Ekaterina Mavridis",
+                    "national_rank": 57,
+                    "summary": "          $21,265,667 in sales QTD<br/>171 appointments QTD<br/>15% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "4.0 bd/2.0 ba",
+                "days_from_completion": "6 days prior",
+                "home_size": "       2,507 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5956/55831/55831_eleTRA_lg.jpg",
+                "incentive_percent": 6,
+                "journey_array": [
+                  {
+                    "activity_date": "2020-01-23",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Prasad, I wanted to let you know that I have two new designer homes that I would like to show you that will be ready for a February close. They are the Bethany Grande home site 24 end unit and a Fenwick home site 25 these two homes are loaded with options. Plus I still have a couple of designer h...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-26",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Prasad,  \t   \tThank you for your interest in Clover Mill by Lennar COMING Summer 2023 to East Caln Township, PA!   \t   \tWe are working hard to finalize all of the details and are so excited to share this community with you and all of our future homeowners.   \tIn the meantime, here’s what we know:...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-05-26",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-05-27",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Prasad, it's Kellie with Lennar. It was a pleasure speaking with you yesterday! Just wanted to confirm you received the email regarding your status on the VIP list for Clover Mill. Looking forward to working with you soon!",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-05-27",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 5,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-05-27",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "Yes",
+                    "sort": 6,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-05-30",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Okay great, I'm glad to hear it!",
+                    "sort": 7,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-06-11",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Direct lead created"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 10,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Prasad,  \t   \tThank you for your interest in Clover Mill by Lennar COMING SUMMER 2023 to East Caln Township, PA! This beautiful community will feature 140 new homes including townhomes and carriage homes priced from the $500's.   \t   \tJoin us at our Sneak Peak Event! We will be offering our sneak...",
+                    "sort": 11,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-07-28",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Prasad, Your VIP Homesite tour is confirmed for tomorrow at 10:30am at our Clover Mill community! Please wear comfortable shoes as the homes will be still under construction. If you need anything, feel free to call us at the number below.  WHERE: &#128205; GPS Address: 700 Clover Mill Road, Downi...",
+                    "sort": 12,
+                    "title": "Outbound email"
+                  },

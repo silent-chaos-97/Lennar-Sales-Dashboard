@@ -1,3 +1,4 @@
+export interface TickerItem {
   activity_time: string
   activity_status: string
   sort: number
@@ -39,3 +40,4 @@ export interface CurrentActivityState {
   LEADS_PERCENT_CHANGE: number
   HOURLY_WEB_VISITORS_ARRAY: HourlyTicker[]
   TIMEFRAME: string
+}

@@ -2347,3 +2347,30 @@
                     [">", ["get", "symbolrank"], 6],
                     4,
                     [">=", ["get", "symbolrank"], 7],
+                    6,
+                    [">=", ["get", "symbolrank"], 8],
+                    7,
+                    [">=", ["get", "symbolrank"], 10],
+                    10,
+                    [">=", ["get", "symbolrank"], 11],
+                    11,
+                    [">=", ["get", "symbolrank"], 13],
+                    12,
+                    [">=", ["get", "symbolrank"], 15]
+                ]
+            ],
+            "layout": {
+                "text-line-height": 1.1,
+                "text-size": [
+                    "interpolate",
+                    ["cubic-bezier", 0.2, 0, 0.9, 1],
+                    ["zoom"],
+                    3,
+                    ["step", ["get", "symbolrank"], 14.3, 9, 13],
+                    6,
+                    [
+                        "step",
+                        ["get", "symbolrank"],
+                        18.2,
+                        9,
+                        15.600000000000001,

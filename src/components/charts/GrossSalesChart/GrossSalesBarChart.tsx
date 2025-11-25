@@ -58,6 +58,7 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
             : ''
         })
 
+      const xAxis = d3
         .axisBottom(x)
         .tickFormat((d) => {
           return d
@@ -87,3 +88,4 @@ const GrossSalesBarChart = ({ width, height, data, id }: GrossSalesBarChartProps
       yAxisGroup.selectAll('.tick text').style('fill', '#70747A')
       yAxisGroup.selectAll('.tick line').attr('stroke', 'rgba(255,255,255,0.18)')
     }
+  }, [data])

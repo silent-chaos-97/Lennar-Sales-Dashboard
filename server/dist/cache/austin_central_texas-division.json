@@ -71981,3 +71981,722 @@
                 "realtor_commission": 3,
                 "sale_cohort_rank": 7,
                 "sale_price": 342990,
+                "sale_title": "Brock just sold in Whisper",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "Austin/Central Texas",
+            "division_coordinates": [
+              -97.727534928,
+              30.342410724
+            ],
+            "geometry": {
+              "coordinates": [
+                -97.8867462,
+                30.028387
+              ],
+              "type": "Point"
+            },
+            "id": 106,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 6,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_carey_burnett_lr_jpg",
+                    "name": "Carey Burnett",
+                    "national_rank": 62,
+                    "summary": "           $4,560,545 in sales QTD<br/>14.4% incentives QTD<br/>83% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 7,
+                    "image_url": "",
+                    "name": "Shaelyn Serhus",
+                    "national_rank": 172,
+                    "summary": "           $6,116,692 in sales QTD<br/>80 appointments QTD<br/>13% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "33 days prior",
+                "home_size": "       1,601 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5762/47816/47816_eleE_lg.jpg",
+                "incentive_percent": 12,
+                "journey_array": [
+                  {
+                    "activity_date": "2020-09-25",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Greg,     My name is Carly and I am one of the Internet Sales Consultants at LENNAR and Village Builders here in Austin. I received your inquiry regarding Orchard Ridge through LiveOrchardRidge.com and will be happy to help you on your home search.      Would you mind answering a couple quick que...",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2020-11-18",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Greg,  I have attached our current inventory for Commons at Rowe Lane. Please let me know if you'd like to schedule an appointment!  Thank you,  We appreciate our Realtors® ! Please be advised that your REALTOR must accompany you on the first visit to the Welcome Home Center in order to represent...",
+                    "sort": 2,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2020-11-19",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Jimma.Hicks@lennar.com To: gregmoody@hotmail.com Hi Greg, It looks like Mari has some time tomorrow, very limited time on Saturday, and time on Sunday. What would be a good day and time for you? Thank you, We appreciate our Realtors® ! Please be advised that your REALTOR must accompany you on the fi...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2020-11-28",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Jimma.Hicks@lennar.com To: gregmoody@hotmail.com Hi Greg, She can do Monday at 12! Thank you, We appreciate our Realtors® ! Please be advised that your REALTOR must accompany you on the first visit to the Welcome Home Center in order to represent you on any Lennar/Village Builders transaction. Jimma...",
+                    "sort": 4,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2020-11-28",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Jimma.Hicks@lennar.com To: gregmoody@hotmail.com No worries, just let me know if you’d prefer an appointment on Sunday! Thank you, We appreciate our Realtors® ! Please be advised that your REALTOR must accompany you on the first visit to the Welcome Home Center in order to represent you on any Lenna...",
+                    "sort": 5,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2020-11-28",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Jimma.Hicks@lennar.com To: gregmoody@hotmail.com Hi Greg, Please let me know if 1 pm today works so I can get it on Mari’s schedule! I don’t want it to get booked  Thank you, We appreciate our Realtors® ! Please be advised that your REALTOR must accompany you on the first visit to the Welcome Home C...",
+                    "sort": 6,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2020-11-28",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Jimma.Hicks@lennar.com To: gregmoody@hotmail.com Mari will be available tomorrow at 1 pm! Will that work? Thank you, We appreciate our Realtors® ! Please be advised that your REALTOR must accompany you on the first visit to the Welcome Home Center in order to represent you on any Lennar/Village Buil...",
+                    "sort": 7,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Greg!  \t   \tI'm Jimma, one of the Internet Sales Consultants for LENNAR here in Austin and Central Texas. I received your inquiry regarding Plum Creek through lennar.com and will be happy to help you on your home search.   \t   \tWe currently have inventory at Plum Creek that can be purchased! You ...",
+                    "sort": 8,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Hi Greg, so nice to meet you I have included the preliminary plot plans on both homesites. These are not final or official, but I do believe they should reflect the scope of the fence line. Let me know what you think.  there is not much time to get your application into Lennar Mortgage.  If you are ...",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 11,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -7,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 6,
+                "sale_price": 335110,
+                "sale_title": "Avery just sold in Plum Creek 58s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "Austin/Central Texas",
+            "division_coordinates": [
+              -97.727534928,
+              30.342410724
+            ],
+            "geometry": {
+              "coordinates": [
+                -97.6129846,
+                30.837488
+              ],
+              "type": "Point"
+            },
+            "id": 51,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_cindy_thompson_lr_jpg",
+                    "name": "Cindy Thompson",
+                    "national_rank": 7,
+                    "summary": "           $6,074,679 in sales QTD<br/>20.4% incentives QTD<br/>71% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 1,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_jimma_hicks_lr_jpg",
+                    "name": "Jimma Hicks",
+                    "national_rank": 73,
+                    "summary": "           $9,295,726 in sales QTD<br/>161 appointments QTD<br/>10% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "1 days post",
+                "home_size": "       1,300 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7743/65181/65181_eleC_lg.png",
+                "incentive_percent": 3,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-06-25",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-06-25",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 5,
+                "sale_price": 219990,
+                "sale_title": "Pitney just sold in Cielo Gardens Belmar",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "Austin/Central Texas",
+            "division_coordinates": [
+              -97.727534928,
+              30.342410724
+            ],
+            "geometry": {
+              "coordinates": [
+                -98.0149348,
+                30.349087
+              ],
+              "type": "Point"
+            },
+            "id": 41,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_marnina_bittner_jpg",
+                    "name": "Marnina Bittner",
+                    "national_rank": 10,
+                    "summary": "           $6,227,156 in sales QTD<br/>24.6% incentives QTD<br/>77% realtor attachment",
+                    "type": "NHC"
+                  },
+                  {
+                    "cohort_rank": 7,
+                    "image_url": "",
+                    "name": "Shaelyn Serhus",
+                    "national_rank": 172,
+                    "summary": "           $6,116,692 in sales QTD<br/>80 appointments QTD<br/>13% lead to appointment rate",
+                    "type": "ISC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "2708 days post",
+                "home_size": "       1,708 sqft.",
+                "home_type": "Multi-Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/2197/20411/20411_eleA_lg.png",
+                "incentive_percent": 34,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 4,
+                "sale_price": 449000,
+                "sale_title": "Torre just sold in Rough Hollow Vineyard Collection",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "Austin/Central Texas",
+            "division_coordinates": [
+              -97.727534928,
+              30.342410724
+            ],
+            "geometry": {
+              "coordinates": [
+                -97.885546167,
+                30.029228667
+              ],
+              "type": "Point"
+            },
+            "id": 25,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 8,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_bruce_kilpatrick_lr_jpg",
+                    "name": "Bruce Kilpatrick",
+                    "national_rank": 167,
+                    "summary": "           $3,228,891 in sales QTD<br/>16.6% incentives QTD<br/>77% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/4 ba",
+                "days_from_completion": "27 days prior",
+                "home_size": "       2,047 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5761/47815/47815_eleE_lg.jpg",
+                "incentive_percent": 19,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-12",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -2,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 3,
+                "sale_price": 316990,
+                "sale_title": "Merrill just sold in Plum Creek 45s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "Austin/Central Texas",
+            "division_coordinates": [
+              -97.727534928,
+              30.342410724
+            ],
+            "geometry": {
+              "coordinates": [
+                -97.885965167,
+                30.0290445
+              ],
+              "type": "Point"
+            },
+            "id": 22,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 8,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_bruce_kilpatrick_lr_jpg",
+                    "name": "Bruce Kilpatrick",
+                    "national_rank": 167,
+                    "summary": "           $3,228,891 in sales QTD<br/>16.6% incentives QTD<br/>77% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/3 ba",
+                "days_from_completion": "26 days prior",
+                "home_size": "       1,926 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5761/47814/47814_eleE_lg.jpg",
+                "incentive_percent": 20,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hi Innocent,  \t   \tThank you for your interest in Lennar! My name is Jimma and I am one of the Internet Sales Consultants here in Austin. I see that you have applied with Lennar Mortgage!   \t   \tIf you have not found the home of your dreams yet, I am here to assist in your home search! If you have a...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Innocent, this is Jimma with Lennar and I see that you've applied with Lennar Mortgage! They will be reaching out soon about your qualifications but if you have not found the home of your dreams yet, I am here to assist in your home search! If you have",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-12",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -5,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 2,
+                "sale_price": 308990,
+                "sale_title": "Rutland just sold in Plum Creek 45s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          },
+          {
+            "division": "Austin/Central Texas",
+            "division_coordinates": [
+              -97.727534928,
+              30.342410724
+            ],
+            "geometry": {
+              "coordinates": [
+                -97.5321084,
+                30.5389254
+              ],
+              "type": "Point"
+            },
+            "id": 18,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 7,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_monica_brown_jpg",
+                    "name": "Monica Brown",
+                    "national_rank": 94,
+                    "summary": "           $4,930,855 in sales QTD<br/>6.1% incentives QTD<br/>94% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "21 days prior",
+                "home_size": "       1,279 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/com/images/version10/default/qmi/ComingSoon.jpg",
+                "incentive_percent": 7,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-12",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -3,
+                "realtor_commission": 3,
+                "sale_cohort_rank": 1,
+                "sale_price": 299840,
+                "sale_title": "Oberlin just sold in Cotton Brook 40s",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Grove",
+            "sub_region": "Grove",
+            "type": "Feature"
+          }
+        ],
+        "GROSS_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 226
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 274
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 390
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 318
+            }
+          ],
+          "percent_change": -18.5,
+          "value": 318
+        },
+        "NET_SALES": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 147
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 240
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 356
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 288
+            }
+          ],
+          "percent_change": -19.1,
+          "value": 288
+        },
+        "RETAIL_SALES": {
+          "percent_change": -14.5,
+          "value": 318
+        },
+        "AVG_PRICE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 401982
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 393529
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 332491
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 303004
+            }
+          ],
+          "percent_change": -8.9,
+          "value": 303004
+        },
+        "AVG_INCENTIVE": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 19.34
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 16.86
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 18.95
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 18.47
+            }
+          ],
+          "percent_change": -2.5,
+          "value": 18.47
+        },
+        "AVG_REALTOR_COMMISSION": {
+          "graph": [
+            {
+              "sort": 1,
+              "x_axis": "Jan 11",
+              "y_axis": 1.7
+            },
+            {
+              "sort": 2,
+              "x_axis": "Apr 11",
+              "y_axis": 2.2
+            },
+            {
+              "sort": 3,
+              "x_axis": "Jul 12",
+              "y_axis": 1.5
+            },
+            {
+              "sort": 4,
+              "x_axis": "Oct 12",
+              "y_axis": 1.4
+            }
+          ],
+          "percent_change": -9.1,
+          "value": 1.4
+        },
+        "DBT_UPDATED_AT": "2023-10-12 17:56:03.737"
+      },
+      "WTD": {
+        "COHORT": "Austin/Central Texas",
+        "COHORT_TYPE": "division",
+        "TIMEFRAME": "WTD",
+        "DETAIL_SALES_ARRAY": [
+          {
+            "division": "Austin/Central Texas",
+            "division_coordinates": [
+              -97.727534928,
+              30.342410724
+            ],
+            "geometry": {
+              "coordinates": [
+                -97.8871352,
+                30.0298024
+              ],
+              "type": "Point"

@@ -38,3 +38,4 @@ const PercentValueText = ({
           >
             {change || 0}%
           </Typography>
+        </Stack>

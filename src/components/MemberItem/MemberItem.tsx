@@ -76,3 +76,4 @@ const MemberItem = ({
           color="rgba(255, 255, 255, 0.67)"
           fontWeight={500}
           whiteSpace="nowrap"
+          overflow="hidden"

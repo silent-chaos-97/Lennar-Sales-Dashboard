@@ -120,3 +120,5 @@ const Leaderboard = ({ leaderboardData, categoryList }: IscLeaderBoardProps) => 
         !!leaderboardItems[activeIdx]?.pop_out_details && (
           <LeaderboardDetail
             open={activeIdx !== null}
+            onClose={() => setActiveIdx(null)}
+            name={leaderboardItems[activeIdx].name}

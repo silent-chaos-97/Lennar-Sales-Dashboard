@@ -1,7 +1,6 @@
 const path = require('path')
 
 module.exports = {
-  webpack: {
     alias: {
       '@': path.resolve(__dirname, 'src/')
     }
@@ -11,3 +10,4 @@ module.exports = {
       moduleNameMapper: {
         '^@(.*)$': '<rootDir>/src$1'
       }
+    }

@@ -89,3 +89,4 @@ const run = async () => {
 
     try {
       fs.writeFileSync(cacheFilePath, JSON.stringify(timestampedResult, null, 2))
+      console.log(`Result saved to ${cacheFilePath}`)

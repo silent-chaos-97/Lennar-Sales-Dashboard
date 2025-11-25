@@ -10,13 +10,13 @@ interface KPIWidgetProps {
   firstLabel: string
   secondValue: number
   secondLabel: string
-  thirdValue: number
   thirdLabel: string
 }
 const KPIWidget = ({
   title,
   firstValue,
   firstLabel,
+  secondValue,
   secondLabel,
   thirdValue,
   thirdLabel
@@ -47,3 +47,4 @@ const KPIWidget = ({
           </Typography>
           <Typography variant="h5" lineHeight={2}>
             {thirdLabel}
+          </Typography>

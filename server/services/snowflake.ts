@@ -85,7 +85,6 @@ class SnowflakeService {
                         latitude: sub_division.LATITUDE,
                         longitude: sub_division.LONGITUDE,
                         timezone: sub_division.TIME_ZONE
-                      }))
                     return {
                       type: dRow.COHORT_TYPE,
                       name: dRow.COHORT,
@@ -190,7 +189,10 @@ class SnowflakeService {
     })
   }
 
+  getMetrics(): Promise<MetricsState> {
     const sql = 'select * from homebase.corp_hub_metrics_json'
 
     const connection = this.createConnection()
 
+    return new Promise((resolve, reject) => {
+      connection.connect((err) => {

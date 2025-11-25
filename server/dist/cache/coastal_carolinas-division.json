@@ -97058,3 +97058,832 @@
                 "bed_bath": "3 bd/2 ba",
                 "days_from_completion": "144 days prior",
                 "home_size": "       1,748 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6629/57266/57266_eleB6_lg.jpg",
+                "incentive_percent": 4,
+                "journey_array": [
+                  {
+                    "activity_date": "2021-10-05",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "tate email, wouldnt sync",
+                    "sort": 1,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-10",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-08-10",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-08-11",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-09-17",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-09-18",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hi Ginny! This is Erica with Lennar, checking in. How was your phone call with the New Home Consultant? Were they able to answer your questions?",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-09-18",
+                    "activity_type": "text",
+                    "actor_type": "purple",
+                    "body": "This is Tony.  I spoke with the rep.  She was wonderful. Please direct all inquiries to me.",
+                    "sort": 7,
+                    "title": "Customer text recieved"
+                  },
+                  {
+                    "activity_date": "2023-09-18",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Sure thing!",
+                    "sort": 8,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 9,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 1,
+                "realtor_commission": 2.5,
+                "sale_cohort_rank": 19,
+                "sale_price": 331925,
+                "sale_title": "Litchfield II just sold in Cameron Woods",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Coastal Carolinas",
+            "division_coordinates": [
+              -79.711786981,
+              33.235638319
+            ],
+            "geometry": {
+              "coordinates": [
+                -78.9702298,
+                33.7167902
+              ],
+              "type": "Point"
+            },
+            "id": 453,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 2,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_mary_hotchkiss_lr_jpg",
+                    "name": "Mary Hotchkiss",
+                    "national_rank": 40,
+                    "summary": "          $12,700,542 in sales QTD<br/>186 appointments QTD<br/>21% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 6,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_sonya_callahan_jpg",
+                    "name": "Sonya Callahan",
+                    "national_rank": 167,
+                    "summary": "           $3,732,468 in sales QTD<br/>1.3% incentives QTD<br/>77% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/3 ba",
+                "days_from_completion": "35 days prior",
+                "home_size": "       1,437 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7751/65246/65246_eleC_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-09-28",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Google SEM lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 18,
+                "sale_price": 276750,
+                "sale_title": "BLAKELY just sold in Forestbrook Townhomes",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Coastal Carolinas",
+            "division_coordinates": [
+              -79.711786981,
+              33.235638319
+            ],
+            "geometry": {
+              "coordinates": [
+                -79.0212808,
+                33.686101
+              ],
+              "type": "Point"
+            },
+            "id": 450,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 22,
+                    "image_url": "",
+                    "name": "Douglas Martin",
+                    "national_rank": 596,
+                    "summary": "           $2,136,376 in sales QTD<br/>11.4% incentives QTD<br/>86% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "36 days prior",
+                "home_size": "       1,520 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6017/46212/46212_eleD6_lg.jpg",
+                "incentive_percent": 11,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-07",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -1,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 17,
+                "sale_price": 290045,
+                "sale_title": "DOVER just sold in Cooper's Bluff",
+                "sale_type": "Retail",
+                "web_content_score": "5"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Coastal Carolinas",
+            "division_coordinates": [
+              -79.711786981,
+              33.235638319
+            ],
+            "geometry": {
+              "coordinates": [
+                -79.0781554,
+                33.7618494
+              ],
+              "type": "Point"
+            },
+            "id": 448,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 5,
+                    "image_url": "",
+                    "name": "Christopher Connelly",
+                    "national_rank": 135,
+                    "summary": "           $3,681,312 in sales QTD<br/>1.9% incentives QTD<br/>79% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2 ba",
+                "days_from_completion": "18 days prior",
+                "home_size": "       1,886 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7569/63759/63759_eleD6_lg.jpg",
+                "incentive_percent": 15,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 16,
+                "sale_price": 253505,
+                "sale_title": "HARTFORD just sold in Saddle Ridge",
+                "sale_type": "Retail",
+                "web_content_score": "4"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Coastal Carolinas",
+            "division_coordinates": [
+              -79.711786981,
+              33.235638319
+            ],
+            "geometry": {
+              "coordinates": [
+                -80.109707286,
+                33.131147571
+              ],
+              "type": "Point"
+            },
+            "id": 372,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 4,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_chelsea_cokerlr_jpg",
+                    "name": "Chelsea Coker",
+                    "national_rank": 67,
+                    "summary": "          $13,114,071 in sales QTD<br/>163 appointments QTD<br/>17% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 21,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_marta_perez_lr_jpg",
+                    "name": "Marta Perez",
+                    "national_rank": 577,
+                    "summary": "           $3,338,408 in sales QTD<br/>4.8% incentives QTD<br/>71% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "6 bd/3 ba",
+                "days_from_completion": "111 days prior",
+                "home_size": "       2,535 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/5261/56885/56885_eleD6_lg.jpg",
+                "incentive_percent": 7,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "event_completed",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 3,
+                    "title": "In-person appointment kept"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 4,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 5,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 0,
+                "sale_cohort_rank": 15,
+                "sale_price": 383216,
+                "sale_title": "CONCORD just sold in Wildcat (LP) ADSs",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Coastal Carolinas",
+            "division_coordinates": [
+              -79.711786981,
+              33.235638319
+            ],
+            "geometry": {
+              "coordinates": [
+                -80.2767202,
+                32.9506422
+              ],
+              "type": "Point"
+            },
+            "id": 362,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 18,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_karl_zoller_lr_jpg",
+                    "name": "Karl Zoller",
+                    "national_rank": 553,
+                    "summary": "           $2,701,606 in sales QTD<br/>6.7% incentives QTD<br/>43% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "22 days prior",
+                "home_size": "       1,844 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6812/58164/58164_eleC6_lg.jpg",
+                "incentive_percent": 1,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-08-02",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "NewHomeSource lead created"
+                  },
+                  {
+                    "activity_date": "2023-08-02",
+                    "activity_type": "call",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 2,
+                    "title": "ISC call"
+                  },
+                  {
+                    "activity_date": "2023-08-02",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Betzy,  \t \t   \tThank you for your interest in our Active Adult Community, Horizons at Summers Corner. I am so excited to learn more about your search and to connect you with a New Home Consultant in the community. We are offering large discounts and reduced rates on quick move in homes in Hori...",
+                    "sort": 3,
+                    "title": "Outbound email"
+                  },
+                  {
+                    "activity_date": "2023-08-02",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hey Betzy, it's Mary with Lennar. Thank you for your interest in our Active Adult Community, Horizons at Summers Corner. Our lots are typically around 1/4 acre. Here is a link to the digital brochure: https://www.lennar.com/new-homes/south-carolina/charle",
+                    "sort": 4,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-08-05",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Betzy! Mary Hotchkiss with Lennar, checking in. I'm here to help with any questions you have. Did you have a chance to look over the info I sent? Let me know either way.",
+                    "sort": 5,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-08-06",
+                    "activity_type": "text",
+                    "actor_type": "blue",
+                    "body": "Hello Betzy, It's Mary Hotchkiss with Lennar Homes.  I'd love to learn more about your new home search and help you with the next steps. Are you available to text or chat on the phone today?",
+                    "sort": 6,
+                    "title": "ISC text"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 7,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 8,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 10,
+                    "title": "Sale"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "email",
+                    "actor_type": "black",
+                    "body": "Joe and Betzy,  Thank you for choosing Lennar and Horizons.  I wanted to introduce your construction manager, Jason Ramsey, and Life Style Director Tamela Machino.  Jason will reach out with construction updates, and be your point of contact for construction related questions.  Should you have quest...",
+                    "sort": 9,
+                    "title": "Outbound email"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 9,
+                "realtor_commission": 5,
+                "sale_cohort_rank": 14,
+                "sale_price": 450040,
+                "sale_title": "CAMELLIA just sold in Horizons SC Estate",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Coastal Carolinas",
+            "division_coordinates": [
+              -79.711786981,
+              33.235638319
+            ],
+            "geometry": {
+              "coordinates": [
+                -78.851177,
+                33.733998833
+              ],
+              "type": "Point"
+            },
+            "id": 359,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 22,
+                    "image_url": "",
+                    "name": "Holly Wittschen",
+                    "national_rank": 596,
+                    "summary": "           $3,290,154 in sales QTD<br/>9.4% incentives QTD<br/>86% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "108 days prior",
+                "home_size": "       2,124 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/6779/57937/57937_eleE6_lg.jpg",
+                "incentive_percent": 2,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-08",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 17,
+                "realtor_commission": 2.5,
+                "sale_cohort_rank": 13,
+                "sale_price": 552485,
+                "sale_title": "LEXINGTON just sold in Pine Lakes Coastal",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Coastal Carolinas",
+            "division_coordinates": [
+              -79.711786981,
+              33.235638319
+            ],
+            "geometry": {
+              "coordinates": [
+                -78.9704278,
+                33.7162708
+              ],
+              "type": "Point"
+            },
+            "id": 355,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 6,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_sonya_callahan_jpg",
+                    "name": "Sonya Callahan",
+                    "national_rank": 167,
+                    "summary": "           $3,732,468 in sales QTD<br/>1.3% incentives QTD<br/>77% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/3 ba",
+                "days_from_completion": "28 days prior",
+                "home_size": "       1,437 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7751/65246/65246_eleC_lg.jpg",
+                "incentive_percent": 14,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-09",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": 0,
+                "realtor_commission": 6,
+                "sale_cohort_rank": 12,
+                "sale_price": 241750,
+                "sale_title": "BLAKELY just sold in Forestbrook Townhomes",
+                "sale_type": "Retail",
+                "web_content_score": "Not Available"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Coastal Carolinas",
+            "division_coordinates": [
+              -79.711786981,
+              33.235638319
+            ],
+            "geometry": {
+              "coordinates": [
+                -78.9612264,
+                33.7429594
+              ],
+              "type": "Point"
+            },
+            "id": 318,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 4,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_laura_finigan_lr_jpg",
+                    "name": "Laura Finigan",
+                    "national_rank": 114,
+                    "summary": "           $4,521,686 in sales QTD<br/>16.8% incentives QTD<br/>93% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "3 bd/2 ba",
+                "days_from_completion": "27 days prior",
+                "home_size": "       1,772 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7568/63770/63770_eleG6_lg.jpg",
+                "incentive_percent": 16,
+                "journey_array": [
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "lead_created",
+                    "actor_type": "blue",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Manual lead created"
+                  },
+                  {
+                    "activity_date": "2023-10-06",
+                    "activity_type": "opp_created",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 2,
+                    "title": "Opportunity created"
+                  },
+                  {
+                    "activity_date": "2023-10-10",
+                    "activity_type": "sale",
+                    "actor_type": "green",
+                    "body": "",
+                    "sort": 3,
+                    "title": "Sale"
+                  }
+                ],
+                "key_attribute": "",
+                "lot_size": "Not Available",
+                "price_vs_model_avg": -15,
+                "realtor_commission": 5,
+                "sale_cohort_rank": 11,
+                "sale_price": 315000,
+                "sale_title": "ST PHILLIPS just sold in Hidden Pines",
+                "sale_type": "Retail",
+                "web_content_score": "4"
+              }
+            },
+            "region": "Rothman",
+            "sub_region": "Rothman",
+            "type": "Feature"
+          },
+          {
+            "division": "Coastal Carolinas",
+            "division_coordinates": [
+              -79.711786981,
+              33.235638319
+            ],
+            "geometry": {
+              "coordinates": [
+                -81.305933556,
+                32.091742444
+              ],
+              "type": "Point"
+            },
+            "id": 316,
+            "properties": {
+              "cluster": false,
+              "sales": {
+                "associate_array": [
+                  {
+                    "cohort_rank": 3,
+                    "image_url": "https://azucrcdmstordsi04.blob.core.windows.net/imageblob/Associate_Photos/lennar_erica_arner_lr_jpg",
+                    "name": "Erica Arner",
+                    "national_rank": 60,
+                    "summary": "          $12,535,537 in sales QTD<br/>168 appointments QTD<br/>14% lead to appointment rate",
+                    "type": "ISC"
+                  },
+                  {
+                    "cohort_rank": 9,
+                    "image_url": "",
+                    "name": "Lesa Faucett",
+                    "national_rank": 212,
+                    "summary": "           $4,634,370 in sales QTD<br/>9.7% incentives QTD<br/>83% realtor attachment",
+                    "type": "NHC"
+                  }
+                ],
+                "bed_bath": "4 bd/2.5 ba",
+                "days_from_completion": "46 days post",
+                "home_size": "       2,464 sqft.",
+                "home_type": "Single Family",
+                "homesite_image_url": "https://cdn.lennar.net/api/images/images/elevations_v10/7225/61522/61522_eleN6_lg.jpg",
+                "incentive_percent": 13,
+                "journey_array": [
+                  {
+                    "activity_date": "2022-07-26",
+                    "activity_type": "call",
+                    "actor_type": "purple",
+                    "body": "",
+                    "sort": 1,
+                    "title": "Inbound call"
+                  },
+                  {
+                    "activity_date": "2022-07-26",
+                    "activity_type": "email",
+                    "actor_type": "blue",
+                    "body": "Hello Chris,  Thank you for your call today, again my name is Victoria Gorby. I'm an Internet Sales Consultant with Lennar Homes. I've put info below on the home that we spoke about in the Cane Bay community in Lindera Preserve. Let me know if you would like to schedule an in-person visit to the com...",
+                    "sort": 2,
+                    "title": "Outbound email"

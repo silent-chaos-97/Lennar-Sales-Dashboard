@@ -66,3 +66,4 @@ const SubPacingAnalysis = ({
         <IndicatorBarChart
           id="sub-pacing-chart"
           width={850}
+          height={260}
